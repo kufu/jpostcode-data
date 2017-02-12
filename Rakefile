@@ -6,16 +6,16 @@ namespace :jpostcode do
   namespace :data do
     desc 'Updates postcode data'
     task :update_all do
-      # puts 'Reset temp DB...'
-      # general = Jpostcode::Data::General.new
-      # general.reset_table
-      #
-      # puts 'Retrieveing general zip data...'
-      # general.retrieve_and_save
-      #
-      # puts 'Retrieveing office zip data...'
-      # office = Jpostcode::Data::Office.new
-      # office.retrieve_and_save
+      puts 'Reset temp DB...'
+      general = Jpostcode::Data::General.new
+      general.reset_table
+
+      puts 'Retrieveing general zip data...'
+      general.retrieve_and_save
+
+      puts 'Retrieveing office zip data...'
+      office = Jpostcode::Data::Office.new
+      office.retrieve_and_save
 
       puts 'Extract to json files...'
       Jpostcode::Data::Exporter.new.execute
