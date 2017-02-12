@@ -1,0 +1,93 @@
+{
+  "0000": {
+    "postcode": "2550000",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "中郡大磯町",
+    "city_kana": "ナカグンオオイソマチ",
+    "town": "",
+    "town_kana": "",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0001": {
+    "postcode": "2550001",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "中郡大磯町",
+    "city_kana": "ナカグンオオイソマチ",
+    "town": "高麗",
+    "town_kana": "コマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0002": {
+    "postcode": "2550002",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "中郡大磯町",
+    "city_kana": "ナカグンオオイソマチ",
+    "town": "東町",
+    "town_kana": "ヒガシチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0003": {
+    "postcode": "2550003",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "中郡大磯町",
+    "city_kana": "ナカグンオオイソマチ",
+    "town": "大磯",
+    "town_kana": "オオイソ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0004": {
+    "postcode": "2550004",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "中郡大磯町",
+    "city_kana": "ナカグンオオイソマチ",
+    "town": "東小磯",
+    "town_kana": "ヒガシコイソ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0005": {
+    "postcode": "2550005",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "中郡大磯町",
+    "city_kana": "ナカグンオオイソマチ",
+    "town": "西小磯",
+    "town_kana": "ニシコイソ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "8555": {
+    "postcode": "2558555",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "中郡大磯町",
+    "city_kana": "ナカグンオオイソマチ",
+    "town": "東小磯",
+    "town_kana": "ヒガシコイソ",
+    "street": "１８３",
+    "office_name": "大磯町役場",
+    "office_name_kana": "オオイソマチヤクバ"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "0002": [
+    {
+      "postcode": "8210002",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "prefecture_code": 40,
+      "city": "嘉麻市",
+      "city_kana": "カマシ",
+      "town": "大隈町",
+      "town_kana": "オオクママチ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "8210002",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "prefecture_code": 40,
+      "city": "嘉麻市",
+      "city_kana": "カマシ",
+      "town": "大隈町猪之鼻",
+      "town_kana": "オオクママチイノハナ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
+  "0004": {
+    "postcode": "8210004",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "嘉麻市",
+    "city_kana": "カマシ",
+    "town": "大隈",
+    "town_kana": "オオクマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0011": {
+    "postcode": "8210011",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "嘉麻市",
+    "city_kana": "カマシ",
+    "town": "下山田",
+    "town_kana": "シモヤマダ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0012": {
+    "postcode": "8210012",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "嘉麻市",
+    "city_kana": "カマシ",
+    "town": "上山田",
+    "town_kana": "カミヤマダ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0013": {
+    "postcode": "8210013",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "嘉麻市",
+    "city_kana": "カマシ",
+    "town": "熊ケ畑",
+    "town_kana": "クマガハタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0014": {
+    "postcode": "8210014",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "嘉麻市",
+    "city_kana": "カマシ",
+    "town": "猪国",
+    "town_kana": "イノクニ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "8501": {
+    "postcode": "8218501",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "嘉麻市",
+    "city_kana": "カマシ",
+    "town": "上山田",
+    "town_kana": "カミヤマダ",
+    "street": "３９２",
+    "office_name": "嘉麻市役所　山田総合支所",
+    "office_name_kana": "カマシヤクシヨ ヤマダソウゴウシシヨ"
+  }
+}

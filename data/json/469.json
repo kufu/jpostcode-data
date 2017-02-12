@@ -1,0 +1,54 @@
+{
+  "8793": {
+    "postcode": "4698793",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市中区",
+    "city_kana": "ナゴヤシナカク",
+    "town": "丸の内",
+    "town_kana": "マルノウチ",
+    "street": "３丁目２−５",
+    "office_name": "日本郵便　株式会社　東海支社　郵便事業本部　（三種）",
+    "office_name_kana": "ニホンユウビン カブシキガイシヤ トウカイシシヤ ユウビンジギヨウホンブ (サンシユ)"
+  },
+  "8794": {
+    "postcode": "4698794",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市中区",
+    "city_kana": "ナゴヤシナカク",
+    "town": "三の丸",
+    "town_kana": "サンノマル",
+    "street": "２丁目６−２",
+    "office_name": "名古屋貯金事務センター",
+    "office_name_kana": "ナゴヤチヨキンジムセンタ-"
+  },
+  "8796": {
+    "postcode": "4698796",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市中区",
+    "city_kana": "ナゴヤシナカク",
+    "town": "丸の内",
+    "town_kana": "マルノウチ",
+    "street": "３丁目２−５",
+    "office_name": "東海監査室",
+    "office_name_kana": "トウカイカンサシツ"
+  },
+  "8797": {
+    "postcode": "4698797",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市中村区",
+    "city_kana": "ナゴヤシナカムラク",
+    "town": "名駅",
+    "town_kana": "メイエキ",
+    "street": "一丁目１番１号ＪＰタワー名古屋",
+    "office_name": "日本郵便　株式会社　東海支社",
+    "office_name_kana": "ニツポンユウビン カブシキガイシヤ トウカイシシヤ"
+  }
+}

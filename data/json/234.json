@@ -1,0 +1,80 @@
+{
+  "0051": {
+    "postcode": "2340051",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市港南区",
+    "city_kana": "ヨコハマシコウナンク",
+    "town": "日野",
+    "town_kana": "ヒノ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0052": {
+    "postcode": "2340052",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市港南区",
+    "city_kana": "ヨコハマシコウナンク",
+    "town": "笹下",
+    "town_kana": "ササゲ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0053": {
+    "postcode": "2340053",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市港南区",
+    "city_kana": "ヨコハマシコウナンク",
+    "town": "日野中央",
+    "town_kana": "ヒノチュウオウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0054": {
+    "postcode": "2340054",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市港南区",
+    "city_kana": "ヨコハマシコウナンク",
+    "town": "港南台",
+    "town_kana": "コウナンダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0055": {
+    "postcode": "2340055",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市港南区",
+    "city_kana": "ヨコハマシコウナンク",
+    "town": "日野南",
+    "town_kana": "ヒノミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0056": {
+    "postcode": "2340056",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市港南区",
+    "city_kana": "ヨコハマシコウナンク",
+    "town": "野庭町",
+    "town_kana": "ノバチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  }
+}

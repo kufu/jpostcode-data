@@ -1,0 +1,80 @@
+{
+  "0000": {
+    "postcode": "8270000",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "田川郡川崎町",
+    "city_kana": "タガワグンカワサキマチ",
+    "town": "",
+    "town_kana": "",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0001": {
+    "postcode": "8270001",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "田川郡川崎町",
+    "city_kana": "タガワグンカワサキマチ",
+    "town": "安眞木",
+    "town_kana": "アマギ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0002": {
+    "postcode": "8270002",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "田川郡川崎町",
+    "city_kana": "タガワグンカワサキマチ",
+    "town": "池尻",
+    "town_kana": "イケジリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0003": {
+    "postcode": "8270003",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "田川郡川崎町",
+    "city_kana": "タガワグンカワサキマチ",
+    "town": "川崎",
+    "town_kana": "カワサキ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0004": {
+    "postcode": "8270004",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "田川郡川崎町",
+    "city_kana": "タガワグンカワサキマチ",
+    "town": "田原",
+    "town_kana": "タバラ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "8501": {
+    "postcode": "8278501",
+    "prefecture": "福岡県",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "田川郡川崎町",
+    "city_kana": null,
+    "town": "大字田原",
+    "town_kana": null,
+    "street": "７８９−２",
+    "office_name": "川崎町役場",
+    "office_name_kana": "カワサキマチヤクバ"
+  }
+}
