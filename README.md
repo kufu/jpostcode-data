@@ -1,4 +1,4 @@
-# PostcodeJp data project
+# Jpostcode
 
 Japan Postcode (Postal Code / Zip Code) data project.
 
@@ -6,7 +6,7 @@ Japan Postcode (Postal Code / Zip Code) data project.
 
 ```bash
 $ bundle install
-$ bundle exec postcode_jp:update_all
+$ bundle exec rake jpostcode:data:update_all
 ```
 
 ## Contributing
