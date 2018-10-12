@@ -11,7 +11,7 @@ module Jpostcode
 
       private
 
-      ZIP_URL = 'http://www.post.japanpost.jp/zipcode/dl/jigyosyo/zip/jigyosyo.zip'
+      ZIP_URL = 'https://www.post.japanpost.jp/zipcode/dl/jigyosyo/zip/jigyosyo.zip'
 
       SELECT_SQL = <<-SQL
         SELECT
