@@ -1666,8 +1666,8 @@
     "town": "滝春町",
     "town_kana": "タキハルチョウ",
     "street": "１０−３",
-    "office_name": "大同工業大学　滝春校舎",
-    "office_name_kana": "ダイドウコウギヨウダイガク タキハルコウシヤ"
+    "office_name": "大同大学",
+    "office_name_kana": "ダイドウダイガク"
   },
   "8531": {
     "postcode": "4578531",
@@ -1676,11 +1676,11 @@
     "prefecture_code": 23,
     "city": "名古屋市南区",
     "city_kana": "ナゴヤシミナミク",
-    "town": "大同町",
-    "town_kana": "ダイドウチョウ",
-    "street": "２丁目２１",
-    "office_name": "大同工業大学　大同校舎",
-    "office_name_kana": "ダイドウコウギヨウダイガク ダイドウコウシヤ"
+    "town": "滝春町",
+    "town_kana": "タキハルチョウ",
+    "street": "１０−３",
+    "office_name": "大同大学　滝春校舎",
+    "office_name_kana": "ダイドウダイガク タキハルコウシヤ"
   },
   "8532": {
     "postcode": "4578532",
@@ -1692,8 +1692,8 @@
     "town": "白水町",
     "town_kana": "ハクスイチョウ",
     "street": "４０",
-    "office_name": "大同工業大学　白水校舎",
-    "office_name_kana": "ダイドウコウギヨウダイガク ハクスイコウシヤ"
+    "office_name": "大同大学　白水校舎",
+    "office_name_kana": "ダイドウダイガク ハクスイコウシヤ"
   },
   "8533": {
     "postcode": "4578533",

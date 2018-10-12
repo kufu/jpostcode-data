@@ -1262,6 +1262,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2131": {
+    "postcode": "8512131",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "prefecture_code": 42,
+    "city": "西彼杵郡長与町",
+    "city_kana": "ニシソノギグンナガヨチョウ",
+    "town": "北陽台",
+    "town_kana": "ホクヨウダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2185": {
     "postcode": "8512185",
     "prefecture": "長崎県",

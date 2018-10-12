@@ -1682,19 +1682,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0822": {
-    "postcode": "4910822",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "一宮市",
-    "city_kana": "イチノミヤシ",
-    "town": "丹陽町伝法寺",
-    "town_kana": "タンヨウチョウデンポウジ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "0823": {
     "postcode": "4910823",
     "prefecture": "愛知県",
@@ -1775,6 +1762,19 @@
       "office_name_kana": null
     }
   ],
+  "0828": {
+    "postcode": "4910828",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "一宮市",
+    "city_kana": "イチノミヤシ",
+    "town": "伝法寺",
+    "town_kana": "デンポウジ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0831": {
     "postcode": "4910831",
     "prefecture": "愛知県",
@@ -3125,7 +3125,7 @@
     "city_kana": "イチノミヤシ",
     "town": "本町",
     "town_kana": "ホンマチ",
-    "street": "４丁目２２−１０（一宮郵便局私書箱第１３号）",
+    "street": "４丁目２２−１０",
     "office_name": "モリリン　株式会社",
     "office_name_kana": "モリリン カブシキガイシヤ"
   },

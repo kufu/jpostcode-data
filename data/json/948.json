@@ -733,19 +733,47 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0056": {
-    "postcode": "9480056",
-    "prefecture": "新潟県",
-    "prefecture_kana": "ニイガタケン",
-    "prefecture_code": 15,
-    "city": "十日町市",
-    "city_kana": "トオカマチシ",
-    "town": "高田町",
-    "town_kana": "タカダチョウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0056": [
+    {
+      "postcode": "9480056",
+      "prefecture": "新潟県",
+      "prefecture_kana": "ニイガタケン",
+      "prefecture_code": 15,
+      "city": "十日町市",
+      "city_kana": "トオカマチシ",
+      "town": "高田町",
+      "town_kana": "タカダチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "9480056",
+      "prefecture": "新潟県",
+      "prefecture_kana": "ニイガタケン",
+      "prefecture_code": 15,
+      "city": "十日町市",
+      "city_kana": "トオカマチシ",
+      "town": "高田町四丁目",
+      "town_kana": "タカダチョウヨンチョウメ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "9480056",
+      "prefecture": "新潟県",
+      "prefecture_kana": "ニイガタケン",
+      "prefecture_code": 15,
+      "city": "十日町市",
+      "city_kana": "トオカマチシ",
+      "town": "高田町五丁目",
+      "town_kana": "タカダチョウゴチョウメ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0057": {
     "postcode": "9480057",
     "prefecture": "新潟県",
@@ -832,8 +860,8 @@
       "prefecture_code": 15,
       "city": "十日町市",
       "city_kana": "トオカマチシ",
-      "town": "高田町",
-      "town_kana": "タカダチョウ",
+      "town": "高田町三丁目",
+      "town_kana": "タカダチョウサンチョウメ",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -845,8 +873,21 @@
       "prefecture_code": 15,
       "city": "十日町市",
       "city_kana": "トオカマチシ",
-      "town": "高田町三丁目",
-      "town_kana": "タカダチョウサンチョウメ",
+      "town": "高田町三丁目西",
+      "town_kana": "タカダチョウサンチョウメニシ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "9480065",
+      "prefecture": "新潟県",
+      "prefecture_kana": "ニイガタケン",
+      "prefecture_code": 15,
+      "city": "十日町市",
+      "city_kana": "トオカマチシ",
+      "town": "高田町三丁目南",
+      "town_kana": "タカダチョウサンチョウメミナミ",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -1088,19 +1129,6 @@
     "city_kana": "トオカマチシ",
     "town": "住吉町",
     "town_kana": "スミヨシチョウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "0077": {
-    "postcode": "9480077",
-    "prefecture": "新潟県",
-    "prefecture_kana": "ニイガタケン",
-    "prefecture_code": 15,
-    "city": "十日町市",
-    "city_kana": "トオカマチシ",
-    "town": "島",
-    "town_kana": "シマ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -1970,13 +1998,13 @@
   "8602": {
     "postcode": "9488602",
     "prefecture": "新潟県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
     "city": "十日町市",
-    "city_kana": null,
-    "town": "高山丙",
-    "town_kana": null,
-    "street": "１９",
+    "city_kana": "トオカマチシ",
+    "town": "駅通り",
+    "town_kana": "エキドオリ",
+    "street": "２０番地",
     "office_name": "株式会社　新川屋",
     "office_name_kana": "カブシキガイシヤ シンカワヤ"
   }

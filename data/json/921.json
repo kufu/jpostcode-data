@@ -1277,6 +1277,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8107": {
+    "postcode": "9218107",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "金沢市",
+    "city_kana": "カナザワシ",
+    "town": "野田",
+    "town_kana": "ノダ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8111": {
     "postcode": "9218111",
     "prefecture": "石川県",
@@ -2675,8 +2688,8 @@
     "prefecture_code": 17,
     "city": "野々市市",
     "city_kana": "ノノイチシ",
-    "town": "三日市町",
-    "town_kana": "ミッカイチマチ",
+    "town": "三日市",
+    "town_kana": "ミッカイチ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -2703,6 +2716,19 @@
     "city_kana": "ノノイチシ",
     "town": "長池",
     "town_kana": "ナガイケ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "8809": {
+    "postcode": "9218809",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "野々市市",
+    "city_kana": "ノノイチシ",
+    "town": "二日市",
+    "town_kana": "フツカイチ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -2974,8 +3000,8 @@
     "prefecture_code": 17,
     "city": "野々市市",
     "city_kana": "ノノイチシ",
-    "town": "徳用町",
-    "town_kana": "トクモトマチ",
+    "town": "徳用",
+    "town_kana": "トクモト",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -3054,6 +3080,19 @@
     "city_kana": "ノノイチシ",
     "town": "柳町",
     "town_kana": "ヤナギマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "8849": {
+    "postcode": "9218849",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "野々市市",
+    "city_kana": "ノノイチシ",
+    "town": "郷",
+    "town_kana": "ゴウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

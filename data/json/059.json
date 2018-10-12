@@ -1091,6 +1091,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1266": {
+    "postcode": "0591266",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "苫小牧市",
+    "city_kana": "トマコマイシ",
+    "town": "錦西町",
+    "town_kana": "キンセイチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1271": {
     "postcode": "0591271",
     "prefecture": "北海道",
@@ -1165,6 +1178,19 @@
     "city_kana": "トマコマイシ",
     "town": "はまなす町",
     "town_kana": "ハマナスチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "1277": {
+    "postcode": "0591277",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "苫小牧市",
+    "city_kana": "トマコマイシ",
+    "town": "北星町",
+    "town_kana": "ホクセイチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

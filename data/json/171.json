@@ -220,19 +220,6 @@
     "office_name": "三菱信託銀行　株式会社　証券代行部",
     "office_name_kana": "ミツビシシンタクギンコウ カブシキガイシヤ シヨウケンダイコウブ"
   },
-  "8509": {
-    "postcode": "1718509",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "豊島区",
-    "city_kana": "トシマク",
-    "town": "西池袋",
-    "town_kana": "ニシイケブクロ",
-    "street": "１丁目１７−１",
-    "office_name": "東京都自動車税総合事務所",
-    "office_name_kana": "トウキヨウトジドウシヤゼイソウゴウジムシヨ"
-  },
   "8510": {
     "postcode": "1718510",
     "prefecture": "東京都",
@@ -401,19 +388,6 @@
     "street": "２丁目２９−１８",
     "office_name": "株式会社　ジェムスタージャパン",
     "office_name_kana": "カブシキガイシヤ ジエムスタ-ジヤパン"
-  },
-  "8528": {
-    "postcode": "1718528",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "豊島区",
-    "city_kana": "トシマク",
-    "town": "西池袋",
-    "town_kana": "ニシイケブクロ",
-    "street": "１丁目１７−１",
-    "office_name": "東京都主税局　徴収部　都税還付管理室",
-    "office_name_kana": "トウキヨウトシユゼイキヨク チヨウシユウブ トゼイカンプカンリシツ"
   },
   "8531": {
     "postcode": "1718531",

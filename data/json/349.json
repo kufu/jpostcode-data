@@ -405,15 +405,15 @@
   "0192": {
     "postcode": "3490192",
     "prefecture": "埼玉県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
     "city": "蓮田市",
-    "city_kana": null,
-    "town": "大字黒浜",
-    "town_kana": null,
-    "street": "字桜ヶ丘４００８",
-    "office_name": "東光電気　株式会社",
-    "office_name_kana": "トウコウデンキ カブシキガイシヤ"
+    "city_kana": "ハスダシ",
+    "town": "黒浜",
+    "town_kana": "クロハマ",
+    "street": "４００８番地",
+    "office_name": "株式会社　東光高岳",
+    "office_name_kana": "カブシキカイシヤ トウコウタカオカ"
   },
   "0193": {
     "postcode": "3490193",
@@ -791,6 +791,19 @@
     "street": "９３８−１２",
     "office_name": "医療法人社団哺育会　白岡中央総合病院",
     "office_name_kana": "イリヨウホウジンシヤダンホイクカイ シラオカチユウオウソウゴウビヨウイン"
+  },
+  "0296": {
+    "postcode": "3490296",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "白岡市",
+    "city_kana": "シラオカシ",
+    "town": "千駄野",
+    "town_kana": "センダノ",
+    "street": "４３２番地",
+    "office_name": "白岡市生涯学習センター［こもれびの森］",
+    "office_name_kana": "シラオカシシヨウガイガクシユウセンタ-<コモレビノモリ>"
   },
   "1101": {
     "postcode": "3491101",

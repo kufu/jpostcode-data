@@ -1293,9 +1293,9 @@
     "prefecture_code": null,
     "city": "比企郡川島町",
     "city_kana": null,
-    "town": "大字平沼",
+    "town": "大字下八ツ林",
     "town_kana": null,
-    "street": "１１７５",
+    "street": "８７０番地１",
     "office_name": "川島町役場",
     "office_name_kana": "カワジママチヤクバ"
   },
@@ -2023,6 +2023,19 @@
     "city_kana": "サカドシ",
     "town": "北峰",
     "town_kana": "キタミネ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0259": {
+    "postcode": "3500259",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "坂戸市",
+    "city_kana": "サカドシ",
+    "town": "西インター",
+    "town_kana": "ニシインター",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -6461,6 +6474,19 @@
     "street": "６−２−２",
     "office_name": "株式会社　ネオシス",
     "office_name_kana": "カブシキガイシヤ ネオシス"
+  },
+  "2288": {
+    "postcode": "3502288",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "鶴ヶ島市",
+    "city_kana": "ツルガシマシ",
+    "town": "富士見",
+    "town_kana": "フジミ",
+    "street": "６丁目１番１号",
+    "office_name": "オムロン　プレシジョンテクノロジー　株式会社",
+    "office_name_kana": "オムロン プレシジヨンテクノロジ- カブシキガイシヤ"
   },
   "2292": {
     "postcode": "3502292",

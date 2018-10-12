@@ -1039,6 +1039,32 @@
     "office_name": "株式会社　ＷＯＷＯＷ　放送センター",
     "office_name_kana": "カブシキガイシヤ ワウワウ ホウソウセンタ-"
   },
+  "8108": {
+    "postcode": "1358108",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "豊洲",
+    "town_kana": "トヨス",
+    "street": "６丁目６−２",
+    "office_name": "中央魚類　株式会社",
+    "office_name_kana": "チユウオウギヨルイ カブシキガイシヤ"
+  },
+  "8109": {
+    "postcode": "1358109",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "豊洲",
+    "town_kana": "トヨス",
+    "street": "６−６−２",
+    "office_name": "大都魚類　株式会社",
+    "office_name_kana": "ダイトギヨルイ カブシキガイシヤ"
+  },
   "8110": {
     "postcode": "1358110",
     "prefecture": "東京都",
@@ -1087,9 +1113,22 @@
     "city_kana": "コウトウク",
     "town": "豊洲",
     "town_kana": "トヨス",
-    "street": "５−６−３６ＳＩＡ豊洲プライムスクエア９階",
-    "office_name": "株式会社　コミューチュア",
-    "office_name_kana": "カブシキガイシヤ コミユ-チユア"
+    "street": "５丁目６番３６号−９階",
+    "office_name": "株式会社　ミライト・テクノロジーズ",
+    "office_name_kana": "カブシキガイシヤ ミライト・テクノロジ-ズ"
+  },
+  "8114": {
+    "postcode": "1358114",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "豊洲",
+    "town_kana": "トヨス",
+    "street": "６丁目６−２",
+    "office_name": "築地魚市場　株式会社",
+    "office_name_kana": "ツキジウオイチバ カブシキガイシヤ"
   },
   "8115": {
     "postcode": "1358115",
@@ -1116,6 +1155,45 @@
     "street": "５−６−１５ＮＢＦ豊洲ガーデンフロント",
     "office_name": "株式会社　Ｄ＆Ｉパートナーズ",
     "office_name_kana": "カブシキガイシヤ デイ-アンドアイパ-トナ-ズ"
+  },
+  "8121": {
+    "postcode": "1358121",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "豊洲",
+    "town_kana": "トヨス",
+    "street": "６丁目６番２号",
+    "office_name": "丸千千代田水産　株式会社",
+    "office_name_kana": "マルセンチヨダスイサン カブシキガイシヤ"
+  },
+  "8130": {
+    "postcode": "1358130",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "豊洲",
+    "town_kana": "トヨス",
+    "street": "６丁目６番２号５階",
+    "office_name": "第一水産　株式会社",
+    "office_name_kana": "ダイイチスイサン カブシキガイシヤ"
+  },
+  "8134": {
+    "postcode": "1358134",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "豊洲",
+    "town_kana": "トヨス",
+    "street": "６−６−２",
+    "office_name": "東都水産　株式会社",
+    "office_name_kana": "トウトスイサン カブシキカイシヤ"
   },
   "8137": {
     "postcode": "1358137",
@@ -1373,9 +1451,9 @@
     "city_kana": "コウトウク",
     "town": "東陽",
     "town_kana": "トウヨウ",
-    "street": "７丁目２−１８",
-    "office_name": "（株）　日立オートサービス",
-    "office_name_kana": "カブ) ヒタチオ-トサ-ビス"
+    "street": "７−２−１４",
+    "office_name": "株式会社　日立オートサービス",
+    "office_name_kana": "カブシキガイシヤ ヒタチオ-トサ-ビス"
   },
   "8363": {
     "postcode": "1358363",
@@ -1415,19 +1493,6 @@
     "street": "７丁目５−８",
     "office_name": "リコーテクノネット　株式会社　東京本社",
     "office_name_kana": "リコ-テクノネツト カブシキガイシヤ トウキヨウホンシヤ"
-  },
-  "8372": {
-    "postcode": "1358372",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "江東区",
-    "city_kana": "コウトウク",
-    "town": "東陽",
-    "town_kana": "トウヨウ",
-    "street": "７丁目２−１８",
-    "office_name": "株式会社　日立物流",
-    "office_name_kana": "カブシキガイシヤ ヒタチブツリユウ"
   },
   "8375": {
     "postcode": "1358375",
@@ -1540,9 +1605,9 @@
     "prefecture_code": 13,
     "city": "江東区",
     "city_kana": "コウトウク",
-    "town": "佐賀",
-    "town_kana": "サガ",
-    "street": "１丁目１５−７",
+    "town": "東陽",
+    "town_kana": "トウヨウ",
+    "street": "４丁目１番７号佐藤ダイヤビルディング７階",
     "office_name": "岩野物産　株式会社",
     "office_name_kana": "イワノブツサン カブシキガイシヤ"
   },
@@ -1868,8 +1933,8 @@
     "town": "豊洲",
     "town_kana": "トヨス",
     "street": "５丁目６−１５ＮＢＦ豊洲ガーデンフロント",
-    "office_name": "東芝情報機器　株式会社",
-    "office_name_kana": "トウシバジヨウホウキキ カブシキガイシヤ"
+    "office_name": "東芝クライアントソリューション　株式会社",
+    "office_name_kana": "トウシバクライアントソリユ-シヨン カブシキガイシヤ"
   },
   "8508": {
     "postcode": "1358508",
@@ -2027,6 +2092,19 @@
     "office_name": "フジコピアン　株式会社　東京支店",
     "office_name_kana": "フジコピアン カブシキガイシヤ トウキヨウシテン"
   },
+  "8527": {
+    "postcode": "1358527",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "辰巳",
+    "town_kana": "タツミ",
+    "street": "３−９−２７",
+    "office_name": "株式会社　ＯＣＳ",
+    "office_name_kana": "カブシキカイシヤ オ-シ-エス"
+  },
   "8528": {
     "postcode": "1358528",
     "prefecture": "東京都",
@@ -2117,19 +2195,6 @@
     "street": "１丁目１番２０号日本空手道会館",
     "office_name": "財団法人　全日本空手道連盟",
     "office_name_kana": "ザイダンホウジン ゼンニホンカラテドウレンメイ"
-  },
-  "8540": {
-    "postcode": "1358540",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "江東区",
-    "city_kana": "コウトウク",
-    "town": "深川",
-    "town_kana": "フカガワ",
-    "street": "１丁目１１−１２",
-    "office_name": "エース損害保険　株式会社",
-    "office_name_kana": "エ-スソンガイホケン カブシキガイシヤ"
   },
   "8548": {
     "postcode": "1358548",
@@ -2346,9 +2411,9 @@
     "prefecture_code": 13,
     "city": "江東区",
     "city_kana": "コウトウク",
-    "town": "潮見",
-    "town_kana": "シオミ",
-    "street": "２−１０−２４",
+    "town": "木場",
+    "town_kana": "キバ",
+    "street": "５−８−４０東京パークサイドビル７Ｆ",
     "office_name": "日本オフィス・システム　株式会社",
     "office_name_kana": "ニホンオフイス・システム カブシキガイシヤ"
   },
@@ -2521,6 +2586,19 @@
     "office_name": "アーバンドック　ららぽーと豊洲",
     "office_name_kana": "ア-バンドツク ララポ-トトヨス"
   },
+  "8615": {
+    "postcode": "1358615",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "青海",
+    "town_kana": "アオミ",
+    "street": "２−７−１１東京港湾合同庁舎内",
+    "office_name": "東京税関",
+    "office_name_kana": "トウキヨウゼイカン"
+  },
   "8616": {
     "postcode": "1358616",
     "prefecture": "東京都",
@@ -2692,19 +2770,6 @@
       "office_name_kana": "ニホンセキジユウジシヤ カントウコウシンエツブロツクケツエキセンタ-"
     }
   ],
-  "8641": {
-    "postcode": "1358641",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "江東区",
-    "city_kana": "コウトウク",
-    "town": "木場",
-    "town_kana": "キバ",
-    "street": "５丁目８番４０号東京パークサイドビル１４階",
-    "office_name": "ヤマトマテリアル　株式会社",
-    "office_name_kana": "ヤアトマテリアル カブシキガイシヤ"
-  },
   "8650": {
     "postcode": "1358650",
     "prefecture": "東京都",
@@ -2795,19 +2860,6 @@
     "street": "２丁目１０−２４",
     "office_name": "株式会社　システムソフト　東京センター",
     "office_name_kana": "カブシキガイシヤ システムソフト トウキヨウセンタ-"
-  },
-  "8671": {
-    "postcode": "1358671",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "江東区",
-    "city_kana": "コウトウク",
-    "town": "豊洲",
-    "town_kana": "トヨス",
-    "street": "３丁目３−９",
-    "office_name": "株式会社　エヌ・ティ・ティ・データ",
-    "office_name_kana": "カブシキガイシヤ エヌ・テイ・テイ・デ-タ"
   },
   "8677": {
     "postcode": "1358677",
@@ -2909,7 +2961,7 @@
     "city_kana": "コウトウク",
     "town": "豊洲",
     "town_kana": "トヨス",
-    "street": "５丁目６−５２ＩＳＴビル",
+    "street": "５丁目６番５２号",
     "office_name": "株式会社　オートバックスセブン",
     "office_name_kana": "カブシキガイシヤ オ-トバツクスセブン"
   },

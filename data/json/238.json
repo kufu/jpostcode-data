@@ -958,8 +958,8 @@
     "town": "尾上町",
     "town_kana": "オガミチョウ",
     "street": "１８",
-    "office_name": "ビバリーコート油壷",
-    "office_name_kana": "ビバリ-コ-トアブラツボ"
+    "office_name": "ソノラス・コート油壺",
+    "office_name_kana": "ソノラス・コ-トアブラツボ"
   },
   "0298": {
     "postcode": "2380298",
@@ -1246,6 +1246,19 @@
     "street": "２丁目３６",
     "office_name": "横須賀市立　うわまち病院",
     "office_name_kana": "ヨコスカシリツ ウワマチビヨウイン"
+  },
+  "8570": {
+    "postcode": "2388570",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横須賀市",
+    "city_kana": "ヨコスカシ",
+    "town": "小川町",
+    "town_kana": "オガワチョウ",
+    "street": "１番地２３",
+    "office_name": "神奈川歯科大学附属病院",
+    "office_name_kana": "カナガワシカダイガクフゾクビヨウイン"
   },
   "8580": {
     "postcode": "2388580",

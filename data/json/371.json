@@ -2190,11 +2190,11 @@
     "prefecture_code": 10,
     "city": "前橋市",
     "city_kana": "マエバシシ",
-    "town": "大手町",
-    "town_kana": "オオテマチ",
-    "street": "２丁目６−１７",
-    "office_name": "住友生命保険　相互会社群馬支社",
-    "office_name_kana": "スミトモセイメイホケン ソウゴガイシヤグンマシシヤ"
+    "town": "本町",
+    "town_kana": "ホンマチ",
+    "street": "２−２−１２前橋本町スクエアビル９Ｆ",
+    "office_name": "住友生命保険　相互会社　群馬支社",
+    "office_name_kana": "スミトモセイメイホケン ソウゴガイシヤ グンマシシヤ"
   },
   "8543": {
     "postcode": "3718543",

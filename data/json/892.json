@@ -737,8 +737,8 @@
     "town": "下竜尾町",
     "town_kana": "シモタツオチョウ",
     "street": "４−１６",
-    "office_name": "今給黎総合病院（財団法人　昭和会）",
-    "office_name_kana": "イマキイレソウゴウビヨウイン(ザイダンホウジン シヨウワカイ)"
+    "office_name": "公益社団法人　昭和会　今給黎総合病院",
+    "office_name_kana": "コウエキシヤダンホウジン シヨウワカイ イマキイレソウゴウビヨウイン"
   },
   "8505": {
     "postcode": "8928505",
@@ -960,19 +960,6 @@
     "street": "１２−５",
     "office_name": "東京海上日動火災保険　株式会社　鹿児島支店",
     "office_name_kana": "トウキヨウカイジヨウニチドウカサイホケン カブシキガイシヤ カゴシマシテン"
-  },
-  "8580": {
-    "postcode": "8928580",
-    "prefecture": "鹿児島県",
-    "prefecture_kana": "カゴシマケン",
-    "prefecture_code": 46,
-    "city": "鹿児島市",
-    "city_kana": "カゴシマシ",
-    "town": "加治屋町",
-    "town_kana": "カジヤチョウ",
-    "street": "２０−１７",
-    "office_name": "鹿児島市立病院",
-    "office_name_kana": "カゴシマシリツビヨウイン"
   },
   "8585": {
     "postcode": "8928585",

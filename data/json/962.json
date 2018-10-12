@@ -584,6 +584,45 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0061": {
+    "postcode": "9620061",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "須賀川市",
+    "city_kana": "スカガワシ",
+    "town": "北山寺町",
+    "town_kana": "キタヤマデラマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0062": {
+    "postcode": "9620062",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "須賀川市",
+    "city_kana": "スカガワシ",
+    "town": "山寺町",
+    "town_kana": "ヤマデラマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0063": {
+    "postcode": "9620063",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "須賀川市",
+    "city_kana": "スカガワシ",
+    "town": "西山寺町",
+    "town_kana": "ニシヤマデラマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0121": {
     "postcode": "9620121",
     "prefecture": "福島県",

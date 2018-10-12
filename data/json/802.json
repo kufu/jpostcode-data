@@ -1570,7 +1570,7 @@
     "city_kana": "キタキュウシュウシコクラキタク",
     "town": "浅野",
     "town_kana": "アサノ",
-    "street": "２丁目１５−１",
+    "street": "２丁目１４−１",
     "office_name": "小倉興産　株式会社",
     "office_name_kana": "コクラコウサン カブシキガイシヤ"
   },
@@ -1646,9 +1646,9 @@
     "prefecture_code": 40,
     "city": "北九州市小倉北区",
     "city_kana": "キタキュウシュウシコクラキタク",
-    "town": "米町",
-    "town_kana": "コメマチ",
-    "street": "２丁目２−１",
+    "town": "紺屋町",
+    "town_kana": "コンヤマチ",
+    "street": "１３−１毎日西部会館５Ｆ",
     "office_name": "リビング北九州",
     "office_name_kana": "リビングキタキユウシユウ"
   },

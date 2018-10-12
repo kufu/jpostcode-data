@@ -12,34 +12,19 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0001": [
-    {
-      "postcode": "5970001",
-      "prefecture": "大阪府",
-      "prefecture_kana": "オオサカフ",
-      "prefecture_code": 27,
-      "city": "貝塚市",
-      "city_kana": "カイヅカシ",
-      "town": "近木",
-      "town_kana": "コギ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "5970001",
-      "prefecture": "大阪府",
-      "prefecture_kana": "オオサカフ",
-      "prefecture_code": 27,
-      "city": "貝塚市",
-      "city_kana": "カイヅカシ",
-      "town": "近木町",
-      "town_kana": "コギチョウ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
+  "0001": {
+    "postcode": "5970001",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "貝塚市",
+    "city_kana": "カイヅカシ",
+    "town": "近木町",
+    "town_kana": "コギチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0002": {
     "postcode": "5970002",
     "prefecture": "大阪府",

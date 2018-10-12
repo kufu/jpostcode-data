@@ -207,6 +207,19 @@
     "office_name": "世田谷区　砧総合支所",
     "office_name_kana": "セタガヤク キヌタソウゴウシシヨ"
   },
+  "8508": {
+    "postcode": "1578508",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "世田谷区",
+    "city_kana": "セタガヤク",
+    "town": "成城",
+    "town_kana": "セイジョウ",
+    "street": "２−８−２０",
+    "office_name": "株式会社　八木橋",
+    "office_name_kana": "カブシキカイシヤ ヤギハシ"
+  },
   "8510": {
     "postcode": "1578510",
     "prefecture": "東京都",

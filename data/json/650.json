@@ -557,8 +557,8 @@
     "town": "山本通",
     "town_kana": "ヤマモトドオリ",
     "street": "２丁目１４−１",
-    "office_name": "株式会社　クラヤ三星堂",
-    "office_name_kana": "カブシキガイシヤ クラヤサンセイドウ"
+    "office_name": "株式会社　メディセオ",
+    "office_name_kana": "カブシキガイシヤ メデイセオ"
   },
   "8505": {
     "postcode": "6508505",
@@ -572,6 +572,19 @@
     "street": "４−３−１０",
     "office_name": "株式会社　ファミリア",
     "office_name_kana": "カブシキガイシヤ フアミリア"
+  },
+  "8506": {
+    "postcode": "6508506",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "神戸市中央区",
+    "city_kana": "コウベシチュウオウク",
+    "town": "加納町",
+    "town_kana": "カノウチョウ",
+    "street": "６丁目２番１号",
+    "office_name": "関西電力　株式会社",
+    "office_name_kana": "カンサイデンリヨク カブシキガイシヤ"
   },
   "8510": {
     "postcode": "6508510",
@@ -845,6 +858,19 @@
     "street": "２丁目２−１",
     "office_name": "神戸簡易裁判所",
     "office_name_kana": "コウベカンイサイバンシヨ"
+  },
+  "8566": {
+    "postcode": "6508566",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "神戸市中央区",
+    "city_kana": "コウベシチュウオウク",
+    "town": "山本通",
+    "town_kana": "ヤマモトドオリ",
+    "street": "２丁目１４−１北野坂ビル４階",
+    "office_name": "株式会社　メディセオ　買掛管理グループ",
+    "office_name_kana": "カブシキガイシヤ メデイセオ カイカケカンリグル-プ"
   },
   "8567": {
     "postcode": "6508567",

@@ -1741,19 +1741,34 @@
     "office_name": "日本年金機構　大田原年金事務所",
     "office_name_kana": "ニツポンネンキンキコウ オオタワラネンキンジムシヨ"
   },
-  "8550": {
-    "postcode": "3248550",
-    "prefecture": "栃木県",
-    "prefecture_kana": "トチギケン",
-    "prefecture_code": 9,
-    "city": "大田原市",
-    "city_kana": "オオタワラシ",
-    "town": "下石上",
-    "town_kana": "シモイシガミ",
-    "street": "",
-    "office_name": "東芝電子管デバイス　株式会社",
-    "office_name_kana": "トウシバデンシカンデバイス カブシキガイシヤ"
-  },
+  "8550": [
+    {
+      "postcode": "3248550",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "prefecture_code": 9,
+      "city": "大田原市",
+      "city_kana": "オオタワラシ",
+      "town": "下石上",
+      "town_kana": "シモイシガミ",
+      "street": "１３８５",
+      "office_name": "キヤノンメディカルシステムズ　株式会社",
+      "office_name_kana": "キヤノンメデイカルシステムズ カブシキガイシヤ"
+    },
+    {
+      "postcode": "3248550",
+      "prefecture": "栃木県",
+      "prefecture_kana": "トチギケン",
+      "prefecture_code": 9,
+      "city": "大田原市",
+      "city_kana": "オオタワラシ",
+      "town": "下石上",
+      "town_kana": "シモイシガミ",
+      "street": "",
+      "office_name": "東芝電子管デバイス　株式会社",
+      "office_name_kana": "トウシバデンシカンデバイス カブシキガイシヤ"
+    }
+  ],
   "8551": {
     "postcode": "3248551",
     "prefecture": "栃木県",

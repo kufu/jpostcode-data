@@ -3717,6 +3717,19 @@
     "office_name": "コーニングジャパン　株式会社　堺工場",
     "office_name_kana": "コ-ニングジヤパン カブシキガイシヤ サカイコウジヨウ"
   },
+  "8505": {
+    "postcode": "5908505",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "堺市堺区",
+    "city_kana": "サカイシサカイク",
+    "town": "協和町",
+    "town_kana": "キョウワチョウ",
+    "street": "４丁４６５",
+    "office_name": "社会医療法人　同仁会　耳原総合病院",
+    "office_name_kana": "シヤカイイリヨウホウジン ドウジンカイ ミミハラソウゴウビヨウイン"
+  },
   "8511": {
     "postcode": "5908511",
     "prefecture": "大阪府",
@@ -3882,7 +3895,7 @@
     "city_kana": "サカイシサカイク",
     "town": "南瓦町",
     "town_kana": "ミナミカワラマチ",
-    "street": "２番５５号",
+    "street": "２−２９",
     "office_name": "大阪法務局　堺支局",
     "office_name_kana": "オオサカホウムキヨク サカイシキヨク"
   },

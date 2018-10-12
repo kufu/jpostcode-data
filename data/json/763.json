@@ -981,8 +981,8 @@
     "prefecture_code": 37,
     "city": "丸亀市",
     "city_kana": "マルガメシ",
-    "town": "本島町生の浜",
-    "town_kana": "ホンジマチョウイケノハマ",
+    "town": "本島町生ノ浜",
+    "town_kana": "ホンジマチョウイクノハマ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -1101,8 +1101,8 @@
     "town": "津森町",
     "town_kana": "ツノモリチョウ",
     "street": "２１９",
-    "office_name": "麻田総合病院",
-    "office_name_kana": "アサダソウゴウビヨウイン"
+    "office_name": "まるがめ医療センター",
+    "office_name_kana": "マルガメイリヨウセンタ-"
   },
   "8508": {
     "postcode": "7638508",

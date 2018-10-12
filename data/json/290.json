@@ -2651,6 +2651,19 @@
     "office_name": "三井造船　株式会社　千葉事業所",
     "office_name_kana": "ミツイゾウセン カブシキガイシヤ チバジギヨウシヨ"
   },
+  "8540": {
+    "postcode": "2908540",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "市原市",
+    "city_kana": "イチハラシ",
+    "town": "南国分寺台",
+    "town_kana": "ミナミコクブンジダイ",
+    "street": "４−１−１−２Ｆ",
+    "office_name": "ウエルシア薬局　株式会社　ネット事業部",
+    "office_name_kana": "ウエルシアヤツキヨク カブシキガイシヤ ネツトジギヨウブ"
+  },
   "8550": {
     "postcode": "2908550",
     "prefecture": "千葉県",

@@ -532,6 +532,19 @@
     "office_name": "（株）　タニタハウジングウェア",
     "office_name_kana": "カブシキガイシヤ タニタハウジングウエア"
   },
+  "8602": {
+    "postcode": "1748602",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "板橋区",
+    "city_kana": "イタバシク",
+    "town": "東坂下",
+    "town_kana": "ヒガシサカシタ",
+    "street": "２丁目５番１号",
+    "office_name": "ナカバヤシ　株式会社　東京本社",
+    "office_name_kana": "ナカバヤシ カブシキガイシヤ トウキヨウホンシヤ"
+  },
   "8612": {
     "postcode": "1748612",
     "prefecture": "東京都",
@@ -544,6 +557,19 @@
     "street": "３丁目１７−１",
     "office_name": "アステラス製薬　株式会社　総務室",
     "office_name_kana": "アステラスセイヤク カブシキカイシヤ ソウムシツ"
+  },
+  "8630": {
+    "postcode": "1748630",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "板橋区",
+    "city_kana": "イタバシク",
+    "town": "前野町",
+    "town_kana": "マエノチョウ",
+    "street": "１−１４−２",
+    "office_name": "株式会社　タニタ",
+    "office_name_kana": "カブシキガイシヤ タニタ"
   },
   "8633": {
     "postcode": "1748633",

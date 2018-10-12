@@ -376,6 +376,19 @@
     "office_name": "並木精密宝石　株式会社",
     "office_name_kana": "ナミキセイミツホウセキ カブシキガイシヤ"
   },
+  "8512": {
+    "postcode": "1238512",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "足立区",
+    "city_kana": "アダチク",
+    "town": "西新井栄町",
+    "town_kana": "ニシアライサカエチョウ",
+    "street": "２丁目８番１５号",
+    "office_name": "東京都足立都税事務所",
+    "office_name_kana": "トウキヨウトアダチトゼイジムシヨ"
+  },
   "8514": {
     "postcode": "1238514",
     "prefecture": "東京都",

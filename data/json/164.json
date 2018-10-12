@@ -155,19 +155,6 @@
     "office_name": "株式会社　ＳＣＣ",
     "office_name_kana": "カブシキガイシヤ エスシ-シ-"
   },
-  "8511": {
-    "postcode": "1648511",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中野区",
-    "city_kana": "ナカノク",
-    "town": "中野",
-    "town_kana": "ナカノ",
-    "street": "４−１０−２中野セントラルパークサウス１６階",
-    "office_name": "チューリッヒ・インシュアランス・カンパニー・リミテッド",
-    "office_name_kana": "チユ-リツヒ・インシユアランス・カンパニ-・リミテツド"
-  },
   "8512": {
     "postcode": "1648512",
     "prefecture": "東京都",
@@ -350,6 +337,19 @@
     "office_name": "アーク・インターナショナル　株式会社",
     "office_name_kana": "ア-ク・インタ-ナシヨナル カブシキガイシヤ"
   },
+  "8601": {
+    "postcode": "1648601",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中野区",
+    "city_kana": "ナカノク",
+    "town": "本町",
+    "town_kana": "ホンチョウ",
+    "street": "５丁目３３番１１号",
+    "office_name": "株式会社　エイト日本技術開発",
+    "office_name_kana": "カブシキガイシヤ エイトニホンギジユツカイハツ"
+  },
   "8608": {
     "postcode": "1648608",
     "prefecture": "東京都",
@@ -531,6 +531,19 @@
     "street": "４丁目３−２（中野郵便局私書箱第２号）",
     "office_name": "株式会社　丸井",
     "office_name_kana": "カブシキガイシヤ マルイ"
+  },
+  "8705": {
+    "postcode": "1648705",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中野区",
+    "city_kana": "ナカノク",
+    "town": "弥生町",
+    "town_kana": "ヤヨイチョウ",
+    "street": "５−６−１１",
+    "office_name": "株式会社　日本ヴォーグ社",
+    "office_name_kana": "カブシキガイシヤ ニホンヴオ-グシヤ"
   },
   "8725": {
     "postcode": "1648725",

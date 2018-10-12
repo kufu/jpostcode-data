@@ -1451,11 +1451,11 @@
     "prefecture_code": 4,
     "city": "塩竈市",
     "city_kana": "シオガマシ",
-    "town": "中の島",
-    "town_kana": "ナカノシマ",
-    "street": "４−２０",
-    "office_name": "塩釜瓦斯　株式会社",
-    "office_name_kana": "シオガマガス カブシキカイシヤ"
+    "town": "港町",
+    "town_kana": "ミナトマチ",
+    "street": "一丁目５番１７号",
+    "office_name": "塩釜ガス　株式会社",
+    "office_name_kana": "シオガマガス カブシキガイシヤ"
   },
   "8522": {
     "postcode": "9858522",

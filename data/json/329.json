@@ -1215,11 +1215,11 @@
     "prefecture_code": 9,
     "city": "下野市",
     "city_kana": "シモツケシ",
-    "town": "石橋",
-    "town_kana": "イシバシ",
-    "street": "６２８",
-    "office_name": "石橋総合病院",
-    "office_name_kana": "イシバシソウゴウビヨウイン"
+    "town": "下古山",
+    "town_kana": "シモコヤマ",
+    "street": "１丁目１５番４",
+    "office_name": "医療法人社団　友志会　石橋総合病院",
+    "office_name_kana": "イリヨウホウジンシヤダン ユウシカイ イシバシソウゴウビヨウイン"
   },
   "0598": {
     "postcode": "3290598",
@@ -4361,9 +4361,9 @@
     "prefecture_code": 9,
     "city": "那須塩原市",
     "city_kana": "ナスシオバラシ",
-    "town": "塩原",
-    "town_kana": "シオバラ",
-    "street": "６７５−９",
+    "town": "中塩原",
+    "town_kana": "ナカシオバラ",
+    "street": "１−２",
     "office_name": "那須塩原市役所　塩原支所",
     "office_name_kana": "ナスシオバラシヤクシヨ シオバラシシヨ"
   },

@@ -3326,5 +3326,18 @@
     "street": "１００（清水郵便局私書箱第８０号）",
     "office_name": "クミアイ化学工業　株式会社",
     "office_name_kana": "クミアイカガクコウギヨウ カブシキガイシヤ"
+  },
+  "8782": {
+    "postcode": "4248782",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "静岡市清水区",
+    "city_kana": "シズオカシシミズク",
+    "town": "長崎",
+    "town_kana": "ナガサキ",
+    "street": "２１０−１",
+    "office_name": "株式会社　とらや",
+    "office_name_kana": "カブシキガイシヤ トラヤ"
   }
 }

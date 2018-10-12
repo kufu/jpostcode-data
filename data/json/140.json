@@ -155,6 +155,19 @@
     "office_name": "日立電子サービス　株式会社　システム事業本部",
     "office_name_kana": "ヒタチデンシサ-ビス カブシキガイシヤ システムジギヨウホンブ"
   },
+  "8503": {
+    "postcode": "1408503",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "大井",
+    "town_kana": "オオイ",
+    "street": "１−２０−６",
+    "office_name": "株式会社　日本理化工業所",
+    "office_name_kana": "カブシキガイシヤ ニホンリカコウギヨウシヨ"
+  },
   "8505": {
     "postcode": "1408505",
     "prefecture": "東京都",
@@ -284,6 +297,19 @@
     "street": "１丁目６−１",
     "office_name": "前田硝子　株式会社",
     "office_name_kana": "マエダガラス カブシキガイシヤ"
+  },
+  "8522": {
+    "postcode": "1408522",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "東大井",
+    "town_kana": "ヒガシオオイ",
+    "street": "６−３−２２",
+    "office_name": "医療法人社団緑野会　東京品川病院",
+    "office_name_kana": "イリヨウホウジンシヤダンミドリノカイ トウキヨウシナガワビヨウイン"
   },
   "8523": {
     "postcode": "1408523",
@@ -675,6 +701,19 @@
     "office_name": "株式会社　セガ",
     "office_name_kana": "カブシキガイシヤ セガ"
   },
+  "8584": {
+    "postcode": "1408584",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "東品川",
+    "town_kana": "ヒガシシナガワ",
+    "street": "４−１２−１品川シーサイドサウスタワー１７Ｆ",
+    "office_name": "ジャックス債権回収サービス　株式会社",
+    "office_name_kana": "ジヤツクスサイケンカイシユウサ-ビス カブシキガイシヤ"
+  },
   "8586": {
     "postcode": "1408586",
     "prefecture": "東京都",
@@ -892,9 +931,9 @@
     "city_kana": "シナガワク",
     "town": "東品川",
     "town_kana": "ヒガシシナガワ",
-    "street": "２丁目２−２０天王洲郵船ビル",
-    "office_name": "日軽商事　（株）",
-    "office_name_kana": "ニツケイシヨウジ (カブ)"
+    "street": "２−２−２０",
+    "office_name": "日軽産業　株式会社",
+    "office_name_kana": "ニツケイサンギヨウ カブシキカイシヤ"
   },
   "8637": {
     "postcode": "1408637",

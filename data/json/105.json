@@ -5092,8 +5092,21 @@
     "town": "海岸",
     "town_kana": "カイガン",
     "street": "１−２−２０",
-    "office_name": "ＴＯＴＯ　エンジニアリング　株式会社",
-    "office_name_kana": "ト-ト- エンジニアリング カブシキガイシヤ"
+    "office_name": "ＴＯＴＯ　アクアエンジ　株式会社",
+    "office_name_kana": "ト-ト- アクアエンジ カブシキガイシヤ"
+  },
+  "8308": {
+    "postcode": "1058308",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "虎ノ門",
+    "town_kana": "トラノモン",
+    "street": "４−３−１２",
+    "office_name": "株式会社　日経ＢＰ",
+    "office_name_kana": "カブシキガイシヤ ニツケイビ-ピ-"
   },
   "8310": {
     "postcode": "1058310",
@@ -5172,6 +5185,19 @@
     "street": "１丁目１４番５号",
     "office_name": "川崎重工業　株式会社",
     "office_name_kana": "カワサキジユウコウギヨウ カブシキガイシヤ"
+  },
+  "8318": {
+    "postcode": "1058318",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "１丁目２番３号シーバンスＳ館",
+    "office_name": "廣済堂",
+    "office_name_kana": "コウサイドウ"
   },
   "8320": {
     "postcode": "1058320",
@@ -5589,19 +5615,34 @@
     "office_name": "昭光通商　株式会社",
     "office_name_kana": "シヨウコウツウシヨウ カブシキガイシヤ"
   },
-  "8433": {
-    "postcode": "1058433",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "西新橋",
-    "town_kana": "ニシシンバシ",
-    "street": "２−３８−５西新橋ＭＦビル",
-    "office_name": "パナソニック　ヘルスケア　株式会社",
-    "office_name_kana": "パナソニツク ヘルスケア カブシキガイシヤ"
-  },
+  "8433": [
+    {
+      "postcode": "1058433",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "港区",
+      "city_kana": "ミナトク",
+      "town": "西新橋",
+      "town_kana": "ニシシンバシ",
+      "street": "２−３８−５",
+      "office_name": "ＰＨＣ　株式会社",
+      "office_name_kana": "ピ-エイチシ- カブシキガイシヤ"
+    },
+    {
+      "postcode": "1058433",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "港区",
+      "city_kana": "ミナトク",
+      "town": "西新橋",
+      "town_kana": "ニシシンバシ",
+      "street": "２−３８−５",
+      "office_name": "ＰＨＣホールディングス　株式会社",
+      "office_name_kana": "ピ-エイチシ-ホ-ルデイングス カブシキガイシヤ"
+    }
+  ],
   "8434": {
     "postcode": "1058434",
     "prefecture": "東京都",
@@ -5812,19 +5853,6 @@
     "office_name": "独立行政法人　中小企業基盤整備機構",
     "office_name_kana": "ドクリツギヨウセイホウジン チユウシヨウキギヨウキバンセイビキコウ"
   },
-  "8455": {
-    "postcode": "1058455",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "虎ノ門",
-    "town_kana": "トラノモン",
-    "street": "２丁目２−５共同通信会館４Ｆ",
-    "office_name": "株式会社　角川マーケティング",
-    "office_name_kana": "カブシキガイシヤ カドカワマ-ケテイング"
-  },
   "8456": {
     "postcode": "1058456",
     "prefecture": "東京都",
@@ -5994,6 +6022,19 @@
     "office_name": "株式会社　角川マガジンズ",
     "office_name_kana": "カブシキガイシヤ カドカワマガジンズ"
   },
+  "8475": {
+    "postcode": "1058475",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝公園",
+    "town_kana": "シバコウエン",
+    "street": "１−８−２１芝公園リッジビル５階",
+    "office_name": "株式会社　公募ガイド社",
+    "office_name_kana": "カブシキガイシヤ コウボガイドシヤ"
+  },
   "8482": {
     "postcode": "1058482",
     "prefecture": "東京都",
@@ -6123,6 +6164,19 @@
     "street": "３丁目８番２号芝公園ファーストビル",
     "office_name": "リコージャパン　株式会社",
     "office_name_kana": "リコ-ジヤパン カブシキガイシヤ"
+  },
+  "8505": {
+    "postcode": "1058505",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝公園",
+    "town_kana": "シバコウエン",
+    "street": "２−４−１芝パークビルＢ館８Ｆ",
+    "office_name": "株式会社　テイチクエンタテインメント",
+    "office_name_kana": "カブシキガイシヤ テイチクエンタテインメント"
   },
   "8507": {
     "postcode": "1058507",
@@ -6277,8 +6331,8 @@
     "town": "芝公園",
     "town_kana": "シバコウエン",
     "street": "３丁目１−２２",
-    "office_name": "社団法人　日本能率協会",
-    "office_name_kana": "シヤダンホウジン ニホンノウリツキヨウカイ"
+    "office_name": "一般社団法人　日本能率協会",
+    "office_name_kana": "イツパンシヤダンホウジン ニホンノウリツキヨウカイ"
   },
   "8523": {
     "postcode": "1058523",
@@ -6579,19 +6633,6 @@
     "office_name": "東京計装　株式会社",
     "office_name_kana": "トウキヨウケイソウ カブシキガイシヤ"
   },
-  "8559": {
-    "postcode": "1058559",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "虎ノ門",
-    "town_kana": "トラノモン",
-    "street": "５丁目１２番１号",
-    "office_name": "全国建設企業年金基金",
-    "office_name_kana": "ゼンコクケンセツキギヨウネンキンキキン"
-  },
   "8560": {
     "postcode": "1058560",
     "prefecture": "東京都",
@@ -6615,8 +6656,8 @@
     "town": "芝公園",
     "town_kana": "シバコウエン",
     "street": "４丁目８−１",
-    "office_name": "東京プリンスホテル　パークタワー",
-    "office_name_kana": "トウキヨウプリンスホテル パ-クタワ-"
+    "office_name": "ザ・プリンス　パークタワー東京",
+    "office_name_kana": "ザ・プリンス パ-クタワ-トウキヨウ"
   },
   "8565": {
     "postcode": "1058565",
@@ -6813,19 +6854,6 @@
     "office_name": "ＮＯＫ　株式会社",
     "office_name_kana": "エヌオ-ケ- カブシキガイシヤ"
   },
-  "8587": {
-    "postcode": "1058587",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "芝大門",
-    "town_kana": "シバダイモン",
-    "street": "１丁目１２−１５",
-    "office_name": "イーグル工業　（株）",
-    "office_name_kana": "イ-グルコウギヨウ カブシキガイシヤ"
-  },
   "8588": {
     "postcode": "1058588",
     "prefecture": "東京都",
@@ -6940,8 +6968,8 @@
     "town": "東新橋",
     "town_kana": "ヒガシシンバシ",
     "street": "２丁目１４−１",
-    "office_name": "電通ヤング・アンド・ルビカム　株式会社",
-    "office_name_kana": "デンツウヤング・アンド・ルビカム カブシキガイシヤ"
+    "office_name": "株式会社　電通イースリー",
+    "office_name_kana": "カブシキガイシヤ デンツウイ-スリ-"
   },
   "8614": {
     "postcode": "1058614",
@@ -6982,19 +7010,6 @@
     "office_name": "日本郵政　株式会社　宿泊事業部",
     "office_name_kana": "ニツポンユウセイ カブシキガイシヤ シユクハクジギヨウブ"
   },
-  "8618": {
-    "postcode": "1058618",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "東新橋",
-    "town_kana": "ヒガシシンバシ",
-    "street": "２丁目１１−８",
-    "office_name": "株式会社　日本ジャーナル出版",
-    "office_name_kana": "カブシキガイシヤ ニホンジヤ-ナルシユツパン"
-  },
   "8621": {
     "postcode": "1058621",
     "prefecture": "東京都",
@@ -7008,19 +7023,34 @@
     "office_name": "第一ホテル東京",
     "office_name_kana": "ダイイチホテルトウキヨウ"
   },
-  "8623": {
-    "postcode": "1058623",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "芝",
-    "town_kana": "シバ",
-    "street": "３丁目８番２号芝公園ファーストビル",
-    "office_name": "東ソー　株式会社",
-    "office_name_kana": "トウソ- カブシキガイシヤ"
-  },
+  "8623": [
+    {
+      "postcode": "1058623",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "港区",
+      "city_kana": "ミナトク",
+      "town": "芝",
+      "town_kana": "シバ",
+      "street": "３丁目８番２号芝公園ファーストビル",
+      "office_name": "東ソー　株式会社",
+      "office_name_kana": "トウソ- カブシキガイシヤ"
+    },
+    {
+      "postcode": "1058623",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "港区",
+      "city_kana": "ミナトク",
+      "town": "芝",
+      "town_kana": "シバ",
+      "street": "３−８−２芝公園ファーストビル",
+      "office_name": "日本ミラクトラン　株式会社　東京営業所",
+      "office_name_kana": "ニホンミラクトラン カブシキカイシヤ トウキヨウエイギヨウシヨ"
+    }
+  ],
   "8626": {
     "postcode": "1058626",
     "prefecture": "東京都",

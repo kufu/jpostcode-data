@@ -2955,6 +2955,19 @@
     "office_name": "学校法人　京都女子学園（京都女子大学・京都女子短期大学部・京都女子高等学校・京都女子中学校・京都女子大学附属小学校・京都幼稚園）",
     "office_name_kana": "ガツコウホウジン キヨウトジヨシガクエン(キヨウトジヨシダイガク.キヨウトジヨシタンキダイガクブ.キヨウトジヨシコウトウガツコウ.キヨウトジヨシチユウガツコウ.キヨウトシ"
   },
+  "8505": {
+    "postcode": "6058505",
+    "prefecture": "京都府",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "京都市東山区",
+    "city_kana": null,
+    "town": "東大路通松原上る",
+    "town_kana": null,
+    "street": "三丁目毘沙門町４３−３",
+    "office_name": "文化庁　地域文化創生本部",
+    "office_name_kana": "ブンカチヨウ チイキブンカソウセイホンブ"
+  },
   "8511": {
     "postcode": "6058511",
     "prefecture": "京都府",

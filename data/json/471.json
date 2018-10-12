@@ -1923,6 +1923,19 @@
     "office_name": "株式会社　Ｆ　Ｔ　Ｓ",
     "office_name_kana": "カブシキカイシヤ エフ テイ エス"
   },
+  "8511": {
+    "postcode": "4718511",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "豊田市",
+    "city_kana": "トヨタシ",
+    "town": "西町",
+    "town_kana": "ニシマチ",
+    "street": "４丁目５番地",
+    "office_name": "あいち豊田農業協同組合",
+    "office_name_kana": "アイチトヨタノウギヨウキヨウドウクミアイ"
+  },
   "8512": {
     "postcode": "4718512",
     "prefecture": "愛知県",
@@ -2062,7 +2075,7 @@
     "city_kana": "トヨタシ",
     "town": "喜多町",
     "town_kana": "キタマチ",
-    "street": "２丁目１０１番地",
+    "street": "２丁目１７０番地",
     "office_name": "株式会社　三菱東京ＵＦＪ銀行　豊田支店",
     "office_name_kana": "カブシキカイシヤ ミツビシトウキヨウユ-エフジエ-ギンコウ トヨタシテン"
   },

@@ -376,6 +376,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0040": {
+    "postcode": "7390040",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "東広島市",
+    "city_kana": "ヒガシヒロシマシ",
+    "town": "寺家駅前",
+    "town_kana": "ジケエキマエ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0041": {
     "postcode": "7390041",
     "prefecture": "広島県",

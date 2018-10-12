@@ -7575,6 +7575,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2157": {
+    "postcode": "9502157",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "新潟市西区",
+    "city_kana": "ニイガタシニシク",
+    "town": "内野西が丘",
+    "town_kana": "ウチノニシガオカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2161": {
     "postcode": "9502161",
     "prefecture": "新潟県",
@@ -8263,6 +8276,19 @@
     "street": "２丁目６番１号",
     "office_name": "三幸製菓　株式会社",
     "office_name_kana": "サンコウセイカ カブシキガイシヤ"
+  },
+  "3197": {
+    "postcode": "9503197",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "新潟市北区",
+    "city_kana": "ニイガタシキタク",
+    "town": "島見町",
+    "town_kana": "シマミチョウ",
+    "street": "９４０番地",
+    "office_name": "新潟食料農業大学　新潟キャンパス",
+    "office_name_kana": "ニイガタシヨクリヨウノウギヨウダイガク ニイガタキヤンパス"
   },
   "3198": {
     "postcode": "9503198",
@@ -10058,19 +10084,6 @@
     "office_name": "日本年金機構　北関東・信越ブロック本部　新潟事務センター",
     "office_name_kana": "ニツポンネンキンキコウ キタカントウ・シンエツブロツクホンブ ニイガタジムセンタ-"
   },
-  "8613": {
-    "postcode": "9508613",
-    "prefecture": "新潟県",
-    "prefecture_kana": "ニイガタケン",
-    "prefecture_code": 15,
-    "city": "新潟市中央区",
-    "city_kana": "ニイガタシチュウオウク",
-    "town": "弁天",
-    "town_kana": "ベンテン",
-    "street": "３丁目２−３ニッセイ新潟駅前ビル",
-    "office_name": "全国健康保険協会　新潟支部",
-    "office_name_kana": "ゼンコクケンコウホケンキヨウカイ ニイガタシブ"
-  },
   "8619": {
     "postcode": "9508619",
     "prefecture": "新潟県",
@@ -10408,19 +10421,6 @@
     "street": "３丁目２−３２",
     "office_name": "（株）　ニューズ・ライン",
     "office_name_kana": "カブシキガイシヤ ニユ-ズ・ライン"
-  },
-  "8686": {
-    "postcode": "9508686",
-    "prefecture": "新潟県",
-    "prefecture_kana": "ニイガタケン",
-    "prefecture_code": 15,
-    "city": "新潟市中央区",
-    "city_kana": "ニイガタシチュウオウク",
-    "town": "東幸町",
-    "town_kana": "ヒガシサイワイチョウ",
-    "street": "１１−１１",
-    "office_name": "クシヤ　株式会社",
-    "office_name_kana": "クシヤ カブシキガイシヤ"
   },
   "8707": {
     "postcode": "9508707",

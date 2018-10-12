@@ -1542,7 +1542,7 @@
     "city_kana": "ミナミアルプスシ",
     "town": "芦安芦倉",
     "town_kana": "アシヤスアシクラ",
-    "street": "５１６",
+    "street": "５１８",
     "office_name": "南アルプス市役所　芦安支所",
     "office_name_kana": "ミナミアルプスシヤクシヨ アシヤスシシヨ"
   },
@@ -1553,9 +1553,9 @@
     "prefecture_code": 19,
     "city": "南アルプス市",
     "city_kana": "ミナミアルプスシ",
-    "town": "野牛島",
-    "town_kana": "ヤゴシマ",
-    "street": "２３１４−３",
+    "town": "榎原",
+    "town_kana": "エノキハラ",
+    "street": "８００",
     "office_name": "南アルプス市役所　八田支所",
     "office_name_kana": "ミナミアルプスシヤクシヨ ハツタシシヨ"
   },
@@ -1867,7 +1867,7 @@
     "city_kana": "ミナミアルプスシ",
     "town": "寺部",
     "town_kana": "テラベ",
-    "street": "６５９",
+    "street": "７２５−１",
     "office_name": "南アルプス市役所　若草支所",
     "office_name_kana": "ミナミアルプスシヤクシヨ ワカクサシシヨ"
   },
@@ -3770,6 +3770,19 @@
     "street": "８８８",
     "office_name": "学校法人　山梨英和学院",
     "office_name_kana": "ガツコウホウジン ヤマナシエイワガクイン"
+  },
+  "8509": {
+    "postcode": "4008509",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "prefecture_code": 19,
+    "city": "甲府市",
+    "city_kana": "コウフシ",
+    "town": "富士見",
+    "town_kana": "フジミ",
+    "street": "１丁目４番２４号",
+    "office_name": "株式会社　日本ネットワークサービス",
+    "office_name_kana": "カブシキガイシヤ ニホンネツトワ-クサ-ビス"
   },
   "8510": {
     "postcode": "4008510",

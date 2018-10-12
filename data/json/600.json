@@ -11076,11 +11076,11 @@
     "prefecture_code": null,
     "city": "京都市下京区",
     "city_kana": null,
-    "town": "油小路通六条上る",
+    "town": "西中筋通六条下る",
     "town_kana": null,
-    "street": "卜味金仏町１８１番地",
-    "office_name": "株式会社　井筒",
-    "office_name_kana": "カブシキガイシヤ イヅヅ"
+    "street": "住吉町４２番地",
+    "office_name": "株式会社　井筒法衣店",
+    "office_name_kana": "カブシキガイシヤ イヅツホウイテン"
   },
   "8505": {
     "postcode": "6008505",
@@ -11094,6 +11094,19 @@
     "street": "常葉町７５４",
     "office_name": "真宗大谷派　（東本願寺）　宗務所",
     "office_name_kana": "シンシユウオオタニハ (ヒガシホンガンジ) シユウムシヨ"
+  },
+  "8506": {
+    "postcode": "6008506",
+    "prefecture": "京都府",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "京都市下京区",
+    "city_kana": null,
+    "town": "塩小路通烏丸西入",
+    "town_kana": null,
+    "street": "東塩小路町５７９番地",
+    "office_name": "関西電力　株式会社",
+    "office_name_kana": "カンサイデンリヨク カブシキガイシヤ"
   },
   "8511": {
     "postcode": "6008511",
@@ -11263,6 +11276,19 @@
     "street": "東塩小路町６１４番地",
     "office_name": "株式会社　きんでん　京都支店",
     "office_name_kana": "カブシキガイシヤ キンデン キヨウトシテン"
+  },
+  "8565": {
+    "postcode": "6008565",
+    "prefecture": "京都府",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "京都市下京区",
+    "city_kana": null,
+    "town": "四条通室町東入",
+    "town_kana": null,
+    "street": "函谷鉾町７８京都経済センター７階",
+    "office_name": "京都商工会議所",
+    "office_name_kana": "キヨウトシヨウコウカイギシヨ"
   },
   "8566": {
     "postcode": "6008566",

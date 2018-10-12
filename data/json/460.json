@@ -803,9 +803,9 @@
     "city_kana": "ナゴヤシナカク",
     "town": "栄",
     "town_kana": "サカエ",
-    "street": "４丁目２番２９号名古屋広小路プレイス６階",
-    "office_name": "株式会社　ポッカコーポレーション",
-    "office_name_kana": "カブシキガイシヤ ポツカコ-ポレ-シヨン"
+    "street": "４丁目２番２９号名古屋広小路プレイス",
+    "office_name": "ポッカサッポロフード＆ビバレッジ　株式会社",
+    "office_name_kana": "ポツカサツポロフ-ドアンドビバレツジ カブシキガイシヤ"
   },
   "8416": {
     "postcode": "4608416",
@@ -868,9 +868,9 @@
     "city_kana": "ナゴヤシナカク",
     "town": "栄",
     "town_kana": "サカエ",
-    "street": "二丁目４番１８号",
+    "street": "二丁目８番２０号",
     "office_name": "ＴＩＳ　株式会社",
-    "office_name_kana": "テイ-アイエス カブシキガイシヤ"
+    "office_name_kana": "テイアイエス カブシキガイシヤ"
   },
   "8426": {
     "postcode": "4608426",
@@ -1167,9 +1167,9 @@
     "city_kana": "ナゴヤシナカク",
     "town": "栄",
     "town_kana": "サカエ",
-    "street": "１丁目１７−６",
-    "office_name": "読売新聞　中部本社",
-    "office_name_kana": "ヨミウリシンブン チユウブホンシヤ"
+    "street": "一丁目２番１号",
+    "office_name": "読売新聞　東京本社　中部支社",
+    "office_name_kana": "ヨミウリシンブン トウキヨウホンシヤ チユウブシシヤ"
   },
   "8472": {
     "postcode": "4608472",
@@ -1219,9 +1219,9 @@
     "city_kana": "ナゴヤシナカク",
     "town": "栄",
     "town_kana": "サカエ",
-    "street": "２丁目１６番１５号",
-    "office_name": "株式会社　ワークスジャパン",
-    "office_name_kana": "カブシキガイシヤ ワ-クスジヤパン"
+    "street": "二丁目１６番１５号ジーノット栄ビル",
+    "office_name": "株式会社　ジーノット",
+    "office_name_kana": "カブシキガイシヤ ジ-ノツト"
   },
   "8481": {
     "postcode": "4608481",
@@ -1677,19 +1677,6 @@
     "street": "１丁目１１番１１号名古屋インターシティ",
     "office_name": "キャノンマーケティングジャパン　株式会社　名古屋支店",
     "office_name_kana": "キヤノンマ-ケテイングジヤパン カブシキガイシヤ ナゴヤシテン"
-  },
-  "8533": {
-    "postcode": "4608533",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "丸の内",
-    "town_kana": "マルノウチ",
-    "street": "３丁目２−２６",
-    "office_name": "株式会社　中薬",
-    "office_name_kana": "カブシキガイシヤ チユウヤク"
   },
   "8534": {
     "postcode": "4608534",
@@ -2153,9 +2140,9 @@
     "prefecture_code": 23,
     "city": "名古屋市中区",
     "city_kana": "ナゴヤシナカク",
-    "town": "錦",
-    "town_kana": "ニシキ",
-    "street": "３丁目２−１",
+    "town": "栄",
+    "town_kana": "サカエ",
+    "street": "一丁目２番７号名古屋東宝ビル７Ｆ",
     "office_name": "五洋建設　株式会社　名古屋支店",
     "office_name_kana": "ゴヨウケンセツ カブシキガイシヤ ナゴヤシテン"
   },
@@ -2480,9 +2467,9 @@
     "city_kana": "ナゴヤシナカク",
     "town": "錦",
     "town_kana": "ニシキ",
-    "street": "３丁目２１−２４（名古屋中郵便局私書箱第１６０号）",
-    "office_name": "三菱東京ＵＦＪ銀行",
-    "office_name_kana": "ミツビシトウキヨウユ-エフジエイギンコウ"
+    "street": "二丁目２０番１５号（名古屋中郵便局私書箱第１６０号）",
+    "office_name": "（株）　三菱ＵＦＪ銀行",
+    "office_name_kana": "(カ) ミツビシユ-エフジエ-ギンコウ"
   },
   "8663": {
     "postcode": "4608663",

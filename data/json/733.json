@@ -818,6 +818,19 @@
     "office_name": "株式会社　松田組",
     "office_name_kana": "カブシキガイシヤ マツダグミ"
   },
+  "8509": {
+    "postcode": "7338509",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "広島市西区",
+    "city_kana": "ヒロシマシニシク",
+    "town": "扇",
+    "town_kana": "オオギ",
+    "street": "二丁目１番４５号",
+    "office_name": "ＬＥＣＴ",
+    "office_name_kana": "レクト"
+  },
   "8510": {
     "postcode": "7338510",
     "prefecture": "広島県",

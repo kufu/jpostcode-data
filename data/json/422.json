@@ -261,6 +261,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8019": {
+    "postcode": "4228019",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "静岡市駿河区",
+    "city_kana": "シズオカシスルガク",
+    "town": "東静岡",
+    "town_kana": "ヒガシシズオカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8021": {
     "postcode": "4228021",
     "prefecture": "静岡県",
@@ -1259,8 +1272,8 @@
     "town": "南町",
     "town_kana": "ミナミチョウ",
     "street": "１０番５号",
-    "office_name": "株式会社　フロックス",
-    "office_name_kana": "カブシキガイシヤ フロツクス"
+    "office_name": "株式会社　クレディア",
+    "office_name_kana": "カブシキガイシヤ クレデイア"
   },
   "8564": {
     "postcode": "4228564",
@@ -1456,6 +1469,32 @@
     "street": "１８−１サウスポット静岡６階",
     "office_name": "旭化成リフォーム　株式会社　静岡事業所",
     "office_name_kana": "アサヒカセイリフオ-ム カブシキガイシヤ シズオカジギヨウシヨ"
+  },
+  "8581": {
+    "postcode": "4228581",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "静岡市駿河区",
+    "city_kana": "シズオカシスルガク",
+    "town": "弥生町",
+    "town_kana": "ヤヨイチョウ",
+    "street": "６番１号",
+    "office_name": "常葉大学　静岡草薙キャンパス",
+    "office_name_kana": "トコハダイガク シズオカクサナギキヤンパス"
+  },
+  "8585": {
+    "postcode": "4228585",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "静岡市駿河区",
+    "city_kana": "シズオカシスルガク",
+    "town": "有東",
+    "town_kana": "ウトウ",
+    "street": "２丁目２−２０",
+    "office_name": "株式会社　エヌ・ビー　中根屋",
+    "office_name_kana": "カブシキガイシヤ エヌ・ビ- ナカネヤ"
   },
   "8610": {
     "postcode": "4228610",
@@ -1703,5 +1742,18 @@
     "street": "２８番地",
     "office_name": "静岡ガス　株式会社　静岡支社",
     "office_name_kana": "シズオカガス カブシキガイシヤ シズオカシシヤ"
+  },
+  "8787": {
+    "postcode": "4228787",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "静岡市駿河区",
+    "city_kana": "シズオカシスルガク",
+    "town": "八幡",
+    "town_kana": "ヤハタ",
+    "street": "１丁目６番１号（静岡南郵便局私書箱第７号）",
+    "office_name": "日本放送協会　静岡放送局",
+    "office_name_kana": "ニホンホウソウキヨウカイ シズオカホウソウキヨク"
   }
 }

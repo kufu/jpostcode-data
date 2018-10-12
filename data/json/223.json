@@ -279,9 +279,9 @@
     "prefecture_code": 14,
     "city": "横浜市港北区",
     "city_kana": "ヨコハマシコウホクク",
-    "town": "高田町",
-    "town_kana": "タカタチョウ",
-    "street": "７１１−１",
+    "town": "高田西",
+    "town_kana": "タカタニシ",
+    "street": "１−５−２１",
     "office_name": "株式会社　トーエル",
     "office_name_kana": "カブシキガイシヤ ト-エル"
   },
@@ -425,8 +425,8 @@
     "town": "新吉田町",
     "town_kana": "シンヨシダチョウ",
     "street": "５３３",
-    "office_name": "東京エルピー瓦斯　株式会社",
-    "office_name_kana": "トウキヨウエルピ-ガス カブシキガイシヤ"
+    "office_name": "株式会社　トーエル　横浜営業所",
+    "office_name_kana": "カブシキガイシヤ ト-エル ヨコハマエイギヨウシヨ"
   },
   "8533": {
     "postcode": "2238533",
@@ -453,6 +453,19 @@
     "street": "２丁目６−５４",
     "office_name": "松下通信システム建設　株式会社",
     "office_name_kana": "マツシタツウシンシステムケンセツ カブシキガイシヤ"
+  },
+  "8540": {
+    "postcode": "2238540",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市港北区",
+    "city_kana": "ヨコハマシコウホクク",
+    "town": "綱島東",
+    "town_kana": "ツナシマヒガシ",
+    "street": "５丁目１０−４１",
+    "office_name": "サンコースプリング　株式会社",
+    "office_name_kana": "サンコ-スプリング カブシキガイシヤ"
   },
   "8541": {
     "postcode": "2238541",

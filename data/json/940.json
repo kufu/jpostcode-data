@@ -2086,9 +2086,9 @@
     "prefecture_code": 15,
     "city": "長岡市",
     "city_kana": "ナガオカシ",
-    "town": "栃尾宮沢",
-    "town_kana": "トチオミヤザワ",
-    "street": "１７６５",
+    "town": "谷内",
+    "town_kana": "ヤチ",
+    "street": "２丁目５番９号",
     "office_name": "栃尾商工会",
     "office_name_kana": "トチオシヨウコウカイ"
   },
@@ -2469,6 +2469,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0840": {
+    "postcode": "9400840",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "長岡市",
+    "city_kana": "ナガオカシ",
+    "town": "旭岡",
+    "town_kana": "アサヒオカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0841": {
+    "postcode": "9400841",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "長岡市",
+    "city_kana": "ナガオカシ",
+    "town": "花園南",
+    "town_kana": "ハナゾノミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0842": {
     "postcode": "9400842",
     "prefecture": "新潟県",
@@ -2478,6 +2504,19 @@
     "city_kana": "ナガオカシ",
     "town": "鉢伏町",
     "town_kana": "ハチブセマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0843": {
+    "postcode": "9400843",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "長岡市",
+    "city_kana": "ナガオカシ",
+    "town": "東大町",
+    "town_kana": "ヒガシオオマチ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -3297,6 +3336,19 @@
     "city_kana": "ナガオカシ",
     "town": "高島町",
     "town_kana": "タカシママチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "1140": {
+    "postcode": "9401140",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "長岡市",
+    "city_kana": "ナガオカシ",
+    "town": "上前島",
+    "town_kana": "カミマエジマ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

@@ -1490,6 +1490,19 @@
     "office_name": "山中温泉ぬくもり診療所",
     "office_name_kana": "ヤマナカオンセンヌクモリシンリヨウシヨ"
   },
+  "0221": {
+    "postcode": "9220221",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "加賀市",
+    "city_kana": "カガシ",
+    "town": "丸山町",
+    "town_kana": "マルヤママチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0222": [
     {
       "postcode": "9220222",
@@ -2025,34 +2038,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0272": [
-    {
-      "postcode": "9220272",
-      "prefecture": "石川県",
-      "prefecture_kana": "イシカワケン",
-      "prefecture_code": 17,
-      "city": "加賀市",
-      "city_kana": "カガシ",
-      "town": "尾俣町",
-      "town_kana": "オマタマチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "9220272",
-      "prefecture": "石川県",
-      "prefecture_kana": "イシカワケン",
-      "prefecture_code": 17,
-      "city": "加賀市",
-      "city_kana": "カガシ",
-      "town": "尾俣町大桜",
-      "town_kana": "オマタマチオオザクラ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
   "0273": {
     "postcode": "9220273",
     "prefecture": "石川県",
@@ -3132,9 +3117,9 @@
     "city_kana": "カガシ",
     "town": "宮町",
     "town_kana": "ミヤマチ",
-    "street": "カ１−１",
-    "office_name": "株式会社　ソディックプラステック　加賀本社",
-    "office_name_kana": "カブシキガイシヤ ソデイツクプラステツク カガホンシヤ"
+    "street": "カ１番地１",
+    "office_name": "株式会社　ソディック　加賀事業所",
+    "office_name_kana": "カブシキガイシヤ ソデイツク カガジギヨウシヨ"
   },
   "0671": {
     "postcode": "9220671",

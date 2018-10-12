@@ -2222,8 +2222,21 @@
     "city_kana": "シバタシ",
     "town": "中央町",
     "town_kana": "チュウオウチョウ",
-    "street": "４丁目１０−４（新発田郵便局私書箱第１号）",
+    "street": "３丁目３−３（新発田郵便局私書箱第１号）",
     "office_name": "新発田市役所",
     "office_name_kana": "シバタシヤクシヨ"
+  },
+  "8701": {
+    "postcode": "9578701",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "新発田市",
+    "city_kana": "シバタシ",
+    "town": "五十公野",
+    "town_kana": "イジミノ",
+    "street": "字山崎５２７０番地",
+    "office_name": "京セラ　株式会社　新潟新発田工場",
+    "office_name_kana": "キヨウセラ カブシキガイシヤ ニイガタシバタコウジヨウ"
   }
 }

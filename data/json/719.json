@@ -794,6 +794,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1137": {
+    "postcode": "7191137",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "prefecture_code": 33,
+    "city": "総社市",
+    "city_kana": "ソウジャシ",
+    "town": "駅南",
+    "town_kana": "エキナン",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1141": {
     "postcode": "7191141",
     "prefecture": "岡山県",
@@ -1131,6 +1144,19 @@
     "street": "８８",
     "office_name": "ユニチカ　株式会社　常盤工場",
     "office_name_kana": "ユニチカ カブシキガイシヤ トキワコウジヨウ"
+  },
+  "1196": {
+    "postcode": "7191196",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "prefecture_code": 33,
+    "city": "総社市",
+    "city_kana": "ソウジャシ",
+    "town": "長良",
+    "town_kana": "ナガラ",
+    "street": "４−１",
+    "office_name": "アマゾン岡山フルフィルメントセンター",
+    "office_name_kana": "アマゾンオカヤマフルフイルメントセンタ-"
   },
   "1197": {
     "postcode": "7191197",
@@ -2211,7 +2237,7 @@
     "city_kana": "マニワシ",
     "town": "落合垂水",
     "town_kana": "オチアイタルミ",
-    "street": "１９０１−５",
+    "street": "６１８",
     "office_name": "真庭市役所　落合庁舎",
     "office_name_kana": "マニワシヤクシヨ オチアイチヨウシヤ"
   },

@@ -350,6 +350,19 @@
     "office_name": "舞昆のこうはら",
     "office_name_kana": "マイコンノコウハラ"
   },
+  "8506": {
+    "postcode": "5598506",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市住之江区",
+    "city_kana": "オオサカシスミノエク",
+    "town": "浜口西",
+    "town_kana": "ハマグチニシ",
+    "street": "３丁目９番５号",
+    "office_name": "関西電力　株式会社",
+    "office_name_kana": "カンサイデンリヨク カブシキガイシヤ"
+  },
   "8510": {
     "postcode": "5598510",
     "prefecture": "大阪府",

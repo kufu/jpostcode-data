@@ -870,6 +870,47 @@
     "office_name": "公益財団法人　東京都予防医学協会",
     "office_name_kana": "コウエキザイダンホウジン トウキヨウトヨボウイガクキヨウカイ"
   },
+  "8020": [
+    {
+      "postcode": "1628020",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "新宿区",
+      "city_kana": "シンジュクク",
+      "town": "富久町",
+      "town_kana": "トミヒサチョウ",
+      "street": "１３番１９号",
+      "office_name": "わらべや日洋　株式会社",
+      "office_name_kana": "ワラベヤニチヨウ カブシキガイシヤ"
+    },
+    {
+      "postcode": "1628020",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "新宿区",
+      "city_kana": "シンジュクク",
+      "town": "富久町",
+      "town_kana": "トミヒサチョウ",
+      "street": "１３番１９号",
+      "office_name": "わらべや日洋ホールディングス　株式会社",
+      "office_name_kana": "ワラベヤニチヨウホ-ルデイングス カブシキガイシヤ"
+    }
+  ],
+  "8021": {
+    "postcode": "1628021",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "富久町",
+    "town_kana": "トミヒサチョウ",
+    "street": "１３番１９号",
+    "office_name": "株式会社　日洋",
+    "office_name_kana": "カブシキガイシヤ ニチヨウ"
+  },
   "8022": {
     "postcode": "1628022",
     "prefecture": "東京都",
@@ -895,6 +936,19 @@
     "street": "５５",
     "office_name": "公益財団法人　日本英語検定協会",
     "office_name_kana": "コウエキザイダンホウジン ニホンエイゴケンテイキヨウカイ"
+  },
+  "8060": {
+    "postcode": "1628060",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "榎町",
+    "town_kana": "エノキチョウ",
+    "street": "７",
+    "office_name": "公益財団法人　日本英語検定協会　英検サービスセンター",
+    "office_name_kana": "コウエキザイダンホウジン ニホンエイゴケンテイキヨウカイ エイケンサ-ビスセンタ-"
   },
   "8402": {
     "postcode": "1628402",
@@ -958,8 +1012,8 @@
     "town": "市谷船河原町",
     "town_kana": "イチガヤフナガワラマチ",
     "street": "１５",
-    "office_name": "東京日仏学院",
-    "office_name_kana": "トウキヨウニチフツガクイン"
+    "office_name": "アンスティチュ・フランセ東京",
+    "office_name_kana": "アンステイチユ・フランセトウキヨウ"
   },
   "8421": {
     "postcode": "1628421",
@@ -1793,19 +1847,6 @@
     "office_name": "株式会社　ディスコ　神楽坂ＨＣスタジオ",
     "office_name_kana": "カブシキガイシヤ デイスコ カグラザカエイチシ-スタジオ"
   },
-  "8705": {
-    "postcode": "1628705",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "新宿区",
-    "city_kana": "シンジュクク",
-    "town": "市谷本村町",
-    "town_kana": "イチガヤホンムラチョウ",
-    "street": "３−２３（牛込郵便局私書箱第３号）",
-    "office_name": "株式会社　日本ヴォーグ社",
-    "office_name_kana": "カブシキガイシヤ ニホンヴオ-グシヤ"
-  },
   "8707": {
     "postcode": "1628707",
     "prefecture": "東京都",
@@ -1975,6 +2016,19 @@
     "office_name": "防衛省　防衛監察本部",
     "office_name_kana": "ボウエイシヨウ ボウエイカンサツホンブ"
   },
+  "8808": {
+    "postcode": "1628808",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "市谷本村町",
+    "town_kana": "イチガヤホンムラチョウ",
+    "street": "５−１",
+    "office_name": "防衛省防衛研究所",
+    "office_name_kana": "ボウエイシヨウボウエイケンキユウジヨ"
+  },
   "8830": {
     "postcode": "1628830",
     "prefecture": "東京都",
@@ -1987,6 +2041,19 @@
     "street": "５−１",
     "office_name": "防衛省　技術研究本部",
     "office_name_kana": "ボウエイシヨウ ギジユツケンキユウホンブ"
+  },
+  "8850": {
+    "postcode": "1628850",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "市谷本村町",
+    "town_kana": "イチガヤホンムラチョウ",
+    "street": "１０番１号",
+    "office_name": "自衛隊　東京地方　協力本部",
+    "office_name_kana": "ジエイタイ トウキヨウチホウ キヨウリヨクホンブ"
   },
   "8853": {
     "postcode": "1628853",

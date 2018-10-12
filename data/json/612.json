@@ -2391,6 +2391,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8035": {
+    "postcode": "6128035",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "京都市伏見区",
+    "city_kana": "キョウトシフシミク",
+    "town": "常盤町",
+    "town_kana": "トキワチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8036": {
     "postcode": "6128036",
     "prefecture": "京都府",
@@ -2723,7 +2736,7 @@
     "prefecture_code": 26,
     "city": "京都市伏見区",
     "city_kana": "キョウトシフシミク",
-    "town": "御駕篭町",
+    "town": "御駕籠町",
     "town_kana": "オカゴチョウ",
     "street": null,
     "office_name": null,
@@ -6589,6 +6602,19 @@
     "street": "３９−２",
     "office_name": "京都市伏見区役所",
     "office_name_kana": "キヨウトシフシミクヤクシヨ"
+  },
+  "8515": {
+    "postcode": "6128515",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "京都市伏見区",
+    "city_kana": "キョウトシフシミク",
+    "town": "深草向畑町",
+    "town_kana": "フカクサムカイハタチョウ",
+    "street": "９３番地の１",
+    "office_name": "伏見区役所　深草支所",
+    "office_name_kana": "フシミクヤクシヨ フカクサシシヨ"
   },
   "8522": {
     "postcode": "6128522",

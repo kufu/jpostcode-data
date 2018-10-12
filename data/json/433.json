@@ -298,19 +298,6 @@
     "office_name": "本田技研工業　株式会社　浜松製作所",
     "office_name_kana": "ホンダギケンコウギヨウ カブシキガイシヤ ハママツセイサクシヨ"
   },
-  "8510": {
-    "postcode": "4338510",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "浜松市北区",
-    "city_kana": "ハママツシキタク",
-    "town": "東三方町",
-    "town_kana": "ヒガシミカタチョウ",
-    "street": "９０−３",
-    "office_name": "パルステック工業　株式会社",
-    "office_name_kana": "パルステツクコウギヨウ カブシキガイシヤ"
-  },
   "8511": {
     "postcode": "4338511",
     "prefecture": "静岡県",
@@ -323,45 +310,6 @@
     "street": "１５４",
     "office_name": "浜松市　リハビリテーション病院",
     "office_name_kana": "ハママツシ リハビリテ-シヨンビヨウイン"
-  },
-  "8520": {
-    "postcode": "4338520",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "浜松市中区",
-    "city_kana": "ハママツシナカク",
-    "town": "小豆餅",
-    "town_kana": "アズキモチ",
-    "street": "４丁目１４−１",
-    "office_name": "（株）　アーレスティ",
-    "office_name_kana": "カブシキガイシヤ ア-レステイ"
-  },
-  "8530": {
-    "postcode": "4338530",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "浜松市中区",
-    "city_kana": "ハママツシナカク",
-    "town": "泉",
-    "town_kana": "イズミ",
-    "street": "４丁目１２−１",
-    "office_name": "（株）　フジコーポレーション",
-    "office_name_kana": "(カブ) フジコ-ポレ-シヨン"
-  },
-  "8540": {
-    "postcode": "4338540",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "浜松市北区",
-    "city_kana": "ハママツシキタク",
-    "town": "初生町",
-    "town_kana": "ハツオイチョウ",
-    "street": "６２６−１",
-    "office_name": "サンカ",
-    "office_name_kana": "サンカ"
   },
   "8550": {
     "postcode": "4338550",

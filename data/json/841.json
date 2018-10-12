@@ -974,6 +974,19 @@
     "office_name": "トラスコ中山　株式会社　プラネット九州",
     "office_name_kana": "トラスコナカヤマ カブシキカイシヤ プラネツトキユウシユウ"
   },
+  "8503": {
+    "postcode": "8418503",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "prefecture_code": 41,
+    "city": "鳥栖市",
+    "city_kana": "トスシ",
+    "town": "藤木町",
+    "town_kana": "フジノキマチ",
+    "street": "３−１８",
+    "office_name": "株式会社　アクティブトライ　鳥栖営業所",
+    "office_name_kana": "カブシキガイシヤ アクテイブトライ トスエイギヨウシヨ"
+  },
   "8504": {
     "postcode": "8418504",
     "prefecture": "佐賀県",

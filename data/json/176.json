@@ -272,6 +272,19 @@
     "office_name": "太陽インキ製造　株式会社",
     "office_name_kana": "タイヨウインキセイゾウ カブシキガイシヤ"
   },
+  "8509": {
+    "postcode": "1768509",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "練馬区",
+    "city_kana": "ネリマク",
+    "town": "豊玉北",
+    "town_kana": "トヨタマキタ",
+    "street": "６−１３−１０",
+    "office_name": "東京都都税総合事務センター　自動車税課調査班",
+    "office_name_kana": "トウキヨウトトゼイソウゴウジムセンタ- ジドウシヤゼイカチヨウサハン"
+  },
   "8510": {
     "postcode": "1768510",
     "prefecture": "東京都",
@@ -337,6 +350,19 @@
     "office_name": "三菱電線工業　株式会社",
     "office_name_kana": "ミツビシデンセンコウギヨウ カブシキカイシヤ"
   },
+  "8517": {
+    "postcode": "1768517",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "練馬区",
+    "city_kana": "ネリマク",
+    "town": "豊玉北",
+    "town_kana": "トヨタマキタ",
+    "street": "６−１３−１０",
+    "office_name": "東京都都税総合事務センター　自動車税課課税班",
+    "office_name_kana": "トウキヨウトトゼイソウゴウジムセンタ- ジドウシヤゼイカカゼイハン"
+  },
   "8518": {
     "postcode": "1768518",
     "prefecture": "東京都",
@@ -372,7 +398,7 @@
     "city_kana": "ネリマク",
     "town": "豊玉北",
     "town_kana": "トヨタマキタ",
-    "street": "２丁目１６−１",
+    "street": "２丁目１６番１４号",
     "office_name": "野口興産　株式会社",
     "office_name_kana": "ノグチコウサン カブシキガイシヤ"
   },
@@ -388,6 +414,19 @@
     "street": "２丁目４２−１",
     "office_name": "日本大学　芸術学部",
     "office_name_kana": "ニホンダイガク ゲイジユツガクブ"
+  },
+  "8526": {
+    "postcode": "1768526",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "練馬区",
+    "city_kana": "ネリマク",
+    "town": "豊玉北",
+    "town_kana": "トヨタマキタ",
+    "street": "６−１３−１０",
+    "office_name": "東京都都税総合事務センター　還付管理課",
+    "office_name_kana": "トウキヨウトトゼイソウゴウジムセンタ- カンプカンリカ"
   },
   "8528": {
     "postcode": "1768528",
@@ -437,9 +476,9 @@
     "city_kana": "ネリマク",
     "town": "豊玉上",
     "town_kana": "トヨタマカミ",
-    "street": "１丁目２６−１",
-    "office_name": "学校法人　根津育英会",
-    "office_name_kana": "ガツコウホウジン ネヅイクエイカイ"
+    "street": "１丁目２６番１号",
+    "office_name": "学校法人　根津育英会武蔵学園",
+    "office_name_kana": "ガツコウホウジン ネヅイクエイカイムサシガクエン"
   },
   "8534": {
     "postcode": "1768534",

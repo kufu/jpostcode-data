@@ -292,9 +292,9 @@
     "prefecture_code": 13,
     "city": "台東区",
     "city_kana": "タイトウク",
-    "town": "上野",
-    "town_kana": "ウエノ",
-    "street": "７丁目６−１１第一下谷ビル",
+    "town": "東上野",
+    "town_kana": "ヒガシウエノ",
+    "street": "５丁目２番５号下谷ビル６階",
     "office_name": "株式会社　下谷金属",
     "office_name_kana": "カブシキガイシヤ シタヤキンゾク"
   },
@@ -931,7 +931,7 @@
     "city_kana": "タイトウク",
     "town": "東上野",
     "town_kana": "ヒガシウエノ",
-    "street": "１丁目７−２",
+    "street": "２丁目８−１",
     "office_name": "ウインドミル　株式会社",
     "office_name_kana": "ウインドミル カブシキガイシヤ"
   },

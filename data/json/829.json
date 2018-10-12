@@ -300,6 +300,19 @@
       "office_name_kana": null
     }
   ],
+  "0192": {
+    "postcode": "8290192",
+    "prefecture": "福岡県",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "築上郡築上町",
+    "city_kana": null,
+    "town": "大字築城",
+    "town_kana": null,
+    "street": "１０９６",
+    "office_name": "築上町役場　築城支所",
+    "office_name_kana": "チクジヨウマチヤクバ ツイキシシヨ"
+  },
   "0301": {
     "postcode": "8290301",
     "prefecture": "福岡県",

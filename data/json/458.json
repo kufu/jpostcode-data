@@ -1331,6 +1331,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0851": {
+    "postcode": "4580851",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市緑区",
+    "city_kana": "ナゴヤシミドリク",
+    "town": "熊の前",
+    "town_kana": "クマノマエ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0852": {
+    "postcode": "4580852",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市緑区",
+    "city_kana": "ナゴヤシミドリク",
+    "town": "元徳重",
+    "town_kana": "モトトクシゲ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0901": {
     "postcode": "4580901",
     "prefecture": "愛知県",
@@ -1698,19 +1724,6 @@
     "street": "５丁目２５０",
     "office_name": "佐久間特殊鋼　株式会社",
     "office_name_kana": "サクマトクシユコウ カブシキガイシヤ"
-  },
-  "8511": {
-    "postcode": "4588511",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市緑区",
-    "city_kana": "ナゴヤシミドリク",
-    "town": "浦里",
-    "town_kana": "ウラサト",
-    "street": "３丁目１００",
-    "office_name": "ネッツトヨタ愛知　株式会社",
-    "office_name_kana": "ネツツトヨタアイチ カブシキガイシヤ"
   },
   "8515": {
     "postcode": "4588515",

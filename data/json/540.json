@@ -2740,7 +2740,7 @@
     "city_kana": "オオサカシチュウオウク",
     "town": "玉造",
     "town_kana": "タマツクリ",
-    "street": "１丁目１−３０",
+    "street": "１丁目２−４０",
     "office_name": "森下仁丹　株式会社",
     "office_name_kana": "モリシタジンタン カブシキガイシヤ"
   },
@@ -2948,7 +2948,7 @@
     "city_kana": "オオサカシチュウオウク",
     "town": "備後町",
     "town_kana": "ビンゴマチ",
-    "street": "２丁目２−１（大阪東郵便局私書箱第３０号）",
+    "street": "２丁目２−１（大阪東郵便局私書箱第４１号）",
     "office_name": "株式会社　りそなホールディングス",
     "office_name_kana": "カブシキガイシヤ リソナホ-ルデイングス"
   },
@@ -2962,7 +2962,20 @@
       "city_kana": "オオサカシチュウオウク",
       "town": "備後町",
       "town_kana": "ビンゴマチ",
-      "street": "２丁目２−１（大阪東郵便局私書箱第４１号）",
+      "street": "２丁目２−１",
+      "office_name": "株式会社　関西みらいフィナンシャルグループ",
+      "office_name_kana": "カブシキガイシヤ カンサイミライフイナンシヤルグル-プ"
+    },
+    {
+      "postcode": "5408610",
+      "prefecture": "大阪府",
+      "prefecture_kana": "オオサカフ",
+      "prefecture_code": 27,
+      "city": "大阪市中央区",
+      "city_kana": "オオサカシチュウオウク",
+      "town": "備後町",
+      "town_kana": "ビンゴマチ",
+      "street": "２丁目２−１",
       "office_name": "株式会社　近畿大阪銀行",
       "office_name_kana": "カブシキガイシヤ キンキオオサカギンコウ"
     },
@@ -2975,7 +2988,7 @@
       "city_kana": "オオサカシチュウオウク",
       "town": "備後町",
       "town_kana": "ビンゴマチ",
-      "street": "２丁目２−１（大阪東郵便局私書箱第４１号）",
+      "street": "２丁目２−１",
       "office_name": "株式会社　りそな銀行　大阪本社",
       "office_name_kana": "カブシキガイシヤ リソナギンコウ オオサカホンシヤ"
     }
@@ -3005,6 +3018,19 @@
     "street": "４丁目６−５（大阪東郵便局私書箱第２１号）",
     "office_name": "株式会社　住友銀行　本店",
     "office_name_kana": "カブシキガイシヤ スミトモギンコウ ホンテン"
+  },
+  "8622": {
+    "postcode": "5408622",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市中央区",
+    "city_kana": "オオサカシチュウオウク",
+    "town": "城見",
+    "town_kana": "シロミ",
+    "street": "二丁目１番５号",
+    "office_name": "ケイ・オプティコムビル",
+    "office_name_kana": "ケイ・オプテイコムビル"
   },
   "8630": {
     "postcode": "5408630",
@@ -3135,19 +3161,6 @@
     "street": "４−１５（大阪東郵便局私書箱第１８３号）",
     "office_name": "村中医療器　株式会社",
     "office_name_kana": "ムラナカイリヨウキ カブシキガイシヤ"
-  },
-  "8689": {
-    "postcode": "5408689",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "prefecture_code": 27,
-    "city": "大阪市中央区",
-    "city_kana": "オオサカシチュウオウク",
-    "town": "久太郎町",
-    "town_kana": "キュウタロウマチ",
-    "street": "１丁目６番２９ＦＯＲＥＣＡＳＴ堺筋本町２Ｆ（大阪東郵便局私書箱第４４４号）",
-    "office_name": "双日ロジスティクス　株式会社",
-    "office_name_kana": "ソウジツロジステイクス カブシキガイシヤ"
   },
   "8795": {
     "postcode": "5408795",

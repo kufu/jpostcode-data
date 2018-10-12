@@ -1312,6 +1312,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0874": {
+    "postcode": "2770874",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "柏市",
+    "city_kana": "カシワシ",
+    "town": "柏インター南",
+    "town_kana": "カシワインターミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0881": {
     "postcode": "2770881",
     "prefecture": "千葉県",
@@ -1936,6 +1949,19 @@
     "office_name": "読売旅行　柏営業所",
     "office_name_kana": "ヨミウリリヨコウ カシワエイギヨウシヨ"
   },
+  "8569": {
+    "postcode": "2778569",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "柏市",
+    "city_kana": "カシワシ",
+    "town": "柏の葉",
+    "town_kana": "カシワノハ",
+    "street": "５−１−５",
+    "office_name": "東京大学　柏キャンパス　設備センター",
+    "office_name_kana": "トウキヨウダイガク カシワキヤンパス セツビセンタ-"
+  },
   "8570": {
     "postcode": "2778570",
     "prefecture": "千葉県",
@@ -1988,6 +2014,19 @@
     "office_name": "エディオン柏ＥＣ・ＴＣ第二",
     "office_name_kana": "エデイオンカシワイ-シ-・テイ-シ-ダイニ"
   },
+  "8574": {
+    "postcode": "2778574",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "柏市",
+    "city_kana": "カシワシ",
+    "town": "柏の葉",
+    "town_kana": "カシワノハ",
+    "street": "５−１−５",
+    "office_name": "東京大学　生産技術研究所　千葉実験所",
+    "office_name_kana": "トウキヨウダイガク セイサンギジユツケンキユウジヨ チバジツケンジヨ"
+  },
   "8577": {
     "postcode": "2778577",
     "prefecture": "千葉県",
@@ -2000,6 +2039,19 @@
     "street": "６丁目５−１",
     "office_name": "国立がんセンター東病院",
     "office_name_kana": "コクリツガンセンタ-ヒガシビヨウイン"
+  },
+  "8579": {
+    "postcode": "2778579",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "柏市",
+    "city_kana": "カシワシ",
+    "town": "青田新田飛地",
+    "town_kana": "アオタシンデントビチ",
+    "street": "字向割２５９−１",
+    "office_name": "株式会社　日立物流首都圏ＭＦＬＰ倉庫",
+    "office_name_kana": "カブシキガイシヤ ヒタチブツリユウシユトケンエムエフエルピ-ソウコ"
   },
   "8581": {
     "postcode": "2778581",
@@ -2026,6 +2078,19 @@
     "street": "５丁目１−５",
     "office_name": "東京大学　宇宙線研究所",
     "office_name_kana": "トウキヨウダイガク ウチユウセンケンキユウジヨ"
+  },
+  "8584": {
+    "postcode": "2778584",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "柏市",
+    "city_kana": "カシワシ",
+    "town": "柏の葉",
+    "town_kana": "カシワノハ",
+    "street": "５−１−５",
+    "office_name": "東京大学　柏図書館",
+    "office_name_kana": "トウキヨウダイガク カシワトシヨカン"
   },
   "8585": {
     "postcode": "2778585",

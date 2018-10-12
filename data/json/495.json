@@ -25,6 +25,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0003": {
+    "postcode": "4950003",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "稲沢市",
+    "city_kana": "イナザワシ",
+    "town": "祖父江町高熊西",
+    "town_kana": "ソブエチョウタカクマニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0011": {
     "postcode": "4950011",
     "prefecture": "愛知県",
@@ -292,11 +305,11 @@
     "prefecture_code": 23,
     "city": "稲沢市",
     "city_kana": "イナザワシ",
-    "town": "祖父江町上牧",
-    "town_kana": "ソブエチョウカンマキ",
-    "street": "下川田４５４番地",
+    "town": "祖父江町山崎",
+    "town_kana": "ソブエチョウヤマザキ",
+    "street": "鶴塚２７５番地１",
     "office_name": "稲沢市　祖父江支所",
-    "office_name_kana": "イナザワシ ソフエシシヨ"
+    "office_name_kana": "イナザワシ ソブエシシヨ"
   },
   "8517": {
     "postcode": "4958517",
@@ -333,8 +346,8 @@
     "city_kana": "イナザワシ",
     "town": "祖父江町祖父江",
     "town_kana": "ソブエチョウソブエ",
-    "street": "外平１５０番地（祖父江郵便局私書箱第２号）",
-    "office_name": "王子板紙　株式会社　祖父江工場",
-    "office_name_kana": "オウジイタガミ カブシキガイシヤ ソフエコウジヨウ"
+    "street": "外平１５０番地",
+    "office_name": "王子マテリア　株式会社　祖父江工場",
+    "office_name_kana": "オウジマテリア カブシキガイシヤ ソブエコウジヨウ"
   }
 }

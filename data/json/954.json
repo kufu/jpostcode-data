@@ -883,6 +883,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0091": {
+    "postcode": "9540091",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "見附市",
+    "city_kana": "ミツケシ",
+    "town": "美里町",
+    "town_kana": "ミサトマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0101": {
     "postcode": "9540101",
     "prefecture": "新潟県",
@@ -1805,6 +1818,19 @@
     "street": "１１０３−１（見附郵便局私書箱第１９号）",
     "office_name": "株式会社　近藤商店",
     "office_name_kana": "カブシキガイシヤ コンドウシヨウテン"
+  },
+  "8658": {
+    "postcode": "9548658",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "見附市",
+    "city_kana": "ミツケシ",
+    "town": "新幸町",
+    "town_kana": "シンコウチョウ",
+    "street": "５−８",
+    "office_name": "株式会社　スノーピーク",
+    "office_name_kana": "カブシキガイシヤ スノ-ピ-ク"
   },
   "8686": {
     "postcode": "9548686",

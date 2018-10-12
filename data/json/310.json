@@ -1548,6 +1548,19 @@
     "office_name": "茨城県信用組合",
     "office_name_kana": "イバラキケンシンヨウクミアイ"
   },
+  "8639": {
+    "postcode": "3108639",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "水戸市",
+    "city_kana": "ミトシ",
+    "town": "南町",
+    "town_kana": "ミナミマチ",
+    "street": "２−５−５",
+    "office_name": "日本銀行　水戸事務所",
+    "office_name_kana": "ニツポンギンコウ ミトジムシヨ"
+  },
   "8641": {
     "postcode": "3108641",
     "prefecture": "茨城県",

@@ -792,6 +792,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0082": {
+    "postcode": "9940082",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "prefecture_code": 6,
+    "city": "天童市",
+    "city_kana": "テンドウシ",
+    "town": "芳賀タウン北",
+    "town_kana": "ハガタウンキタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0083": {
+    "postcode": "9940083",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "prefecture_code": 6,
+    "city": "天童市",
+    "city_kana": "テンドウシ",
+    "town": "芳賀タウン南",
+    "town_kana": "ハガタウンミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0101": {
     "postcode": "9940101",
     "prefecture": "山形県",

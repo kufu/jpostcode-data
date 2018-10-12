@@ -1624,6 +1624,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8501": {
+    "postcode": "4558501",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市港区",
+    "city_kana": "ナゴヤシミナトク",
+    "town": "港明",
+    "town_kana": "コウメイ",
+    "street": "二丁目３番２号",
+    "office_name": "ららぽーと名古屋みなとアクルス",
+    "office_name_kana": "ララポ-トナゴヤミナトアクルス"
+  },
   "8505": {
     "postcode": "4558505",
     "prefecture": "愛知県",
@@ -1686,8 +1699,8 @@
     "town": "港明",
     "town_kana": "コウメイ",
     "street": "１丁目１０番６号",
-    "office_name": "独立行政法人　労働者健康福祉機構　中部労災病院",
-    "office_name_kana": "ドクリツギヨウセイホウジン ロウドウシヤケンコウフクシキコウ チユウブロウサイビヨウイン"
+    "office_name": "独立行政法人　労働者健康安全機構　中部労災病院",
+    "office_name_kana": "ドクリツギヨウセイホウジン ロウドウシヤケンコウアンゼンキコウ チユウブロウサイビヨウイン"
   },
   "8533": {
     "postcode": "4558533",
@@ -1793,6 +1806,19 @@
     "office_name": "ＬＥＧＯＬＡＮＤ　Ｊａｐａｎ　株式会社",
     "office_name_kana": "レゴランド ジヤパン カブシキガイシヤ"
   },
+  "8606": {
+    "postcode": "4558606",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市港区",
+    "city_kana": "ナゴヤシミナトク",
+    "town": "金城ふ頭",
+    "town_kana": "キンジョウフトウ",
+    "street": "２丁目７−１",
+    "office_name": "ＬＥＧＯＬＡＮＤ　Ｊａｐａｎ　Ｈｏｔｅｌ",
+    "office_name_kana": "レゴランド ジヤパン ホテル"
+  },
   "8610": {
     "postcode": "4558610",
     "prefecture": "愛知県",
@@ -1896,5 +1922,18 @@
     "street": "字源蔵池１２４",
     "office_name": "株式会社　正直屋",
     "office_name_kana": "カブシキガイシヤ シヨウジキヤ"
+  },
+  "8777": {
+    "postcode": "4558777",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市港区",
+    "city_kana": "ナゴヤシミナトク",
+    "town": "川園",
+    "town_kana": "カワソノ",
+    "street": "一丁目１１１番地",
+    "office_name": "株式会社　東京インテリア家具　名古屋本店",
+    "office_name_kana": "カブシキカイシヤ トウキヨウインテリアカグ ナゴヤホンテン"
   }
 }

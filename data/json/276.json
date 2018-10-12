@@ -456,6 +456,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0040": {
+    "postcode": "2760040",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "八千代市",
+    "city_kana": "ヤチヨシ",
+    "town": "緑が丘西",
+    "town_kana": "ミドリガオカニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0041": {
     "postcode": "2760041",
     "prefecture": "千葉県",

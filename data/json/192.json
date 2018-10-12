@@ -1299,6 +1299,19 @@
     "office_name": "八王子税務署",
     "office_name_kana": "ハチオウジゼイムシヨ"
   },
+  "0996": {
+    "postcode": "1920996",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "八王子市",
+    "city_kana": "ハチオウジシ",
+    "town": "みなみ野",
+    "town_kana": "ミナミノ",
+    "street": "４−３３−１",
+    "office_name": "株式会社　八王子エフエム",
+    "office_name_kana": "カブシキガイシヤ ハチオウジエフエム"
+  },
   "8501": {
     "postcode": "1928501",
     "prefecture": "東京都",
@@ -1611,6 +1624,19 @@
     "office_name": "（株）　関電工　多摩支店",
     "office_name_kana": "(カブ) カンデンコウ タマシテン"
   },
+  "8560": {
+    "postcode": "1928560",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "八王子市",
+    "city_kana": "ハチオウジシ",
+    "town": "石川町",
+    "town_kana": "イシカワマチ",
+    "street": "２９７０−３",
+    "office_name": "アマゾン八王子フルフィルメントセンター",
+    "office_name_kana": "アマゾンハチオウジフルフイルメントセンタ-"
+  },
   "8562": {
     "postcode": "1928562",
     "prefecture": "東京都",
@@ -1699,8 +1725,8 @@
     "town": "小門町",
     "town_kana": "オカドマチ",
     "street": "５３番地",
-    "office_name": "木住野商事　株式会社",
-    "office_name_kana": "キシノシヨウジ カブシキガイシヤ"
+    "office_name": "日本コンテック　株式会社　産業資材部",
+    "office_name_kana": "ニホンコンテツク カブシキガイシヤ サンギヨウシザイブ"
   },
   "8644": {
     "postcode": "1928644",

@@ -428,19 +428,6 @@
     "office_name": "株式会社　デザインファクトリー",
     "office_name_kana": "カブシキガイシヤ デザインフアクトリ-"
   },
-  "8527": {
-    "postcode": "2798527",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "prefecture_code": 12,
-    "city": "浦安市",
-    "city_kana": "ウラヤスシ",
-    "town": "舞浜",
-    "town_kana": "マイハマ",
-    "street": "３５−１",
-    "office_name": "株式会社　ベイフードサービス",
-    "office_name_kana": "カブシキガイシヤ ベイフ-トサ-ビス"
-  },
   "8529": {
     "postcode": "2798529",
     "prefecture": "千葉県",
@@ -466,6 +453,32 @@
     "street": "１",
     "office_name": "東京電力　株式会社　市川浦安営業所",
     "office_name_kana": "トウキヨウデンリヨク カブシキガイシヤ イチカワウラヤスエイギヨウシヨ"
+  },
+  "8531": {
+    "postcode": "2798531",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "浦安市",
+    "city_kana": "ウラヤスシ",
+    "town": "舞浜",
+    "town_kana": "マイハマ",
+    "street": "１−１",
+    "office_name": "株式会社　ＭＢＭ",
+    "office_name_kana": "カブシキガイシヤ エムビ-エム"
+  },
+  "8532": {
+    "postcode": "2798532",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "浦安市",
+    "city_kana": "ウラヤスシ",
+    "town": "美浜",
+    "town_kana": "ミハマ",
+    "street": "１−９−２パシフィックマークス新浦安４階",
+    "office_name": "株式会社　ＭＢＭ",
+    "office_name_kana": "カブシキガイシヤ エムビ-エム"
   },
   "8541": {
     "postcode": "2798541",
@@ -526,9 +539,9 @@
     "prefecture_code": 12,
     "city": "浦安市",
     "city_kana": "ウラヤスシ",
-    "town": "",
-    "town_kana": "",
-    "street": "東野８−１１−１",
+    "town": "東野",
+    "town_kana": "ヒガシノ",
+    "street": "３−１１−１",
     "office_name": "東海大学付属　浦安高等学校",
     "office_name_kana": "トウカイダイガクフゾク ウラヤスコウトウガツコウ"
   },

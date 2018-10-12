@@ -1652,6 +1652,19 @@
     "office_name": "新潟地方法務局",
     "office_name_kana": "ニイガタチホウホウムキヨク"
   },
+  "8507": {
+    "postcode": "9518507",
+    "prefecture": "新潟県",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "新潟市中央区",
+    "city_kana": null,
+    "town": "西堀前通６番町",
+    "town_kana": null,
+    "street": "８９４番地１",
+    "office_name": "新潟地下開発　株式会社",
+    "office_name_kana": "ニイガタチカカイハツ カブシキガイシヤ"
+  },
   "8508": {
     "postcode": "9518508",
     "prefecture": "新潟県",
@@ -1856,9 +1869,9 @@
     "city_kana": "ニイガタシチュウオウク",
     "town": "関新",
     "town_kana": "セキシン",
-    "street": "２丁目１−５３",
-    "office_name": "ミサワホーム信越　株式会社",
-    "office_name_kana": "ミサワホ-ムシンエツ カブシキガイシヤ"
+    "street": "２丁目１番５３号",
+    "office_name": "ミサワホーム北越　株式会社",
+    "office_name_kana": "ミサワホ-ムホクエツ カブシキガイシヤ"
   },
   "8535": {
     "postcode": "9518535",
@@ -1935,8 +1948,8 @@
     "town": "学校町通１番町",
     "town_kana": null,
     "street": "６０２−１",
-    "office_name": "新潟市中央区役所",
-    "office_name_kana": "ニイガタシチユウオウクヤクシヨ"
+    "office_name": "新潟市役所",
+    "office_name_kana": "ニイガタシヤクシヨ"
   },
   "8551": {
     "postcode": "9518551",
@@ -1958,11 +1971,24 @@
     "prefecture_code": null,
     "city": "新潟市中央区",
     "city_kana": null,
-    "town": "学校町通１番町",
+    "town": "西堀通６番町",
     "town_kana": null,
-    "street": "６０２番地１",
+    "street": "８６６番地",
     "office_name": "新潟市郵送証明センター",
     "office_name_kana": "ニイガタシユウソウシヨウメイセンタ-"
+  },
+  "8553": {
+    "postcode": "9518553",
+    "prefecture": "新潟県",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "新潟市中央区",
+    "city_kana": null,
+    "town": "西堀通６番町",
+    "town_kana": null,
+    "street": "８６６番地",
+    "office_name": "新潟市中央区役所",
+    "office_name_kana": "ニイガタシチユウオウクヤクシヨ"
   },
   "8555": {
     "postcode": "9518555",
@@ -2210,6 +2236,19 @@
     "street": "２９４−１（新潟中郵便局私書箱第１２９号）",
     "office_name": "新潟県　農業団体健康保険組合",
     "office_name_kana": "ニイガタケン ノウギヨウダンタイケンコウホケンクミアイ"
+  },
+  "8630": {
+    "postcode": "9518630",
+    "prefecture": "新潟県",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "新潟市中央区",
+    "city_kana": null,
+    "town": "上大川前通六番町",
+    "town_kana": null,
+    "street": "１１７８番地の１",
+    "office_name": "三井住友信託銀行　株式会社　新潟支店",
+    "office_name_kana": "ミツイスミトモシンタクギンコウ カブシキガイシヤ ニイガタシテン"
   },
   "8632": {
     "postcode": "9518632",

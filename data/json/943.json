@@ -3808,6 +3808,19 @@
     "office_name": "上越地域振興局",
     "office_name_kana": "ジヨウエツチイキシンコウキヨク"
   },
+  "8552": {
+    "postcode": "9438552",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "上越市",
+    "city_kana": "ジョウエツシ",
+    "town": "南城町",
+    "town_kana": "ミナミシロチョウ",
+    "street": "３丁目３−８",
+    "office_name": "新潟県立高田南城高等学校",
+    "office_name_kana": "ニイガタケンリツタカダミナミシロコウトウガツコウ"
+  },
   "8555": {
     "postcode": "9438555",
     "prefecture": "新潟県",

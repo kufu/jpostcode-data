@@ -320,9 +320,9 @@
     "city_kana": "オオサカシチュウオウク",
     "town": "淡路町",
     "town_kana": "アワジマチ",
-    "street": "２丁目３−９",
-    "office_name": "ＧＥコンシューマーファイナンス　株式会社",
-    "office_name_kana": "ジ-イ-コンシユ-マ-フアイナンス カブシキガイシヤ"
+    "street": "２−３−９",
+    "office_name": "新生フィナンシャル　株式会社",
+    "office_name_kana": "シンセイフイナンシヤル カブシキガイシヤ"
   },
   "8511": {
     "postcode": "5418511",
@@ -502,9 +502,9 @@
     "city_kana": "オオサカシチュウオウク",
     "town": "伏見町",
     "town_kana": "フシミマチ",
-    "street": "３丁目５−６",
-    "office_name": "株式会社　三菱東京ＵＦＪ銀行　大阪事務センター",
-    "office_name_kana": "カブシキガイシヤ ミツビシトウキヨウユ-エフジエイギンコウ オオサカジムセンタ-"
+    "street": "３−５−６",
+    "office_name": "株式会社　三菱ＵＦＪ銀行　大阪事務センター",
+    "office_name_kana": "カ) ミツビシユ-エフジエイギンコウ オオサカジムセンタ-"
   },
   "8531": {
     "postcode": "5418531",
@@ -740,6 +740,19 @@
       "town": "今橋",
       "town_kana": "イマバシ",
       "street": "３丁目３番１３号",
+      "office_name": "神州一味噌　株式会社",
+      "office_name_kana": "シンシユウイチミソ カブシキガイシヤ"
+    },
+    {
+      "postcode": "5418553",
+      "prefecture": "大阪府",
+      "prefecture_kana": "オオサカフ",
+      "prefecture_code": 27,
+      "city": "大阪市中央区",
+      "city_kana": "オオサカシチュウオウク",
+      "town": "今橋",
+      "town_kana": "イマバシ",
+      "street": "３丁目３番１３号",
       "office_name": "スターネット　株式会社　近畿圏支社",
       "office_name_kana": "スタ-ネツト カブシキガイシヤ キンキケンシシヤ"
     },
@@ -822,6 +835,19 @@
     "office_name": "日本板硝子　株式会社",
     "office_name_kana": "ニホンイタガラス カブシキガイシヤ"
   },
+  "8560": {
+    "postcode": "5418560",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市中央区",
+    "city_kana": "オオサカシチュウオウク",
+    "town": "淡路町",
+    "town_kana": "アワジマチ",
+    "street": "３−１−９",
+    "office_name": "兼松　株式会社　大阪支社",
+    "office_name_kana": "カネマツ カブシキガイシヤ オオサカシシヤ"
+  },
   "8563": {
     "postcode": "5418563",
     "prefecture": "大阪府",
@@ -831,9 +857,9 @@
     "city_kana": "オオサカシチュウオウク",
     "town": "瓦町",
     "town_kana": "カワラマチ",
-    "street": "３丁目１−１５",
-    "office_name": "旭洋紙パルプ　株式会社",
-    "office_name_kana": "キヨクヨウカミパルプ カブシキガイシヤ"
+    "street": "３−１−１５",
+    "office_name": "旭洋　株式会社",
+    "office_name_kana": "キヨクヨウ カブシキガイシヤ"
   },
   "8566": {
     "postcode": "5418566",

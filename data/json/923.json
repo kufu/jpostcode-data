@@ -4291,8 +4291,8 @@
     "town": "四丁町",
     "town_kana": "シチョウマチ",
     "street": "ヌ１−３",
-    "office_name": "小松短期大学",
-    "office_name_kana": "コマツタンキダイガク"
+    "office_name": "公立大学法人　公立小松大学",
+    "office_name_kana": "コウリツダイガクホウジン コウリツコマツダイガク"
   },
   "8520": {
     "postcode": "9238520",
@@ -4515,6 +4515,19 @@
     "office_name": "小松市民病院",
     "office_name_kana": "コマツシミンビヨウイン"
   },
+  "8565": {
+    "postcode": "9238565",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "小松市",
+    "city_kana": "コマツシ",
+    "town": "",
+    "town_kana": "",
+    "street": "沖周辺土地区画整理事業区域内２０街区",
+    "office_name": "イオンモール新小松",
+    "office_name_kana": "イオンモ-ルシンコマツ"
+  },
   "8566": {
     "postcode": "9238566",
     "prefecture": "石川県",
@@ -4603,8 +4616,8 @@
     "town": "里川町",
     "town_kana": "サトカワマチ",
     "street": "ナ２３",
-    "office_name": "ブリヂストン北陸化成　株式会社",
-    "office_name_kana": "ブリヂストンホクリクカセイ カブシキガイシヤ"
+    "office_name": "株式会社　ブリヂストンＥＭＫ",
+    "office_name_kana": "カブシキガイシヤ ブリヂストンイ-エムケ-"
   },
   "8581": {
     "postcode": "9238581",
@@ -4696,19 +4709,6 @@
     "street": "ハ３６−１",
     "office_name": "小松織物工業協同組合",
     "office_name_kana": "コマツオリモノコウギヨウキヨウドウクミアイ"
-  },
-  "8608": {
-    "postcode": "9238608",
-    "prefecture": "石川県",
-    "prefecture_kana": "イシカワケン",
-    "prefecture_code": 17,
-    "city": "小松市",
-    "city_kana": "コマツシ",
-    "town": "土居原町",
-    "town_kana": "ドイハラマチ",
-    "street": "１０番１０号",
-    "office_name": "株式会社　大和　小松店",
-    "office_name_kana": "カブシキガイシヤ ダイワ コマツテン"
   },
   "8609": {
     "postcode": "9238609",
@@ -4839,6 +4839,19 @@
     "street": "２０",
     "office_name": "小松鋼機　株式会社",
     "office_name_kana": "コマツコウキ カブシキガイシヤ"
+  },
+  "8640": {
+    "postcode": "9238640",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "小松市",
+    "city_kana": "コマツシ",
+    "town": "土居原町",
+    "town_kana": "ドイハラマチ",
+    "street": "１０−１０",
+    "office_name": "Ｋｏｍａｔｓｕ　Ａ×Ｚ　Ｓｑｕａｒｅ",
+    "office_name_kana": "コマツ アズ スクエア"
   },
   "8642": {
     "postcode": "9238642",

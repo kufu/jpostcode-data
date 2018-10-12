@@ -1425,6 +1425,45 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0282": {
+    "postcode": "7710282",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "prefecture_code": 36,
+    "city": "板野郡北島町",
+    "city_kana": "イタノグンキタジマチョウ",
+    "town": "高房",
+    "town_kana": "タカボウ",
+    "street": "字居内１−１大鵬薬品工業株式会社北島工業厚生・事務棟",
+    "office_name": "大塚ホールデングス　株式会社　大塚ビジネスサポートセンター",
+    "office_name_kana": "オオツカホ-ルデイングス カブシキガイシヤ オオツカビジネスサポ-トセンタ-"
+  },
+  "0283": {
+    "postcode": "7710283",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "prefecture_code": 36,
+    "city": "板野郡北島町",
+    "city_kana": "イタノグンキタジマチョウ",
+    "town": "高房",
+    "town_kana": "タカボウ",
+    "street": "字居内１−１",
+    "office_name": "はーとふる川内　株式会社",
+    "office_name_kana": "ハ-トフルカワウチ カブシキガイシヤ"
+  },
+  "0284": {
+    "postcode": "7710284",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "prefecture_code": 36,
+    "city": "板野郡北島町",
+    "city_kana": "イタノグンキタジマチョウ",
+    "town": "高房",
+    "town_kana": "タカボウ",
+    "street": "字居内１−１",
+    "office_name": "大塚製薬健康保険組合",
+    "office_name_kana": "オオツカセイヤクケンコウホケンクミアイ"
+  },
   "0285": {
     "postcode": "7710285",
     "prefecture": "徳島県",

@@ -778,5 +778,18 @@
     "street": "１０（富士郵便局私書箱第３５号）",
     "office_name": "大興製紙　株式会社",
     "office_name_kana": "タイコウセイシ カブシキガイシヤ"
+  },
+  "8686": {
+    "postcode": "4168686",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "富士市",
+    "city_kana": "フジシ",
+    "town": "本市場",
+    "town_kana": "モトイチバ",
+    "street": "４４１番地の１",
+    "office_name": "富士市　上下水道部",
+    "office_name_kana": "フジシ ジヨウゲスイドウブ"
   }
 }

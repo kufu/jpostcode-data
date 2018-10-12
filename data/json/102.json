@@ -298,6 +298,19 @@
     "office_name": "株式会社　マッグガーデン",
     "office_name_kana": "カブシキガイシヤ マツグガ-デン"
   },
+  "8022": {
+    "postcode": "1028022",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "麹町",
+    "town_kana": "コウジマチ",
+    "street": "１丁目６番４号",
+    "office_name": "ＳＡＰジャパン　株式会社",
+    "office_name_kana": "エスエ-ピ-ジヤパン カブシキガイシヤ"
+  },
   "8024": {
     "postcode": "1028024",
     "prefecture": "東京都",
@@ -571,6 +584,19 @@
     "office_name": "大和ハウス工業　株式会社",
     "office_name_kana": "ダイワハウスコウギヨウ カブシキガイシヤ"
   },
+  "8113": {
+    "postcode": "1028113",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "飯田橋",
+    "town_kana": "イイダバシ",
+    "street": "３−１０−３東京しごとセンター７階",
+    "office_name": "東京都職業能力開発協会",
+    "office_name_kana": "トウキヨウトシヨクギヨウノウリヨクカイハツキヨウカイ"
+  },
   "8115": {
     "postcode": "1028115",
     "prefecture": "東京都",
@@ -671,7 +697,7 @@
     "city_kana": "チヨダク",
     "town": "飯田橋",
     "town_kana": "イイダバシ",
-    "street": "１丁目１２−５",
+    "street": "３丁目３番７号",
     "office_name": "セントラル総合開発　株式会社",
     "office_name_kana": "セントラルソウゴウカイハツ カブシキガイシヤ"
   },
@@ -882,6 +908,19 @@
     "street": "２丁目１０−４１",
     "office_name": "東京警察病院",
     "office_name_kana": "トウキヨウケイサツビヨウイン"
+  },
+  "8163": {
+    "postcode": "1028163",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "富士見",
+    "town_kana": "フジミ",
+    "street": "１−６−１富士見ビル７Ｆ",
+    "office_name": "株式会社　ムービーウォーカー",
+    "office_name_kana": "カブシキガイシヤ ム-ビ-ウオ-カ-"
   },
   "8166": {
     "postcode": "1028166",
@@ -1130,19 +1169,6 @@
     "office_name": "前田建設工業　株式会社　関東支社・東京支店",
     "office_name_kana": "マエダケンセツコウギヨウ カブシキカイシヤ カントウシシヤ.トウキヨウシテン"
   },
-  "8218": {
-    "postcode": "1028218",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "九段北",
-    "town_kana": "クダンキタ",
-    "street": "１丁目６−４日新ビル５Ｆ",
-    "office_name": "日本中国語検定協会",
-    "office_name_kana": "ニホンチユウゴクゴケンテイキヨウカイ"
-  },
   "8221": {
     "postcode": "1028221",
     "prefecture": "東京都",
@@ -1285,6 +1311,19 @@
     "street": "１丁目１２−３０",
     "office_name": "社団法人　建設荷役車両安全技術協会",
     "office_name_kana": "シヤダンホウジン ケンセツニヤクシヤリヨウアンゼンギジユツキヨウカイ"
+  },
+  "8235": {
+    "postcode": "1028235",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "九段南",
+    "town_kana": "クダンミナミ",
+    "street": "１丁目３番１号",
+    "office_name": "日本電子計算　株式会社",
+    "office_name_kana": "ニホンデンシケイサン カブシキガイシヤ"
   },
   "8236": {
     "postcode": "1028236",
@@ -1442,6 +1481,19 @@
     "office_name": "日本鉄鋼建材リース　株式会社",
     "office_name_kana": "ニホンテツコウケンザイリ-ス カブシキガイシヤ"
   },
+  "8273": {
+    "postcode": "1028273",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "九段南",
+    "town_kana": "クダンミナミ",
+    "street": "４−８−１６ゼンセン同盟会館内",
+    "office_name": "ＵＡゼンセン",
+    "office_name_kana": "ユ-エイゼンセン"
+  },
   "8275": {
     "postcode": "1028275",
     "prefecture": "東京都",
@@ -1598,19 +1650,6 @@
     "office_name": "丸紅インフォテック　株式会社",
     "office_name_kana": "マルベニインフオテツク カブシキガイシヤ"
   },
-  "8320": {
-    "postcode": "1028320",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "九段南",
-    "town_kana": "クダンミナミ",
-    "street": "２丁目３−１８",
-    "office_name": "株式会社　トヨタレンタリース東京",
-    "office_name_kana": "カブシキガイシヤ トヨタレンタリ-ストウキヨウ"
-  },
   "8321": {
     "postcode": "1028321",
     "prefecture": "東京都",
@@ -1688,19 +1727,6 @@
     "street": "６−５",
     "office_name": "三喜商事　株式会社",
     "office_name_kana": "サンキシヨウジ カブシキガイシヤ"
-  },
-  "8335": {
-    "postcode": "1028335",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "三番町",
-    "town_kana": "サンバンチョウ",
-    "street": "３０−２財協ビル",
-    "office_name": "一般財団法人　大蔵財務協会",
-    "office_name_kana": "イツパンザイダンホウジン オオクラザイムキヨウカイ"
   },
   "8336": {
     "postcode": "1028336",
@@ -2010,9 +2036,9 @@
     "city_kana": "チヨダク",
     "town": "一番町",
     "town_kana": "イチバンチョウ",
-    "street": "１９",
-    "office_name": "社団法人　全国農業共済協会",
-    "office_name_kana": "シヤダンホウジン ゼンコクノウギヨウキヨウサイキヨウカイ"
+    "street": "１９番地",
+    "office_name": "公益社団法人　全国農業共済協会",
+    "office_name_kana": "コウエキシヤダンホウジン ゼンコクノウギヨウキヨウサイキヨウカイ"
   },
   "8414": {
     "postcode": "1028414",
@@ -2060,11 +2086,11 @@
     "prefecture_code": 13,
     "city": "千代田区",
     "city_kana": "チヨダク",
-    "town": "一番町",
-    "town_kana": "イチバンチョウ",
-    "street": "１０オーロラビル",
+    "town": "麹町",
+    "town_kana": "コウジマチ",
+    "street": "１丁目７番２号相互半蔵門ビル４階",
     "office_name": "オーロラ　株式会社",
-    "office_name_kana": "オ-ロラ カブシキカイシヤ"
+    "office_name_kana": "オ-ロラ カブシキガイシヤ"
   },
   "8421": {
     "postcode": "1028421",
@@ -2599,6 +2625,19 @@
     "office_name": "松井証券　株式会社",
     "office_name_kana": "マツイシヨウケン カブシキガイシヤ"
   },
+  "8519": {
+    "postcode": "1028519",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "麹町",
+    "town_kana": "コウジマチ",
+    "street": "４丁目２番地６住友不動産麹町ファーストビル",
+    "office_name": "株式会社　ポプラ社",
+    "office_name_kana": "カブシキガイシヤ ポプラシヤ"
+  },
   "8520": {
     "postcode": "1028520",
     "prefecture": "東京都",
@@ -2624,6 +2663,19 @@
     "street": "３−８泉館三番町",
     "office_name": "株式会社　協同宣伝",
     "office_name_kana": "カブシキガイシヤ キヨウドウセンデン"
+  },
+  "8525": {
+    "postcode": "1028525",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "紀尾井町",
+    "town_kana": "キオイチョウ",
+    "street": "１−３東京ガーデンテラス紀尾井町紀尾井タワー",
+    "office_name": "メットライフ生命保険　株式会社",
+    "office_name_kana": "メツトライフセイメイホケン カブシキガイシヤ"
   },
   "8528": {
     "postcode": "1028528",
@@ -2814,11 +2866,11 @@
     "prefecture_code": 13,
     "city": "千代田区",
     "city_kana": "チヨダク",
-    "town": "紀尾井町",
-    "town_kana": "キオイチョウ",
-    "street": "３−２７",
-    "office_name": "社団法人　全国自治体病院協議会",
-    "office_name_kana": "シヤダンホウジン ゼンコクジチタイビヨウインキヨウギカイ"
+    "town": "平河町",
+    "town_kana": "ヒラカワチョウ",
+    "street": "２丁目７番５号砂防会館本館７階",
+    "office_name": "公益社団法人　全国自治体病院協議会",
+    "office_name_kana": "コウエキシヤダンホウジン ゼンコクジチタイビヨウインキヨウギカイ"
   },
   "8557": {
     "postcode": "1028557",
@@ -3165,9 +3217,9 @@
     "prefecture_code": 13,
     "city": "千代田区",
     "city_kana": "チヨダク",
-    "town": "平河町",
-    "town_kana": "ヒラカワチョウ",
-    "street": "２丁目１０−１",
+    "town": "麹町",
+    "town_kana": "コウジマチ",
+    "street": "１−７相互半蔵門ビル２Ｆ",
     "office_name": "株式会社　水中造形センター",
     "office_name_kana": "カブシキガイシヤ スイチユウゾウケイセンタ-"
   },
@@ -3206,9 +3258,9 @@
     "city_kana": "チヨダク",
     "town": "九段南",
     "town_kana": "クダンミナミ",
-    "street": "３丁目５−９",
-    "office_name": "株式会社　ディー・エム・ジェイ",
-    "office_name_kana": "カブシキカイシヤ デイ-.エム.ジエイ"
+    "street": "３丁目５番９号",
+    "office_name": "株式会社　ディーエムジェイ",
+    "office_name_kana": "カブシキガイシヤ デイ-エムジエイ"
   },
   "8618": {
     "postcode": "1028618",
@@ -3297,9 +3349,9 @@
     "city_kana": "チヨダク",
     "town": "九段南",
     "town_kana": "クダンミナミ",
-    "street": "３丁目５−９",
-    "office_name": "株式会社　日本通信教育連合会",
-    "office_name_kana": "カブシキカイシヤ ニホンツウシンキヨウイクレンゴウカイ"
+    "street": "３丁目５番９号",
+    "office_name": "株式会社　全日本通教",
+    "office_name_kana": "カブシキガイシヤ ゼンニホンツウキヨウ"
   },
   "8628": {
     "postcode": "1028628",
@@ -3388,9 +3440,9 @@
     "city_kana": "チヨダク",
     "town": "九段南",
     "town_kana": "クダンミナミ",
-    "street": "３丁目５−９",
-    "office_name": "株式会社　日本通信販売連合会",
-    "office_name_kana": "カブシキカイシヤ ニホンツウシンハンバイレンゴウカイ"
+    "street": "３丁目５番９号",
+    "office_name": "株式会社　全日本通販",
+    "office_name_kana": "カブシキガイシヤ ゼンニホンツウハン"
   },
   "8639": {
     "postcode": "1028639",
@@ -3401,7 +3453,7 @@
     "city_kana": "チヨダク",
     "town": "平河町",
     "town_kana": "ヒラカワチョウ",
-    "street": "１丁目６−８平河町貝坂ビル",
+    "street": "２−７−５砂防会館４Ｆ",
     "office_name": "あしなが育英会",
     "office_name_kana": "アシナガイクエイカイ"
   },
@@ -3417,6 +3469,19 @@
     "street": "２丁目７−４",
     "office_name": "株式会社　ユーラシア旅行社",
     "office_name_kana": "カブシキガイシヤ ユ-ラシアリヨコウシヤ"
+  },
+  "8643": {
+    "postcode": "1028643",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "平河町",
+    "town_kana": "ヒラカワチョウ",
+    "street": "２−１３−１２",
+    "office_name": "公益財団法人　日本生産性本部",
+    "office_name_kana": "コウエキザイダンホウジン ニホンセイサンセイホンブ"
   },
   "8644": {
     "postcode": "1028644",
@@ -3503,9 +3568,9 @@
     "prefecture_code": 13,
     "city": "千代田区",
     "city_kana": "チヨダク",
-    "town": "九段南",
-    "town_kana": "クダンミナミ",
-    "street": "１丁目３−１（麹町郵便局私書箱第７号）",
+    "town": "麹町",
+    "town_kana": "コウジマチ",
+    "street": "６−１−１（麹町郵便局私書箱第７号）",
     "office_name": "株式会社　あおぞら銀行",
     "office_name_kana": "カブシキガイシヤ アオゾラギンコウ"
   },
@@ -3651,6 +3716,19 @@
     "street": "１５−２１（麹町郵便局私書箱第４４号）",
     "office_name": "株式会社　第一学習社",
     "office_name_kana": "カブシキガイシヤ ダイイチガクシユウシヤ"
+  },
+  "8730": {
+    "postcode": "1028730",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "麹町",
+    "town_kana": "コウジマチ",
+    "street": "３丁目６番地住友不動産麹町ビル３号館",
+    "office_name": "ダイトロン　株式会社",
+    "office_name_kana": "ダイトロン カブシキガイシヤ"
   },
   "8795": {
     "postcode": "1028795",

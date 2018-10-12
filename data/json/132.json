@@ -272,6 +272,19 @@
     "office_name": "江戸川保健所",
     "office_name_kana": "エドガワホケンジヨ"
   },
+  "8515": {
+    "postcode": "1328515",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江戸川区",
+    "city_kana": "エドガワク",
+    "town": "松江",
+    "town_kana": "マツエ",
+    "street": "１−６−２２イー・ロジット東京ＦＣ",
+    "office_name": "株式会社　イー・ロジット　東京フルフィルメントセンター",
+    "office_name_kana": "カブシキガイシヤ イ-・ロジツト トウキヨウフルフイルメントセンタ-"
+  },
   "8533": {
     "postcode": "1328533",
     "prefecture": "東京都",

@@ -482,6 +482,19 @@
     "office_name": "生活協同組合　東京マイコープ",
     "office_name_kana": "セイカツキヨウドウクミアイ トウキヨウマイコ-プ"
   },
+  "8510": {
+    "postcode": "2068510",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "多摩市",
+    "city_kana": "タマシ",
+    "town": "鶴牧",
+    "town_kana": "ツルマキ",
+    "street": "２丁目１−１",
+    "office_name": "東京海上日動火災保険　株式会社",
+    "office_name_kana": "トウキヨウカイジヨウニチドウカサイホケン カブシキガイシヤ"
+  },
   "8511": {
     "postcode": "2068511",
     "prefecture": "東京都",

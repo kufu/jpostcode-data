@@ -2180,6 +2180,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1234": {
+    "postcode": "6781234",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "赤穂郡上郡町",
+    "city_kana": "アコウグンカミゴオリチョウ",
+    "town": "駅前",
+    "town_kana": "エキマエ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1241": {
     "postcode": "6781241",
     "prefecture": "兵庫県",

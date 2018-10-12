@@ -6412,9 +6412,9 @@
     "city_kana": "リットウシ",
     "town": "六地蔵",
     "town_kana": "ロクジゾウ",
-    "street": "１３０",
-    "office_name": "三菱重工業　株式会社　工作機械事業部",
-    "office_name_kana": "ミツビシジユウコウギヨウ カブシキガイシヤ コウサクキカイジギヨウブ"
+    "street": "１３０番地",
+    "office_name": "三菱重工工作機械　株式会社",
+    "office_name_kana": "ミツビシジユウコウコウサクキカイ カブシキガイシヤ"
   },
   "3081": {
     "postcode": "5203081",
@@ -7023,6 +7023,19 @@
     "city_kana": "コナンシ",
     "town": "平松北",
     "town_kana": "ヒラマツキタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "3237": {
+    "postcode": "5203237",
+    "prefecture": "滋賀県",
+    "prefecture_kana": "シガケン",
+    "prefecture_code": 25,
+    "city": "湖南市",
+    "city_kana": "コナンシ",
+    "town": "柑子袋西",
+    "town_kana": "コウジブクロニシ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -8011,7 +8024,7 @@
     "city_kana": "オオツシ",
     "town": "京町",
     "town_kana": "キョウマチ",
-    "street": "４丁目３８滋賀合同ビル内",
+    "street": "四丁目３番２８号滋賀県厚生会館別館４Ｆ",
     "office_name": "滋賀県市町村職員共済組合",
     "office_name_kana": "シガケンシチヨウソンシヨクインキヨウサイクミアイ"
   },

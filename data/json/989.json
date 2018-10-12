@@ -9358,6 +9358,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "5509": {
+    "postcode": "9895509",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "栗原市",
+    "city_kana": "クリハラシ",
+    "town": "若柳大林新寺浦",
+    "town_kana": "ワカヤナギオオハヤシシンテラウラ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "5592": {
     "postcode": "9895592",
     "prefecture": "宮城県",

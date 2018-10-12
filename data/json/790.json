@@ -2298,9 +2298,9 @@
     "prefecture_code": 38,
     "city": "松山市",
     "city_kana": "マツヤマシ",
-    "town": "三番町",
-    "town_kana": "サンバンチョウ",
-    "street": "７丁目１−２１ジブラルタ生命松山ビル",
+    "town": "千舟町",
+    "town_kana": "チフネマチ",
+    "street": "４丁目６−３アヴァンサ千舟",
     "office_name": "全国健康保険協会　愛媛支部",
     "office_name_kana": "ゼンコクケンコウホケンキヨウカイ エヒメシブ"
   },
@@ -2678,8 +2678,8 @@
     "town": "味酒町",
     "town_kana": "ミサケマチ",
     "street": "１丁目３番地",
-    "office_name": "ＮＥＣシステムテクノロジー　株式会社",
-    "office_name_kana": "エヌイ-シ-システムテクノロジ-"
+    "office_name": "ＮＥＣ松山テクノセンター",
+    "office_name_kana": "エヌイ-シ-マツヤマテクノセンタ-"
   },
   "8601": {
     "postcode": "7908601",

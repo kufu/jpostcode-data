@@ -246,19 +246,6 @@
     "office_name": "学校法人　日本工業大学",
     "office_name_kana": "ガツコウホウジン ニホンコウギヨウダイガク"
   },
-  "8509": {
-    "postcode": "1538509",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "目黒区",
-    "city_kana": "メグロク",
-    "town": "東山",
-    "town_kana": "ヒガシヤマ",
-    "street": "３丁目８−１",
-    "office_name": "東急ファシリティサービス　株式会社",
-    "office_name_kana": "トウキユウフアシリテイサ-ビス カブシキガイシヤ"
-  },
   "8510": {
     "postcode": "1538510",
     "prefecture": "東京都",
@@ -294,9 +281,9 @@
     "city_kana": "メグロク",
     "town": "大橋",
     "town_kana": "オオハシ",
-    "street": "２丁目１７−６",
-    "office_name": "東邦大学医学部付属　大橋病院",
-    "office_name_kana": "トウホウダイガクイガクブフゾク オオハシビヨウイン"
+    "street": "２−２２−３６",
+    "office_name": "東邦大学医療センター　大橋病院",
+    "office_name_kana": "トウホウダイガクイリヨウセンタ- オオハシビヨウイン"
   },
   "8516": {
     "postcode": "1538516",
@@ -636,19 +623,6 @@
     "office_name": "株式会社　カイタックインターナショナル",
     "office_name_kana": "カブシキガイシヤ カイタツクインタ-ナシヨナル"
   },
-  "8566": {
-    "postcode": "1538566",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "目黒区",
-    "city_kana": "メグロク",
-    "town": "東山",
-    "town_kana": "ヒガシヤマ",
-    "street": "３丁目７−１",
-    "office_name": "東急ファシリティサービス　株式会社",
-    "office_name_kana": "トウキユウフアシリテイサ-ビス カブシキガイシヤ"
-  },
   "8567": {
     "postcode": "1538567",
     "prefecture": "東京都",
@@ -934,19 +908,6 @@
     "street": "２丁目１−２７",
     "office_name": "全国酒販会館",
     "office_name_kana": "ゼンコクシユハンカイカン"
-  },
-  "8648": {
-    "postcode": "1538648",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "目黒区",
-    "city_kana": "メグロク",
-    "town": "中目黒",
-    "town_kana": "ナカメグロ",
-    "street": "２丁目２−１",
-    "office_name": "防衛庁　防衛研究所",
-    "office_name_kana": "ボウエイチヨウ ボウエイケンキユウシヨ"
   },
   "8650": {
     "postcode": "1538650",

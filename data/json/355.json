@@ -116,6 +116,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0009": {
+    "postcode": "3550009",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "東松山市",
+    "city_kana": "ヒガシマツヤマシ",
+    "town": "仲田町",
+    "town_kana": "ナカダチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0010": {
+    "postcode": "3550010",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "東松山市",
+    "city_kana": "ヒガシマツヤマシ",
+    "town": "美原町",
+    "town_kana": "ミハラチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0011": {
     "postcode": "3550011",
     "prefecture": "埼玉県",

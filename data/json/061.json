@@ -2937,7 +2937,7 @@
     "city_kana": "サッポロシミナミク",
     "town": "藤野五条",
     "town_kana": "フジノ5ジョウ",
-    "street": "１０丁目４７８−１",
+    "street": "１０丁目１番１号",
     "office_name": "北海道札幌南陵高等学校",
     "office_name_kana": "ホツカイドウサツポロナンリヨウコウトウガツコウ"
   },
@@ -4441,5 +4441,18 @@
     "street": null,
     "office_name": null,
     "office_name_kana": null
+  },
+  "8501": {
+    "postcode": "0618501",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "北広島市",
+    "city_kana": "キタヒロシマシ",
+    "town": "大曲工業団地",
+    "town_kana": "オオマガリコウギョウダンチ",
+    "street": "２−５−６",
+    "office_name": "アマゾン札幌フルフィルメントセンター",
+    "office_name_kana": "アマゾンサツポロフルフイルメントセンタ-"
   }
 }

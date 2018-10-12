@@ -987,6 +987,19 @@
     "office_name": "株式会社　ムロコーポレーション",
     "office_name_kana": "カブシキガイシヤ ムロコ-ポレ-シヨン"
   },
+  "8521": {
+    "postcode": "4468521",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "安城市",
+    "city_kana": "アンジョウシ",
+    "town": "高棚町",
+    "town_kana": "タカタナチョウ",
+    "street": "土井ノ内１２３番地",
+    "office_name": "ユケン工業　株式会社　高棚工場",
+    "office_name_kana": "ユケンコウギヨウ カブシキガイシヤ タカタナコウジヨウ"
+  },
   "8522": {
     "postcode": "4468522",
     "prefecture": "愛知県",

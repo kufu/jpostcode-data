@@ -466,5 +466,18 @@
     "street": "１１８０",
     "office_name": "国立療養所　近畿中央病院",
     "office_name_kana": "コクリツリヨウヨウシヨ キンキチユウオウビヨウイン"
+  },
+  "8701": {
+    "postcode": "5918701",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "堺市北区",
+    "city_kana": "サカイシキタク",
+    "town": "百舌鳥赤畑町",
+    "town_kana": "モズアカハタチョウ",
+    "street": "１丁３番地１",
+    "office_name": "堺市市民税管理課　特別徴収係",
+    "office_name_kana": "サカイシシミンゼイカンリカ トクベツチヨウシユウカカリ"
   }
 }

@@ -2313,6 +2313,19 @@
     "office_name": "会津若松警察署",
     "office_name_kana": "アイヅワカマツケイサツシヨ"
   },
+  "8504": {
+    "postcode": "9658504",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "会津若松市",
+    "city_kana": "アイヅワカマツシ",
+    "town": "門田町工業団地",
+    "town_kana": "モンデンマチコウギョウダンチ",
+    "street": "４番６号",
+    "office_name": "会津富士通セミコンダクターウェハーソリューション　株式会社",
+    "office_name_kana": "アイヅフジツウセミコンダクタ-ウエハ-ソリユ-シヨン カブシキカイシヤ"
+  },
   "8505": {
     "postcode": "9658505",
     "prefecture": "福島県",
@@ -2481,19 +2494,6 @@
     "street": "字門田１−１",
     "office_name": "会津大学短期大学部",
     "office_name_kana": "アイヅダイガクタンキダイガクブ"
-  },
-  "8577": {
-    "postcode": "9658577",
-    "prefecture": "福島県",
-    "prefecture_kana": "フクシマケン",
-    "prefecture_code": 7,
-    "city": "会津若松市",
-    "city_kana": "アイヅワカマツシ",
-    "town": "",
-    "town_kana": "",
-    "street": "高久工業団地１番地",
-    "office_name": "株式会社　ジェイデバイス",
-    "office_name_kana": "カブシキガイシヤ ジエイデバイス"
   },
   "8580": {
     "postcode": "9658580",

@@ -1377,18 +1377,18 @@
     "office_name": "株式会社　ホリデー",
     "office_name_kana": "カブシキガイシヤ ホリデ-"
   },
-  "8519": {
-    "postcode": "8128519",
+  "8518": {
+    "postcode": "8128518",
     "prefecture": "福岡県",
     "prefecture_kana": "フクオカケン",
     "prefecture_code": 40,
     "city": "福岡市博多区",
     "city_kana": "フクオカシハカタク",
-    "town": "博多駅前",
-    "town_kana": "ハカタエキマエ",
-    "street": "２丁目２−１",
-    "office_name": "旭硝子　株式会社　福岡支店",
-    "office_name_kana": "アサヒガラス カブシキガイシヤ フクオカシテン"
+    "town": "住吉",
+    "town_kana": "スミヨシ",
+    "street": "四丁目１番２７号",
+    "office_name": "大成建設　株式会社　九州支店",
+    "office_name_kana": "タイセイケンセツ カブシキガイシヤ キユウシユウシテン"
   },
   "8520": {
     "postcode": "8128520",
@@ -1646,7 +1646,7 @@
     "city_kana": "フクオカシハカタク",
     "town": "美野島",
     "town_kana": "ミノシマ",
-    "street": "１丁目２−８",
+    "street": "一丁目２番１号",
     "office_name": "ニシム電子工業　株式会社",
     "office_name_kana": "ニシムデンシコウギヨウ カブシキガイシヤ"
   },
@@ -2125,11 +2125,11 @@
     "prefecture_code": 40,
     "city": "福岡市博多区",
     "city_kana": "フクオカシハカタク",
-    "town": "博多駅前",
-    "town_kana": "ハカタエキマエ",
-    "street": "２−１０−１９−２Ｆ",
-    "office_name": "日本年金機構　福岡事務センター",
-    "office_name_kana": "ニツポンネンキンキコウ フクオカジムセンタ-"
+    "town": "榎田",
+    "town_kana": "エノキダ",
+    "street": "１丁目２番５５号ＡＰ榎田ビル",
+    "office_name": "日本年金機構　福岡広域事務センター",
+    "office_name_kana": "ニツポンネンキンキコウ フクオカコウイキジムセンタ-"
   },
   "8580": {
     "postcode": "8128580",
@@ -2183,19 +2183,47 @@
     "office_name": "福岡日野自動車　株式会社",
     "office_name_kana": "フクオカヒノジドウシヤ カブシキガイシヤ"
   },
-  "8584": {
-    "postcode": "8128584",
-    "prefecture": "福岡県",
-    "prefecture_kana": "フクオカケン",
-    "prefecture_code": 40,
-    "city": "福岡市博多区",
-    "city_kana": "フクオカシハカタク",
-    "town": "千代",
-    "town_kana": "チヨ",
-    "street": "６丁目２−３３",
-    "office_name": "株式会社　ベスト電器",
-    "office_name_kana": "カブシキガイシヤ ベストデンキ"
-  },
+  "8584": [
+    {
+      "postcode": "8128584",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "prefecture_code": 40,
+      "city": "福岡市博多区",
+      "city_kana": "フクオカシハカタク",
+      "town": "千代",
+      "town_kana": "チヨ",
+      "street": "６丁目２−３３",
+      "office_name": "株式会社　ベストサービス",
+      "office_name_kana": "カブシキガイシヤ ベストサ-ビス"
+    },
+    {
+      "postcode": "8128584",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "prefecture_code": 40,
+      "city": "福岡市博多区",
+      "city_kana": "フクオカシハカタク",
+      "town": "千代",
+      "town_kana": "チヨ",
+      "street": "６丁目２−３３",
+      "office_name": "株式会社　ベスト電器",
+      "office_name_kana": "カブシキガイシヤ ベストデンキ"
+    },
+    {
+      "postcode": "8128584",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "prefecture_code": 40,
+      "city": "福岡市博多区",
+      "city_kana": "フクオカシハカタク",
+      "town": "千代",
+      "town_kana": "チヨ",
+      "street": "６丁目２−３３",
+      "office_name": "株式会社　リペア・デポ",
+      "office_name_kana": "カブシキガイシヤ リペア・デポ"
+    }
+  ],
   "8585": {
     "postcode": "8128585",
     "prefecture": "福岡県",
@@ -2530,9 +2558,9 @@
     "city_kana": "フクオカシハカタク",
     "town": "祇園町",
     "town_kana": "ギオンマチ",
-    "street": "２−１博多祇園２１ビル６Ｆ",
-    "office_name": "独立行政法人　鉄道建設・運輸施設支援機構　鉄道施設本部　九州新幹線施設局",
-    "office_name_kana": "ドクリツギヨウセイホウジン テツドウケンセツ・ウンユシセツシエンキコウ テツドウシセツホンブ キユウシユウシンカンセンシセツキヨク"
+    "street": "２−１シティ１７ビル６Ｆ",
+    "office_name": "独立行政法人　鉄道建設・運輸施設整備支援機構　九州新幹線建設局",
+    "office_name_kana": "ドクリツギヨウセイホウジン テツドウケンセツ・ウンユシセツセイビシエンキコウ キユウシユウシンカンセンケンセツキヨク"
   },
   "8624": {
     "postcode": "8128624",
@@ -2606,9 +2634,9 @@
     "prefecture_code": 40,
     "city": "福岡市博多区",
     "city_kana": "フクオカシハカタク",
-    "town": "東比恵",
-    "town_kana": "ヒガシヒエ",
-    "street": "３丁目１９−２７",
+    "town": "上牟田",
+    "town_kana": "カミムタ",
+    "street": "１丁目１−７",
     "office_name": "株式会社　中陽",
     "office_name_kana": "カブシキガイシヤ チユウヨウ"
   },
@@ -3451,9 +3479,9 @@
     "prefecture_code": 40,
     "city": "福岡市博多区",
     "city_kana": "フクオカシハカタク",
-    "town": "那珂",
-    "town_kana": "ナカ",
-    "street": "５丁目３−４１",
+    "town": "東那珂",
+    "town_kana": "ヒガシナカ",
+    "street": "１丁目１８−１１",
     "office_name": "株式会社　日伝　九州支店",
     "office_name_kana": "カブシキガイシヤ ニチデン キユウシユウシテン"
   },

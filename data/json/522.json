@@ -144,6 +144,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0010": {
+    "postcode": "5220010",
+    "prefecture": "滋賀県",
+    "prefecture_kana": "シガケン",
+    "prefecture_code": 25,
+    "city": "彦根市",
+    "city_kana": "ヒコネシ",
+    "town": "駅東町",
+    "town_kana": "エキヒガシチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0011": {
     "postcode": "5220011",
     "prefecture": "滋賀県",
@@ -2001,11 +2014,11 @@
     "prefecture_code": 25,
     "city": "彦根市",
     "city_kana": "ヒコネシ",
-    "town": "小泉町",
-    "town_kana": "コイズミチョウ",
-    "street": "３１",
+    "town": "西今町",
+    "town_kana": "ニシイマチョウ",
+    "street": "１",
     "office_name": "株式会社　平和堂",
-    "office_name_kana": "カブシキガイシヤヘイワドウ"
+    "office_name_kana": "カブシキガイシヤ ヘイワドウ"
   },
   "8520": {
     "postcode": "5228520",

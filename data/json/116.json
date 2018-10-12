@@ -402,6 +402,19 @@
     "office_name": "長島特殊塗料　株式会社",
     "office_name_kana": "ナガシマトクシユトリヨウ カブシキガイシヤ"
   },
+  "8553": {
+    "postcode": "1168553",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "荒川区",
+    "city_kana": "アラカワク",
+    "town": "東尾久",
+    "town_kana": "ヒガシオグ",
+    "street": "７−２−３４",
+    "office_name": "株式会社　ＡＤＥＫＡ　尾久地区開発研究所",
+    "office_name_kana": "カブシキガイシヤ アデカ オグチクカイハツケンキユウジヨ"
+  },
   "8554": {
     "postcode": "1168554",
     "prefecture": "東京都",
@@ -476,7 +489,7 @@
     "city_kana": "アラカワク",
     "town": "東日暮里",
     "town_kana": "ヒガシニッポリ",
-    "street": "４−３−４",
+    "street": "４−３−３",
     "office_name": "株式会社　ウチダ和漢薬",
     "office_name_kana": "カブシキガイシヤ ウチダワカンヤク"
   },
