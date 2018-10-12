@@ -155,6 +155,19 @@
     "office_name": "東京法務局　練馬出張所",
     "office_name_kana": "トウキヨウホウムキヨク ネリマシユツチヨウジヨ"
   },
+  "8503": {
+    "postcode": "1798503",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "練馬区",
+    "city_kana": "ネリマク",
+    "town": "旭町",
+    "town_kana": "アサヒチョウ",
+    "street": "２−８−１８",
+    "office_name": "練馬東税務署",
+    "office_name_kana": "ネリマヒガシゼイムシヨ"
+  },
   "8901": {
     "postcode": "1798901",
     "prefecture": "東京都",

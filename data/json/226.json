@@ -194,6 +194,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0019": {
+    "postcode": "2260019",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市緑区",
+    "city_kana": "ヨコハマシミドリク",
+    "town": "中山",
+    "town_kana": "ナカヤマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "2260021",
     "prefecture": "神奈川県",
@@ -386,8 +399,8 @@
     "town": "中山町",
     "town_kana": "ナカヤマチョウ",
     "street": "４０２−１",
-    "office_name": "京セラエルコ　株式会社",
-    "office_name_kana": "キヨウセラエルコ カブシキガイシヤ"
+    "office_name": "京セラ　株式会社　横浜中山事業所",
+    "office_name_kana": "キヨウセラ カブシキガイシヤ ヨコハマナカヤマジギヨウシヨ"
   },
   "8525": {
     "postcode": "2268525",

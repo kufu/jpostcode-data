@@ -1795,6 +1795,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2175": {
+    "postcode": "9042175",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "prefecture_code": 47,
+    "city": "沖縄市",
+    "city_kana": "オキナワシ",
+    "town": "潮乃森",
+    "town_kana": "シオノモリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2192": {
     "postcode": "9042192",
     "prefecture": "沖縄県",

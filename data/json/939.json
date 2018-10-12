@@ -1635,8 +1635,8 @@
     "town": "犬内",
     "town_kana": "インナイ",
     "street": "５０",
-    "office_name": "東洋紡績　株式会社　庄川工場",
-    "office_name_kana": "トウヨウボウセキ カブシキガイシヤ シヨウガワコウジヨウ"
+    "office_name": "東洋紡　株式会社　富山事業所",
+    "office_name_kana": "トウヨウボウ カブシキガイシヤ トヤマジギヨウシヨ"
   },
   "0296": {
     "postcode": "9390296",
@@ -8397,8 +8397,8 @@
     "town": "福野",
     "town_kana": "フクノ",
     "street": "１００",
-    "office_name": "株式会社　日平トヤマ",
-    "office_name_kana": "カブシキガイシヤ ニツペイトヤマ"
+    "office_name": "コマツＮＴＣ　株式会社",
+    "office_name_kana": "コマツエヌテイシ カブシキガイシヤ"
   },
   "1596": {
     "postcode": "9391596",
@@ -19390,9 +19390,9 @@
     "prefecture_code": 16,
     "city": "富山市",
     "city_kana": "トヤマシ",
-    "town": "太郎丸西町",
-    "town_kana": "タロウマルニシマチ",
-    "street": "２丁目４−９トミソービル２Ｆ",
+    "town": "大町",
+    "town_kana": "オオマチ",
+    "street": "１７４番地１",
     "office_name": "株式会社　アイバック",
     "office_name_kana": "カブシキガイシヤ アイバツク"
   },

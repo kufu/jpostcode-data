@@ -1683,9 +1683,9 @@
     "prefecture_code": 27,
     "city": "大阪市北区",
     "city_kana": "オオサカシキタク",
-    "town": "堂島",
-    "town_kana": "ドウジマ",
-    "street": "１丁目６番２０号堂島アバンサ",
+    "town": "中之島",
+    "town_kana": "ナカノシマ",
+    "street": "３丁目２番４号中之島フェスティバルタワー・ウエスト１４Ｆ",
     "office_name": "大建工業　株式会社",
     "office_name_kana": "ダイケンコウギヨウ カブシキガイシヤ"
   },
@@ -1852,11 +1852,11 @@
     "prefecture_code": 27,
     "city": "大阪市北区",
     "city_kana": "オオサカシキタク",
-    "town": "堂島",
-    "town_kana": "ドウジマ",
-    "street": "２丁目４−５",
-    "office_name": "株式会社　電通関西支社",
-    "office_name_kana": "カブシキガイシヤ デンツウカンサイシシヤ"
+    "town": "中之島",
+    "town_kana": "ナカノシマ",
+    "street": "３丁目２番４号中之島フェスティバルタワー・ウエスト",
+    "office_name": "株式会社　電通　関西支社",
+    "office_name_kana": "カブシキガイシヤ デンツウ カンサイシシヤ"
   },
   "8230": {
     "postcode": "5308230",
@@ -2021,9 +2021,9 @@
     "prefecture_code": 27,
     "city": "大阪市北区",
     "city_kana": "オオサカシキタク",
-    "town": "梅田",
-    "town_kana": "ウメダ",
-    "street": "３丁目３番１０号梅田ダイビル",
+    "town": "中之島",
+    "town_kana": "ナカノシマ",
+    "street": "３−２−４中之島フェスティバルタワー・ウエスト",
     "office_name": "キヤノンマーケティングジャパン　株式会社　大阪支店",
     "office_name_kana": "キヤノンマ-ケテイングジヤパン カブシキガイシヤ オオサカシテン"
   },
@@ -2170,19 +2170,34 @@
     "office_name": "武富士　梅田支店",
     "office_name_kana": "タケフジ ウメダシテン"
   },
-  "8304": {
-    "postcode": "5308304",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "prefecture_code": 27,
-    "city": "大阪市北区",
-    "city_kana": "オオサカシキタク",
-    "town": "茶屋町",
-    "town_kana": "チャヤマチ",
-    "street": "１７−１",
-    "office_name": "株式会社　毎日放送",
-    "office_name_kana": "カブシキガイシヤ マイニチホウソウ"
-  },
+  "8304": [
+    {
+      "postcode": "5308304",
+      "prefecture": "大阪府",
+      "prefecture_kana": "オオサカフ",
+      "prefecture_code": 27,
+      "city": "大阪市北区",
+      "city_kana": "オオサカシキタク",
+      "town": "茶屋町",
+      "town_kana": "チャヤマチ",
+      "street": "１７番１号",
+      "office_name": "株式会社　ＭＢＳメディアホールディングス",
+      "office_name_kana": "カブシキガイシヤ エムビ-エスメデイアホ-ルデイングス"
+    },
+    {
+      "postcode": "5308304",
+      "prefecture": "大阪府",
+      "prefecture_kana": "オオサカフ",
+      "prefecture_code": 27,
+      "city": "大阪市北区",
+      "city_kana": "オオサカシキタク",
+      "town": "茶屋町",
+      "town_kana": "チャヤマチ",
+      "street": "１７−１",
+      "office_name": "株式会社　毎日放送",
+      "office_name_kana": "カブシキガイシヤ マイニチホウソウ"
+    }
+  ],
   "8308": {
     "postcode": "5308308",
     "prefecture": "大阪府",
@@ -2598,6 +2613,19 @@
     "street": "１−３９東天満エンビィビル６Ｆ",
     "office_name": "株式会社　エスペランス",
     "office_name_kana": "カブシキガイシヤ エスペランス"
+  },
+  "8506": {
+    "postcode": "5308506",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市北区",
+    "city_kana": "オオサカシキタク",
+    "town": "堂島浜",
+    "town_kana": "ドウジマハマ",
+    "street": "２丁目１番２９号",
+    "office_name": "関西電力　株式会社",
+    "office_name_kana": "カンサイデンリヨク カブシキガイシヤ"
   },
   "8511": {
     "postcode": "5308511",
@@ -3053,6 +3081,19 @@
     "street": "三丁目２番４号",
     "office_name": "帝人グループ",
     "office_name_kana": "テイジングル-プ"
+  },
+  "8606": {
+    "postcode": "5308606",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市北区",
+    "city_kana": "オオサカシキタク",
+    "town": "中之島",
+    "town_kana": "ナカノシマ",
+    "street": "３丁目２番４号中之島フェスティバルタワー・ウエスト２１階（大阪北郵便局私書箱第１４号）",
+    "office_name": "日鉄住金物産　株式会社　大阪支社",
+    "office_name_kana": "ニツテツスミキンブツサン カブシキガイシヤ オオサカシシヤ"
   },
   "8610": {
     "postcode": "5308610",

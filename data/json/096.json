@@ -890,11 +890,11 @@
     "prefecture_code": 1,
     "city": "名寄市",
     "city_kana": "ナヨロシ",
-    "town": "西二条北",
-    "town_kana": "ニシ2ジョウキタ",
+    "town": "西四条北",
+    "town_kana": "ニシ4ジョウキタ",
     "street": "８丁目１番地",
-    "office_name": "市立名寄短期大学",
-    "office_name_kana": "シリツナヨロタンキダイガク"
+    "office_name": "名寄市立大学",
+    "office_name_kana": "ナヨロシリツダイガク"
   },
   "8666": {
     "postcode": "0968666",

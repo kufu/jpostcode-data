@@ -181,19 +181,6 @@
     "office_name": "ジャパンシステム　株式会社",
     "office_name_kana": "ジヤパンシステム カブシキガイシヤ"
   },
-  "8405": {
-    "postcode": "1518405",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "渋谷区",
-    "city_kana": "シブヤク",
-    "town": "代々木",
-    "town_kana": "ヨヨギ",
-    "street": "４−３０−３新宿ＭＩＤＷＥＳＴビル",
-    "office_name": "横河ディジタルコンピュータ　株式会社",
-    "office_name_kana": "ヨコガワデイジタルコンピユ-タ カブシキカイシヤ"
-  },
   "8502": {
     "postcode": "1518502",
     "prefecture": "東京都",
@@ -245,6 +232,19 @@
     "street": "３丁目４６−１８",
     "office_name": "社団法人　日本理容美容教育センター",
     "office_name_kana": "シヤダンホウジン ニホンリヨウビヨウキヨウイクセンタ-"
+  },
+  "8506": {
+    "postcode": "1518506",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "渋谷区",
+    "city_kana": "シブヤク",
+    "town": "千駄ヶ谷",
+    "town_kana": "センダガヤ",
+    "street": "４丁目２４−１３",
+    "office_name": "株式会社　大京",
+    "office_name_kana": "カブシキガイシヤ ダイキヨウ"
   },
   "8507": {
     "postcode": "1518507",
@@ -438,8 +438,8 @@
     "town": "元代々木町",
     "town_kana": "モトヨヨギチョウ",
     "street": "３０−１３グラスシティ元代々木",
-    "office_name": "日立マクセル　株式会社",
-    "office_name_kana": "ヒタチマクセル カブシキガイシヤ"
+    "office_name": "マクセル　株式会社",
+    "office_name_kana": "マクセル カブシキカイシヤ"
   },
   "8528": {
     "postcode": "1518528",
@@ -853,7 +853,7 @@
     "city_kana": "シブヤク",
     "town": "代々木",
     "town_kana": "ヨヨギ",
-    "street": "５丁目７−５",
+    "street": "４−３１−６西新宿松屋ビル７階",
     "office_name": "ＹＫＴ　株式会社",
     "office_name_kana": "ワイケイテイ カブシキガイシヤ"
   },

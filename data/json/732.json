@@ -1208,19 +1208,6 @@
     "office_name": "中国労働金庫",
     "office_name_kana": "チユウゴクロウドウキンコ"
   },
-  "8568": {
-    "postcode": "7328568",
-    "prefecture": "広島県",
-    "prefecture_kana": "ヒロシマケン",
-    "prefecture_code": 34,
-    "city": "広島市東区",
-    "city_kana": "ヒロシマシヒガシク",
-    "town": "若草町",
-    "town_kana": "ワカクサチョウ",
-    "street": "１２番１号アクティブインターシティ広島７階",
-    "office_name": "株式会社　明治　中四国支社",
-    "office_name_kana": "カブシキガイシヤ メイジ チユウシコクシシヤ"
-  },
   "8570": {
     "postcode": "7328570",
     "prefecture": "広島県",
@@ -1233,6 +1220,19 @@
     "street": "３丁目３−１",
     "office_name": "株式会社　ゆめカード",
     "office_name_kana": "カブシキガイシヤ ユメカ-ド"
+  },
+  "8575": {
+    "postcode": "7328575",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "広島市東区",
+    "city_kana": "ヒロシマシヒガシク",
+    "town": "二葉の里",
+    "town_kana": "フタバノサト",
+    "street": "３丁目５番４号",
+    "office_name": "広島テレビ放送　株式会社",
+    "office_name_kana": "ヒロシマテレビホウソウ カブシキカイシヤ"
   },
   "8580": {
     "postcode": "7328580",

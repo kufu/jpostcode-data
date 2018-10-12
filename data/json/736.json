@@ -781,6 +781,19 @@
     "office_name": "安芸区民文化センター",
     "office_name_kana": "アキクミンブンカセンタ-"
   },
+  "8510": {
+    "postcode": "7368510",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "広島市安芸区",
+    "city_kana": "ヒロシマシアキク",
+    "town": "船越南",
+    "town_kana": "フナコシミナミ",
+    "street": "２丁目７番４号",
+    "office_name": "広島日野自動車　株式会社",
+    "office_name_kana": "ヒロシマヒノジドウシヤ カブシキガイシヤ"
+  },
   "8555": {
     "postcode": "7368555",
     "prefecture": "広島県",

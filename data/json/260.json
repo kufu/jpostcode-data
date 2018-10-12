@@ -1245,7 +1245,7 @@
     "city_kana": "チバシチュウオウク",
     "town": "弁天",
     "town_kana": "ベンテン",
-    "street": "１−５−１白樺ビル４階",
+    "street": "１−５−１−４階",
     "office_name": "大和リース　株式会社　千葉支店",
     "office_name_kana": "ダイワリ-ス カブシキガイシヤ チバシテン"
   },
@@ -1386,9 +1386,9 @@
     "prefecture_code": 12,
     "city": "千葉市中央区",
     "city_kana": "チバシチュウオウク",
-    "town": "都町",
-    "town_kana": "ミヤコチョウ",
-    "street": "１丁目１−３０",
+    "town": "中央",
+    "town_kana": "チュウオウ",
+    "street": "４丁目１３番１０号千葉県教育会館別館４階",
     "office_name": "公益社団法人　千葉県防犯協会",
     "office_name_kana": "コウエキシヤダンホウジン チバケンボウハンキヨウカイ"
   },

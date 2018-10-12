@@ -1021,7 +1021,7 @@
     "city": "下都賀郡壬生町",
     "city_kana": "シモツガグンミブマチ",
     "town": "駅東町",
-    "town_kana": "エキヒガシマチ",
+    "town_kana": "エキヒガシチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -3121,6 +3121,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1200": {
+    "postcode": "3211200",
+    "prefecture": "栃木県",
+    "prefecture_kana": "トチギケン",
+    "prefecture_code": 9,
+    "city": "日光市",
+    "city_kana": "ニッコウシ",
+    "town": "",
+    "town_kana": "",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1261": {
     "postcode": "3211261",
     "prefecture": "栃木県",
@@ -3390,19 +3403,6 @@
     "city_kana": "ニッコウシ",
     "town": "滝ケ原",
     "town_kana": "タキガハラ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "1400": {
-    "postcode": "3211400",
-    "prefecture": "栃木県",
-    "prefecture_kana": "トチギケン",
-    "prefecture_code": 9,
-    "city": "日光市",
-    "city_kana": "ニッコウシ",
-    "town": "",
-    "town_kana": "",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -5606,8 +5606,8 @@
     "prefecture_code": 9,
     "city": "芳賀郡芳賀町",
     "city_kana": "ハガグンハガマチ",
-    "town": "八ッ木",
-    "town_kana": "ヤツキ",
+    "town": "八ツ木",
+    "town_kana": "ヤツギ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -5711,7 +5711,7 @@
     "city": "芳賀郡芳賀町",
     "city_kana": "ハガグンハガマチ",
     "town": "下高根沢",
-    "town_kana": "シモタカネサワ",
+    "town_kana": "シモタカネザワ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

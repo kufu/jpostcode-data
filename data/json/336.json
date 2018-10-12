@@ -769,15 +769,15 @@
   "8505": {
     "postcode": "3368505",
     "prefecture": "埼玉県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
     "city": "さいたま市緑区",
-    "city_kana": null,
-    "town": "大字中野田",
-    "town_kana": null,
-    "street": "５００",
-    "office_name": "浦和レッドダイヤモンズ",
-    "office_name_kana": "ウラワレツドダイヤモンズ"
+    "city_kana": "サイタマシミドリク",
+    "town": "美園",
+    "town_kana": "ミソノ",
+    "street": "二丁目１番地",
+    "office_name": "浦和レッドダイヤモンズ　株式会社",
+    "office_name_kana": "ウラワレツドダイヤモンズ カブシキガイシヤ"
   },
   "8508": {
     "postcode": "3368508",
@@ -857,19 +857,6 @@
     "office_name": "生活共同組合　コープみらい",
     "office_name_kana": "セイカツキヨウドウクミアイ コ-プミライ"
   },
-  "8525": {
-    "postcode": "3368525",
-    "prefecture": "埼玉県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
-    "city": "さいたま市緑区",
-    "city_kana": null,
-    "town": "大字中野田",
-    "town_kana": null,
-    "street": "５００",
-    "office_name": "レッドダイヤモンズ後援会",
-    "office_name_kana": "レツドダイヤモンズコウエンカイ"
-  },
   "8526": {
     "postcode": "3368526",
     "prefecture": "埼玉県",
@@ -880,8 +867,8 @@
     "town": "根岸",
     "town_kana": "ネギシ",
     "street": "１丁目４−１３",
-    "office_name": "生活協同組合連合会　コープネット事業連合",
-    "office_name_kana": "セイカツキヨウドウクミアイレンゴウカイ コ-プネツトジギヨウレンゴウ"
+    "office_name": "コープデリ生活協同組合連合会",
+    "office_name_kana": "コ-プデリセイカツキヨウドウクミアイレンゴウカイ"
   },
   "8540": {
     "postcode": "3368540",
@@ -1016,14 +1003,14 @@
   "8760": {
     "postcode": "3368760",
     "prefecture": "埼玉県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
     "city": "さいたま市緑区",
-    "city_kana": null,
-    "town": "大字大門",
-    "town_kana": null,
-    "street": "３７１０",
-    "office_name": "イオン　浦和美園ショッピングセンター",
-    "office_name_kana": "イオン ウラワミソノシヨツピングセンタ-"
+    "city_kana": "サイタマシミドリク",
+    "town": "美園",
+    "town_kana": "ミソノ",
+    "street": "五丁目５０番地１",
+    "office_name": "イオンモール　浦和美園",
+    "office_name_kana": "イオンモ-ル ウラワミソノ"
   }
 }

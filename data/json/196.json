@@ -363,6 +363,60 @@
     "office_name": "日本電子　株式会社",
     "office_name_kana": "ニホンデンシ カブシキガイシヤ"
   },
+  "8560": {
+    "postcode": "1968560",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "昭島市",
+    "city_kana": "アキシマシ",
+    "town": "もくせいの杜",
+    "town_kana": "モクセイノモリ",
+    "street": "２丁目１番９号",
+    "office_name": "東日本成人矯正医療センター",
+    "office_name_kana": "ヒガシニホンセイジンキヨウセイイリヨウセンタ-"
+  },
+  "8570": [
+    {
+      "postcode": "1968570",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "昭島市",
+      "city_kana": "アキシマシ",
+      "town": "もくせいの杜",
+      "town_kana": "モクセイノモリ",
+      "street": "２−１−１８",
+      "office_name": "法務省　国連アジア極東犯罪防止研修所",
+      "office_name_kana": "ホウムシヨウ コクレンアジアキヨクトウハンザイボウシケンシユウジヨ"
+    },
+    {
+      "postcode": "1968570",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "昭島市",
+      "city_kana": "アキシマシ",
+      "town": "もくせいの杜",
+      "town_kana": "モクセイノモリ",
+      "street": "２−１−１８",
+      "office_name": "法務省　法務総合研究所国際協力部",
+      "office_name_kana": "ホウムシヨウ ホウムソウゴウケンキユウジヨコクサイキヨウリヨクブ"
+    }
+  ],
+  "8580": {
+    "postcode": "1968580",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "昭島市",
+    "city_kana": "アキシマシ",
+    "town": "もくせいの杜",
+    "town_kana": "モクセイノモリ",
+    "street": "２丁目１番２０号",
+    "office_name": "法務省　矯正研修所",
+    "office_name_kana": "ホウムシヨウ キヨウセイケンシユウジヨ"
+  },
   "8585": {
     "postcode": "1968585",
     "prefecture": "東京都",
@@ -373,8 +427,8 @@
     "town": "拝島町",
     "town_kana": "ハイジマチョウ",
     "street": "３９２８番地３",
-    "office_name": "三井造船マシナリー・サービス　株式会社",
-    "office_name_kana": "ミツイゾウセンマシナリ-・サ-ビス カブシキガイシヤ"
+    "office_name": "株式会社　三井Ｅ＆Ｓパワーシステムズ",
+    "office_name_kana": "カブシキカイシヤ ミツイイ-アンドエスパワ-システムズ"
   },
   "8588": {
     "postcode": "1968588",
@@ -411,7 +465,7 @@
     "city_kana": "アキシマシ",
     "town": "松原町",
     "town_kana": "マツバラチョウ",
-    "street": "３丁目２−１２",
+    "street": "３丁目３−７",
     "office_name": "株式会社　タチエス",
     "office_name_kana": "カブシキガイシヤ タチエス"
   },

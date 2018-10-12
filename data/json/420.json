@@ -922,6 +922,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0814": {
+    "postcode": "4200814",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "静岡市葵区",
+    "city_kana": "シズオカシアオイク",
+    "town": "長沼南",
+    "town_kana": "ナガヌマミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0815": {
     "postcode": "4200815",
     "prefecture": "静岡県",
@@ -944,6 +957,19 @@
     "city_kana": "シズオカシアオイク",
     "town": "沓谷",
     "town_kana": "クツノヤ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0817": {
+    "postcode": "4200817",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "静岡市葵区",
+    "city_kana": "シズオカシアオイク",
+    "town": "東静岡",
+    "town_kana": "ヒガシシズオカ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -2235,6 +2261,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0969": {
+    "postcode": "4200969",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "静岡市葵区",
+    "city_kana": "シズオカシアオイク",
+    "town": "有永町",
+    "town_kana": "アリナガチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8501": {
     "postcode": "4208501",
     "prefecture": "静岡県",
@@ -2257,7 +2296,7 @@
     "city_kana": "シズオカシアオイク",
     "town": "城北",
     "town_kana": "ジョウホク",
-    "street": "２丁目２９−５",
+    "street": "２丁目２９−１",
     "office_name": "静岡県立　静岡中央高等学校",
     "office_name_kana": "シズオカケンリツ シズオカチユウオウコウトウガツコウ"
   },
@@ -3093,19 +3132,6 @@
     "office_name": "西日本電信電話　株式会社　静岡支店",
     "office_name_kana": "ニシニホンデンシンデンワ カブシキガイシヤ シズオカシテン"
   },
-  "8686": {
-    "postcode": "4208686",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "静岡市葵区",
-    "city_kana": "シズオカシアオイク",
-    "town": "一番町",
-    "town_kana": "イチバンチョウ",
-    "street": "３−３",
-    "office_name": "株式会社　エヌ・ビー中根屋",
-    "office_name_kana": "カブシキガイシヤ エヌ・ビ-ナカネヤ"
-  },
   "8688": {
     "postcode": "4208688",
     "prefecture": "静岡県",
@@ -3209,19 +3235,6 @@
     "street": "２６の１（静岡中央郵便局私書箱第８号）",
     "office_name": "日本銀行　静岡支店",
     "office_name_kana": "ニツポンギンコウ シズオカシテン"
-  },
-  "8721": {
-    "postcode": "4208721",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "静岡市葵区",
-    "city_kana": "シズオカシアオイク",
-    "town": "西草深町",
-    "town_kana": "ニシクサブカチョウ",
-    "street": "１−２１（静岡中央郵便局私書箱第４６号）",
-    "office_name": "日本放送協会　静岡放送局",
-    "office_name_kana": "ニホンホウソウキヨウカイ シズオカホウソウキヨク"
   },
   "8722": {
     "postcode": "4208722",

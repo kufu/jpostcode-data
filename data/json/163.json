@@ -1429,19 +1429,47 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0456": {
-    "postcode": "1630456",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "新宿区",
-    "city_kana": "シンジュクク",
-    "town": "西新宿",
-    "town_kana": "ニシシンジュク",
-    "street": "２丁目１−１新宿三井ビル",
-    "office_name": "アメリカンファミリー生命保険会社",
-    "office_name_kana": "アメリカンフアミリ-セイメイホケンガイシヤ"
-  },
+  "0456": [
+    {
+      "postcode": "1630456",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "新宿区",
+      "city_kana": "シンジュクク",
+      "town": "西新宿",
+      "town_kana": "ニシシンジュク",
+      "street": "２−１−１新宿三井ビル",
+      "office_name": "アフラック・アセット・マネジメント　株式会社",
+      "office_name_kana": "アフラツク・アセツト・マネジメント カブシキガイシヤ"
+    },
+    {
+      "postcode": "1630456",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "新宿区",
+      "city_kana": "シンジュクク",
+      "town": "西新宿",
+      "town_kana": "ニシシンジュク",
+      "street": "２−１−１新宿三井ビル",
+      "office_name": "日本法人化準備　株式会社",
+      "office_name_kana": "ニホンホウジンカジユンビ カブシキガイシヤ"
+    },
+    {
+      "postcode": "1630456",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "新宿区",
+      "city_kana": "シンジュクク",
+      "town": "西新宿",
+      "town_kana": "ニシシンジュク",
+      "street": "２−１−１新宿三井ビル",
+      "office_name": "アフラック",
+      "office_name_kana": "アフラツク"
+    }
+  ],
   "0478": {
     "postcode": "1630478",
     "prefecture": "東京都",
@@ -2169,6 +2197,19 @@
     "street": "１丁目２６−２新宿野村ビル",
     "office_name": "東京実業健康保険組合　城西支部",
     "office_name_kana": "トウキヨウジツギヨウケンコウホケンクミアイ ジヨウサイシブ"
+  },
+  "0562": {
+    "postcode": "1630562",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "西新宿",
+    "town_kana": "ニシシンジュク",
+    "street": "１丁目２６番２号新宿野村ビル２１Ｆ",
+    "office_name": "野村不動産パートナーズ　株式会社",
+    "office_name_kana": "ノムラフドウサンパ-トナ-ズ カブシキガイシヤ"
   },
   "0566": {
     "postcode": "1630566",
@@ -3417,6 +3458,19 @@
     "street": "２丁目７−１小田急第一生命ビル",
     "office_name": "積水化成品工業　株式会社　東京本部",
     "office_name_kana": "セキスイカセイヒンコウギヨウ カブシキガイシヤ トウキヨウホンブ"
+  },
+  "0740": {
+    "postcode": "1630740",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "西新宿",
+    "town_kana": "ニシシンジュク",
+    "street": "２−７−１小田急第一生命ビル５階・６階・８階",
+    "office_name": "新宿税務署",
+    "office_name_kana": "シンジユクゼイムシヨ"
   },
   "0777": {
     "postcode": "1630777",

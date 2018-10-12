@@ -1429,6 +1429,19 @@
     "office_name": "ＫＤＤＩ　株式会社　中国総支社",
     "office_name_kana": "ケイデイ-デイ-アイ カブシキガイシヤ チユウゴクソウシシヤ"
   },
+  "8544": {
+    "postcode": "7308544",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "広島市中区",
+    "city_kana": "ヒロシマシナカク",
+    "town": "上八丁堀",
+    "town_kana": "カミハッチョウボリ",
+    "street": "６−３０",
+    "office_name": "中国運輸局",
+    "office_name_kana": "チユウゴクウンユキヨク"
+  },
   "8545": {
     "postcode": "7308545",
     "prefecture": "広島県",
@@ -1501,11 +1514,11 @@
     "prefecture_code": 34,
     "city": "広島市中区",
     "city_kana": "ヒロシマシナカク",
-    "town": "橋本町",
-    "town_kana": "ハシモトチョウ",
-    "street": "３−２２",
+    "town": "国泰寺町",
+    "town_kana": "コクタイジマチ",
+    "street": "一丁目５番９号",
     "office_name": "新日本法規出版　株式会社　広島支社",
-    "office_name_kana": "シンニホンホウキシユツパン カブシキガイシヤ ヒロシマシシヤ"
+    "office_name_kana": "シンニツポンホウキシユツパン カブシキガイシヤ ヒロシマシシヤ"
   },
   "8559": {
     "postcode": "7308559",
@@ -1959,8 +1972,8 @@
     "town": "広瀬北町",
     "town_kana": "ヒロセキタマチ",
     "street": "９−１",
-    "office_name": "財団法人　広島県環境保健協会",
-    "office_name_kana": "ザイダンホウジン ヒロシマケンカンキヨウホケンキヨウカイ"
+    "office_name": "一般財団法人　広島県環境保健協会",
+    "office_name_kana": "イツパンザイダンホウジン ヒロシマケンカンキヨウホケンキヨウカイ"
   },
   "8641": {
     "postcode": "7308641",

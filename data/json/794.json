@@ -2473,6 +2473,19 @@
     "office_name": "日本食研　（株）",
     "office_name_kana": "ニホンシヨツケン カブシキガイシヤ"
   },
+  "8555": {
+    "postcode": "7948555",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "prefecture_code": 38,
+    "city": "今治市",
+    "city_kana": "イマバリシ",
+    "town": "いこいの丘",
+    "town_kana": "イコイノオカ",
+    "street": "１−３",
+    "office_name": "岡山理科大学　今治キャンパス",
+    "office_name_kana": "オカヤマリカダイガク イマバリキヤンパス"
+  },
   "8582": {
     "postcode": "7948582",
     "prefecture": "愛媛県",

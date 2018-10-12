@@ -714,6 +714,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0065": {
+    "postcode": "9750065",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "南相馬市",
+    "city_kana": "ミナミソウマシ",
+    "town": "原町区陣ケ崎",
+    "town_kana": "ハラマチクジンガサキ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0071": {
     "postcode": "9750071",
     "prefecture": "福島県",

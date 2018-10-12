@@ -935,19 +935,6 @@
     "office_name": "ＮＴＰホールディングス　株式会社",
     "office_name_kana": "エヌテイピ-ホ-ルデイングス カブシキガイシヤ"
   },
-  "8557": {
-    "postcode": "4568557",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市熱田区",
-    "city_kana": "ナゴヤシアツタク",
-    "town": "尾頭町",
-    "town_kana": "オトウチョウ",
-    "street": "２番２２号",
-    "office_name": "ＮＴＰヴィークルグループ　株式会社",
-    "office_name_kana": "エヌテイピ-ヴイ-クルグル-プ カブシキガイシヤ"
-  },
   "8560": {
     "postcode": "4568560",
     "prefecture": "愛知県",
@@ -1155,6 +1142,19 @@
     "street": "２番２２号",
     "office_name": "名古屋青果　株式会社",
     "office_name_kana": "ナゴヤセイカ カブシキガイシヤ"
+  },
+  "8691": {
+    "postcode": "4568691",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市熱田区",
+    "city_kana": "ナゴヤシアツタク",
+    "town": "三本松町",
+    "town_kana": "サンボンマツチョウ",
+    "street": "１番１号",
+    "office_name": "日本車輌製造　株式会社　本社",
+    "office_name_kana": "ニツポンシヤリヨウセイゾウ カブシキガイシヤ ホンシヤ"
   },
   "8711": {
     "postcode": "4568711",

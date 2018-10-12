@@ -1015,6 +1015,19 @@
     "office_name": "シャープ　株式会社　藤井寺事業所",
     "office_name_kana": "シヤ-プ カブシキガイシヤ フジイデラジギヨウシヨ"
   },
+  "8533": {
+    "postcode": "5838533",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "藤井寺市",
+    "city_kana": "フジイデラシ",
+    "town": "津堂",
+    "town_kana": "ツドウ",
+    "street": "４−４３５",
+    "office_name": "アマゾン藤井寺フルフィルメントセンター",
+    "office_name_kana": "アマゾンフジイデラフルフイルメントセンタ-"
+  },
   "8550": {
     "postcode": "5838550",
     "prefecture": "大阪府",
@@ -1037,9 +1050,9 @@
     "city_kana": "ハビキノシ",
     "town": "はびきの",
     "town_kana": "ハビキノ",
-    "street": "３丁目７−３０",
-    "office_name": "大阪府立看護大学",
-    "office_name_kana": "オオサカフリツカンゴダイガク"
+    "street": "３丁目７番３０号",
+    "office_name": "大阪府立大学　羽曳野キャンパス",
+    "office_name_kana": "オオサカフリツダイガク ハビキノキヤンパス"
   },
   "8558": {
     "postcode": "5838558",

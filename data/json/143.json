@@ -363,6 +363,19 @@
     "office_name": "池伝　株式会社",
     "office_name_kana": "イケデン カブシキガイシヤ"
   },
+  "8513": {
+    "postcode": "1438513",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "大田区",
+    "city_kana": "オオタク",
+    "town": "城南島",
+    "town_kana": "ジョウナンジマ",
+    "street": "７−２−３",
+    "office_name": "リコーロジスティクス　株式会社　物流センター城南島",
+    "office_name_kana": "リコ-ロジステイクス カブシキガイシヤ ブツリユウセンタ-ジヨウナンジマ"
+  },
   "8514": {
     "postcode": "1438514",
     "prefecture": "東京都",
@@ -388,6 +401,19 @@
     "street": "３丁目２８−７",
     "office_name": "山一電機　株式会社",
     "office_name_kana": "ヤマイチデンキ カブシキガイシヤ"
+  },
+  "8525": {
+    "postcode": "1438525",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "大田区",
+    "city_kana": "オオタク",
+    "town": "平和島",
+    "town_kana": "ヘイワジマ",
+    "street": "３−６−１東京団地倉庫Ａ−２棟住友倉庫内",
+    "office_name": "ヤマトシステム開発　株式会社　新東京ロジシスセンター",
+    "office_name_kana": "ヤマトシステムカイハツ カブシキガイシヤ シントウキヨウロジシスセンタ-"
   },
   "8528": {
     "postcode": "1438528",

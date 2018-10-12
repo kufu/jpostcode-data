@@ -606,7 +606,7 @@
     "prefecture_code": 4,
     "city": "遠田郡美里町",
     "city_kana": "トオダグンミサトマチ",
-    "town": "二ツ壇",
+    "town": "二ツ檀",
     "town_kana": "フタツダン",
     "street": null,
     "office_name": null,
@@ -3481,6 +3481,19 @@
       "prefecture_code": 4,
       "city": "登米市",
       "city_kana": "トメシ",
+      "town": "南方町沢田前",
+      "town_kana": "ミナミカタマチサワダマエ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "9870402",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "prefecture_code": 4,
+      "city": "登米市",
+      "city_kana": "トメシ",
       "town": "南方町沢田待井",
       "town_kana": "ミナミカタマチサワダマチイ",
       "street": null,
@@ -3496,6 +3509,19 @@
       "city_kana": "トメシ",
       "town": "南方町沢田屋敷",
       "town_kana": "ミナミカタマチサワダヤシキ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "9870402",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "prefecture_code": 4,
+      "city": "登米市",
+      "city_kana": "トメシ",
+      "town": "南方町新沢田",
+      "town_kana": "ミナミカタマチシンサワダ",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -3672,19 +3698,34 @@
       "office_name_kana": null
     }
   ],
-  "0404": {
-    "postcode": "9870404",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "登米市",
-    "city_kana": "トメシ",
-    "town": "南方町新島前",
-    "town_kana": "ミナミカタマチシンシママエ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0404": [
+    {
+      "postcode": "9870404",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "prefecture_code": 4,
+      "city": "登米市",
+      "city_kana": "トメシ",
+      "town": "南方町新島前",
+      "town_kana": "ミナミカタマチシンシママエ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "9870404",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "prefecture_code": 4,
+      "city": "登米市",
+      "city_kana": "トメシ",
+      "town": "南方町新丸ノ内",
+      "town_kana": "ミナミカタマチシンマルノウチ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0405": {
     "postcode": "9870405",
     "prefecture": "宮城県",
@@ -3961,6 +4002,19 @@
       "city_kana": "トメシ",
       "town": "南方町大村前",
       "town_kana": "ミナミカタマチオオムラマエ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "9870414",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "prefecture_code": 4,
+      "city": "登米市",
+      "city_kana": "トメシ",
+      "town": "南方町新山成浦",
+      "town_kana": "ミナミカタマチシンヤマナリウラ",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -4541,6 +4595,32 @@
       "prefecture_code": 4,
       "city": "登米市",
       "city_kana": "トメシ",
+      "town": "南方町新上砥落",
+      "town_kana": "ミナミカタマチシンカミトオトシ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "9870425",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "prefecture_code": 4,
+      "city": "登米市",
+      "city_kana": "トメシ",
+      "town": "南方町新砥落",
+      "town_kana": "ミナミカタマチシントオトシ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "9870425",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "prefecture_code": 4,
+      "city": "登米市",
+      "city_kana": "トメシ",
       "town": "南方町田中浦",
       "town_kana": "ミナミカタマチタナカウラ",
       "street": null,
@@ -4820,6 +4900,19 @@
       "prefecture_code": 4,
       "city": "登米市",
       "city_kana": "トメシ",
+      "town": "南方町新畑岡下",
+      "town_kana": "ミナミカタマチシンハタオカシタ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "9870432",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "prefecture_code": 4,
+      "city": "登米市",
+      "city_kana": "トメシ",
       "town": "南方町堤田",
       "town_kana": "ミナミカタマチツツミタ",
       "street": null,
@@ -4972,6 +5065,32 @@
       "street": null,
       "office_name": null,
       "office_name_kana": null
+    },
+    {
+      "postcode": "9870441",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "prefecture_code": 4,
+      "city": "登米市",
+      "city_kana": "トメシ",
+      "town": "南方町新青島前",
+      "town_kana": "ミナミカタマチシンアオシママエ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "9870441",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "prefecture_code": 4,
+      "city": "登米市",
+      "city_kana": "トメシ",
+      "town": "南方町新鳩峯",
+      "town_kana": "ミナミカタマチシンハトミネ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
     }
   ],
   "0442": [
@@ -5023,6 +5142,19 @@
       "city_kana": "トメシ",
       "town": "南方町中高石",
       "town_kana": "ミナミカタマチナカタカイシ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "9870442",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "prefecture_code": 4,
+      "city": "登米市",
+      "city_kana": "トメシ",
+      "town": "南方町中高石浦",
+      "town_kana": "ミナミカタマチナカタカイシウラ",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -5488,6 +5620,32 @@
     "street": null,
     "office_name": null,
     "office_name_kana": null
+  },
+  "0592": {
+    "postcode": "9870592",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "登米市",
+    "city_kana": "トメシ",
+    "town": "登米町寺池",
+    "town_kana": "トヨママチテライケ",
+    "street": "目子待井３８１−１",
+    "office_name": "一般社団法人　登米市観光物産協会",
+    "office_name_kana": "イツパンシヤダンホウジン トメシカンコウブツサンキヨウカイ"
+  },
+  "0593": {
+    "postcode": "9870593",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "登米市",
+    "city_kana": "トメシ",
+    "town": "迫町佐沼",
+    "town_kana": "ハサマチョウサヌマ",
+    "street": "字中江三丁目９−１",
+    "office_name": "みやぎ登米農業協同組合",
+    "office_name_kana": "ミヤギトメノウギヨウキヨウドウクミアイ"
   },
   "0595": {
     "postcode": "9870595",
@@ -7421,6 +7579,19 @@
     "city_kana": "クリハラシ",
     "town": "築館川添",
     "town_kana": "ツキダテカワゾエ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "2229": {
+    "postcode": "9872229",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "栗原市",
+    "city_kana": "クリハラシ",
+    "town": "築館三峰",
+    "town_kana": "ツキダテミツミネ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

@@ -3472,6 +3472,19 @@
     "office_name": "日本電産トーソク　株式会社",
     "office_name_kana": "ニホンデンサント-ソク カブシキガイシヤ"
   },
+  "8572": {
+    "postcode": "2528572",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "座間市",
+    "city_kana": "ザマシ",
+    "town": "広野台",
+    "town_kana": "ヒロノダイ",
+    "street": "２丁目１０番４号",
+    "office_name": "イオンモール座間",
+    "office_name_kana": "イオンモ-ルザマ"
+  },
   "8585": {
     "postcode": "2528585",
     "prefecture": "神奈川県",

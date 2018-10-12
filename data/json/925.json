@@ -2395,6 +2395,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0697": {
+    "postcode": "9250697",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "羽咋市",
+    "city_kana": "ハクイシ",
+    "town": "千代町",
+    "town_kana": "チヨマチ",
+    "street": "い８０",
+    "office_name": "平鍛造　株式会社",
+    "office_name_kana": "タイラタンゾウ カブシキガイシヤ"
+  },
   "8501": {
     "postcode": "9258501",
     "prefecture": "石川県",

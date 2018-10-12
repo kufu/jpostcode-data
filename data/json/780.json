@@ -2957,24 +2957,11 @@
     "prefecture_code": 39,
     "city": "高知市",
     "city_kana": "コウチシ",
-    "town": "知寄町",
-    "town_kana": "チヨリチョウ",
-    "street": "２丁目１−３７",
+    "town": "山手町",
+    "town_kana": "ヤマテチョウ",
+    "street": "８１番",
     "office_name": "株式会社　サニーマート",
     "office_name_kana": "カブシキガイシヤ サニ-マ-ト"
-  },
-  "8518": {
-    "postcode": "7808518",
-    "prefecture": "高知県",
-    "prefecture_kana": "コウチケン",
-    "prefecture_code": 39,
-    "city": "高知市",
-    "city_kana": "コウチシ",
-    "town": "北御座",
-    "town_kana": "キタゴザ",
-    "street": "４１−１",
-    "office_name": "（株）　サニーマート　中央流通センター",
-    "office_name_kana": "カブシキガイシヤ サニ-マ-ト チユウオウリユウツウセンタ-"
   },
   "8519": {
     "postcode": "7808519",
@@ -3505,7 +3492,7 @@
     "city_kana": "コウチシ",
     "town": "本町",
     "town_kana": "ホンマチ",
-    "street": "３丁目２−１５（高知本町郵便局私書箱第４０号）",
+    "street": "３丁目２−１５",
     "office_name": "株式会社　高知新聞社",
     "office_name_kana": "カブシキガイシヤ コウチシンブンシヤ"
   },
@@ -3570,7 +3557,7 @@
     "city_kana": "コウチシ",
     "town": "本町",
     "town_kana": "ホンマチ",
-    "street": "４丁目２−４６（高知本町郵便局私書箱第７１号）",
+    "street": "４丁目２−４６",
     "office_name": "商工組合中央金庫　高知支店",
     "office_name_kana": "シヨウコウクミアイチユウオウキンコ コウチシテン"
   },
@@ -3600,6 +3587,19 @@
     "office_name": "株式会社　高知新聞社　（パブリシティ）",
     "office_name_kana": "カブシキガイシヤ コウチシンブンシヤ (パブリシテイ)"
   },
+  "8663": {
+    "postcode": "7808663",
+    "prefecture": "高知県",
+    "prefecture_kana": "コウチケン",
+    "prefecture_code": 39,
+    "city": "高知市",
+    "city_kana": "コウチシ",
+    "town": "鷹匠町",
+    "town_kana": "タカジョウマチ",
+    "street": "１−３−３５",
+    "office_name": "株式会社　三翠園",
+    "office_name_kana": "カブシキガイシヤ サンスイエン"
+  },
   "8665": {
     "postcode": "7808665",
     "prefecture": "高知県",
@@ -3609,9 +3609,9 @@
     "city_kana": "コウチシ",
     "town": "堺町",
     "town_kana": "サカイマチ",
-    "street": "１−１９（高知本町郵便局私書箱第４１号）",
-    "office_name": "日興コーディアル證券　株式会社　高知支店",
-    "office_name_kana": "ニツコウコ-デイアルシヨウケン カブシキガイシヤ コウチシテン"
+    "street": "１−１９（高知中央郵便局私書箱第１３５号）",
+    "office_name": "ＳＭＢＣ日興証券　株式会社　高知支店",
+    "office_name_kana": "エスエムビ-シ-ニツコウシヨウケン カブシキガイシヤ コウチシテン"
   },
   "8666": {
     "postcode": "7808666",
@@ -3622,7 +3622,7 @@
     "city_kana": "コウチシ",
     "town": "本町",
     "town_kana": "ホンマチ",
-    "street": "３丁目２−１５（高知本町郵便局私書箱第７８号）",
+    "street": "３丁目２−１５",
     "office_name": "株式会社　高知新聞企業",
     "office_name_kana": "カブシキガイシヤ コウチシンブンキギヨウ"
   },
@@ -3648,22 +3648,9 @@
     "city_kana": "コウチシ",
     "town": "本町",
     "town_kana": "ホンマチ",
-    "street": "２丁目１−５（高知本町郵便局私書箱第７９号）",
+    "street": "２丁目１−５（高知中央郵便局私書箱第９４号）",
     "office_name": "幡多信用金庫　高知支店",
     "office_name_kana": "ハタシンヨウキンコ コウチシテン"
-  },
-  "8675": {
-    "postcode": "7808675",
-    "prefecture": "高知県",
-    "prefecture_kana": "コウチケン",
-    "prefecture_code": 39,
-    "city": "高知市",
-    "city_kana": "コウチシ",
-    "town": "堺町",
-    "town_kana": "サカイマチ",
-    "street": "２−２２",
-    "office_name": "三菱ＵＦＪ信託銀行　株式会社　高知支店",
-    "office_name_kana": "ミツビシユ-エフジエイシンタクギンコウ カブシキガイシヤ コウチシテン"
   },
   "8676": {
     "postcode": "7808676",
@@ -3674,7 +3661,7 @@
     "city_kana": "コウチシ",
     "town": "本町",
     "town_kana": "ホンマチ",
-    "street": "４丁目２−５２（高知本町郵便局私書箱第３８号）",
+    "street": "４丁目２−５２",
     "office_name": "株式会社　阿波銀行　高知支店",
     "office_name_kana": "カブシキガイシヤ アワギンコウ コウチシテン"
   },
@@ -3687,7 +3674,7 @@
     "city_kana": "コウチシ",
     "town": "本町",
     "town_kana": "ホンマチ",
-    "street": "３丁目３−４３（高知本町郵便局私書箱第１号）",
+    "street": "３丁目３−４３（高知中央郵便局私書箱第１５２号）",
     "office_name": "日本銀行　高知支店",
     "office_name_kana": "ニツポンギンコウ コウチシテン"
   },
@@ -3819,7 +3806,7 @@
     "city_kana": "コウチシ",
     "town": "南久保",
     "town_kana": "ミナミクボ",
-    "street": "１３２（高知卸団地郵便局私書箱第５０号）",
+    "street": "１５番４６号",
     "office_name": "弘進商事　（株）",
     "office_name_kana": "コウシンシヨウジ カブシキガイシヤ"
   },

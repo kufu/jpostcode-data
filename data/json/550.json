@@ -363,6 +363,19 @@
     "office_name": "近畿労働金庫",
     "office_name_kana": "キンキロウドウキンコ"
   },
+  "8541": {
+    "postcode": "5508541",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市西区",
+    "city_kana": "オオサカシニシク",
+    "town": "立売堀",
+    "town_kana": "イタチボリ",
+    "street": "１丁目９番２８番",
+    "office_name": "サンコーインダストリー　株式会社",
+    "office_name_kana": "サンコ-インダストリ- カブシキガイシヤ"
+  },
   "8550": {
     "postcode": "5508550",
     "prefecture": "大阪府",
@@ -385,9 +398,9 @@
     "city_kana": "オオサカシニシク",
     "town": "九条南",
     "town_kana": "クジョウミナミ",
-    "street": "１丁目１２番６２号",
-    "office_name": "大阪市交通局",
-    "office_name_kana": "オオサカシコウツウキヨク"
+    "street": "１−１２−６２",
+    "office_name": "大阪市高速電気軌道　株式会社",
+    "office_name_kana": "オオサカシコウソクデンキキドウ カブシキガイシヤ"
   },
   "8555": {
     "postcode": "5508555",
@@ -557,18 +570,5 @@
     "street": "２丁目３−１６（大阪西郵便局私書箱第９６号）",
     "office_name": "株式会社　山善",
     "office_name_kana": "カブシキガイシヤ ヤマゼン"
-  },
-  "8662": {
-    "postcode": "5508662",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "prefecture_code": 27,
-    "city": "大阪市西区",
-    "city_kana": "オオサカシニシク",
-    "town": "新町",
-    "town_kana": "シンマチ",
-    "street": "１丁目１０番９号",
-    "office_name": "日鉄住金物産　株式会社",
-    "office_name_kana": "ニツテツスミキンブツサン カブシキガイシヤ"
   }
 }

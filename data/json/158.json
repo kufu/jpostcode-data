@@ -220,6 +220,19 @@
     "office_name": "東神開発　株式会社",
     "office_name_kana": "トウシンカイハツ カブシキガイシヤ"
   },
+  "8503": {
+    "postcode": "1588503",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "世田谷区",
+    "city_kana": "セタガヤク",
+    "town": "等々力",
+    "town_kana": "トドロキ",
+    "street": "２−２８−５",
+    "office_name": "玉川総合支所　等々力庁舎",
+    "office_name_kana": "タマガワソウゴウシシヨ トドロキチヨウシヤ"
+  },
   "8505": {
     "postcode": "1588505",
     "prefecture": "東京都",
@@ -402,19 +415,6 @@
     "office_name": "明星電気　株式会社",
     "office_name_kana": "メイセイデンキ カブシキガイシヤ"
   },
-  "8530": {
-    "postcode": "1588530",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "世田谷区",
-    "city_kana": "セタガヤク",
-    "town": "用賀",
-    "town_kana": "ヨウガ",
-    "street": "４丁目１０−１",
-    "office_name": "キャタピラージャパン　株式会社",
-    "office_name_kana": "キヤタピラ-ジヤパン カブシキガイシヤ"
-  },
   "8531": {
     "postcode": "1588531",
     "prefecture": "東京都",
@@ -453,6 +453,19 @@
     "street": "４−１０−１世田谷ビジネススクエアタワー",
     "office_name": "東急カード　株式会社",
     "office_name_kana": "トウキユウカ-ド カブシキガイシヤ"
+  },
+  "8539": {
+    "postcode": "1588539",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "世田谷区",
+    "city_kana": "セタガヤク",
+    "town": "用賀",
+    "town_kana": "ヨウガ",
+    "street": "４−１０−２世田谷ビジネススクエア・ヒルズ１（３階・４階）",
+    "office_name": "東急ファシリティサービス　株式会社",
+    "office_name_kana": "トウキユウフアシリテイサ-ビス カブシキカイシヤ"
   },
   "8543": {
     "postcode": "1588543",

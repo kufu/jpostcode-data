@@ -805,6 +805,19 @@
     "office_name": "株式会社　不二越　西日本支社",
     "office_name_kana": "カブシキカイシヤ フジコシ ニシニホンシシヤ"
   },
+  "8535": {
+    "postcode": "5788535",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "東大阪市",
+    "city_kana": "ヒガシオオサカシ",
+    "town": "本庄西",
+    "town_kana": "ホンジョウニシ",
+    "street": "１−５−１３東大阪物流センター",
+    "office_name": "サンコーインダストリー　株式会社",
+    "office_name_kana": "サンコ-インダストリ- カブシキガイシヤ"
+  },
   "8555": {
     "postcode": "5788555",
     "prefecture": "大阪府",
@@ -853,8 +866,8 @@
     "city_kana": "ヒガシオオサカシ",
     "town": "西岩田",
     "town_kana": "ニシイワタ",
-    "street": "３丁目４−５",
-    "office_name": "東大阪市立　総合病院",
-    "office_name_kana": "ヒガシオオサカシリツ ソウゴウビヨウイン"
+    "street": "３丁目４番５号",
+    "office_name": "地方独立行政法人　市立東大阪医療センター",
+    "office_name_kana": "チホウドクリツギヨウセイホウジン シリツヒガシオオサカイリヨウセンタ-"
   }
 }

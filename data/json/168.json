@@ -402,6 +402,19 @@
     "office_name": "宗教法人　大宮八幡宮",
     "office_name_kana": "シユウキヨウホウジン オオミヤハチマングウ"
   },
+  "8580": {
+    "postcode": "1688580",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "杉並区",
+    "city_kana": "スギナミク",
+    "town": "和泉",
+    "town_kana": "イズミ",
+    "street": "１丁目３２番１８号",
+    "office_name": "株式会社　スズキ自販東京",
+    "office_name_kana": "カブシキガイシヤ スズキジハントウキヨウ"
+  },
   "8601": {
     "postcode": "1688601",
     "prefecture": "東京都",

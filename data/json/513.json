@@ -129,6 +129,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0010": {
+    "postcode": "5130010",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "prefecture_code": 24,
+    "city": "鈴鹿市",
+    "city_kana": "スズカシ",
+    "town": "釆女が丘町",
+    "town_kana": "ウネメガオカチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0011": {
     "postcode": "5130011",
     "prefecture": "三重県",

@@ -194,19 +194,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0031": {
-    "postcode": "5750031",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "prefecture_code": 27,
-    "city": "四條畷市",
-    "city_kana": "シジョウナワテシ",
-    "town": "蔀屋",
-    "town_kana": "シトミヤ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "0032": {
     "postcode": "5750032",
     "prefecture": "大阪府",
@@ -385,6 +372,19 @@
     "city_kana": "シジョウナワテシ",
     "town": "中野新町",
     "town_kana": "ナカノシンマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0055": {
+    "postcode": "5750055",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "四條畷市",
+    "city_kana": "シジョウナワテシ",
+    "town": "西中野",
+    "town_kana": "ニシナカノ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

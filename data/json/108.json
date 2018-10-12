@@ -1815,9 +1815,9 @@
     "city_kana": "ミナトク",
     "town": "港南",
     "town_kana": "コウナン",
-    "street": "１−８−１５Ｗビル（高輪郵便局私書箱第５号）",
-    "office_name": "東燃ゼネラル石油　株式会社",
-    "office_name_kana": "トウネンゼネラルセキユ カブシキガイシヤ"
+    "street": "１−８−１５Ｗビル",
+    "office_name": "ＪＸＴＧエネルギー　株式会社",
+    "office_name_kana": "ジエ-エツクステイ-ジ-エネルギ- カブシキガイシヤ"
   },
   "8011": {
     "postcode": "1088011",
@@ -1884,19 +1884,6 @@
     "office_name": "クラシエホールディングス　株式会社",
     "office_name_kana": "クラシエホ-ルデイングス カブシキガイシヤ"
   },
-  "8088": {
-    "postcode": "1088088",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "芝浦",
-    "town_kana": "シバウラ",
-    "street": "２−９−１３ＯＣＳビル新館",
-    "office_name": "ＡＮＡフーズ　株式会社",
-    "office_name_kana": "エ-エヌエ-フ-ズ カブシキガイシヤ"
-  },
   "8117": {
     "postcode": "1088117",
     "prefecture": "東京都",
@@ -1909,6 +1896,19 @@
     "street": "２丁目１６−４",
     "office_name": "株式会社　セディナ",
     "office_name_kana": "カブシキガイシヤ セデイナ"
+  },
+  "8118": {
+    "postcode": "1088118",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "３−４−１グランパークタワー",
+    "office_name": "エヌ・ティ・ティ・コミュニケーションズ　株式会社",
+    "office_name_kana": "エヌ・テイ・テイ・コミユニケ-シヨンズ カブシキガイシヤ"
   },
   "8201": {
     "postcode": "1088201",
@@ -1935,6 +1935,32 @@
     "street": "２−１６−４−１７Ｆ",
     "office_name": "ＮＴＴソフトウェア　株式会社",
     "office_name_kana": "エヌ・テイ・テイ・ソフトウエア カブシキガイシヤ"
+  },
+  "8203": {
+    "postcode": "1088203",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "港南",
+    "town_kana": "コウナン",
+    "street": "１丁目６番３１号品川東急ビル",
+    "office_name": "外国人技能実習機構　東京事務所",
+    "office_name_kana": "ガイコクジンギノウジツシユウキコウ トウキヨウジムシヨ"
+  },
+  "8206": {
+    "postcode": "1088206",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "港南",
+    "town_kana": "コウナン",
+    "street": "１丁目２番７０号品川シーズンテラス２５階",
+    "office_name": "公益財団法人　ＪＫＡ",
+    "office_name_kana": "コウエキザイダンホウジン ジエ-ケ-エ-"
   },
   "8207": {
     "postcode": "1088207",
@@ -2027,6 +2053,19 @@
     "office_name": "三菱重工業　株式会社",
     "office_name_kana": "ミツビシジユウコウギヨウ カブシキガイシヤ"
   },
+  "8216": {
+    "postcode": "1088216",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "港南",
+    "town_kana": "コウナン",
+    "street": "２丁目３番１３号品川フロントビル１１階",
+    "office_name": "豊通ケミプラス　株式会社",
+    "office_name_kana": "トヨツウケミプラス カブシキガイシヤ"
+  },
   "8217": {
     "postcode": "1088217",
     "prefecture": "東京都",
@@ -2092,6 +2131,19 @@
     "office_name": "日立金属　株式会社",
     "office_name_kana": "ヒタチキンゾク カブシキガイシヤ"
   },
+  "8225": {
+    "postcode": "1088225",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "港南",
+    "town_kana": "コウナン",
+    "street": "２−１６−６",
+    "office_name": "キヤノンシステムアンドサポート　株式会社",
+    "office_name_kana": "キヤノンシステムアンドサポ-ト カブシキガイシヤ"
+  },
   "8230": {
     "postcode": "1088230",
     "prefecture": "東京都",
@@ -2141,8 +2193,8 @@
     "town": "港南",
     "town_kana": "コウナン",
     "street": "２丁目１８−１",
-    "office_name": "Ｙ・Ｓ物流　（株）",
-    "office_name_kana": "ワイ・エスブツリユウ (カブ)"
+    "office_name": "ダイセル物流　株式会社",
+    "office_name_kana": "ダイセルブツリユウ カブシキガイシヤ"
   },
   "8234": {
     "postcode": "1088234",
@@ -2206,8 +2258,8 @@
     "town": "港南",
     "town_kana": "コウナン",
     "street": "２丁目１６番２号",
-    "office_name": "日立マクセル　株式会社",
-    "office_name_kana": "ヒタチマクセル カブシキガイシヤ"
+    "office_name": "マクセル　株式会社",
+    "office_name_kana": "マクセル カブシキガイシヤ"
   },
   "8250": {
     "postcode": "1088250",
@@ -2313,6 +2365,19 @@
     "office_name": "日本システム技術　株式会社",
     "office_name_kana": "ニホンシステムギジユツ カブシキガイシヤ"
   },
+  "8301": {
+    "postcode": "1088301",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "三田",
+    "town_kana": "ミタ",
+    "street": "１−４−２８三田国際ビル１６Ｆ",
+    "office_name": "株式会社　アイスター商事",
+    "office_name_kana": "カブシキガイシヤ アイスタ-シヨウジ"
+  },
   "8303": {
     "postcode": "1088303",
     "prefecture": "東京都",
@@ -2346,9 +2411,9 @@
     "prefecture_code": 13,
     "city": "港区",
     "city_kana": "ミナトク",
-    "town": "三田",
-    "town_kana": "ミタ",
-    "street": "３−９−６−１３階",
+    "town": "白金",
+    "town_kana": "シロカネ",
+    "street": "１丁目１７番３号",
     "office_name": "フジテック　株式会社　東京本社",
     "office_name_kana": "フジテツク カブシキガイシヤ トウキヨウホンシヤ"
   },
@@ -2479,8 +2544,8 @@
     "town": "三田",
     "town_kana": "ミタ",
     "street": "３丁目９番６号",
-    "office_name": "ミネベア　株式会社　東京本部",
-    "office_name_kana": "ミネベア カブシキガイシヤ トウキヨウホンブ"
+    "office_name": "ミネベアミツミ　株式会社",
+    "office_name_kana": "ミネベアミツミ カブシキガイシヤ"
   },
   "8333": {
     "postcode": "1088333",
@@ -2658,11 +2723,11 @@
     "prefecture_code": 13,
     "city": "港区",
     "city_kana": "ミナトク",
-    "town": "芝",
-    "town_kana": "シバ",
-    "street": "４−１−２３",
+    "town": "高輪",
+    "town_kana": "タカナワ",
+    "street": "１−３−１３",
     "office_name": "株式会社　インボイス",
-    "office_name_kana": "カブシキガイシヤ インボイス"
+    "office_name_kana": "カブシキカイシヤ インボイス"
   },
   "8380": {
     "postcode": "1088380",
@@ -3041,6 +3106,19 @@
     "office_name": "日本カーバイド工業　株式会社",
     "office_name_kana": "ニツポンカ-バイドコウギヨウ カブシキガイシヤ"
   },
+  "8468": {
+    "postcode": "1088468",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "港南",
+    "town_kana": "コウナン",
+    "street": "２丁目１０番１４号",
+    "office_name": "イギン　株式会社　東京本社",
+    "office_name_kana": "イギン カブシキガイシヤ トウキヨウホンシヤ"
+  },
   "8470": {
     "postcode": "1088470",
     "prefecture": "東京都",
@@ -3119,18 +3197,18 @@
     "office_name": "株式会社　大林組　東京本社　品川事務所",
     "office_name_kana": "カブシキガイシヤ オオバヤシグミ トウキヨウホンシヤ シナガワジムシヨ"
   },
-  "8505": {
-    "postcode": "1088505",
+  "8506": {
+    "postcode": "1088506",
     "prefecture": "東京都",
     "prefecture_kana": "トウキョウト",
     "prefecture_code": 13,
     "city": "港区",
     "city_kana": "ミナトク",
-    "town": "港南",
-    "town_kana": "コウナン",
-    "street": "１丁目９−１ＮＴＴ品川ＴＷＩＮＳアネックス棟ＮＴＴ品川ＴＷＩＮＳＤＡＴＡ棟",
-    "office_name": "株式会社　エヌ・ティ・ティ・データ通信",
-    "office_name_kana": "カブシキガイシヤ エヌ・テイ・テイ・デ-タ"
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "２丁目１２番１０号",
+    "office_name": "ＴＨＫ　株式会社",
+    "office_name_kana": "テイエチケ- カブシキカイシヤ"
   },
   "8507": {
     "postcode": "1088507",
@@ -3144,6 +3222,19 @@
     "street": "２−１３−３７フィリップスビル",
     "office_name": "株式会社　フィリップスエレクトロニクスジャパン",
     "office_name_kana": "カブシキガイシヤ フイリツプスエレクトロニクスジヤパン"
+  },
+  "8508": {
+    "postcode": "1088508",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "４丁目１６番２３号",
+    "office_name": "ピコ　株式会社",
+    "office_name_kana": "ピコ カブシキガイシヤ"
   },
   "8509": {
     "postcode": "1088509",
@@ -3168,8 +3259,8 @@
     "town": "港南",
     "town_kana": "コウナン",
     "street": "２丁目３−１３品川フロントビル",
-    "office_name": "株式会社　トーメンエレクトロニクス",
-    "office_name_kana": "カブシキカイシヤ ト-メンエレクトロニクス"
+    "office_name": "株式会社　ネクスティエレクトロニクス",
+    "office_name_kana": "カブシキガイシヤ ネクステイエレクトロニクス"
   },
   "8511": {
     "postcode": "1088511",
@@ -3209,6 +3300,19 @@
     "street": "４丁目８−３トヨタアドミニスタ芝浦ビル",
     "office_name": "ネッツトヨタ東京　株式会社",
     "office_name_kana": "ネツツトヨタトウキヨウ カブシキカイシヤ"
+  },
+  "8518": {
+    "postcode": "1088518",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "４−８−３トヨタ東京販売ホールディングス芝浦ビル１１階",
+    "office_name": "トヨタ東京カローラ　株式会社",
+    "office_name_kana": "トヨタトウキヨウカロ-ラ カブシキガイシヤ"
   },
   "8520": {
     "postcode": "1088520",
@@ -3454,8 +3558,8 @@
     "town": "芝浦",
     "town_kana": "シバウラ",
     "street": "４−９−２５芝浦スクエアビル",
-    "office_name": "株式会社　リクルートフォレントインシュア",
-    "office_name_kana": "カブシキガイシヤ リクル-トフオレントインシユア"
+    "office_name": "株式会社　オリコフォレントインシュア",
+    "office_name_kana": "カブシキガイシヤ オリコフオレントインシユア"
   },
   "8556": {
     "postcode": "1088556",
@@ -3522,6 +3626,19 @@
     "office_name": "（株）　コスモ総合研究所",
     "office_name_kana": "(カブ) コスモソウゴウケンキユウジヨ"
   },
+  "8566": {
+    "postcode": "1088566",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "３丁目１番２１号",
+    "office_name": "エイ・エイ・ピー・シー・ジャパン　株式会社　プルマン東京田町",
+    "office_name_kana": "エイ・エイ・ピ-・シ-・ジヤパン カブシキガイシヤ プルマントウキヨウタマチ"
+  },
   "8568": {
     "postcode": "1088568",
     "prefecture": "東京都",
@@ -3586,19 +3703,6 @@
     "street": "３丁目５−２７住友不動産三田ツインビル西館",
     "office_name": "ユニ・チャーム　株式会社",
     "office_name_kana": "ユニ・チヤ-ム カブシキガイシヤ"
-  },
-  "8578": {
-    "postcode": "1088578",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "高輪",
-    "town_kana": "タカナワ",
-    "street": "２丁目２１−４２",
-    "office_name": "フジテック　株式会社　東京支社",
-    "office_name_kana": "フジテツク カブシキガイシヤ トウキヨウシシヤ"
   },
   "8580": {
     "postcode": "1088580",
@@ -3899,6 +4003,19 @@
     "office_name": "明治学院大学",
     "office_name_kana": "メイジガクインダイガク"
   },
+  "8638": {
+    "postcode": "1088638",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "白金台",
+    "town_kana": "シロカネダイ",
+    "street": "３丁目２番１０号白金台ビル２階",
+    "office_name": "株式会社　日本教育新聞社",
+    "office_name_kana": "カブシキガイシヤ ニホンキヨウイクシンブンシヤ"
+  },
   "8640": {
     "postcode": "1088640",
     "prefecture": "東京都",
@@ -3938,19 +4055,6 @@
     "office_name": "北里研究所病院",
     "office_name_kana": "キタサトケンキユウシヨビヨウイン"
   },
-  "8646": {
-    "postcode": "1088646",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "白金",
-    "town_kana": "シロカネ",
-    "street": "１丁目１７−３",
-    "office_name": "株式会社　日経ＢＰ",
-    "office_name_kana": "カブシキガイシヤ ニツケイビ-ピ-"
-  },
   "8648": {
     "postcode": "1088648",
     "prefecture": "東京都",
@@ -3976,19 +4080,6 @@
     "street": "１丁目１７−３ＮＢＦプラチナタワー３Ｆ",
     "office_name": "さくら情報システム　株式会社",
     "office_name_kana": "サクラジヨウホウシステム カブシキガイシヤ"
-  },
-  "8701": {
-    "postcode": "1088701",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "芝浦",
-    "town_kana": "シバウラ",
-    "street": "２−９−１３",
-    "office_name": "株式会社　ＯＣＳ",
-    "office_name_kana": "カブシキカイシヤ オ-シ-エス"
   },
   "8707": {
     "postcode": "1088707",

@@ -922,18 +922,18 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0192": {
-    "postcode": "2530192",
+  "0193": {
+    "postcode": "2530193",
     "prefecture": "神奈川県",
     "prefecture_kana": "カナガワケン",
     "prefecture_code": 14,
     "city": "高座郡寒川町",
     "city_kana": "コウザグンサムカワマチ",
-    "town": "小谷",
-    "town_kana": "コヤト",
-    "street": "２丁目１番１号",
-    "office_name": "セイコーエプソン　株式会社　湘南事業所",
-    "office_name_kana": "セイコ-エプソン カブシキカイシヤ シヨウナンジギヨウシヨ"
+    "town": "田端",
+    "town_kana": "タバタ",
+    "street": "１５８０番地",
+    "office_name": "ユシロ化学工業　株式会社　テクニカルセンター",
+    "office_name_kana": "ユシロカガクコウギヨウ カブシキガイシヤ テクニカルセンタ-"
   },
   "0195": {
     "postcode": "2530195",
@@ -994,9 +994,9 @@
     "prefecture_code": 14,
     "city": "茅ヶ崎市",
     "city_kana": "チガサキシ",
-    "town": "円蔵",
-    "town_kana": "エンゾウ",
-    "street": "３７０",
+    "town": "萩園",
+    "town_kana": "ハギソノ",
+    "street": "２５００",
     "office_name": "アルバック・ファイ　株式会社",
     "office_name_kana": "アルバツク・フアイ カブシキガイシヤ"
   },
@@ -1129,6 +1129,19 @@
     "street": "１丁目１−１",
     "office_name": "宮田工業　株式会社",
     "office_name_kana": "ミヤタコウギヨウ カブシキガイシヤ"
+  },
+  "8660": {
+    "postcode": "2538660",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "茅ヶ崎市",
+    "city_kana": "チガサキシ",
+    "town": "茅ヶ崎",
+    "town_kana": "チガサキ",
+    "street": "一丁目８番７号",
+    "office_name": "茅ヶ崎市保健所",
+    "office_name_kana": "チガサキシホケンジヨ"
   },
   "8686": {
     "postcode": "2538686",

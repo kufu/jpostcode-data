@@ -1299,6 +1299,19 @@
     "office_name": "関西電力　株式会社　阪神営業所",
     "office_name_kana": "カンサイデンリヨク カブシキガイシヤ ハンシンエイギヨウシヨ"
   },
+  "8567": {
+    "postcode": "6608567",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "尼崎市",
+    "city_kana": "アマガサキシ",
+    "town": "杭瀬寺島",
+    "town_kana": "クイセテラジマ",
+    "street": "２丁目１番２号",
+    "office_name": "木村化工機　株式会社",
+    "office_name_kana": "キムラカコウキ カブシキガイシヤ"
+  },
   "8580": {
     "postcode": "6608580",
     "prefecture": "兵庫県",

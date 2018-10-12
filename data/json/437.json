@@ -3106,6 +3106,19 @@
     "office_name": "株式会社　静岡カントリー　袋井コース",
     "office_name_kana": "カブシキガイシヤ シズオカカントリ- フクロイコ-ス"
   },
+  "8502": {
+    "postcode": "4378502",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "袋井市",
+    "city_kana": "フクロイシ",
+    "town": "鷲巣",
+    "town_kana": "ワシズ",
+    "street": "西ノ谷１５−１",
+    "office_name": "ティーライフ　株式会社　物流センター",
+    "office_name_kana": "テイ-ライフ カブシキガイシヤ ブツリユウセンタ-"
+  },
   "8511": {
     "postcode": "4378511",
     "prefecture": "静岡県",

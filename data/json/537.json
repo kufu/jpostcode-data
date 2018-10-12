@@ -181,19 +181,6 @@
     "office_name": "東成区役所",
     "office_name_kana": "ヒガシナリクヤクシヨ"
   },
-  "8511": {
-    "postcode": "5378511",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "prefecture_code": 27,
-    "city": "大阪市東成区",
-    "city_kana": "オオサカシヒガシナリク",
-    "town": "中道",
-    "town_kana": "ナカミチ",
-    "street": "１丁目３−３",
-    "office_name": "大阪府立　成人病センター",
-    "office_name_kana": "オオサカフリツ セイジンビヨウセンタ-"
-  },
   "8686": {
     "postcode": "5378686",
     "prefecture": "大阪府",
@@ -206,5 +193,18 @@
     "street": "６丁目１−１（東成郵便局私書箱第５号）",
     "office_name": "コクヨ　（株）",
     "office_name_kana": "コクヨ カブシキガイシヤ"
+  },
+  "8911": {
+    "postcode": "5378911",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市東成区",
+    "city_kana": "オオサカシヒガシナリク",
+    "town": "東小橋",
+    "town_kana": "ヒガシオバセ",
+    "street": "２丁目９番９号",
+    "office_name": "ザ・パック　株式会社",
+    "office_name_kana": "ザ・パツク カブシキガイシヤ"
   }
 }

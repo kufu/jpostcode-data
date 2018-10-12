@@ -357,11 +357,11 @@
     "prefecture_code": 14,
     "city": "川崎市高津区",
     "city_kana": "カワサキシタカツク",
-    "town": "溝口",
-    "town_kana": "ミゾノクチ",
-    "street": "３丁目８−３",
-    "office_name": "帝京大学　医学部附属　溝口病院",
-    "office_name_kana": "テイキヨウダイガク イガクブフゾク ミゾノクチビヨウイン"
+    "town": "二子",
+    "town_kana": "フタゴ",
+    "street": "５−１−１",
+    "office_name": "帝京大学　医学部　付属溝口病院",
+    "office_name_kana": "テイキヨウダイガク イガクブ フゾクミゾノクチビヨウイン"
   },
   "8511": {
     "postcode": "2138511",
@@ -411,9 +411,22 @@
     "city_kana": "カワサキシタカツク",
     "town": "北見方",
     "town_kana": "キタミガタ",
-    "street": "３丁目１４",
-    "office_name": "アマゾン川崎フルフィルメントセンター",
-    "office_name_kana": "アマゾンカワサキフルフイルメントセンタ-"
+    "street": "３−１４−１ＨＮＤ６",
+    "office_name": "アマゾン川崎ＦＣ　ＨＮＤ６",
+    "office_name_kana": "アマゾンカワサキエフシ- エイチエヌデイ-シツクス"
+  },
+  "8517": {
+    "postcode": "2138517",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "川崎市高津区",
+    "city_kana": "カワサキシタカツク",
+    "town": "北見方",
+    "town_kana": "キタミガタ",
+    "street": "３−１４−１ＨＮＤ９",
+    "office_name": "アマゾン川崎ＦＣ　ＨＮＤ９",
+    "office_name_kana": "アマゾンカワサキエフシ- エイチエヌデイ-ナイン"
   },
   "8520": {
     "postcode": "2138520",
@@ -542,8 +555,8 @@
     "town": "宇奈根",
     "town_kana": "ウナネ",
     "street": "７１５−１",
-    "office_name": "日本開閉器工業　株式会社",
-    "office_name_kana": "ニホンカイヘイキコウギヨウ カブシキガイシヤ"
+    "office_name": "ＮＫＫスイッチズ　株式会社",
+    "office_name_kana": "エヌケ-ケ-スイツチズ カブシキガイシヤ"
   },
   "8558": {
     "postcode": "2138558",
@@ -661,19 +674,6 @@
     "street": "３丁目１５−２",
     "office_name": "株式会社　ユーハイム",
     "office_name_kana": "カブシキガイシヤ ユ-ハイム"
-  },
-  "8585": {
-    "postcode": "2138585",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "川崎市高津区",
-    "city_kana": "カワサキシタカツク",
-    "town": "二子",
-    "town_kana": "フタゴ",
-    "street": "６丁目１３−１０",
-    "office_name": "株式会社　アイネス",
-    "office_name_kana": "カブシキガイシヤ アイネス"
   },
   "8586": {
     "postcode": "2138586",

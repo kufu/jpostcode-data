@@ -1013,6 +1013,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0810": {
+    "postcode": "9240810",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "白山市",
+    "city_kana": "ハクサンシ",
+    "town": "菜の花",
+    "town_kana": "ナノハナ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0811": {
     "postcode": "9240811",
     "prefecture": "石川県",

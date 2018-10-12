@@ -1301,6 +1301,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1704": {
+    "postcode": "8891704",
+    "prefecture": "宮崎県",
+    "prefecture_kana": "ミヤザキケン",
+    "prefecture_code": 45,
+    "city": "宮崎市",
+    "city_kana": "ミヤザキシ",
+    "town": "田野町南原",
+    "town_kana": "タノチョウミナミバル",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1713": [
     {
       "postcode": "8891713",

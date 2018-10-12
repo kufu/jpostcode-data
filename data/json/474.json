@@ -515,9 +515,9 @@
     "city_kana": "オオブシ",
     "town": "中央町",
     "town_kana": "チュウオウチョウ",
-    "street": "５丁目７０",
-    "office_name": "大府市商工会",
-    "office_name_kana": "オオブシシヨウコウカイ"
+    "street": "５丁目７０番地",
+    "office_name": "大府商工会議所",
+    "office_name_kana": "オオブシヨウコウカイギシヨ"
   },
   "8505": {
     "postcode": "4748505",
@@ -864,10 +864,10 @@
     "prefecture_code": 23,
     "city": "大府市",
     "city_kana": "オオブシ",
-    "town": "共和町",
-    "town_kana": "キョウワチョウ",
-    "street": "下色１−１（第２商品センター２Ｆ）",
-    "office_name": "ネットオフ　株式会社　「ブランド・家電コース」買取センター",
-    "office_name_kana": "ネツトオフ カブシキガイシヤ <ブランド・カデンコ-ス>カイトリセンタ-"
+    "town": "一屋町",
+    "town_kana": "ヒトツヤチョウ",
+    "street": "３−４５リネットジャパン",
+    "office_name": "メダルＰＪ受付センター",
+    "office_name_kana": "メダルプロジエクトウケツケセンタ-"
   }
 }

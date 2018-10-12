@@ -1949,6 +1949,19 @@
     "office_name": "佐賀大学",
     "office_name_kana": "サガダイガク"
   },
+  "8508": {
+    "postcode": "8408508",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "prefecture_code": 41,
+    "city": "佐賀市",
+    "city_kana": "サガシ",
+    "town": "駅南本町",
+    "town_kana": "エキミナミホンマチ",
+    "street": "６−１４",
+    "office_name": "佐賀県酒造組合",
+    "office_name_kana": "サガケンシユゾウクミアイ"
+  },
   "8511": {
     "postcode": "8408511",
     "prefecture": "佐賀県",
@@ -1974,6 +1987,19 @@
     "street": "１丁目４−３",
     "office_name": "株式会社　佐電工",
     "office_name_kana": "カブシキカイシヤサデンコウ"
+  },
+  "8530": {
+    "postcode": "8408530",
+    "prefecture": "佐賀県",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "佐賀市",
+    "city_kana": null,
+    "town": "本庄町大字本庄",
+    "town_kana": null,
+    "street": "１５５−１",
+    "office_name": "佐賀南警察署",
+    "office_name_kana": "サガミナミケイサツシヨ"
   },
   "8540": {
     "postcode": "8408540",
@@ -2190,9 +2216,9 @@
     "prefecture_code": 41,
     "city": "佐賀市",
     "city_kana": "サガシ",
-    "town": "八幡小路",
-    "town_kana": "ハチマンコウジ",
-    "street": "１−１０（佐賀中央郵便局私書箱第３３号）",
+    "town": "多布施",
+    "town_kana": "タフセ",
+    "street": "１丁目４番２７号（佐賀中央郵便局私書箱第３３号）",
     "office_name": "松尾建設　株式会社",
     "office_name_kana": "マツオケンセツ カブシキガイシヤ"
   },

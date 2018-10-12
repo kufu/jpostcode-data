@@ -844,6 +844,19 @@
     "office_name": "ライオンハイジーン　株式会社",
     "office_name_kana": "ライオンハイジ-ン カブシキガイシヤ"
   },
+  "8585": {
+    "postcode": "1308585",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "墨田区",
+    "city_kana": "スミダク",
+    "town": "東駒形",
+    "town_kana": "ヒガシコマガタ",
+    "street": "１−１４−１財協ビル",
+    "office_name": "一般財団法人　大蔵財務協会",
+    "office_name_kana": "イツパンザイダンホウジン オオクラザイムキヨウカイ"
+  },
   "8588": {
     "postcode": "1308588",
     "prefecture": "東京都",
@@ -942,11 +955,11 @@
     "prefecture_code": 13,
     "city": "墨田区",
     "city_kana": "スミダク",
-    "town": "両国",
-    "town_kana": "リョウゴク",
-    "street": "４−２９−４",
-    "office_name": "東京都墨田　都税事務所",
-    "office_name_kana": "トウキヨウトスミダ トゼイジムシヨ"
+    "town": "業平",
+    "town_kana": "ナリヒラ",
+    "street": "１−７−４",
+    "office_name": "東京都墨田都税事務所",
+    "office_name_kana": "トウキヨウトスミダトゼイジムシヨ"
   },
   "8609": {
     "postcode": "1308609",

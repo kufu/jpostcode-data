@@ -922,6 +922,19 @@
     "office_name": "吉原建設　株式会社",
     "office_name_kana": "ヨシハラケンセツ カブシキガイシヤ"
   },
+  "8580": {
+    "postcode": "2518580",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "藤沢市",
+    "city_kana": "フジサワシ",
+    "town": "南藤沢",
+    "town_kana": "ミナミフジサワ",
+    "street": "２１番１号",
+    "office_name": "株式会社　小田急百貨店　藤沢店",
+    "office_name_kana": "カブシキガイシヤ オダキユウヒヤツカテン フジサワテン"
+  },
   "8581": {
     "postcode": "2518581",
     "prefecture": "神奈川県",

@@ -2257,9 +2257,9 @@
     "city_kana": "ニシオシ",
     "town": "一色町一色",
     "town_kana": "イッシキチョウイッシキ",
-    "street": "伊那跨６１",
-    "office_name": "一色町役場",
-    "office_name_kana": "イツシキチヨウヤクバ"
+    "street": "東前新田８番地",
+    "office_name": "西尾市役所　一色支所",
+    "office_name_kana": "ニシオシヤクシヨ イツシキシシヨ"
   },
   "0493": {
     "postcode": "4440493",
@@ -6407,7 +6407,7 @@
     "city": "豊田市",
     "city_kana": "トヨタシ",
     "town": "川面町",
-    "town_kana": "カワオモテチョウ",
+    "town_kana": "カワモテチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -7792,6 +7792,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3176": {
+    "postcode": "4443176",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "岡崎市",
+    "city_kana": "オカザキシ",
+    "town": "真伝吉祥",
+    "town_kana": "シンデンキチジョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3201": {
     "postcode": "4443201",
     "prefecture": "愛知県",
@@ -9127,9 +9140,9 @@
     "city_kana": "オカザキシ",
     "town": "日名西町",
     "town_kana": "ヒナニシマチ",
-    "street": "３",
-    "office_name": "ヤック　株式会社",
-    "office_name_kana": "ヤツク カブシキガイシヤ"
+    "street": "３番地",
+    "office_name": "槌屋ヤック　株式会社",
+    "office_name_kana": "ツチヤヤツク カブシキガイシヤ"
   },
   "8517": {
     "postcode": "4448517",
@@ -9440,8 +9453,8 @@
     "town": "井田南町",
     "town_kana": "イダミナミマチ",
     "street": "４番地５",
-    "office_name": "峰澤鋼機　株式会社",
-    "office_name_kana": "ミネザワコウキ カブシキガイシヤ"
+    "office_name": "株式会社　ＭＩＮＥＺＡＷＡ",
+    "office_name_kana": "カブシキカイシヤ ミネザワ"
   },
   "8601": {
     "postcode": "4448601",

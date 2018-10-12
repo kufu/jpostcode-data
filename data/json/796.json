@@ -172,6 +172,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0020": {
+    "postcode": "7960020",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "prefecture_code": 38,
+    "city": "八幡浜市",
+    "city_kana": "ヤワタハマシ",
+    "town": "神宮",
+    "town_kana": "ジングウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "7960021",
     "prefecture": "愛媛県",
@@ -380,6 +393,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0038": {
+    "postcode": "7960038",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "prefecture_code": 38,
+    "city": "八幡浜市",
+    "city_kana": "ヤワタハマシ",
+    "town": "清水町花小路",
+    "town_kana": "シミズマチハナコウジ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0041": {
     "postcode": "7960041",
     "prefecture": "愛媛県",
@@ -414,7 +440,7 @@
     "city": "八幡浜市",
     "city_kana": "ヤワタハマシ",
     "town": "東近江屋町",
-    "town_kana": "ヒガシオオミヤチョウ",
+    "town_kana": "ヒガシオウミヤチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -427,7 +453,7 @@
     "city": "八幡浜市",
     "city_kana": "ヤワタハマシ",
     "town": "西近江屋町",
-    "town_kana": "ニシオオミヤチョウ",
+    "town_kana": "ニシオウミヤチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -440,7 +466,7 @@
     "city": "八幡浜市",
     "city_kana": "ヤワタハマシ",
     "town": "西近江屋町浜通",
-    "town_kana": "ニシオオミヤチョウハマドオリ",
+    "town_kana": "ニシオウミヤチョウハマドオリ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -562,6 +588,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0057": {
+    "postcode": "7960057",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "prefecture_code": 38,
+    "city": "八幡浜市",
+    "city_kana": "ヤワタハマシ",
+    "town": "愛宕山団地",
+    "town_kana": "アタゴヤマダンチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0061": {
     "postcode": "7960061",
     "prefecture": "愛媛県",
@@ -661,7 +700,7 @@
     "city": "八幡浜市",
     "city_kana": "ヤワタハマシ",
     "town": "浜之町",
-    "town_kana": "ハマノチョウ",
+    "town_kana": "ハマノマチ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -770,15 +809,15 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0078": {
-    "postcode": "7960078",
+  "0079": {
+    "postcode": "7960079",
     "prefecture": "愛媛県",
     "prefecture_kana": "エヒメケン",
     "prefecture_code": 38,
     "city": "八幡浜市",
     "city_kana": "ヤワタハマシ",
-    "town": "中央マーケット",
-    "town_kana": "チュウオウマーケット",
+    "town": "新港戎町",
+    "town_kana": "シンミナトエビスマチ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -790,7 +829,7 @@
     "prefecture_code": 38,
     "city": "八幡浜市",
     "city_kana": "ヤワタハマシ",
-    "town": "朝汐橋",
+    "town": "朝潮橋",
     "town_kana": "アサシオバシ",
     "street": null,
     "office_name": null,
@@ -883,6 +922,19 @@
     "city_kana": "ヤワタハマシ",
     "town": "",
     "town_kana": "",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0089": {
+    "postcode": "7960089",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "prefecture_code": 38,
+    "city": "八幡浜市",
+    "city_kana": "ヤワタハマシ",
+    "town": "出島",
+    "town_kana": "デジマ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

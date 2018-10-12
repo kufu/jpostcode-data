@@ -45,8 +45,8 @@
     "prefecture_code": 13,
     "city": "新宿区",
     "city_kana": "シンジュクク",
-    "town": "本塩町",
-    "town_kana": "ホンシオチョウ",
+    "town": "四谷本塩町",
+    "town_kana": "ヨツヤホンシオチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -110,8 +110,8 @@
     "prefecture_code": 13,
     "city": "新宿区",
     "city_kana": "シンジュクク",
-    "town": "三栄町",
-    "town_kana": "サンエイチョウ",
+    "town": "四谷三栄町",
+    "town_kana": "ヨツヤサンエイチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -1351,19 +1351,6 @@
     "office_name": "株式会社　スクウェア・エニックス",
     "office_name_kana": "カブシキガイシヤ スクウエア・エニツクス"
   },
-  "8431": {
-    "postcode": "1608431",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "新宿区",
-    "city_kana": "シンジュクク",
-    "town": "新宿",
-    "town_kana": "シンジュク",
-    "street": "５丁目９番２号",
-    "office_name": "株式会社　八千代銀行",
-    "office_name_kana": "カブシキガイシヤ ヤチヨギンコウ"
-  },
   "8433": {
     "postcode": "1608433",
     "prefecture": "東京都",
@@ -1376,6 +1363,19 @@
     "street": "５丁目６−１１",
     "office_name": "株式会社　佐藤秀",
     "office_name_kana": "カブシキガイシヤ サトウヒデ"
+  },
+  "8441": {
+    "postcode": "1608441",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "新宿",
+    "town_kana": "シンジュク",
+    "street": "３丁目１番２４号京王新宿三丁目ビル",
+    "office_name": "廣告社　株式会社",
+    "office_name_kana": "コウコクシヤ カブシキガイシヤ"
   },
   "8444": {
     "postcode": "1608444",
@@ -1683,9 +1683,9 @@
     "prefecture_code": 13,
     "city": "新宿区",
     "city_kana": "シンジュクク",
-    "town": "三栄町",
-    "town_kana": "サンエイチョウ",
-    "street": "２４",
+    "town": "四谷三栄町",
+    "town_kana": "ヨツヤサンエイチョウ",
+    "street": "７番７号",
     "office_name": "四谷税務署",
     "office_name_kana": "ヨツヤゼイムシヨ"
   },
@@ -1718,28 +1718,15 @@
   "8547": {
     "postcode": "1608547",
     "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
+    "prefecture_kana": null,
+    "prefecture_code": null,
     "city": "新宿区",
-    "city_kana": "シンジュクク",
+    "city_kana": null,
     "town": "本塩町",
-    "town_kana": "ホンシオチョウ",
+    "town_kana": null,
     "street": "１９",
     "office_name": "株式会社　三栄書房",
     "office_name_kana": "カブシキガイシヤ サンエイシヨボウ"
-  },
-  "8549": {
-    "postcode": "1608549",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "新宿区",
-    "city_kana": "シンジュクク",
-    "town": "四谷坂町",
-    "town_kana": "ヨツヤサカマチ",
-    "street": "１０番１０号",
-    "office_name": "株式会社　公募ガイド社",
-    "office_name_kana": "カブシキガイシヤ コウボガイドシヤ"
   },
   "8565": {
     "postcode": "1608565",
@@ -1774,11 +1761,11 @@
     "prefecture_code": 13,
     "city": "新宿区",
     "city_kana": "シンジュクク",
-    "town": "本塩町",
-    "town_kana": "ホンシオチョウ",
-    "street": "１３",
+    "town": "四谷本塩町",
+    "town_kana": "ヨツヤホンシオチョウ",
+    "street": "５番１号",
     "office_name": "雪印メグミルク　株式会社",
-    "office_name_kana": "ユキジルシメグミルク カブシキガイシヤ"
+    "office_name_kana": "ユキジルシメグミルク カブシキカイシヤ"
   },
   "8577": {
     "postcode": "1608577",
@@ -1886,19 +1873,6 @@
     "office_name": "創価学会",
     "office_name_kana": "ソウカガツカイ"
   },
-  "8586": {
-    "postcode": "1608586",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "新宿区",
-    "city_kana": "シンジュクク",
-    "town": "信濃町",
-    "town_kana": "シナノマチ",
-    "street": "９−７",
-    "office_name": "東京金属事業厚生年金基金",
-    "office_name_kana": "トウキヨウキンゾクジギヨウコウセイネンキンキキン"
-  },
   "8587": {
     "postcode": "1608587",
     "prefecture": "東京都",
@@ -1992,8 +1966,8 @@
       "office_name_kana": "セイコ-エプソン カブシキカイシヤ"
     }
   ],
-  "8810": {
-    "postcode": "1608810",
+  "8812": {
+    "postcode": "1608812",
     "prefecture": "東京都",
     "prefecture_kana": "トウキョウト",
     "prefecture_code": 13,
@@ -2002,8 +1976,8 @@
     "town": "新宿",
     "town_kana": "シンジュク",
     "street": "６−２７−３０新宿イーストサイドスクエア",
-    "office_name": "シティバンク銀行　株式会社",
-    "office_name_kana": "シテイバンクギンコウ カブシキガイシヤ"
+    "office_name": "シティグループ・サービス・ジャパン　株式会社",
+    "office_name_kana": "シテイグル-プ・サ-ビス・ジヤパン カブシキガイシヤ"
   },
   "8910": {
     "postcode": "1608910",

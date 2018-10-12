@@ -610,19 +610,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "8501": {
-    "postcode": "5798501",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "prefecture_code": 27,
-    "city": "東大阪市",
-    "city_kana": "ヒガシオオサカシ",
-    "town": "旭町",
-    "town_kana": "アサヒマチ",
-    "street": "２０−２８",
-    "office_name": "法務省　大阪法務局　枚岡出張所",
-    "office_name_kana": "ホウムシヨウ オオサカホウムキヨク ヒラオカシユツチヨウシヨ"
-  },
   "8502": {
     "postcode": "5798502",
     "prefecture": "大阪府",

@@ -1670,8 +1670,8 @@
     "town": "新氏神",
     "town_kana": "シンウジガミ",
     "street": "３５",
-    "office_name": "新ダイワ工業　株式会社　千代田事業所",
-    "office_name_kana": "シンダイワコウギヨウ カブシキカイシヤ チヨダジギヨウシヨ"
+    "office_name": "株式会社　やまびこ　広島事業所",
+    "office_name_kana": "カブシキガイシヤ ヤマビコ ヒロシマジギヨウシヨ"
   },
   "1701": {
     "postcode": "7311701",
@@ -3575,6 +3575,19 @@
     "office_name": "株式会社　クラタクリエイト",
     "office_name_kana": "カブシキガイシヤ クラタクリエイト"
   },
+  "4397": {
+    "postcode": "7314397",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "安芸郡坂町",
+    "city_kana": "アキグンサカチョウ",
+    "town": "北新地",
+    "town_kana": "キタシンチ",
+    "street": "１丁目２番５９号",
+    "office_name": "広島日野自動車　株式会社　坂支店",
+    "office_name_kana": "ヒロシマヒノジドウシヤ カブシキガイシヤ サカシテン"
+  },
   "4398": {
     "postcode": "7314398",
     "prefecture": "広島県",
@@ -4310,6 +4323,19 @@
     "street": "２丁目５−２８",
     "office_name": "佐伯区役所",
     "office_name_kana": "サエキクヤクシヨ"
+  },
+  "5196": {
+    "postcode": "7315196",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "広島市佐伯区",
+    "city_kana": "ヒロシマシサエキク",
+    "town": "石内東",
+    "town_kana": "イシウチヒガシ",
+    "street": "四丁目１番１号",
+    "office_name": "イオンモール　株式会社　ＴＨＥ　ＯＵＴＬＥＴＳ　ＨＩＲＯＳＨＩＭＡ",
+    "office_name_kana": "イオンモ-ル カブシキガイシヤ THE OUTLETS HIROSHIMA"
   },
   "5197": {
     "postcode": "7315197",

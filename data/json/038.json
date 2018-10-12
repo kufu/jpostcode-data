@@ -2774,19 +2774,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "2805": {
-    "postcode": "0382805",
-    "prefecture": "青森県",
-    "prefecture_kana": "アオモリケン",
-    "prefecture_code": 2,
-    "city": "つがる市",
-    "city_kana": "ツガルシ",
-    "town": "木造広岡",
-    "town_kana": "キヅクリヒロオカ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "2806": {
     "postcode": "0382806",
     "prefecture": "青森県",
@@ -2796,19 +2783,6 @@
     "city_kana": "ツガルシ",
     "town": "木造越水",
     "town_kana": "キヅクリコシミズ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "2807": {
-    "postcode": "0382807",
-    "prefecture": "青森県",
-    "prefecture_kana": "アオモリケン",
-    "prefecture_code": 2,
-    "city": "つがる市",
-    "city_kana": "ツガルシ",
-    "town": "木造駒田",
-    "town_kana": "キヅクリコマダ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

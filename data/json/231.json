@@ -1579,9 +1579,9 @@
     "prefecture_code": 14,
     "city": "横浜市中区",
     "city_kana": "ヨコハマシナカク",
-    "town": "本町",
-    "town_kana": "ホンチョウ",
-    "street": "１丁目４",
+    "town": "山下町",
+    "town_kana": "ヤマシタチョウ",
+    "street": "２８１",
     "office_name": "日本放送協会　横浜放送局",
     "office_name_kana": "ニホンホウソウキヨウカイ ヨコハマホウソウキヨク"
   },
@@ -1649,6 +1649,19 @@
     "street": "２−２２関内中央ビル１０階",
     "office_name": "横浜市償却資産センター",
     "office_name_kana": "ヨコハマシシヨウキヤクシサンセンタ-"
+  },
+  "8346": {
+    "postcode": "2318346",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "山下町",
+    "town_kana": "ヤマシタチョウ",
+    "street": "３４",
+    "office_name": "社会保険診療報酬支払基金　神奈川支部内　基金本部横浜オフィス",
+    "office_name_kana": "シヤカイホケンシンリヨウホウシユウシハライキキン カナガワシブナイ キキンホンブヨコハマオフイス"
   },
   "8411": {
     "postcode": "2318411",
@@ -1724,9 +1737,9 @@
     "city_kana": "ヨコハマシナカク",
     "town": "不老町",
     "town_kana": "フロウチョウ",
-    "street": "１丁目１−５横浜東芝ビル５Ｆ",
-    "office_name": "株式会社　東芝　神奈川支店",
-    "office_name_kana": "カブシキガイシヤ トウシバ カナガワシテン"
+    "street": "１丁目１番地５横浜東芝ビル５Ｆ",
+    "office_name": "株式会社　東芝　神奈川支社",
+    "office_name_kana": "カブシキガイシヤ トウシバ カナガワシシヤ"
   },
   "8470": {
     "postcode": "2318470",
@@ -1793,6 +1806,19 @@
     "office_name": "株式会社　ホテルニューグランド",
     "office_name_kana": "カブシキガイシヤ ホテルニユ-グランド"
   },
+  "8528": {
+    "postcode": "2318528",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "山下町",
+    "town_kana": "ヤマシタチョウ",
+    "street": "８９−１",
+    "office_name": "株式会社　ファンケル",
+    "office_name_kana": "カブシキガイシヤ フアンケル"
+  },
   "8534": {
     "postcode": "2318534",
     "prefecture": "神奈川県",
@@ -1818,6 +1844,19 @@
     "street": "７０−７",
     "office_name": "日本赤十字社　神奈川県支部",
     "office_name_kana": "ニホンセキジユウジシヤ カナガワケンシブ"
+  },
+  "8539": {
+    "postcode": "2318539",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "山下町",
+    "town_kana": "ヤマシタチョウ",
+    "street": "２２３−１ＮＵ関内ビル４Ｆ",
+    "office_name": "株式会社　ぱど",
+    "office_name_kana": "カブシキガイシヤ パド"
   },
   "8542": {
     "postcode": "2318542",
@@ -1897,19 +1936,6 @@
     "office_name": "あいおいニッセイ同和損害保険　（株）",
     "office_name_kana": "アイオイニツセイドウワソンガイホケン (カブ)"
   },
-  "8580": {
-    "postcode": "2318580",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "横浜市中区",
-    "city_kana": "ヨコハマシナカク",
-    "town": "尾上町",
-    "town_kana": "オノエチョウ",
-    "street": "５−７８",
-    "office_name": "株式会社　フジタ　横浜支店",
-    "office_name_kana": "カ) フジタ ヨコハマシテン"
-  },
   "8585": {
     "postcode": "2318585",
     "prefecture": "神奈川県",
@@ -1945,7 +1971,7 @@
     "city_kana": "ヨコハマシナカク",
     "town": "長者町",
     "town_kana": "チョウジャマチ",
-    "street": "６丁目９６番２第二有楽ビル",
+    "street": "６丁目９６番２横浜支店ビル",
     "office_name": "大成建設　株式会社　横浜支店",
     "office_name_kana": "タイセイケンセツ カブシキガイシヤ ヨコハマシテン"
   },
@@ -1974,6 +2000,19 @@
     "street": "３丁目１２−１",
     "office_name": "横浜市立　みなと赤十字病院",
     "office_name_kana": "ヨコハマシリツ ミナトセキジユウジビヨウイン"
+  },
+  "8689": {
+    "postcode": "2318689",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "上野町",
+    "town_kana": "ウエノチョウ",
+    "street": "２丁目８８番地",
+    "office_name": "吉川商事　株式会社",
+    "office_name_kana": "ヨシカワシヨウジ カブシキカイシヤ"
   },
   "8711": {
     "postcode": "2318711",
@@ -2026,6 +2065,19 @@
     "street": "１−６住友生命横浜関内ビル３階",
     "office_name": "横浜市こども青少年局　こども家庭課　手当給付係分室",
     "office_name_kana": "ヨコハマシコドモセイシヨウネンキヨク コドモカテイカ テアテキユウフガカリブンシツ"
+  },
+  "8773": {
+    "postcode": "2318773",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "桜木町",
+    "town_kana": "サクラギチョウ",
+    "street": "１−１−１７ＨＵＬＩＣみなとみらい１４Ｆ",
+    "office_name": "東京都職員共済組合",
+    "office_name_kana": "トウキヨウトシヨクインキヨウサイクミアイ"
   },
   "8966": {
     "postcode": "2318966",

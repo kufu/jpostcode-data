@@ -116,6 +116,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8139": {
+    "postcode": "1138139",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "文京区",
+    "city_kana": "ブンキョウク",
+    "town": "湯島",
+    "town_kana": "ユシマ",
+    "street": "４丁目５−１６",
+    "office_name": "公益財団法人　通信文化協会",
+    "office_name_kana": "コウエキザイダンホウジン ツウシンブンカキヨウカイ"
+  },
   "8311": {
     "postcode": "1138311",
     "prefecture": "東京都",
@@ -959,7 +972,7 @@
     "city_kana": "ブンキョウク",
     "town": "湯島",
     "town_kana": "ユシマ",
-    "street": "３丁目１５番５号",
+    "street": "３丁目３１番６号大塚ビルディング４階",
     "office_name": "東京都電機企業年金基金",
     "office_name_kana": "トウキヨウトデンキキギヨウネンキンキキン"
   },
@@ -1324,8 +1337,8 @@
     "town": "本駒込",
     "town_kana": "ホンコマゴメ",
     "street": "２丁目２８−８文京グリーンコートセンターオフィス１５階",
-    "office_name": "独立行政法人　情報処理推進機構　情報処理技術者試験センター",
-    "office_name_kana": "ドクリツギヨウセイホウジン ジヨウホウシヨリスイシンキコウ ジヨウホウシヨリギジユツシヤシケンタ-"
+    "office_name": "独立行政法人　情報処理推進機構　ＩＴ人材育成センター　国家資格・試験部",
+    "office_name_kana": "ドクリツギヨウセイホウジン ジヨウホウシヨリスイシンキコウ アイテイ-ジンザイイクセイセンタ- コツカシカク・シケンブ"
   },
   "8681": {
     "postcode": "1138681",
@@ -1365,6 +1378,19 @@
     "street": "４丁目５−１６（本郷郵便局私書箱第１号）",
     "office_name": "財団法人　日本青少年ペンフレンドクラブ協会",
     "office_name_kana": "ザイダンホウジン ニホンセイシヨウネンペンフレンドクラブキヨウカイ"
+  },
+  "8710": {
+    "postcode": "1138710",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "文京区",
+    "city_kana": "ブンキョウク",
+    "town": "本郷",
+    "town_kana": "ホンゴウ",
+    "street": "３丁目２７−１２",
+    "office_name": "オカモト　株式会社",
+    "office_name_kana": "オカモト カブシキガイシヤ"
   },
   "8711": {
     "postcode": "1138711",

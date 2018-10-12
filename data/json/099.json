@@ -3499,118 +3499,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "3621": [
-    {
-      "postcode": "0993621",
-      "prefecture": "北海道",
-      "prefecture_kana": "ホッカイドウ",
-      "prefecture_code": 1,
-      "city": "斜里郡小清水町",
-      "city_kana": "シャリグンコシミズチョウ",
-      "town": "小清水",
-      "town_kana": "コシミズ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "0993621",
-      "prefecture": "北海道",
-      "prefecture_kana": "ホッカイドウ",
-      "prefecture_code": 1,
-      "city": "斜里郡小清水町",
-      "city_kana": "シャリグンコシミズチョウ",
-      "town": "小清水１区桜ケ丘",
-      "town_kana": "コシミズ1クサクラガオカ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
-  "3622": [
-    {
-      "postcode": "0993622",
-      "prefecture": "北海道",
-      "prefecture_kana": "ホッカイドウ",
-      "prefecture_code": 1,
-      "city": "斜里郡小清水町",
-      "city_kana": "シャリグンコシミズチョウ",
-      "town": "小清水",
-      "town_kana": "コシミズ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "0993622",
-      "prefecture": "北海道",
-      "prefecture_kana": "ホッカイドウ",
-      "prefecture_code": 1,
-      "city": "斜里郡小清水町",
-      "city_kana": "シャリグンコシミズチョウ",
-      "town": "小清水１区",
-      "town_kana": "コシミズ1ク",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
-  "3623": [
-    {
-      "postcode": "0993623",
-      "prefecture": "北海道",
-      "prefecture_kana": "ホッカイドウ",
-      "prefecture_code": 1,
-      "city": "斜里郡小清水町",
-      "city_kana": "シャリグンコシミズチョウ",
-      "town": "小清水",
-      "town_kana": "コシミズ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "0993623",
-      "prefecture": "北海道",
-      "prefecture_kana": "ホッカイドウ",
-      "prefecture_code": 1,
-      "city": "斜里郡小清水町",
-      "city_kana": "シャリグンコシミズチョウ",
-      "town": "小清水２区",
-      "town_kana": "コシミズ2ク",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
-  "3624": [
-    {
-      "postcode": "0993624",
-      "prefecture": "北海道",
-      "prefecture_kana": "ホッカイドウ",
-      "prefecture_code": 1,
-      "city": "斜里郡小清水町",
-      "city_kana": "シャリグンコシミズチョウ",
-      "town": "小清水",
-      "town_kana": "コシミズ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "0993624",
-      "prefecture": "北海道",
-      "prefecture_kana": "ホッカイドウ",
-      "prefecture_code": 1,
-      "city": "斜里郡小清水町",
-      "city_kana": "シャリグンコシミズチョウ",
-      "town": "小清水３区",
-      "town_kana": "コシミズ3ク",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
   "3625": [
     {
       "postcode": "0993625",
@@ -3891,34 +3779,32 @@
       "office_name_kana": null
     }
   ],
-  "3637": [
-    {
-      "postcode": "0993637",
-      "prefecture": "北海道",
-      "prefecture_kana": "ホッカイドウ",
-      "prefecture_code": 1,
-      "city": "斜里郡小清水町",
-      "city_kana": "シャリグンコシミズチョウ",
-      "town": "小清水",
-      "town_kana": "コシミズ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "0993637",
-      "prefecture": "北海道",
-      "prefecture_kana": "ホッカイドウ",
-      "prefecture_code": 1,
-      "city": "斜里郡小清水町",
-      "city_kana": "シャリグンコシミズチョウ",
-      "town": "小清水１１区",
-      "town_kana": "コシミズ11ク",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
+  "3641": {
+    "postcode": "0993641",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "斜里郡小清水町",
+    "city_kana": "シャリグンコシミズチョウ",
+    "town": "元町",
+    "town_kana": "モトマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "3642": {
+    "postcode": "0993642",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "斜里郡小清水町",
+    "city_kana": "シャリグンコシミズチョウ",
+    "town": "南町",
+    "town_kana": "ミナミマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3697": {
     "postcode": "0993697",
     "prefecture": "北海道",

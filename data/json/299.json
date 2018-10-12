@@ -116,6 +116,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0110": {
+    "postcode": "2990110",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "市原市",
+    "city_kana": "イチハラシ",
+    "town": "姉崎東",
+    "town_kana": "アネサキヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0111": {
     "postcode": "2990111",
     "prefecture": "千葉県",
@@ -346,22 +359,9 @@
     "city_kana": "イチハラシ",
     "town": "姉崎海岸",
     "town_kana": "アネサキカイガン",
-    "street": "２−１",
-    "office_name": "出光興産　株式会社　千葉製油所",
-    "office_name_kana": "イデミツコウサン カブシキガイシヤ チバセイユジヨ"
-  },
-  "0193": {
-    "postcode": "2990193",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "prefecture_code": 12,
-    "city": "市原市",
-    "city_kana": "イチハラシ",
-    "town": "姉崎海岸",
-    "town_kana": "アネサキカイガン",
-    "street": "１−１",
-    "office_name": "出光石油化学　株式会社　千葉工場",
-    "office_name_kana": "イデミツセキユカガク カブシキガイシヤ チバコウジヨウ"
+    "street": "２番地１",
+    "office_name": "出光興産　株式会社　千葉事業所",
+    "office_name_kana": "イデミツコウサン カブシキガイシヤ チバジギヨウシヨ"
   },
   "0194": {
     "postcode": "2990194",
@@ -4848,6 +4848,19 @@
     "city_kana": "モバラシ",
     "town": "桂飛地",
     "town_kana": "カツラトビチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "4129": {
+    "postcode": "2994129",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "茂原市",
+    "city_kana": "モバラシ",
+    "town": "にいはる工業団地",
+    "town_kana": "ニイハルコウギョウダンチ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

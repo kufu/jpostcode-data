@@ -1234,6 +1234,19 @@
     "office_name": "可児市役所",
     "office_name_kana": "カニシヤクシヨ"
   },
+  "0293": {
+    "postcode": "5090293",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "prefecture_code": 21,
+    "city": "可児市",
+    "city_kana": "カニシ",
+    "town": "虹ケ丘",
+    "town_kana": "ニジガオカ",
+    "street": "四丁目３番地３",
+    "office_name": "岐阜医療科学大学　可児キャンパス",
+    "office_name_kana": "ギフイリヨウカガクダイガク カニキヤンパス"
+  },
   "0294": {
     "postcode": "5090294",
     "prefecture": "岐阜県",
@@ -8363,6 +8376,19 @@
     "street": "１１９−３",
     "office_name": "恵那峡パークカントリークラブ",
     "office_name_kana": "エナキヨウカントリ-クラブ"
+  },
+  "9193": {
+    "postcode": "5099193",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "prefecture_code": 21,
+    "city": "中津川市",
+    "city_kana": "ナカツガワシ",
+    "town": "千旦林",
+    "town_kana": "センダンバヤシ",
+    "street": "１５２１−３",
+    "office_name": "岐阜県立中津川工業高等学校",
+    "office_name_kana": "ギフケンリツナカツガワコウギヨウコウトウガツコウ"
   },
   "9195": {
     "postcode": "5099195",

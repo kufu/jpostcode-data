@@ -870,6 +870,32 @@
     "office_name": "株式会社　ＱＶＣジャパン",
     "office_name_kana": "カブシキガイシヤ キユ-ヴイ-シ-ジヤパン"
   },
+  "8535": {
+    "postcode": "2618535",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "千葉市美浜区",
+    "city_kana": "チバシミハマク",
+    "town": "豊砂",
+    "town_kana": "トヨスナ",
+    "street": "１−１",
+    "office_name": "イオンモール　幕張新都心",
+    "office_name_kana": "イオンモ-ル マクハリシントシン"
+  },
+  "8539": {
+    "postcode": "2618539",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "千葉市美浜区",
+    "city_kana": "チバシミハマク",
+    "town": "中瀬",
+    "town_kana": "ナカセ",
+    "street": "一丁目５番地１",
+    "office_name": "イオンモール　株式会社",
+    "office_name_kana": "イオンモ-ル カブシキガイシヤ"
+  },
   "8544": {
     "postcode": "2618544",
     "prefecture": "千葉県",

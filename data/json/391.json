@@ -508,6 +508,19 @@
     "office_name": "株式会社　サンヨー工業",
     "office_name_kana": "カブシキガイシヤ サンヨ-コウギヨウ"
   },
+  "0297": {
+    "postcode": "3910297",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "茅野市",
+    "city_kana": "チノシ",
+    "town": "豊平",
+    "town_kana": "トヨヒラ",
+    "street": "４８０",
+    "office_name": "株式会社　ディスコ　長野事業所",
+    "office_name_kana": "カブシキガイシヤ デイスコ ナガノジギヨウシヨ"
+  },
   "0301": {
     "postcode": "3910301",
     "prefecture": "長野県",

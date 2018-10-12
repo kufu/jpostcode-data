@@ -2772,6 +2772,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1397": {
+    "postcode": "6011397",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "京都市伏見区",
+    "city_kana": "キョウトシフシミク",
+    "town": "醍醐大構町",
+    "town_kana": "ダイゴオオカマエチョウ",
+    "street": "２８",
+    "office_name": "京都市伏見区役所　醍醐支所",
+    "office_name_kana": "キヨウトシフシミクヤクシヨ ダイゴシシヨ"
+  },
   "1401": {
     "postcode": "6011401",
     "prefecture": "京都府",

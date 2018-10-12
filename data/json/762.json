@@ -856,8 +856,8 @@
     "town": "番の州緑町",
     "town_kana": "バンノスミドリチョウ",
     "street": "１−１",
-    "office_name": "コスモ石油　株式会社　坂出製油所",
-    "office_name_kana": "コスモセキユ カブシキガイシヤ サカイデセイユジヨ"
+    "office_name": "コスモ石油　株式会社　坂出物流基地",
+    "office_name_kana": "コスモセキユ カブシキガイシヤ サカイデブツリユウキチ"
   },
   "8505": {
     "postcode": "7628505",
@@ -892,9 +892,9 @@
     "prefecture_code": 37,
     "city": "坂出市",
     "city_kana": "サカイデシ",
-    "town": "京町",
-    "town_kana": "キョウマチ",
-    "street": "３丁目３−８",
+    "town": "久米町",
+    "town_kana": "クメチョウ",
+    "street": "１丁目１４番１４号",
     "office_name": "坂出商工会議所",
     "office_name_kana": "サカイデシヨウコウカイギシヨ"
   },

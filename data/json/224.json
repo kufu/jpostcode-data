@@ -675,6 +675,19 @@
     "office_name": "富士通化成　株式会社",
     "office_name_kana": "フジツウカセイ カブシキガイシヤ"
   },
+  "8507": {
+    "postcode": "2248507",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市都筑区",
+    "city_kana": "ヨコハマシツヅキク",
+    "town": "牛久保",
+    "town_kana": "ウシクボ",
+    "street": "３丁目９−２",
+    "office_name": "株式会社　アイネス",
+    "office_name_kana": "カブシキガイシヤ アイネス"
+  },
   "8510": {
     "postcode": "2248510",
     "prefecture": "神奈川県",

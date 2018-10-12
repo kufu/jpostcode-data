@@ -1156,6 +1156,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1192": {
+    "postcode": "6401192",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "prefecture_code": 30,
+    "city": "海草郡紀美野町",
+    "city_kana": "カイソウグンキミノチョウ",
+    "town": "動木",
+    "town_kana": "トドロキ",
+    "street": "２８７番地",
+    "office_name": "紀美野町役場",
+    "office_name_kana": "キミノチヨウヤクバ"
+  },
   "1196": {
     "postcode": "6401196",
     "prefecture": "和歌山県",
@@ -6064,9 +6077,9 @@
     "prefecture_code": 30,
     "city": "和歌山市",
     "city_kana": "ワカヤマシ",
-    "town": "湊通丁北",
-    "town_kana": "ミナトトオリチョウキタ",
-    "street": "１丁目１",
+    "town": "二番丁",
+    "town_kana": "ニバンチョウ",
+    "street": "３和歌山地方合同庁舎",
     "office_name": "和歌山税務署",
     "office_name_kana": "ワカヤマゼイムシヨ"
   },
@@ -6147,6 +6160,19 @@
     "street": "３６番地商工会議所１階",
     "office_name": "和歌山市　選挙管理委員会事務局",
     "office_name_kana": "ワカヤマシ センキヨカンリイインカイジムキヨク"
+  },
+  "8538": {
+    "postcode": "6408538",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "prefecture_code": 30,
+    "city": "和歌山市",
+    "city_kana": "ワカヤマシ",
+    "town": "東坂ノ上丁",
+    "town_kana": "ヒガシサカノウエチョウ",
+    "street": "３番地",
+    "office_name": "東京医療保健大学　和歌山看護学部　雄湊キャンパス",
+    "office_name_kana": "トウキヨウイリヨウホケンダイガク ワカヤマカンゴガクブ オノミナトキヤンパス"
   },
   "8540": {
     "postcode": "6408540",
@@ -6248,7 +6274,7 @@
     "city_kana": "ワカヤマシ",
     "town": "二番丁",
     "town_kana": "ニバンチョウ",
-    "street": "２番地",
+    "street": "３",
     "office_name": "和歌山地方法務局",
     "office_name_kana": "ワカヤマチホウホウムキヨク"
   },
@@ -6459,6 +6485,19 @@
     "street": "１丁目１",
     "office_name": "和歌山県庁",
     "office_name_kana": "ワカヤマケンチヨウ"
+  },
+  "8586": {
+    "postcode": "6408586",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "prefecture_code": 30,
+    "city": "和歌山市",
+    "city_kana": "ワカヤマシ",
+    "town": "二番丁",
+    "town_kana": "ニバンチョウ",
+    "street": "３番地",
+    "office_name": "和歌山地方検察庁",
+    "office_name_kana": "ワカヤマチホウケンサツチヨウ"
   },
   "8588": {
     "postcode": "6408588",

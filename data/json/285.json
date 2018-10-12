@@ -1949,6 +1949,19 @@
     "office_name": "太平洋セメント　株式会社　中央研究所",
     "office_name_kana": "タイヘイヨウセメント カブシキガイシヤ チユウオウケンキユウシヨ"
   },
+  "8668": {
+    "postcode": "2858668",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "佐倉市",
+    "city_kana": "サクラシ",
+    "town": "坂戸",
+    "town_kana": "サカド",
+    "street": "６３１番地",
+    "office_name": "ＤＩＣ　株式会社　総合研究所",
+    "office_name_kana": "デイ-アイシ- カブシキガイシヤ ソウゴウケンキユウシヨ"
+  },
   "8765": {
     "postcode": "2858765",
     "prefecture": "千葉県",

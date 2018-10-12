@@ -428,19 +428,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0198": {
-    "postcode": "3960198",
-    "prefecture": "長野県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
-    "city": "伊那市",
-    "city_kana": null,
-    "town": "大字美篶",
-    "town_kana": null,
-    "street": "８０６０番地",
-    "office_name": "長野日本電気　株式会社",
-    "office_name_kana": "ナガノニツポンデンキ カブシキガイシヤ"
-  },
   "0211": {
     "postcode": "3960211",
     "prefecture": "長野県",
@@ -743,15 +730,15 @@
   "8511": {
     "postcode": "3968511",
     "prefecture": "長野県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
     "city": "伊那市",
-    "city_kana": null,
-    "town": "大字伊那部",
-    "town_kana": null,
+    "city_kana": "イナシ",
+    "town": "上の原",
+    "town_kana": "ウエノハラ",
     "street": "６１００",
-    "office_name": "株式会社　三協精機製作所　伊那工場",
-    "office_name_kana": "(カブ) サンキヨウセイキセイサクシヨ イナコウジヨウ"
+    "office_name": "日本電産サンキョー　株式会社　伊那事業所",
+    "office_name_kana": "ニホンデンサンサンキヨ- カブシキガイシヤ イナジギヨウシヨ"
   },
   "8550": {
     "postcode": "3968550",

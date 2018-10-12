@@ -3395,6 +3395,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1418": {
+    "postcode": "0711418",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "上川郡東川町",
+    "city_kana": "カミカワグンヒガシカワチョウ",
+    "town": "キトウシ南",
+    "town_kana": "キトウシミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "1419": {
+    "postcode": "0711419",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "上川郡東川町",
+    "city_kana": "カミカワグンヒガシカワチョウ",
+    "town": "キトウシ西",
+    "town_kana": "キトウシニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1422": {
     "postcode": "0711422",
     "prefecture": "北海道",

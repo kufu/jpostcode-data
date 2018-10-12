@@ -1143,6 +1143,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0292": {
+    "postcode": "3060292",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "古河市",
+    "city_kana": "コガシ",
+    "town": "北利根",
+    "town_kana": "キタトネ",
+    "street": "８−１４センコー古河ＰＤセンター内",
+    "office_name": "アマゾンジャパン　ＴＰＺ１",
+    "office_name_kana": "アマゾンジヤパン テイ-ピ-ゼツトワン"
+  },
   "0300": {
     "postcode": "3060300",
     "prefecture": "茨城県",

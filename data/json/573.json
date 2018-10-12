@@ -1689,6 +1689,19 @@
     "office_name": "関西外語大学　穂谷学舎",
     "office_name_kana": "カンサイガイゴダイガク ホタニガクシヤ"
   },
+  "0196": {
+    "postcode": "5730196",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "枚方市",
+    "city_kana": "ヒラカタシ",
+    "town": "北山",
+    "town_kana": "キタヤマ",
+    "street": "１丁目７９−１",
+    "office_name": "大阪工業大学　枚方キャンパス",
+    "office_name_kana": "オオサカコウギヨウダイガク ヒラカタキヤンパス"
+  },
   "1001": {
     "postcode": "5731001",
     "prefecture": "大阪府",
@@ -1701,6 +1714,19 @@
     "street": "１６−１",
     "office_name": "学校法人　関西外国語大学",
     "office_name_kana": "ガツコウホウジン カンサイガイコクゴダイガク"
+  },
+  "1004": {
+    "postcode": "5731004",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "枚方市",
+    "city_kana": "ヒラカタシ",
+    "town": "新町",
+    "town_kana": "シンマチ",
+    "street": "二丁目２番２号",
+    "office_name": "関西医科大学　看護学部",
+    "office_name_kana": "カンサイイカダイガク カンゴガクブ"
   },
   "1007": {
     "postcode": "5731007",
@@ -1715,6 +1741,19 @@
     "office_name": "株式会社　ＫＨＤ",
     "office_name_kana": "カブシキガイシヤ ケイエツチデイ"
   },
+  "1008": {
+    "postcode": "5731008",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "枚方市",
+    "city_kana": "ヒラカタシ",
+    "town": "御殿山南町",
+    "town_kana": "ゴテンヤマミナミマチ",
+    "street": "６番１号",
+    "office_name": "学校法人　関西外国語大学　御殿山キャンパス・グローバルタウン",
+    "office_name_kana": "ガツコウホウジン カンサイガイコクゴダイガク ゴテンヤマキヤンパス・グロ-バルタウン"
+  },
   "1010": {
     "postcode": "5731010",
     "prefecture": "大阪府",
@@ -1727,6 +1766,19 @@
     "street": "２丁目５番１号",
     "office_name": "関西医科大学",
     "office_name_kana": "カンサイイカダイガク"
+  },
+  "1013": {
+    "postcode": "5731013",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "枚方市",
+    "city_kana": "ヒラカタシ",
+    "town": "禁野本町",
+    "town_kana": "キンヤホンマチ",
+    "street": "２丁目１４番１号",
+    "office_name": "市立ひらかた病院",
+    "office_name_kana": "シリツヒラカタビヨウイン"
   },
   "1030": {
     "postcode": "5731030",
@@ -2884,6 +2936,19 @@
     "street": "１丁目１番１号",
     "office_name": "株式会社　クボタ　枚方製造所",
     "office_name_kana": "カブシキガイシヤ クボタ ヒラカタセイゾウシヨ"
+  },
+  "8588": {
+    "postcode": "5738588",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "枚方市",
+    "city_kana": "ヒラカタシ",
+    "town": "大垣内町",
+    "town_kana": "オオガイトチョウ",
+    "street": "２丁目４−６",
+    "office_name": "大阪法務局　枚方出張所",
+    "office_name_kana": "オオサカホウムキヨク ヒラカタシユツチヨウシヨ"
   },
   "8666": {
     "postcode": "5738666",

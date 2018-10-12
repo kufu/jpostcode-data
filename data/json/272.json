@@ -1104,6 +1104,19 @@
     "office_name": "東京歯科大学市川総合病院",
     "office_name_kana": "トウキヨウシカダイガクイチカワソウゴウビヨウイン"
   },
+  "8514": {
+    "postcode": "2728514",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "市川市",
+    "city_kana": "イチカワシ",
+    "town": "市川",
+    "town_kana": "イチカワ",
+    "street": "３−３０−１",
+    "office_name": "株式会社　京成ストア",
+    "office_name_kana": "カブシキガイシヤ ケイセイストア"
+  },
   "8516": {
     "postcode": "2728516",
     "prefecture": "千葉県",

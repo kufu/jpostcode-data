@@ -753,6 +753,19 @@
     "office_name": "東京外国語大学",
     "office_name_kana": "トウキヨウガイコクゴダイガク"
   },
+  "8536": {
+    "postcode": "1838536",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "府中市",
+    "city_kana": "フチュウシ",
+    "town": "晴見町",
+    "town_kana": "ハルミチョウ",
+    "street": "２−１６−１",
+    "office_name": "モランボン　株式会社",
+    "office_name_kana": "モランボン カブシキガイシヤ"
+  },
   "8539": {
     "postcode": "1838539",
     "prefecture": "東京都",

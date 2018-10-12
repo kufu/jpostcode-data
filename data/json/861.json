@@ -8940,6 +8940,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "5592": {
+    "postcode": "8615592",
+    "prefecture": "熊本県",
+    "prefecture_kana": "クマモトケン",
+    "prefecture_code": 43,
+    "city": "熊本市北区",
+    "city_kana": "クマモトシキタク",
+    "town": "徳王",
+    "town_kana": "トクオウ",
+    "street": "１丁目８番１号",
+    "office_name": "株式会社　テレビ熊本",
+    "office_name_kana": "カブシキガイシヤ テレビクマモト"
+  },
   "5598": {
     "postcode": "8615598",
     "prefecture": "熊本県",
@@ -9298,8 +9311,8 @@
     "prefecture_code": 43,
     "city": "熊本市北区",
     "city_kana": "クマモトシキタク",
-    "town": "龍田町弓削",
-    "town_kana": "タツダマチユゲ",
+    "town": "弓削",
+    "town_kana": "ユゲ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

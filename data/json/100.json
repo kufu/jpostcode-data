@@ -571,19 +571,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "3131": {
-    "postcode": "1003131",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "大手町",
-    "town_kana": "オオテマチ",
-    "street": "２丁目３−３東京国際郵便局内",
-    "office_name": "東京税関　東京外郵出張所",
-    "office_name_kana": "トウキヨウゼイカン トウキヨウガイユウシユツチヨウジヨ"
-  },
   "6001": {
     "postcode": "1006001",
     "prefecture": "東京都",
@@ -6408,6 +6395,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8019": {
+    "postcode": "1008019",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "内幸町",
+    "town_kana": "ウチサイワイチョウ",
+    "street": "１−１−６ＮＴＴ日比谷ビル",
+    "office_name": "エヌ・ティ・ティ・コミュニケーションズ　株式会社",
+    "office_name_kana": "エヌ・テイ・テイ・コミユニケ-シヨンズ カブシキガイシヤ"
+  },
   "8050": {
     "postcode": "1008050",
     "prefecture": "東京都",
@@ -6551,6 +6551,19 @@
     "office_name": "朝日生命保険　相互会社",
     "office_name_kana": "アサヒセイメイホケン ソウゴカイシヤ"
   },
+  "8104": {
+    "postcode": "1008104",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "１−９−７大手町フィナンシャルシティサウスタワー",
+    "office_name": "モルガン・スタンレーＭＵＦＧ証券　株式会社",
+    "office_name_kana": "モルガン・スタンレ-エムユ-エフジ-シヨウケン カブシキガイシヤ"
+  },
   "8105": {
     "postcode": "1008105",
     "prefecture": "東京都",
@@ -6576,6 +6589,19 @@
     "street": "１丁目５−１大手町ファーストスクエアウエストタワー",
     "office_name": "ＮＳユナイテッド海運　株式会社",
     "office_name_kana": "エヌエスユナイテツドカイウン カブシキガイシヤ"
+  },
+  "8109": {
+    "postcode": "1008109",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "１−９−７大手町フィナンシャルシティサウスタワー",
+    "office_name": "モルガン・スタンレー・グループ",
+    "office_name_kana": "モルガン・スタンレ-・グル-プ"
   },
   "8110": {
     "postcode": "1008110",
@@ -6811,6 +6837,60 @@
     "office_name": "株式会社　ＨＳ情報システムズ",
     "office_name_kana": "カブシキガイシヤ エイチエスジヨウホウシステムズ"
   },
+  "8132": [
+    {
+      "postcode": "1008132",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "千代田区",
+      "city_kana": "チヨダク",
+      "town": "大手町",
+      "town_kana": "オオテマチ",
+      "street": "１丁目１番１号大手町パークビルディング",
+      "office_name": "シティグループ・サービス・ジャパン　株式会社",
+      "office_name_kana": "シテイグル-プ・サ-ビス・ジヤパン カブシキガイシヤ"
+    },
+    {
+      "postcode": "1008132",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "千代田区",
+      "city_kana": "チヨダク",
+      "town": "大手町",
+      "town_kana": "オオテマチ",
+      "street": "１丁目１番１号大手町パークビルディング",
+      "office_name": "シティグループ・ジャパン・ホールディングス　合同会社",
+      "office_name_kana": "シテイグル-プ・ジヤパン・ホ-ルデイングス ゴウドウガイシヤ"
+    },
+    {
+      "postcode": "1008132",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "千代田区",
+      "city_kana": "チヨダク",
+      "town": "大手町",
+      "town_kana": "オオテマチ",
+      "street": "１丁目１番１号大手町パークビルディング",
+      "office_name": "シティグループ証券　株式会社",
+      "office_name_kana": "シテイグル-プシヨウケン カブシキガイシヤ"
+    },
+    {
+      "postcode": "1008132",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "千代田区",
+      "city_kana": "チヨダク",
+      "town": "大手町",
+      "town_kana": "オオテマチ",
+      "street": "１丁目１番１号大手町パークビルディング",
+      "office_name": "シティバンク、エヌ・エイ　東京支店",
+      "office_name_kana": "シテイバンク、エヌ・エイ トウキヨウシテン"
+    }
+  ],
   "8133": {
     "postcode": "1008133",
     "prefecture": "東京都",
@@ -6820,7 +6900,7 @@
     "city_kana": "チヨダク",
     "town": "大手町",
     "town_kana": "オオテマチ",
-    "street": "１−６−１",
+    "street": "１丁目１番１号",
     "office_name": "三菱地所　株式会社",
     "office_name_kana": "ミツビシジシヨ カブシキガイシヤ"
   },
@@ -6836,6 +6916,19 @@
     "street": "１−１−１パレスサイドビル",
     "office_name": "財団法人　国語作文教育研究所",
     "office_name_kana": "ザイダンホウジン コクゴサクブンキヨウイクケンキユウジヨ"
+  },
+  "8136": {
+    "postcode": "1008136",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "１丁目１−１大手町パークビルディング",
+    "office_name": "アンダーソン・毛利・友常法律事務所",
+    "office_name_kana": "アンダ-ソン・モウリ・トモツネホウリツジムシヨ"
   },
   "8139": {
     "postcode": "1008139",
@@ -7029,6 +7122,19 @@
     "town": "大手町",
     "town_kana": "オオテマチ",
     "street": "１−９−７大手町フィナンシャルシティサウスタワー",
+    "office_name": "有限責任　あずさ監査法人",
+    "office_name_kana": "ユウゲンセキニン アズサカンサホウジン"
+  },
+  "8174": {
+    "postcode": "1008174",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "１丁目９−２",
     "office_name": "有限責任　あずさ監査法人",
     "office_name_kana": "ユウゲンセキニン アズサカンサホウジン"
   },
@@ -7307,34 +7413,19 @@
     "office_name": "三井住友信託銀行　株式会社",
     "office_name_kana": "ミツイスミトモシンタクギンコウ カブシキガイシヤ"
   },
-  "8234": [
-    {
-      "postcode": "1008234",
-      "prefecture": "東京都",
-      "prefecture_kana": "トウキョウト",
-      "prefecture_code": 13,
-      "city": "千代田区",
-      "city_kana": "チヨダク",
-      "town": "丸の内",
-      "town_kana": "マルノウチ",
-      "street": "１丁目８番３号丸の内トラストタワー本館２０階",
-      "office_name": "ＡＩＵ保険会社",
-      "office_name_kana": "エイアイユ-インシユアランスカンパニ-"
-    },
-    {
-      "postcode": "1008234",
-      "prefecture": "東京都",
-      "prefecture_kana": "トウキョウト",
-      "prefecture_code": 13,
-      "city": "千代田区",
-      "city_kana": "チヨダク",
-      "town": "丸の内",
-      "town_kana": "マルノウチ",
-      "street": "１丁目８番３号",
-      "office_name": "ＡＩＵ損害保険　株式会社",
-      "office_name_kana": "エイアイユ-ソンガイホケン カブシキカイシヤ"
-    }
-  ],
+  "8234": {
+    "postcode": "1008234",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "丸の内",
+    "town_kana": "マルノウチ",
+    "street": "１丁目８番３号",
+    "office_name": "ＡＩＵ損害保険　株式会社",
+    "office_name_kana": "エイアイユ-ソンガイホケン カブシキカイシヤ"
+  },
   "8235": {
     "postcode": "1008235",
     "prefecture": "東京都",
@@ -7370,35 +7461,9 @@
     "city_kana": "チヨダク",
     "town": "丸の内",
     "town_kana": "マルノウチ",
-    "street": "１丁目１番１号",
-    "office_name": "三菱化学　株式会社",
-    "office_name_kana": "ミツビシカガク カブシキガイシヤ"
-  },
-  "8252": {
-    "postcode": "1008252",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "丸の内",
-    "town_kana": "マルノウチ",
-    "street": "１丁目１番１号",
-    "office_name": "三菱樹脂　株式会社",
-    "office_name_kana": "ミツビシジユシ カブシキガイシヤ"
-  },
-  "8253": {
-    "postcode": "1008253",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "丸の内",
-    "town_kana": "マルノウチ",
-    "street": "１丁目１番１号",
-    "office_name": "三菱レイヨン　株式会社",
-    "office_name_kana": "ミツビシレイヨン カブシキガイシヤ"
+    "street": "１−１−１パレスビル",
+    "office_name": "三菱ケミカル　株式会社",
+    "office_name_kana": "ミツビシケミカル カブシキガイシヤ"
   },
   "8260": {
     "postcode": "1008260",
@@ -7670,8 +7735,8 @@
     "town": "丸の内",
     "town_kana": "マルノウチ",
     "street": "３丁目４−１",
-    "office_name": "日本電子計算機　株式会社",
-    "office_name_kana": "ニホンデンシケイサンキ カブシキガイシヤ"
+    "office_name": "株式会社　ＪＥＣＣ",
+    "office_name_kana": "カブシキガイシヤ ジエツク"
   },
   "8345": {
     "postcode": "1008345",
@@ -8190,7 +8255,7 @@
     "town": "内幸町",
     "town_kana": "ウチサイワイチョウ",
     "street": "１丁目１−１",
-    "office_name": "株式会社　帝國ホテル",
+    "office_name": "株式会社　帝国ホテル",
     "office_name_kana": "カブシキガイシヤ テイコクホテル"
   },
   "8560": {
@@ -8276,11 +8341,11 @@
     "prefecture": "東京都",
     "prefecture_kana": "トウキョウト",
     "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "晴海",
-    "town_kana": "ハルミ",
-    "street": "１−８−１１竹橋ビル（銀座郵便局私書箱第１２４号）",
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "２−３−２（銀座郵便局私書箱第１２４号）",
     "office_name": "住友商事　株式会社",
     "office_name_kana": "スミトモシヨウジ カブシキガイシヤ"
   },
@@ -8538,24 +8603,24 @@
     "prefecture_code": 13,
     "city": "千代田区",
     "city_kana": "チヨダク",
-    "town": "丸の内",
-    "town_kana": "マルノウチ",
-    "street": "２丁目７−２",
-    "office_name": "東京中央局　共通事務センター",
-    "office_name_kana": "トウキヨウチユウオウキヨク キヨウツウジムセンタ-"
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "２−３−１",
+    "office_name": "日本郵政　株式会社",
+    "office_name_kana": "ニツポンユウセイ カブシキガイシヤ"
   },
-  "8795": {
-    "postcode": "1008795",
+  "8792": {
+    "postcode": "1008792",
     "prefecture": "東京都",
     "prefecture_kana": "トウキョウト",
     "prefecture_code": 13,
     "city": "千代田区",
     "city_kana": "チヨダク",
-    "town": "丸の内",
-    "town_kana": "マルノウチ",
-    "street": "１丁目６−１",
-    "office_name": "関東総合通信局",
-    "office_name_kana": "カントウソウゴウツウシンキヨク"
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "２−３−１",
+    "office_name": "日本郵便　株式会社",
+    "office_name_kana": "ニツポンユウビン カブシキガイシヤ"
   },
   "8798": [
     {

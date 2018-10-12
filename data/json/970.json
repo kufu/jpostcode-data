@@ -300,6 +300,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0229": {
+    "postcode": "9700229",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "いわき市",
+    "city_kana": "イワキシ",
+    "town": "薄磯",
+    "town_kana": "ウスイソ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0311": {
     "postcode": "9700311",
     "prefecture": "福島県",

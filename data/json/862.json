@@ -942,6 +942,19 @@
     "office_name": "熊本県立大学",
     "office_name_kana": "クマモトケンリツダイガク"
   },
+  "8504": {
+    "postcode": "8628504",
+    "prefecture": "熊本県",
+    "prefecture_kana": "クマモトケン",
+    "prefecture_code": 43,
+    "city": "熊本市中央区",
+    "city_kana": "クマモトシチュウオウク",
+    "town": "大江",
+    "town_kana": "オオエ",
+    "street": "２丁目１番１０号",
+    "office_name": "株式会社　熊本県民テレビ",
+    "office_name_kana": "カブシキガイシヤ クマモトケンミンテレビ"
+  },
   "8505": {
     "postcode": "8628505",
     "prefecture": "熊本県",
@@ -1196,9 +1209,9 @@
     "prefecture_code": 43,
     "city": "熊本市中央区",
     "city_kana": "クマモトシチュウオウク",
-    "town": "新屋敷",
-    "town_kana": "シンヤシキ",
-    "street": "１−１７−２７",
+    "town": "大江",
+    "town_kana": "オオエ",
+    "street": "３−２−６５",
     "office_name": "医療法人　創起会　くまもと森都総合病院",
     "office_name_kana": "イリヨウホウジン ソウキカイ クマモトシントソウゴウビヨウイン"
   },
@@ -1384,17 +1397,32 @@
     "office_name": "日本郵便　株式会社　九州支社　郵便事業本部　（三種）",
     "office_name_kana": "ニホンユウビン カブシキガイシヤ キユウシユウシシヤ ユウビンジギヨウホンブ (サンシユ)"
   },
-  "8794": {
-    "postcode": "8628794",
-    "prefecture": "熊本県",
-    "prefecture_kana": "クマモトケン",
-    "prefecture_code": 43,
-    "city": "熊本市中央区",
-    "city_kana": "クマモトシチュウオウク",
-    "town": "大江",
-    "town_kana": "オオエ",
-    "street": "３丁目１−６６",
-    "office_name": "熊本事務所",
-    "office_name_kana": "クマモトジムシヨ"
-  }
+  "8794": [
+    {
+      "postcode": "8628794",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "prefecture_code": 43,
+      "city": "熊本市中央区",
+      "city_kana": "クマモトシチュウオウク",
+      "town": "大江",
+      "town_kana": "オオエ",
+      "street": "３−１−６６",
+      "office_name": "日本郵政　株式会社　共通事務管理事務所",
+      "office_name_kana": "ニツポンユウセイ カブシキガイシヤ キヨウツウジムカンリジムシヨ"
+    },
+    {
+      "postcode": "8628794",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "prefecture_code": 43,
+      "city": "熊本市中央区",
+      "city_kana": "クマモトシチュウオウク",
+      "town": "大江",
+      "town_kana": "オオエ",
+      "street": "３−１−６６",
+      "office_name": "日本郵政スタッフ　株式会社　九州ＢＰＯセンター",
+      "office_name_kana": "ニツポンユウセイスタツフ カブシキガイシヤ キユウシユウビ-ピ-オ-センタ-"
+    }
+  ]
 }

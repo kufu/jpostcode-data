@@ -612,6 +612,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0068": {
+    "postcode": "6650068",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "宝塚市",
+    "city_kana": "タカラヅカシ",
+    "town": "仁川清風台",
+    "town_kana": "ニガワセイフウダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0071": {
     "postcode": "6650071",
     "prefecture": "兵庫県",

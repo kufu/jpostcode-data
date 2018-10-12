@@ -1195,6 +1195,19 @@
     "office_name": "大阪府　中河内府税事務所",
     "office_name_kana": "オオサカフ ナカカワチフゼイジムシヨ"
   },
+  "8510": {
+    "postcode": "5778510",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "東大阪市",
+    "city_kana": "ヒガシオオサカシ",
+    "town": "柏田東町",
+    "town_kana": "カシタヒガシマチ",
+    "street": "１２−２８",
+    "office_name": "明和グラビア　株式会社",
+    "office_name_kana": "メイワグラビア カブシキガイシヤ"
+  },
   "8511": {
     "postcode": "5778511",
     "prefecture": "大阪府",

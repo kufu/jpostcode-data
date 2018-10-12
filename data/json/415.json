@@ -909,15 +909,15 @@
   "8505": {
     "postcode": "4158505",
     "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
+    "prefecture_kana": null,
+    "prefecture_code": null,
     "city": "下田市",
-    "city_kana": "シモダシ",
-    "town": "",
-    "town_kana": "",
-    "street": "１−４−２８",
-    "office_name": "下田市　観光協会",
-    "office_name_kana": "シモダシ カンコウキヨウカイ"
+    "city_kana": null,
+    "town": "外ケ岡",
+    "town_kana": null,
+    "street": "１番地の１",
+    "office_name": "一般社団法人　下田市観光協会",
+    "office_name_kana": "イツパンシヤダンホウジン シモダシカンコウキヨウカイ"
   },
   "8506": {
     "postcode": "4158506",

@@ -2554,9 +2554,9 @@
     "prefecture_code": 42,
     "city": "長崎市",
     "city_kana": "ナガサキシ",
-    "town": "江戸町",
-    "town_kana": "エドマチ",
-    "street": "２−１３",
+    "town": "尾上町",
+    "town_kana": "オノウエマチ",
+    "street": "３番１号",
     "office_name": "長崎県庁",
     "office_name_kana": "ナガサキケンチヨウ"
   },
@@ -2829,7 +2829,7 @@
     "city_kana": "ナガサキシ",
     "town": "桜町",
     "town_kana": "サクラマチ",
-    "street": "２−２２（長崎中央郵便局私書箱第８５号）",
+    "street": "２−２２",
     "office_name": "長崎市役所",
     "office_name_kana": "ナガサキシヤクシヨ"
   },

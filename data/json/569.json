@@ -2713,8 +2713,8 @@
     "town": "沢良木町",
     "town_kana": "サワラギチョウ",
     "street": "２番５号",
-    "office_name": "学校法人　大阪医科大学高槻高等学校",
-    "office_name_kana": "ガツコウホウジン オオサカイカダイガクタカツキコウトウガツコウ"
+    "office_name": "高槻中学校・高等学校",
+    "office_name_kana": "タカツキチユウガツコウ・コウトウガツコウ"
   },
   "8510": {
     "postcode": "5698510",
@@ -2884,6 +2884,19 @@
     "street": "３９−６",
     "office_name": "大阪ガス　（株）　北東部事業本部北部事業所",
     "office_name_kana": "オオサカガス (カブ) ホクトウブジギヨウホンブホクブジギヨウシヨ"
+  },
+  "8571": {
+    "postcode": "5698571",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "高槻市",
+    "city_kana": "タカツキシ",
+    "town": "芝生町",
+    "town_kana": "シボチョウ",
+    "street": "１−５２−１Ｌａｎｄｐｏｒｔ高槻４階",
+    "office_name": "アマゾンジャパン高槻ＦＣ",
+    "office_name_kana": "アマゾンジヤパンタカツキエフシ-"
   },
   "8577": {
     "postcode": "5698577",

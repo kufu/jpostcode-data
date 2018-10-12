@@ -248,6 +248,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0019": {
+    "postcode": "4030019",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "prefecture_code": 19,
+    "city": "富士吉田市",
+    "city_kana": "フジヨシダシ",
+    "town": "新町",
+    "town_kana": "シンマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "4030021",
     "prefecture": "山梨県",
@@ -283,6 +296,32 @@
     "city_kana": "ミナミツルグンニシカツラチョウ",
     "town": "倉見",
     "town_kana": "クラミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0031": {
+    "postcode": "4030031",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "prefecture_code": 19,
+    "city": "富士吉田市",
+    "city_kana": "フジヨシダシ",
+    "town": "浅間",
+    "town_kana": "アサマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0032": {
+    "postcode": "4030032",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "prefecture_code": 19,
+    "city": "富士吉田市",
+    "city_kana": "フジヨシダシ",
+    "town": "上吉田東",
+    "town_kana": "カミヨシダヒガシ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

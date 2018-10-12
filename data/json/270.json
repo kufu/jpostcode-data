@@ -1515,7 +1515,7 @@
     "city": "野田市",
     "city_kana": "ノダシ",
     "town": "尾崎台",
-    "town_kana": "オザキダイ",
+    "town_kana": "オサキダイ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -3106,6 +3106,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1380": {
+    "postcode": "2701380",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "印西市",
+    "city_kana": "インザイシ",
+    "town": "松崎台",
+    "town_kana": "マツザキダイ",
+    "street": "２丁目４番アイミッションズパーク印西",
+    "office_name": "アマゾンジャパン　ＴＰＦ７",
+    "office_name_kana": "アマゾンジヤパン テイ-ピ-エフナナ"
+  },
   "1381": {
     "postcode": "2701381",
     "prefecture": "千葉県",
@@ -3118,19 +3131,6 @@
     "street": "２丁目２−１",
     "office_name": "三井住友海上火災保険　株式会社",
     "office_name_kana": "ミツイスミトモカイジヨウカサイホケン カブシキカイシヤ"
-  },
-  "1382": {
-    "postcode": "2701382",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "prefecture_code": 12,
-    "city": "印西市",
-    "city_kana": "インザイシ",
-    "town": "武西学園台",
-    "town_kana": "ムザイガクエンダイ",
-    "street": "２丁目１２００",
-    "office_name": "東京電機大学　千葉ニュータウンキャンパス",
-    "office_name_kana": "トウキヨウデンキダイガク チバニユ-タウンキヤンパス"
   },
   "1383": {
     "postcode": "2701383",
@@ -3170,6 +3170,19 @@
     "street": "二丁目３番地",
     "office_name": "印西地区消防組合",
     "office_name_kana": "インザイチクシヨウボウクミアイ"
+  },
+  "1389": {
+    "postcode": "2701389",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "印西市",
+    "city_kana": "インザイシ",
+    "town": "松崎台",
+    "town_kana": "マツザキダイ",
+    "street": "２丁目４番アイミッションズパーク印西",
+    "office_name": "アマゾンジャパン　ＴＰＦ６",
+    "office_name_kana": "アマゾンジヤパン テイ-ピ-エフロク"
   },
   "1392": {
     "postcode": "2701392",
@@ -5159,6 +5172,19 @@
     "street": "５丁目２−１",
     "office_name": "日立粉末冶金　株式会社",
     "office_name_kana": "ヒタチフンマツヤキン カブシキガイシヤ"
+  },
+  "2296": {
+    "postcode": "2702296",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "松戸市",
+    "city_kana": "マツドシ",
+    "town": "千駄堀",
+    "town_kana": "センダボリ",
+    "street": "９９３番地の１",
+    "office_name": "松戸市立総合医療センター",
+    "office_name_kana": "マツドシリツソウゴウイリヨウセンタ-"
   },
   "2297": {
     "postcode": "2702297",

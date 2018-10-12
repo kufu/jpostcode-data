@@ -740,19 +740,34 @@
     "office_name": "株式会社　ＩＨＩ　砂町工場",
     "office_name_kana": "カブシキガイシヤ アイエイチアイ スナマチコウジヨウ"
   },
-  "8666": {
-    "postcode": "1368666",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "江東区",
-    "city_kana": "コウトウク",
-    "town": "東砂",
-    "town_kana": "ヒガシスナ",
-    "street": "８丁目１９−２０",
-    "office_name": "トーヨーカネツ　株式会社　本社",
-    "office_name_kana": "ト-ヨ-カネツ カブシキガイシヤ ホンシヤ"
-  },
+  "8666": [
+    {
+      "postcode": "1368666",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "江東区",
+      "city_kana": "コウトウク",
+      "town": "南砂",
+      "town_kana": "ミナミスナ",
+      "street": "２−１１−１",
+      "office_name": "トーヨーカネツ　株式会社",
+      "office_name_kana": "ト-ヨ-カネツ カブシキガイシヤ"
+    },
+    {
+      "postcode": "1368666",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "江東区",
+      "city_kana": "コウトウク",
+      "town": "南砂",
+      "town_kana": "ミナミスナ",
+      "street": "２丁目１１番１号",
+      "office_name": "トーヨーカネツソリューションズ　株式会社",
+      "office_name_kana": "ト-ヨ-カネツソリユ-シヨンズ カブシキガイシヤ"
+    }
+  ],
   "8668": {
     "postcode": "1368668",
     "prefecture": "東京都",

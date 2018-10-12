@@ -435,7 +435,7 @@
     "prefecture_code": 5,
     "city": "秋田市",
     "city_kana": "アキタシ",
-    "town": "下北手柳舘",
+    "town": "下北手柳館",
     "town_kana": "シモキタテヤナギタテ",
     "street": null,
     "office_name": null,
@@ -3576,6 +3576,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1409": {
+    "postcode": "0101409",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "prefecture_code": 5,
+    "city": "秋田市",
+    "city_kana": "アキタシ",
+    "town": "南ケ丘",
+    "town_kana": "ミナミガオカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1411": {
     "postcode": "0101411",
     "prefecture": "秋田県",
@@ -4667,19 +4680,6 @@
     "street": "５丁目９−１６",
     "office_name": "東北森林管理局",
     "office_name_kana": "トウホクシンリンカンリキヨク"
-  },
-  "8555": {
-    "postcode": "0108555",
-    "prefecture": "秋田県",
-    "prefecture_kana": "アキタケン",
-    "prefecture_code": 5,
-    "city": "秋田市",
-    "city_kana": "アキタシ",
-    "town": "保戸野鉄砲町",
-    "town_kana": "ホドノテッポウマチ",
-    "street": "５−２０",
-    "office_name": "日本年金機構　秋田事務センター",
-    "office_name_kana": "ニツポンネンキンキコウ アキタジムセンタ-"
   },
   "8558": {
     "postcode": "0108558",

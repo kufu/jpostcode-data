@@ -3584,6 +3584,19 @@
     "office_name": "ユアサ商事　株式会社　四国支店",
     "office_name_kana": "ユアサシヨウジ カブシキガイシヤ シコクシテン"
   },
+  "8538": {
+    "postcode": "7618538",
+    "prefecture": "香川県",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "高松市",
+    "city_kana": null,
+    "town": "仏生山町",
+    "town_kana": null,
+    "street": "甲８４７番地１",
+    "office_name": "高松市立みんなの病院",
+    "office_name_kana": "タカマツシリツミンナノビヨウイン"
+  },
   "8541": {
     "postcode": "7618541",
     "prefecture": "香川県",

@@ -649,6 +649,19 @@
     "office_name": "株式会社　岩月屋",
     "office_name_kana": "カブシキカイシヤ イワツキヤ"
   },
+  "1294": {
+    "postcode": "4901294",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "あま市",
+    "city_kana": "アマシ",
+    "town": "篠田",
+    "town_kana": "シノダ",
+    "street": "面徳２９−１",
+    "office_name": "名古屋電機工業　株式会社",
+    "office_name_kana": "ナゴヤデンキコウギヨウ カブシキガイシヤ"
+  },
   "1295": {
     "postcode": "4901295",
     "prefecture": "愛知県",
@@ -1156,11 +1169,11 @@
     "prefecture_code": 23,
     "city": "稲沢市",
     "city_kana": "イナザワシ",
-    "town": "平和町横池",
-    "town_kana": "ヘイワチョウヨコイケ",
-    "street": "中之町１３８",
-    "office_name": "愛知県稲沢市　平和支所",
-    "office_name_kana": "アイチケンイナザワシ ヘイワシシヨ"
+    "town": "平和町中三宅",
+    "town_kana": "ヘイワチョウナカミヤケ",
+    "street": "二丁割６０番地",
+    "office_name": "稲沢市　平和支所",
+    "office_name_kana": "イナザワシ ヘイワシシヨ"
   },
   "1400": {
     "postcode": "4901400",

@@ -610,6 +610,32 @@
     "office_name": "中外製薬　株式会社",
     "office_name_kana": "チユウガイセイヤク カブシキガイシヤ"
   },
+  "8533": {
+    "postcode": "2478533",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "鎌倉市",
+    "city_kana": "カマクラシ",
+    "town": "岡本",
+    "town_kana": "オカモト",
+    "street": "１３７０番１",
+    "office_name": "湘南鎌倉総合病院",
+    "office_name_kana": "シヨウナンカマクラソウゴウビヨウイン"
+  },
+  "8538": {
+    "postcode": "2478538",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "鎌倉市",
+    "city_kana": "カマクラシ",
+    "town": "岩瀬",
+    "town_kana": "イワセ",
+    "street": "１２８５",
+    "office_name": "ミハル通信　株式会社",
+    "office_name_kana": "ミハルツウシン カブシキガイシヤ"
+  },
   "8550": {
     "postcode": "2478550",
     "prefecture": "神奈川県",
@@ -659,8 +685,8 @@
     "town": "笠間",
     "town_kana": "カサマ",
     "street": "２丁目５番１号",
-    "office_name": "株式会社　東芝　小向事業所　大船分室",
-    "office_name_kana": "カブシキガイシヤ トウシバ コムカイジギヨウジヨ オオフナブンシツ"
+    "office_name": "東芝メモリ　株式会社　本社　大船分室",
+    "office_name_kana": "トウシバメモリ カブシキガイシヤ ホンシヤ オオフナブンシツ"
   },
   "8588": {
     "postcode": "2478588",
@@ -697,9 +723,9 @@
     "city_kana": "カマクラシ",
     "town": "大船",
     "town_kana": "オオフナ",
-    "street": "６丁目３−３５",
-    "office_name": "株式会社　鎌倉ケーブルコミュニケーションズ",
-    "office_name_kana": "カブシキガイシヤ カマクラケ-ブルコミユニケ-シヨンズ"
+    "street": "６−３−５３",
+    "office_name": "株式会社　ジェイコム湘南鎌倉局",
+    "office_name_kana": "カブシキカイシヤ ジエイコムシヨウナンカマクラキヨク"
   },
   "8730": {
     "postcode": "2478730",

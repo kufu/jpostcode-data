@@ -618,7 +618,7 @@
     "city": "横浜市神奈川区",
     "city_kana": "ヨコハマシカナガワク",
     "town": "六角橋",
-    "town_kana": "ロクカクバシ",
+    "town_kana": "ロッカクバシ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -1033,9 +1033,9 @@
     "prefecture_code": 14,
     "city": "横浜市神奈川区",
     "city_kana": "ヨコハマシカナガワク",
-    "town": "金港町",
-    "town_kana": "キンコウチョウ",
-    "street": "３−１コンカード横浜１３Ｆ",
+    "town": "鶴屋町",
+    "town_kana": "ツルヤチョウ",
+    "street": "２−２１−８第１安田ビル４Ｆ",
     "office_name": "株式会社　ぱど　横浜支局",
     "office_name_kana": "カブシキガイシヤ パド ヨコハマシキヨク"
   },
@@ -1178,7 +1178,7 @@
     "city_kana": "ヨコハマシカナガワク",
     "town": "金港町",
     "town_kana": "キンコウチョウ",
-    "street": "５番地１０",
+    "street": "７−３金港ビル四階",
     "office_name": "株式会社　カナセキユニオン",
     "office_name_kana": "カブシキガイシヤ カナセキユニオン"
   },
@@ -1229,7 +1229,7 @@
     "city": "横浜市神奈川区",
     "city_kana": "ヨコハマシカナガワク",
     "town": "六角橋",
-    "town_kana": "ロクカクバシ",
+    "town_kana": "ロッカクバシ",
     "street": "３丁目２７−１",
     "office_name": "神奈川大学",
     "office_name_kana": "カナガワダイガク"
@@ -1337,18 +1337,5 @@
     "street": "２丁目２１−８第一安田ビル",
     "office_name": "明和管理　株式会社",
     "office_name_kana": "メイワカンリ カブシキガイシヤ"
-  },
-  "8798": {
-    "postcode": "2218798",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "横浜市神奈川区",
-    "city_kana": "ヨコハマシカナガワク",
-    "town": "西神奈川",
-    "town_kana": "ニシカナガワ",
-    "street": "１−１３−１０",
-    "office_name": "横浜逓信病院",
-    "office_name_kana": "ヨコハマテイシンビヨウイン"
   }
 }

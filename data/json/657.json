@@ -711,21 +711,8 @@
       "prefecture_code": 28,
       "city": "神戸市灘区",
       "city_kana": "コウベシナダク",
-      "town": "上野小屋場",
-      "town_kana": "ウエノコヤバ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "6570103",
-      "prefecture": "兵庫県",
-      "prefecture_kana": "ヒョウゴケン",
-      "prefecture_code": 28,
-      "city": "神戸市灘区",
-      "city_kana": "コウベシナダク",
-      "town": "上野三ノ休原",
-      "town_kana": "ウエノサンノキュウハラ",
+      "town": "上野小ヤバ三ノ休原",
+      "town_kana": "ウエノコヤバサンノヤスミガハラ",
       "street": null,
       "office_name": null,
       "office_name_kana": null

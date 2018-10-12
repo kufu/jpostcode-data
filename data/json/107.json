@@ -2076,8 +2076,8 @@
     "town": "赤坂",
     "town_kana": "アカサカ",
     "street": "５−３−６",
-    "office_name": "株式会社　ＴＢＳラジオ＆コミュニケーションズ",
-    "office_name_kana": "カブシキガイシヤ テイ-ビ-エスラジオアンドコミユニケ-シヨンズ"
+    "office_name": "株式会社　ＴＢＳラジオ",
+    "office_name_kana": "カブシキカイシヤ テイビ-エスラジオ"
   },
   "8006": {
     "postcode": "1078006",
@@ -2088,9 +2088,9 @@
     "city_kana": "ミナトク",
     "town": "赤坂",
     "town_kana": "アカサカ",
-    "street": "５丁目３−６（赤坂郵便局私書箱第４号）",
-    "office_name": "株式会社　東京放送",
-    "office_name_kana": "カブシキガイシヤ トウキヨウホウソウ"
+    "street": "５−３−６",
+    "office_name": "株式会社　ＴＢＳテレビ",
+    "office_name_kana": "カブシキガイシヤ テイビ-エステレビ"
   },
   "8060": {
     "postcode": "1078060",
@@ -2377,6 +2377,19 @@
     "street": "４丁目９−２２",
     "office_name": "株式会社　虎屋",
     "office_name_kana": "カブシキガイシヤ トラヤ"
+  },
+  "8402": {
+    "postcode": "1078402",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "赤坂",
+    "town_kana": "アカサカ",
+    "street": "４−１−２６",
+    "office_name": "国際医療福祉大学　東京赤坂キャンパス",
+    "office_name_kana": "コクサイイリヨウフクシダイガク トウキヨウアカサカキヤンパス"
   },
   "8403": {
     "postcode": "1078403",
@@ -2963,6 +2976,19 @@
     "office_name": "株式会社　朝日データサービス",
     "office_name_kana": "カブシキガイシヤ アサヒデ-タサ-ビス"
   },
+  "8578": {
+    "postcode": "1078578",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "南青山",
+    "town_kana": "ミナミアオヤマ",
+    "street": "１丁目１番１号",
+    "office_name": "株式会社　サンエー・ビーディー",
+    "office_name_kana": "カブシキガイシヤ サンエ-・ビ-デイ-"
+  },
   "8581": {
     "postcode": "1078581",
     "prefecture": "東京都",
@@ -2975,32 +3001,6 @@
     "street": "３丁目３−１１ルネ青山９Ｆ",
     "office_name": "（株）　プレアデスセンター",
     "office_name_kana": "カブシキガイシヤ プレアデスセンタ-"
-  },
-  "8583": {
-    "postcode": "1078583",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "赤坂",
-    "town_kana": "アカサカ",
-    "street": "８丁目５−３０",
-    "office_name": "ユニバーサル　ミュージック　株式会社",
-    "office_name_kana": "ユニバ-サル ミユ-ジツク カブシキガイシヤ"
-  },
-  "8585": {
-    "postcode": "1078585",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "南青山",
-    "town_kana": "ミナミアオヤマ",
-    "street": "１丁目１−１新青山ビル",
-    "office_name": "ソニー生命保険　株式会社",
-    "office_name_kana": "ソニ-セイメイホケン カブシキガイシヤ"
   },
   "8601": {
     "postcode": "1078601",
@@ -3131,19 +3131,6 @@
     "street": "４丁目８−１４赤坂坂東ビル",
     "office_name": "株式会社　スーパーネットワーク",
     "office_name_kana": "カブシキガイシヤ ス-パ-ネツトワ-ク"
-  },
-  "8628": {
-    "postcode": "1078628",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "南青山",
-    "town_kana": "ミナミアオヤマ",
-    "street": "２丁目２７番２７号丸八青山ビル８階",
-    "office_name": "株式会社　ヒストリーチャンネル・ジャパン",
-    "office_name_kana": "カブシキガイシヤ ヒストリ-チヤンネル・ジヤパン"
   },
   "8630": {
     "postcode": "1078630",

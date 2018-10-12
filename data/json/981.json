@@ -506,6 +506,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0394": {
+    "postcode": "9810394",
+    "prefecture": "宮城県",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "東松島市",
+    "city_kana": null,
+    "town": "宮戸字観音山",
+    "town_kana": null,
+    "street": "５番地",
+    "office_name": "鮫ヶ浦水曜日郵便局",
+    "office_name_kana": "サメガウラスイヨウビユウビンキヨク"
+  },
   "0411": {
     "postcode": "9810411",
     "prefecture": "宮城県",
@@ -567,6 +580,19 @@
     "city_kana": "ヒガシマツシマシ",
     "town": "浅井",
     "town_kana": "アサイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0416": {
+    "postcode": "9810416",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "東松島市",
+    "city_kana": "ヒガシマツシマシ",
+    "town": "野蒜ケ丘",
+    "town_kana": "ノビルガオカ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -5873,6 +5899,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3218": {
+    "postcode": "9813218",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "仙台市泉区",
+    "city_kana": "センダイシイズミク",
+    "town": "西中山",
+    "town_kana": "ニシナカヤマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3221": {
     "postcode": "9813221",
     "prefecture": "宮城県",
@@ -6194,6 +6233,19 @@
     "city_kana": "トミヤシ",
     "town": "とちの木",
     "town_kana": "トチノキ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "3313": {
+    "postcode": "9813313",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "富谷市",
+    "city_kana": "トミヤシ",
+    "town": "高屋敷",
+    "town_kana": "タカヤシキ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -6688,9 +6740,9 @@
     "city_kana": "クロカワグンタイワチョウ",
     "town": "松坂平",
     "town_kana": "マツサカダイラ",
-    "street": "８丁目２",
-    "office_name": "トーカンパッケージングシステム　株式会社　仙台工場",
-    "office_name_kana": "ト-カンパツケ-ジングシステム カブシキガイシヤ センダイコウジヨウ"
+    "street": "８丁目２番",
+    "office_name": "日本トーカンパッケージ　株式会社　仙台工場",
+    "office_name_kana": "ニツポント-カンパツケ-ジ カブシキガイシヤ センダイコウジヨウ"
   },
   "3496": {
     "postcode": "9813496",
@@ -7058,6 +7110,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3612": {
+    "postcode": "9813612",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "黒川郡大衡村",
+    "city_kana": "クロカワグンオオヒラムラ",
+    "town": "ときわ台南",
+    "town_kana": "トキワダイミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3621": {
     "postcode": "9813621",
     "prefecture": "宮城県",
@@ -7171,6 +7236,32 @@
     "city_kana": "クロカワグンタイワチョウ",
     "town": "テクノヒルズ",
     "town_kana": "テクノヒルズ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "3631": {
+    "postcode": "9813631",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "黒川郡大和町",
+    "city_kana": "クロカワグンタイワチョウ",
+    "town": "吉岡天皇寺東",
+    "town_kana": "ヨシオカテンノウジヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "3632": {
+    "postcode": "9813632",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "黒川郡大和町",
+    "city_kana": "クロカワグンタイワチョウ",
+    "town": "吉岡まほろば",
+    "town_kana": "ヨシオカマホロバ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -9271,19 +9362,6 @@
     "street": "６丁目４５−１６",
     "office_name": "東北文化学園専門学校",
     "office_name_kana": "トウホクブンカガクエンセンモンガツコウ"
-  },
-  "8555": {
-    "postcode": "9818555",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市青葉区",
-    "city_kana": "センダイシアオバク",
-    "town": "堤通雨宮町",
-    "town_kana": "ツツミドオリアマミヤマチ",
-    "street": "１−１",
-    "office_name": "東北大学　農学部",
-    "office_name_kana": "トウホクダイガク ノウガクブ"
   },
   "8556": {
     "postcode": "9818556",

@@ -688,6 +688,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0067": {
+    "postcode": "6200067",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "福知山市",
+    "city_kana": "フクチヤマシ",
+    "town": "荒河ヒルズ",
+    "town_kana": "アラガヒルズ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0071": {
     "postcode": "6200071",
     "prefecture": "京都府",

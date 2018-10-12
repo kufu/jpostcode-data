@@ -818,6 +818,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0281": {
+    "postcode": "2430281",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "厚木市",
+    "city_kana": "アツギシ",
+    "town": "上依知",
+    "town_kana": "カミエチ",
+    "street": "３０３４",
+    "office_name": "日本フルハーフ　株式会社",
+    "office_name_kana": "ニツポンフルハ-フ カブシキガイシヤ"
+  },
   "0292": {
     "postcode": "2430292",
     "prefecture": "神奈川県",
@@ -1410,9 +1423,9 @@
     "prefecture_code": 14,
     "city": "海老名市",
     "city_kana": "エビナシ",
-    "town": "下今泉",
-    "town_kana": "シモイマイズミ",
-    "street": "８１０",
+    "town": "泉",
+    "town_kana": "イズミ",
+    "street": "二丁目７番１号",
     "office_name": "リコーテクノロジーセンター",
     "office_name_kana": "リコ-テクノロジ-センタ-"
   },
@@ -1597,19 +1610,6 @@
     "street": "２２７４番地",
     "office_name": "富士ゼロックスマニュファクチュアリング　株式会社　海老名（本社）",
     "office_name_kana": "フジゼロツクスマニユフアクチユアリング カブシキガイシヤ エビナ(ホンシヤ)"
-  },
-  "0498": {
-    "postcode": "2430498",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "海老名市",
-    "city_kana": "エビナシ",
-    "town": "下今泉",
-    "town_kana": "シモイマイズミ",
-    "street": "３丁目１１−１",
-    "office_name": "株式会社　タイトー海老名開発センター",
-    "office_name_kana": "カブシキカイシヤ タイト-エビナカイハツセンタ-"
   },
   "0801": {
     "postcode": "2430801",

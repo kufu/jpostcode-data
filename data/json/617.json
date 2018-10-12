@@ -767,5 +767,18 @@
     "street": "１丁目６番６号",
     "office_name": "三菱製紙　株式会社　京都工場",
     "office_name_kana": "ミツビシセイシ カブシキガイシヤ キヨウトコウジヨウ"
+  },
+  "8772": {
+    "postcode": "6178772",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "向日市",
+    "city_kana": "ムコウシ",
+    "town": "寺戸町",
+    "town_kana": "テラドチョウ",
+    "street": "小佃５番地の１",
+    "office_name": "向日市役所　東向日別館",
+    "office_name_kana": "ムコウシヤクシヨ ヒガシムコウベツカン"
   }
 }

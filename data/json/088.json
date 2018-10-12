@@ -663,6 +663,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0325": {
+    "postcode": "0880325",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "白糠郡白糠町",
+    "city_kana": "シラヌカグンシラヌカチョウ",
+    "town": "西三条北",
+    "town_kana": "ニシ3ジョウキタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0326": {
+    "postcode": "0880326",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "白糠郡白糠町",
+    "city_kana": "シラヌカグンシラヌカチョウ",
+    "town": "西六条北",
+    "town_kana": "ニシ6ジョウキタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0331": {
     "postcode": "0880331",
     "prefecture": "北海道",
@@ -1236,6 +1262,19 @@
     "office_name": "白糠町商工会",
     "office_name_kana": "シラヌカチヨウシヨウコウカイ"
   },
+  "0560": {
+    "postcode": "0880560",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "白糠郡白糠町",
+    "city_kana": "シラヌカグンシラヌカチョウ",
+    "town": "庶路宮下",
+    "town_kana": "ショロミヤシタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0561": {
     "postcode": "0880561",
     "prefecture": "北海道",
@@ -1249,19 +1288,34 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0562": {
-    "postcode": "0880562",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "白糠郡白糠町",
-    "city_kana": "シラヌカグンシラヌカチョウ",
-    "town": "コイトイ",
-    "town_kana": "コイトイ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0562": [
+    {
+      "postcode": "0880562",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "prefecture_code": 1,
+      "city": "白糠郡白糠町",
+      "city_kana": "シラヌカグンシラヌカチョウ",
+      "town": "コイトイ",
+      "town_kana": "コイトイ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "0880562",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "prefecture_code": 1,
+      "city": "白糠郡白糠町",
+      "city_kana": "シラヌカグンシラヌカチョウ",
+      "town": "恋問",
+      "town_kana": "コイトイ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0563": {
     "postcode": "0880563",
     "prefecture": "北海道",
@@ -1381,6 +1435,19 @@
     "city_kana": "シラヌカグンシラヌカチョウ",
     "town": "庶路乙区",
     "town_kana": "ショロオツク",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0569": {
+    "postcode": "0880569",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "白糠郡白糠町",
+    "city_kana": "シラヌカグンシラヌカチョウ",
+    "town": "工業団地",
+    "town_kana": "コウギョウダンチ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -1575,6 +1642,19 @@
       "office_name_kana": null
     }
   ],
+  "0575": {
+    "postcode": "0880575",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "白糠郡白糠町",
+    "city_kana": "シラヌカグンシラヌカチョウ",
+    "town": "西庶路学園通",
+    "town_kana": "ニシショロガクエンドオリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0581": {
     "postcode": "0880581",
     "prefecture": "北海道",

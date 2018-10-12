@@ -3342,8 +3342,8 @@
     "town": "本宮",
     "town_kana": null,
     "street": "字樋ノ口２",
-    "office_name": "ソニーエナジーデバイス　株式会社",
-    "office_name_kana": "ソニ-エナジ-デバイス カブシキガイシヤ"
+    "office_name": "株式会社　東北村田製作所　本宮工場",
+    "office_name_kana": "カブシキカイシヤ トウホクムラタセイサクシヨ モトミヤコウジヨウ"
   },
   "1181": {
     "postcode": "9691181",
@@ -4756,6 +4756,19 @@
     "street": null,
     "office_name": null,
     "office_name_kana": null
+  },
+  "2696": {
+    "postcode": "9692696",
+    "prefecture": "福島県",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "耶麻郡猪苗代町",
+    "city_kana": null,
+    "town": "川桁天王坂",
+    "town_kana": null,
+    "street": "２４１４",
+    "office_name": "ホテルリステル猪苗代",
+    "office_name_kana": "ホテルリステルイナワシロ"
   },
   "2701": [
     {

@@ -2700,8 +2700,8 @@
     "town": "みなとみらい",
     "town_kana": "ミナトミライ",
     "street": "４丁目７−３横浜メディアタワー",
-    "office_name": "株式会社　エヌ・ティ・ティ・ドコモ　神奈川支店",
-    "office_name_kana": "カブシキガイシヤ エヌ・テイ・テイ・ドコモ カナガワシテン"
+    "office_name": "株式会社　ドコモＣＳ　神奈川支店",
+    "office_name_kana": "カブシキガイシヤ ドコモシ-エス カナガワシテン"
   },
   "8540": {
     "postcode": "2208540",
@@ -2754,6 +2754,19 @@
     "street": "６丁目３５−１",
     "office_name": "神奈川県　信用保証協会",
     "office_name_kana": "カナガワケン シンヨウホシヨウキヨウカイ"
+  },
+  "8560": {
+    "postcode": "2208560",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "みなとみらい",
+    "town_kana": "ミナトミライ",
+    "street": "４丁目４番５号横浜アイマークプレイス",
+    "office_name": "株式会社　エクサ",
+    "office_name_kana": "カブシキガイシヤ エクサ"
   },
   "8565": {
     "postcode": "2208565",

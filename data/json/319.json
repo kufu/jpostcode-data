@@ -506,6 +506,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0211": {
+    "postcode": "3190211",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "笠間市",
+    "city_kana": "カサマシ",
+    "town": "泉市野谷入会地",
+    "town_kana": "イズミイチノヤイリアイチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0292": {
     "postcode": "3190292",
     "prefecture": "茨城県",
@@ -518,19 +531,6 @@
     "street": "３１６５−１",
     "office_name": "茨城県農業総合センター",
     "office_name_kana": "イバラキケンノウギヨウソウゴウセンタ-"
-  },
-  "0293": {
-    "postcode": "3190293",
-    "prefecture": "茨城県",
-    "prefecture_kana": "イバラキケン",
-    "prefecture_code": 8,
-    "city": "笠間市",
-    "city_kana": "カサマシ",
-    "town": "吉岡",
-    "town_kana": "ヨシオカ",
-    "street": "１８５−１",
-    "office_name": "加藤産業　株式会社　茨城支店",
-    "office_name_kana": "カトウサンギヨウ カブシキガイシヤ イバラキシテン"
   },
   "0294": {
     "postcode": "3190294",
@@ -1087,6 +1087,19 @@
     "city_kana": "ナカグントウカイムラ",
     "town": "舟石川駅東",
     "town_kana": "フナイシカワエキヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "1119": {
+    "postcode": "3191119",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "那珂郡東海村",
+    "city_kana": "ナカグントウカイムラ",
+    "town": "大山台",
+    "town_kana": "オオヤマダイ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

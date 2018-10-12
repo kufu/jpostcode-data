@@ -558,6 +558,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0133": {
+    "postcode": "9860133",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "石巻市",
+    "city_kana": "イシノマキシ",
+    "town": "二子",
+    "town_kana": "フタゴ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0195": {
     "postcode": "9860195",
     "prefecture": "宮城県",
@@ -2014,6 +2027,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0850": {
+    "postcode": "9860850",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "石巻市",
+    "city_kana": "イシノマキシ",
+    "town": "あゆみ野",
+    "town_kana": "アユミノ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0851": {
     "postcode": "9860851",
     "prefecture": "宮城県",
@@ -2127,6 +2153,19 @@
     "city_kana": "イシノマキシ",
     "town": "大街道西",
     "town_kana": "オオカイドウニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0860": {
+    "postcode": "9860860",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "石巻市",
+    "city_kana": "イシノマキシ",
+    "town": "のぞみ野",
+    "town_kana": "ノゾミノ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

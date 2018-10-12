@@ -722,6 +722,19 @@
       "prefecture_code": 28,
       "city": "神戸市北区",
       "city_kana": "コウベシキタク",
+      "town": "山田町下谷上長尾山",
+      "town_kana": "ヤマダチョウシモタニガミナガオヤマ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6511102",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "prefecture_code": 28,
+      "city": "神戸市北区",
+      "city_kana": "コウベシキタク",
       "town": "山田町下谷上再度公園",
       "town_kana": "ヤマダチョウシモタニガミフタタビコウエン",
       "street": null,
@@ -764,6 +777,19 @@
     "city_kana": "コウベシキタク",
     "town": "山田町小河",
     "town_kana": "ヤマダチョウオウゴ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "1106": {
+    "postcode": "6511106",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "神戸市北区",
+    "city_kana": "コウベシキタク",
+    "town": "しあわせの村",
+    "town_kana": "シアワセノムラ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -4085,9 +4111,9 @@
     "prefecture_code": 28,
     "city": "神戸市中央区",
     "city_kana": "コウベシチュウオウク",
-    "town": "御幸通",
-    "town_kana": "ゴコウドオリ",
-    "street": "６丁目１−１２三宮ビル東館",
+    "town": "磯上通",
+    "town_kana": "イソガミドオリ",
+    "street": "７−１−５三宮プラザＥＡＳＴ１２階",
     "office_name": "全国健康保険協会　兵庫支部",
     "office_name_kana": "ゼンコクケンコウホケンキヨウカイ ヒヨウゴシブ"
   },
@@ -4168,19 +4194,6 @@
     "street": "５丁目１−１",
     "office_name": "神戸市中央区役所",
     "office_name_kana": "コウベシチユウオウクヤクシヨ"
-  },
-  "8575": {
-    "postcode": "6518575",
-    "prefecture": "兵庫県",
-    "prefecture_kana": "ヒョウゴケン",
-    "prefecture_code": 28,
-    "city": "神戸市中央区",
-    "city_kana": "コウベシチュウオウク",
-    "town": "磯辺通",
-    "town_kana": "イソベドオリ",
-    "street": "３丁目１番７号",
-    "office_name": "株式会社　メディセオ・パルタックホールディングス",
-    "office_name_kana": "カブシキガイシヤ メデイセオ・パルタツクホ-ルデイングス"
   },
   "8585": {
     "postcode": "6518585",

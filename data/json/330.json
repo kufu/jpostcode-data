@@ -1288,6 +1288,19 @@
     "office_name": "読売新聞社　浦和支局",
     "office_name_kana": "ヨミウリシンブンシヤ ウラワシキヨク"
   },
+  "8552": {
+    "postcode": "3308552",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市浦和区",
+    "city_kana": "サイタマシウラワク",
+    "town": "高砂",
+    "town_kana": "タカサゴ",
+    "street": "４−４−１７",
+    "office_name": "中央労働金庫　さいたま支店",
+    "office_name_kana": "チユウオウロウドウキンコ サイタマシテン"
+  },
   "8553": {
     "postcode": "3308553",
     "prefecture": "埼玉県",
@@ -1300,6 +1313,32 @@
     "street": "１番地５",
     "office_name": "さいたま赤十字病院",
     "office_name_kana": "サイタマセキジユウジビヨウイン"
+  },
+  "8562": {
+    "postcode": "3308562",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市浦和区",
+    "city_kana": "サイタマシウラワク",
+    "town": "高砂",
+    "town_kana": "タカサゴ",
+    "street": "三丁目１２番９号",
+    "office_name": "全国農業協同組合連合会　埼玉県本部",
+    "office_name_kana": "ゼンコクノウギヨウキヨウドウクミアイレンゴウカイ サイタマケンホンブ"
+  },
+  "8564": {
+    "postcode": "3308564",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市大宮区",
+    "city_kana": "サイタマシオオミヤク",
+    "town": "桜木町",
+    "town_kana": "サクラギチョウ",
+    "street": "１−９−６大宮センタービル",
+    "office_name": "株式会社　関電工　北関東・北信越営業本部",
+    "office_name_kana": "カブシキガイシヤ カンデンコウ キタカントウ・キタシンエツエイギヨウホンブ"
   },
   "8565": {
     "postcode": "3308565",
@@ -1443,6 +1482,19 @@
     "street": "四丁目３３３番地１３",
     "office_name": "むさし証券　株式会社",
     "office_name_kana": "ムサシシヨウケン カブシキガイシヤ"
+  },
+  "8647": {
+    "postcode": "3308647",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市浦和区",
+    "city_kana": "サイタマシウラワク",
+    "town": "大原",
+    "town_kana": "オオハラ",
+    "street": "３−４クラブハウスＡＮＮＥＸ３階",
+    "office_name": "浦和レッドダイヤモンズ　株式会社",
+    "office_name_kana": "ウラワレツドダイヤモンズ カブシキガイシヤ"
   },
   "8669": {
     "postcode": "3308669",
@@ -1805,8 +1857,8 @@
     "town": "新都心",
     "town_kana": "シントシン",
     "street": "１１−１",
-    "office_name": "株式会社　ＮＴＴドコモ　埼玉支店",
-    "office_name_kana": "カブシキカイシヤ エヌテイテイドコモ サイタマシテン"
+    "office_name": "株式会社　ドコモＣＳ　埼玉支店",
+    "office_name_kana": "カブシキカイシヤ ドコモシ-エス サイタマシテン"
   },
   "9540": {
     "postcode": "3309540",
@@ -1844,8 +1896,8 @@
     "town": "桜木町",
     "town_kana": "サクラギチョウ",
     "street": "１丁目１０−１７",
-    "office_name": "キヤノン販売　株式会社　大宮営業所",
-    "office_name_kana": "キヤノンハンバイ カブシキガイシヤ オオミヤエイギヨウシヨ"
+    "office_name": "キヤノンマーケティングジャパン　株式会社　さいたま営業所",
+    "office_name_kana": "キヤノンマ-ケテイングジヤパン カブシキガイシヤ サイタマエイギヨウシヨ"
   },
   "9545": {
     "postcode": "3309545",
@@ -1880,11 +1932,11 @@
     "prefecture_code": 11,
     "city": "さいたま市浦和区",
     "city_kana": "サイタマシウラワク",
-    "town": "岸町",
-    "town_kana": "キシチョウ",
-    "street": "７丁目１０−１４",
-    "office_name": "毎日新聞　浦和支局",
-    "office_name_kana": "マイニチシンブン ウラワシキヨク"
+    "town": "仲町",
+    "town_kana": "ナカチョウ",
+    "street": "３丁目１２番６号ＪＳ−１ビル１Ｆ",
+    "office_name": "毎日新聞　さいたま支局",
+    "office_name_kana": "マイニチシンブン サイタマシキヨク"
   },
   "9551": {
     "postcode": "3309551",
@@ -2262,6 +2314,32 @@
     "street": "２番地１さいたま新都心合同庁舎検査棟",
     "office_name": "独立行政法人　農林水産消費安全技術センター",
     "office_name_kana": "ドクリツギヨウセイホウジン ノウリンスイサンシヨウヒアンゼンギジユツセンタ-"
+  },
+  "9792": {
+    "postcode": "3309792",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市中央区",
+    "city_kana": "サイタマシチュウオウク",
+    "town": "新都心",
+    "town_kana": "シントシン",
+    "street": "３−１",
+    "office_name": "日本郵政共済組合　共済センター",
+    "office_name_kana": "ニツポンユウセイキヨウサイクミアイ キヨウサイセンタ-"
+  },
+  "9793": {
+    "postcode": "3309793",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市中央区",
+    "city_kana": "サイタマシチュウオウク",
+    "town": "新都心",
+    "town_kana": "シントシン",
+    "street": "３−１",
+    "office_name": "日本郵政共済組合　共済センター　被扶養者担当",
+    "office_name_kana": "ニツポンユウセイキヨウサイクミアイ キヨウサイセンタ- ヒフヨウシヤタントウ"
   },
   "9796": {
     "postcode": "3309796",

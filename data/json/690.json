@@ -3416,11 +3416,24 @@
     "prefecture_code": 32,
     "city": "松江市",
     "city_kana": "マツエシ",
-    "town": "学園南",
-    "town_kana": "ガクエンミナミ",
-    "street": "１丁目２−１くにびきメッセ",
+    "town": "殿町",
+    "town_kana": "トノマチ",
+    "street": "３８３山陰中央ビル２階",
     "office_name": "全国健康保険協会　島根支部",
     "office_name_kana": "ゼンコクケンコウホケンキヨウカイ シマネシブ"
+  },
+  "8532": {
+    "postcode": "6908532",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "prefecture_code": 32,
+    "city": "松江市",
+    "city_kana": "マツエシ",
+    "town": "母衣町",
+    "town_kana": "ホロマチ",
+    "street": "１１５番地",
+    "office_name": "中国電力　株式会社　山陰電力所",
+    "office_name_kana": "チユウゴクデンリヨク カブシキガイシヤ サンインデンリヨクシヨ"
   },
   "8533": {
     "postcode": "6908533",

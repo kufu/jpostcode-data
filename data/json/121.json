@@ -519,6 +519,19 @@
     "office_name": "日東燃料工業　（株）",
     "office_name_kana": "ニツトウネンリヨウコウギヨウ カブシキガイシヤ"
   },
+  "8508": {
+    "postcode": "1218508",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "足立区",
+    "city_kana": "アダチク",
+    "town": "竹の塚",
+    "town_kana": "タケノツカ",
+    "street": "５−７−３竹の塚ＪＯＹぷらざ４階",
+    "office_name": "シチズンカスタマーサービス　株式会社",
+    "office_name_kana": "シチズンカスタマ-サ-ビス カブシキカイシヤ"
+  },
   "8510": {
     "postcode": "1218510",
     "prefecture": "東京都",

@@ -1169,19 +1169,6 @@
     "office_name": "福岡郵便貯金会館",
     "office_name_kana": "フクオカユウビンチヨキンカイカン"
   },
-  "8542": {
-    "postcode": "8108542",
-    "prefecture": "福岡県",
-    "prefecture_kana": "フクオカケン",
-    "prefecture_code": 40,
-    "city": "福岡市中央区",
-    "city_kana": "フクオカシチュウオウク",
-    "town": "赤坂",
-    "town_kana": "アカサカ",
-    "street": "２丁目６番１１号穴吹第１５福岡ビル",
-    "office_name": "（株）　穴吹工務店　福岡支店",
-    "office_name_kana": "カブシキガイシヤ アナブキコウムテン フクオカシテン"
-  },
   "8543": {
     "postcode": "8108543",
     "prefecture": "福岡県",
@@ -1657,9 +1644,9 @@
     "prefecture_code": 40,
     "city": "福岡市中央区",
     "city_kana": "フクオカシチュウオウク",
-    "town": "城内",
-    "town_kana": "ジョウナイ",
-    "street": "１−１",
+    "town": "六本松",
+    "town_kana": "ロッポンマツ",
+    "street": "４丁目２番４号",
     "office_name": "福岡高等裁判所",
     "office_name_kana": "フクオカコウトウサイバンシヨ"
   },
@@ -1881,8 +1868,8 @@
     "town": "大名",
     "town_kana": "ダイミョウ",
     "street": "２丁目４−３５",
-    "office_name": "富士火災海上保険株式会社　九州本部",
-    "office_name_kana": "フジカサイカイジヨウホケンカブシキガイシヤ キユウシユウホンブ"
+    "office_name": "ＡＩＧ損害保険　株式会社　九州・沖縄地域事業本部",
+    "office_name_kana": "エイアイジ-ソンガイホケン カブシキガイシヤ キユウシユウ・オキナワチイキジギヨウホンブ"
   },
   "8638": {
     "postcode": "8108638",
@@ -1956,9 +1943,9 @@
     "prefecture_code": 40,
     "city": "福岡市中央区",
     "city_kana": "フクオカシチュウオウク",
-    "town": "大手門",
-    "town_kana": "オオテモン",
-    "street": "１丁目７−１",
+    "town": "六本松",
+    "town_kana": "ロッポンマツ",
+    "street": "４丁目２番４号",
     "office_name": "福岡家庭裁判所",
     "office_name_kana": "フクオカカテイサイバンシヨ"
   },
@@ -1969,9 +1956,9 @@
     "prefecture_code": 40,
     "city": "福岡市中央区",
     "city_kana": "フクオカシチュウオウク",
-    "town": "城内",
-    "town_kana": "ジョウナイ",
-    "street": "１−１",
+    "town": "六本松",
+    "town_kana": "ロッポンマツ",
+    "street": "４丁目２番４号",
     "office_name": "福岡地方裁判所",
     "office_name_kana": "フクオカチホウサイバンシヨ"
   },
@@ -1982,9 +1969,9 @@
     "prefecture_code": 40,
     "city": "福岡市中央区",
     "city_kana": "フクオカシチュウオウク",
-    "town": "城内",
-    "town_kana": "ジョウナイ",
-    "street": "１−１",
+    "town": "六本松",
+    "town_kana": "ロッポンマツ",
+    "street": "４丁目２番４号",
     "office_name": "福岡簡易裁判所",
     "office_name_kana": "フクオカカンイサイバンシヨ"
   },

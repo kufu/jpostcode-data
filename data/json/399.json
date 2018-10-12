@@ -1262,6 +1262,19 @@
     "office_name": "セイコーエプソン　株式会社　塩尻事業所",
     "office_name_kana": "セイコ-エプソン カブシキガイシヤ シオジリジギヨウシヨ"
   },
+  "0797": {
+    "postcode": "3990797",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "塩尻市",
+    "city_kana": "シオジリシ",
+    "town": "大門八番町",
+    "town_kana": "ダイモン8バンチョウ",
+    "street": "１−２",
+    "office_name": "エプソンダイレクト　株式会社",
+    "office_name_kana": "エプソンダイレクト カブシキガイシヤ"
+  },
   "1200": {
     "postcode": "3991200",
     "prefecture": "長野県",
@@ -4498,8 +4511,8 @@
     "town": "穂高北穂高",
     "town_kana": "ホタカキタホタカ",
     "street": "２０２７−９",
-    "office_name": "ＧＡＣ　株式会社",
-    "office_name_kana": "ジ-エ-シ- カブシキガイシヤ"
+    "office_name": "株式会社　デンソーエアクール　穂高本社工場",
+    "office_name_kana": "カブシキガイシヤ デンソ-エアク-ル ホタカホンシヤコウジヨウ"
   },
   "8392": {
     "postcode": "3998392",
@@ -4656,19 +4669,6 @@
     "street": "２０７０",
     "office_name": "セイコーエプソン　株式会社　松本南事業所",
     "office_name_kana": "セイコ-エプソン カブシキガイシヤ マツモトミナミジギヨウシヨ"
-  },
-  "8703": {
-    "postcode": "3998703",
-    "prefecture": "長野県",
-    "prefecture_kana": "ナガノケン",
-    "prefecture_code": 20,
-    "city": "松本市",
-    "city_kana": "マツモトシ",
-    "town": "村井町南",
-    "town_kana": "ムライマチミナミ",
-    "street": "２丁目２１番４５号",
-    "office_name": "エプソンダイレクト　株式会社",
-    "office_name_kana": "エプソンダイレクト カブシキガイシヤ"
   },
   "8707": {
     "postcode": "3998707",
@@ -5015,8 +5015,8 @@
     "prefecture_code": 20,
     "city": "北安曇郡小谷村",
     "city_kana": "キタアヅミグンオタリムラ",
-    "town": "中小谷丙",
-    "town_kana": "ナカオタリヘイ",
+    "town": "中小谷",
+    "town_kana": "ナカオタリ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -5028,8 +5028,8 @@
     "prefecture_code": 20,
     "city": "北安曇郡小谷村",
     "city_kana": "キタアヅミグンオタリムラ",
-    "town": "千国乙",
-    "town_kana": "チクニオツ",
+    "town": "千国",
+    "town_kana": "チクニ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

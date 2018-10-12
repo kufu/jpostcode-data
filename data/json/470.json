@@ -1022,11 +1022,11 @@
     "prefecture_code": 23,
     "city": "みよし市",
     "city_kana": "ミヨシシ",
-    "town": "三好町",
-    "town_kana": "ミヨシチョウ",
-    "street": "福田３",
-    "office_name": "三五",
-    "office_name_kana": "サンゴ"
+    "town": "福田町",
+    "town_kana": "フクタチョウ",
+    "street": "宮下１番１",
+    "office_name": "株式会社　三五",
+    "office_name_kana": "カブシキガイシヤ サンゴ"
   },
   "0295": {
     "postcode": "4700295",
@@ -4310,15 +4310,15 @@
   "2196": {
     "postcode": "4702196",
     "prefecture": "愛知県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
     "city": "知多郡東浦町",
-    "city_kana": null,
-    "town": "大字緒川",
-    "town_kana": null,
+    "city_kana": "チタグンヒガシウラチョウ",
+    "town": "緒川",
+    "town_kana": "オガワ",
     "street": "字市右原２−２",
-    "office_name": "積水フィルム　株式会社　名古屋工場",
-    "office_name_kana": "セキスイフイルム カブシキガイシヤ ナゴヤコウジヨウ"
+    "office_name": "住化積水フィルム　株式会社　名古屋工場",
+    "office_name_kana": "スミカセキスイフイルム カブシキガイシヤ ナゴヤコウジヨウ"
   },
   "2197": {
     "postcode": "4702197",

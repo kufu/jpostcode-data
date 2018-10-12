@@ -171,15 +171,15 @@
   "0192": {
     "postcode": "8690192",
     "prefecture": "熊本県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "クマモトケン",
+    "prefecture_code": 43,
     "city": "玉名郡長洲町",
-    "city_kana": null,
-    "town": "大字長洲",
-    "town_kana": null,
-    "street": "２１６８",
-    "office_name": "九州不二サッシ　株式会社",
-    "office_name_kana": "キユウシユウフジサツシ カブシキガイシヤ"
+    "city_kana": "タマナグンナガスマチ",
+    "town": "長洲",
+    "town_kana": "ナガス",
+    "street": "２１６８番地",
+    "office_name": "不二ライトメタル　株式会社",
+    "office_name_kana": "フジライトメタル カブシキガイシヤ"
   },
   "0193": {
     "postcode": "8690193",
@@ -2741,8 +2741,8 @@
     "town": "旭志川辺",
     "town_kana": "キョクシカワベ",
     "street": "１３１４−１",
-    "office_name": "一般財団法人　化学及血清療法研究所　菊池研究所",
-    "office_name_kana": "イツパンザイダンホウジン カガクオヨビケツセイリヨウホウケンキユウシヨ キクチケンキユウシヨ"
+    "office_name": "ＫＭバイオロジクス　株式会社　菊池研究所",
+    "office_name_kana": "ケイエムバイオロジクス カブシキガイシヤ キクチケンキユウシヨ"
   },
   "1400": {
     "postcode": "8691400",

@@ -259,6 +259,19 @@
     "office_name": "江崎グリコ　株式会社",
     "office_name_kana": "エザキグリコ カブシキガイシヤ"
   },
+  "8503": {
+    "postcode": "5558503",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市西淀川区",
+    "city_kana": "オオサカシニシヨドガワク",
+    "town": "中島",
+    "town_kana": "ナカシマ",
+    "street": "２丁目１３番３３号",
+    "office_name": "鴻池運輸　株式会社　西大阪流通センター営業所",
+    "office_name_kana": "コウノイケウンユ カブシキガイシヤ ニシオオサカリユウツウセンタ-エイギヨウシヨ"
+  },
   "8555": {
     "postcode": "5558555",
     "prefecture": "大阪府",

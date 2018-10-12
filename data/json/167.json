@@ -220,6 +220,19 @@
     "office_name": "株式会社　新星堂",
     "office_name_kana": "カブシキガイシヤ シンセイドウ"
   },
+  "8505": {
+    "postcode": "1678505",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "杉並区",
+    "city_kana": "スギナミク",
+    "town": "荻窪",
+    "town_kana": "オギクボ",
+    "street": "４−３０−１６藤澤ビル５Ｆ",
+    "office_name": "株式会社　チヨダ",
+    "office_name_kana": "カブシキガイシヤ チヨダ"
+  },
   "8506": {
     "postcode": "1678506",
     "prefecture": "東京都",

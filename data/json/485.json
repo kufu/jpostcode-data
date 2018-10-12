@@ -116,6 +116,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0009": {
+    "postcode": "4850009",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "小牧市",
+    "city_kana": "コマキシ",
+    "town": "久保",
+    "town_kana": "クボ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0011": {
     "postcode": "4850011",
     "prefecture": "愛知県",

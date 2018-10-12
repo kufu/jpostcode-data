@@ -756,8 +756,8 @@
     "town": "奈呉の江",
     "town_kana": "ナゴノエ",
     "street": "１２−２",
-    "office_name": "株式会社　クロタニコーポレーション",
-    "office_name_kana": "カブシキガイシヤ クロタニコ-ポレ-シヨン"
+    "office_name": "黒谷　株式会社",
+    "office_name_kana": "クロタニ カブシキガイシヤ"
   },
   "8502": {
     "postcode": "9348502",
@@ -950,7 +950,7 @@
     "city_kana": "イミズシ",
     "town": "中新湊",
     "town_kana": "ナカシンミナト",
-    "street": "１２−２０（新湊郵便局私書箱第８号）",
+    "street": "１２−２０",
     "office_name": "新湊信用金庫　本店",
     "office_name_kana": "シンミナトシンヨウキンコ ホンテン"
   },
@@ -963,7 +963,7 @@
     "city_kana": "イミズシ",
     "town": "中新湊",
     "town_kana": "ナカシンミナト",
-    "street": "１３−５（新湊郵便局私書箱第３号）",
+    "street": "１３−５",
     "office_name": "株式会社　富山第一銀行　新湊支店",
     "office_name_kana": "カブシキガイシヤ トヤマダイイチギンコウ シンミナトシテン"
   },
@@ -989,7 +989,7 @@
     "city_kana": "イミズシ",
     "town": "作道",
     "town_kana": "ツクリミチ",
-    "street": "６８５−２（新湊郵便局私書箱第３８号）",
+    "street": "６８５−２",
     "office_name": "株式会社　四方組",
     "office_name_kana": "カブシキガイシヤ ヨカタグミ"
   }

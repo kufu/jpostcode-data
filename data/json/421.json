@@ -3222,5 +3222,18 @@
     "street": null,
     "office_name": null,
     "office_name_kana": null
+  },
+  "3392": {
+    "postcode": "4213392",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "富士市",
+    "city_kana": "フジシ",
+    "town": "中之郷",
+    "town_kana": "ナカノゴウ",
+    "street": "５７５−１",
+    "office_name": "コアレックス信栄　株式会社",
+    "office_name_kana": "コアレツクスシンエイ カブシキガイシヤ"
   }
 }

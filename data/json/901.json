@@ -1689,19 +1689,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0695": {
-    "postcode": "9010695",
-    "prefecture": "沖縄県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
-    "city": "南城市",
-    "city_kana": null,
-    "town": "玉城",
-    "town_kana": null,
-    "street": "字富里１４３番地",
-    "office_name": "南城市役所",
-    "office_name_kana": "ナンジヨウシヤクシヨ"
-  },
   "1100": {
     "postcode": "9011100",
     "prefecture": "沖縄県",
@@ -2312,6 +2299,19 @@
     "street": "字佐敷５６番地",
     "office_name": "南城市役所　佐敷庁舎",
     "office_name_kana": "ナンジヨウシヤクシヨ サシキチヨウシヤ"
+  },
+  "1495": {
+    "postcode": "9011495",
+    "prefecture": "沖縄県",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "南城市",
+    "city_kana": null,
+    "town": "佐敷",
+    "town_kana": null,
+    "street": "字新里１８７０番地",
+    "office_name": "南城市役所",
+    "office_name_kana": "ナンジヨウシヤクシヨ"
   },
   "1501": {
     "postcode": "9011501",

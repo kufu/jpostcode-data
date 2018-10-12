@@ -139,8 +139,8 @@
     "town": "押上",
     "town_kana": "オシアゲ",
     "street": "１−１−２東京スカイツリータウン・ソラマチ９階",
-    "office_name": "公益財団法人　通信文化協会",
-    "office_name_kana": "コウエキザイダンホウジン ツウシンブンカキヨウカイ"
+    "office_name": "郵政博物館",
+    "office_name_kana": "ユウセイハクブツカン"
   },
   "8501": {
     "postcode": "1318501",
@@ -331,11 +331,11 @@
     "prefecture_code": 13,
     "city": "墨田区",
     "city_kana": "スミダク",
-    "town": "押上",
-    "town_kana": "オシアゲ",
-    "street": "２丁目３−８",
+    "town": "向島",
+    "town_kana": "ムコウジマ",
+    "street": "３丁目４４番４号",
     "office_name": "東武谷内田建設　株式会社",
-    "office_name_kana": "トウブタニウチダケンセツ カブシキガイシヤ"
+    "office_name_kana": "トウブヤチダケンセツ カブシキガイシヤ"
   },
   "8526": {
     "postcode": "1318526",

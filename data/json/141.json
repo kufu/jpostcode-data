@@ -493,6 +493,97 @@
     "office_name": "大日本印刷　株式会社",
     "office_name_kana": "ダイニツポンインサツ カブシキガイシヤ"
   },
+  "8201": {
+    "postcode": "1418201",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "上大崎",
+    "town_kana": "カミオオサキ",
+    "street": "３丁目１−１目黒セントラルスクエア６階",
+    "office_name": "株式会社　ネコ・パブリッシング",
+    "office_name_kana": "カブシキガイシヤ ネコ・パブリツシング"
+  },
+  "8202": {
+    "postcode": "1418202",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "上大崎",
+    "town_kana": "カミオオサキ",
+    "street": "３丁目１−１目黒セントラルスクエア６階",
+    "office_name": "株式会社　徳間書店",
+    "office_name_kana": "カブシキガイシヤ トクマシヨテン"
+  },
+  "8203": {
+    "postcode": "1418203",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "上大崎",
+    "town_kana": "カミオオサキ",
+    "street": "３丁目１−１目黒セントラルスクエア６階",
+    "office_name": "株式会社　美術出版社",
+    "office_name_kana": "カブシキガイシヤ ビジユツシユツパンシヤ"
+  },
+  "8204": {
+    "postcode": "1418204",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "上大崎",
+    "town_kana": "カミオオサキ",
+    "street": "３丁目１−１目黒セントラルスクエア６階",
+    "office_name": "株式会社　復刊ドットコム",
+    "office_name_kana": "カブシキガイシヤ フツカンドツトコム"
+  },
+  "8205": {
+    "postcode": "1418205",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "上大崎",
+    "town_kana": "カミオオサキ",
+    "street": "３丁目１−１目黒セントラルスクエア６階",
+    "office_name": "株式会社　ＣＣＣメディアハウス",
+    "office_name_kana": "カブシキガイシヤ シ-シ-シ-メデイアハウス"
+  },
+  "8206": {
+    "postcode": "1418206",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "上大崎",
+    "town_kana": "カミオオサキ",
+    "street": "３丁目１−１目黒セントラルスクエア６階",
+    "office_name": "株式会社　Ｃーパブリッシングサービス",
+    "office_name_kana": "カブシキガイシヤ シ-パブリツシングサ-ビス"
+  },
+  "8214": {
+    "postcode": "1418214",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "上大崎",
+    "town_kana": "カミオオサキ",
+    "street": "３−１−１目黒セントラルスクエア１４階",
+    "office_name": "株式会社　レイヤーズ・コンサルティング",
+    "office_name_kana": "カブシキガイシヤ レイヤ-ズ・コンサルテイング"
+  },
   "8411": {
     "postcode": "1418411",
     "prefecture": "東京都",
@@ -788,9 +879,9 @@
     "city_kana": "シナガワク",
     "town": "西五反田",
     "town_kana": "ニシゴタンダ",
-    "street": "７丁目２５−９",
-    "office_name": "共和化工　（株）",
-    "office_name_kana": "キヨウワカコウ カブシキガイシヤ"
+    "street": "７丁目２５番１９号",
+    "office_name": "共和化工　株式会社",
+    "office_name_kana": "キヨウワカコウ カブシキカイシヤ"
   },
   "8520": {
     "postcode": "1418520",
@@ -1085,9 +1176,9 @@
     "prefecture_code": 13,
     "city": "品川区",
     "city_kana": "シナガワク",
-    "town": "大崎",
-    "town_kana": "オオサキ",
-    "street": "１丁目２番２号",
+    "town": "西品川",
+    "town_kana": "ニシシナガワ",
+    "street": "１丁目１番１号",
     "office_name": "株式会社　日本アクセス",
     "office_name_kana": "カブシキガイシヤ ニツポンアクセス"
   },
@@ -1181,6 +1272,19 @@
     "street": "３−６−２８ウェストパーク大崎",
     "office_name": "協同広告　株式会社",
     "office_name_kana": "キヨウドウコウコク カブシキガイシヤ"
+  },
+  "8609": {
+    "postcode": "1418609",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "大崎",
+    "town_kana": "オオサキ",
+    "street": "１丁目１１番２号ゲートシティ大崎イーストタワー１７Ｆ",
+    "office_name": "株式会社　ローソンＨＭＶエンタテイメント",
+    "office_name_kana": "カブシキカイシヤ ロ-ソンエイチエムブイエンタテイメント"
   },
   "8610": {
     "postcode": "1418610",
@@ -1285,6 +1389,19 @@
     "street": "４丁目３２−１",
     "office_name": "東京日産自動車販売　株式会社",
     "office_name_kana": "トウキヨウニツサンジドウシヤハンバイ カブシキガイシヤ"
+  },
+  "8626": {
+    "postcode": "1418626",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "北品川",
+    "town_kana": "キタシナガワ",
+    "street": "５丁目５番１５号大崎ブライトコア５Ｆ",
+    "office_name": "コベルコ建機　株式会社　東京本社",
+    "office_name_kana": "コベルコケンキ カブシキガイシヤ トウキヨウホンシヤ"
   },
   "8627": {
     "postcode": "1418627",
