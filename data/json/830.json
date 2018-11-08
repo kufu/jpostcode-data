@@ -181,6 +181,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0019": {
+    "postcode": "8300019",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "久留米市",
+    "city_kana": "クルメシ",
+    "town": "小森野町",
+    "town_kana": "コモリノマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "8300021",
     "prefecture": "福岡県",

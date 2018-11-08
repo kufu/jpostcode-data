@@ -1884,6 +1884,19 @@
     "office_name": "株式会社　角川書店　九州支社",
     "office_name_kana": "カブシキガイシヤ カドカワシヨテン キユウシユウシシヤ"
   },
+  "8639": {
+    "postcode": "8108639",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "福岡市中央区",
+    "city_kana": "フクオカシチュウオウク",
+    "town": "地行浜",
+    "town_kana": "ジギョウハマ",
+    "street": "二丁目２番１号",
+    "office_name": "ＭＡＲＫ　ＩＳ　福岡ももち",
+    "office_name_kana": "マ-ク イズ フクオカモモチ"
+  },
   "8642": {
     "postcode": "8108642",
     "prefecture": "福岡県",

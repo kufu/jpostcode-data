@@ -610,6 +610,19 @@
     "office_name": "欧文印刷　株式会社",
     "office_name_kana": "オウブンインサツ カブシキガイシヤ"
   },
+  "8485": {
+    "postcode": "1138485",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "文京区",
+    "city_kana": "ブンキョウク",
+    "town": "本郷",
+    "town_kana": "ホンゴウ",
+    "street": "７丁目３番１号",
+    "office_name": "東京大学南研究棟",
+    "office_name_kana": "トウキヨウダイガクミナミケンキユウトウ"
+  },
   "8488": {
     "postcode": "1138488",
     "prefecture": "東京都",

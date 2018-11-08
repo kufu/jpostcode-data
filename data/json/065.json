@@ -662,6 +662,19 @@
     "office_name": "札幌市東区役所",
     "office_name_kana": "サツポロシヒガシクヤクシヨ"
   },
+  "8631": {
+    "postcode": "0658631",
+    "prefecture": "北海道",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "札幌市東区",
+    "city_kana": null,
+    "town": "北５条東",
+    "town_kana": null,
+    "street": "８丁目１番３３号",
+    "office_name": "ＳＡＴＯ社会保険労務士法人",
+    "office_name_kana": "サトウシヤカイホケンロウムシホウジン"
+  },
   "8633": {
     "postcode": "0658633",
     "prefecture": "北海道",

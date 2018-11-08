@@ -181,6 +181,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0018": {
+    "postcode": "5710018",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "門真市",
+    "city_kana": "カドマシ",
+    "town": "北島東町",
+    "town_kana": "キタジマヒガシマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "5710021",
     "prefecture": "大阪府",
