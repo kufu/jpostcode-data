@@ -2195,6 +2195,45 @@
     "office_name": "株式会社　ファイネス",
     "office_name_kana": "カブシキガイシヤ フアイネス"
   },
+  "0316": {
+    "postcode": "9200316",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "金沢市",
+    "city_kana": "カナザワシ",
+    "town": "金石通町",
+    "town_kana": "カナイワトオリマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0317": {
+    "postcode": "9200317",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "金沢市",
+    "city_kana": "カナザワシ",
+    "town": "金石下本町",
+    "town_kana": "カナイワシモホンマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0318": {
+    "postcode": "9200318",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "金沢市",
+    "city_kana": "カナザワシ",
+    "town": "金石味噌屋町",
+    "town_kana": "カナイワミソヤチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0331": {
     "postcode": "9200331",
     "prefecture": "石川県",
@@ -9554,9 +9593,9 @@
     "prefecture_code": 17,
     "city": "金沢市",
     "city_kana": "カナザワシ",
-    "town": "大手町",
-    "town_kana": "オオテマチ",
-    "street": "１４−１",
+    "town": "広岡",
+    "town_kana": "ヒロオカ",
+    "street": "３丁目２−１０",
     "office_name": "日本放送協会　金沢放送局",
     "office_name_kana": "ニツポンホウソウキヨウカイ カナザワホウソウキヨク"
   },

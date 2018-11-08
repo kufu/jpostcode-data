@@ -1988,6 +1988,19 @@
     "office_name": "学校法人　サンモールインターナショナルスクール",
     "office_name_kana": "ガツコウホウジン サンモ-ルインタ-ナシヨナルスク-ル"
   },
+  "8660": {
+    "postcode": "2318660",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "山手町",
+    "town_kana": "ヤマテチョウ",
+    "street": "１７８",
+    "office_name": "学校法人　フェリス女学院",
+    "office_name_kana": "ガツコウホウジン フエリスジヨガクイン"
+  },
   "8682": {
     "postcode": "2318682",
     "prefecture": "神奈川県",

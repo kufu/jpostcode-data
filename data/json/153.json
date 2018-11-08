@@ -1293,11 +1293,11 @@
     "prefecture_code": 13,
     "city": "目黒区",
     "city_kana": "メグロク",
-    "town": "中目黒",
-    "town_kana": "ナカメグロ",
-    "street": "３丁目１３−２９",
-    "office_name": "東京都　目黒都税事務所",
-    "office_name_kana": "トウキヨウト メグロトゼイジムシヨ"
+    "town": "上目黒",
+    "town_kana": "カミメグロ",
+    "street": "２−１９−１５目黒区総合庁舎内",
+    "office_name": "東京都目黒都税事務所",
+    "office_name_kana": "トウキヨウトメグロトゼイジムシヨ"
   },
   "8939": {
     "postcode": "1538939",

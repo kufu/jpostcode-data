@@ -1444,6 +1444,19 @@
     "office_name": "岩手県立　総合教育センター",
     "office_name_kana": "イワテケンリツ ソウゴウキヨウイクセンタ-"
   },
+  "8501": {
+    "postcode": "0258501",
+    "prefecture": "岩手県",
+    "prefecture_kana": "イワテケン",
+    "prefecture_code": 3,
+    "city": "花巻市",
+    "city_kana": "ハナマキシ",
+    "town": "下根子",
+    "town_kana": "シモネコ",
+    "street": "４５０−３",
+    "office_name": "学校法人　富士大学",
+    "office_name_kana": "ガツコウホウジン フジダイガク"
+  },
   "8601": {
     "postcode": "0258601",
     "prefecture": "岩手県",

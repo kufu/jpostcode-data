@@ -662,5 +662,18 @@
     "street": "字川井１６１",
     "office_name": "美馬市　木屋平総合支所",
     "office_name_kana": "ミマシ コヤダイラソウゴウシシヨ"
+  },
+  "8577": {
+    "postcode": "7778577",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "prefecture_code": 36,
+    "city": "美馬市",
+    "city_kana": "ミマシ",
+    "town": "穴吹町穴吹",
+    "town_kana": "アナブキチョウアナブキ",
+    "street": "字九反地５",
+    "office_name": "美馬市役所",
+    "office_name_kana": "ミマシヤクシヨ"
   }
 }
