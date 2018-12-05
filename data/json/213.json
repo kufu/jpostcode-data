@@ -233,19 +233,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0027": {
-    "postcode": "2130027",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "川崎市高津区",
-    "city_kana": "カワサキシタカツク",
-    "town": "野川",
-    "town_kana": "ノガワ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "0028": {
     "postcode": "2130028",
     "prefecture": "神奈川県",
@@ -457,12 +444,12 @@
   "8520": {
     "postcode": "2138520",
     "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
+    "prefecture_kana": null,
+    "prefecture_code": null,
     "city": "川崎市高津区",
-    "city_kana": "カワサキシタカツク",
+    "city_kana": null,
     "town": "野川",
-    "town_kana": "ノガワ",
+    "town_kana": null,
     "street": "３６９６",
     "office_name": "エヌフーズ　株式会社",
     "office_name_kana": "エヌフ-ズ カブシキガイシヤ"

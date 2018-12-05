@@ -1171,6 +1171,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0419": {
+    "postcode": "9190419",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "prefecture_code": 18,
+    "city": "坂井市",
+    "city_kana": "サカイシ",
+    "town": "春江町随応寺東",
+    "town_kana": "ハルエチョウズイオウジヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0421": {
     "postcode": "9190421",
     "prefecture": "福井県",

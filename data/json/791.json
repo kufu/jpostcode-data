@@ -428,6 +428,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0206": {
+    "postcode": "7910206",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "prefecture_code": 38,
+    "city": "東温市",
+    "city_kana": "トウオンシ",
+    "town": "志津川南",
+    "town_kana": "シツカワミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0211": {
     "postcode": "7910211",
     "prefecture": "愛媛県",
@@ -5134,8 +5147,8 @@
     "town": "高岡町",
     "town_kana": "タカオカマチ",
     "street": "１５１",
-    "office_name": "コマツ愛媛　（株）",
-    "office_name_kana": "コマツエヒメ カブシキガイシヤ"
+    "office_name": "コマツカスタマーサポート　株式会社",
+    "office_name_kana": "コマツカスタマ-サポ-ト カブシキガイシヤ"
   },
   "8536": {
     "postcode": "7918536",

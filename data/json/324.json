@@ -1728,6 +1728,19 @@
     "office_name": "大日本塗料　株式会社　那須工場",
     "office_name_kana": "ダイニツポントリヨウ カブシキガイシヤ ナスコウジヨウ"
   },
+  "8520": {
+    "postcode": "3248520",
+    "prefecture": "栃木県",
+    "prefecture_kana": "トチギケン",
+    "prefecture_code": 9,
+    "city": "大田原市",
+    "city_kana": "オオタワラシ",
+    "town": "実取",
+    "town_kana": "ミドリ",
+    "street": "７６０番地",
+    "office_name": "株式会社　栃木ニコンプレシジョン",
+    "office_name_kana": "カブシキガイシヤ トチギニコンプレシジヨン"
+  },
   "8540": {
     "postcode": "3248540",
     "prefecture": "栃木県",

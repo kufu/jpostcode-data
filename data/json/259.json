@@ -1340,6 +1340,19 @@
     "office_name": "学校法人　向上学園",
     "office_name_kana": "ガツコウホウジン コウジヨウガクエン"
   },
+  "1186": {
+    "postcode": "2591186",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "伊勢原市",
+    "city_kana": "イセハラシ",
+    "town": "石田",
+    "town_kana": "イシダ",
+    "street": "１００ＭＦＬＰ厚木Ⅱ",
+    "office_name": "アマゾンジャパン伊勢原ＦＣ",
+    "office_name_kana": "アマゾンジヤパンイセハラエフシ-"
+  },
   "1187": {
     "postcode": "2591187",
     "prefecture": "神奈川県",
