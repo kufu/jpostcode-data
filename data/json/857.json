@@ -2300,6 +2300,19 @@
     "office_name": "佐世保工業高等専門学校",
     "office_name_kana": "サセボコウギヨウコウトウセンモンガツコウ"
   },
+  "1194": {
+    "postcode": "8571194",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "prefecture_code": 42,
+    "city": "佐世保市",
+    "city_kana": "サセボシ",
+    "town": "崎辺町",
+    "town_kana": "サキベチョウ",
+    "street": "１１番２",
+    "office_name": "陸上自衛隊　崎辺分屯地",
+    "office_name_kana": "リクジヨウジエイタイ サキベブントンチ"
+  },
   "1195": {
     "postcode": "8571195",
     "prefecture": "長崎県",

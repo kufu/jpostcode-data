@@ -1405,6 +1405,19 @@
     "office_name": "田中貴金属工業　株式会社",
     "office_name_kana": "タナカキキンゾクコウギヨウ (カブ)"
   },
+  "8208": {
+    "postcode": "1038208",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中央区",
+    "city_kana": "チュウオウク",
+    "town": "日本橋茅場町",
+    "town_kana": "ニホンバシカヤバチョウ",
+    "street": "１丁目２番４号",
+    "office_name": "日本電子計算　株式会社",
+    "office_name_kana": "ニホンデンシケイサン カブシキガイシヤ"
+  },
   "8210": {
     "postcode": "1038210",
     "prefecture": "東京都",
@@ -1456,19 +1469,6 @@
     "street": "１１−６日本橋ＴＳビル８Ｆ",
     "office_name": "株式会社　第一成和事務所",
     "office_name_kana": "カブシキガイシヤ ダイイチセイワジムシヨ"
-  },
-  "8217": {
-    "postcode": "1038217",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "日本橋茅場町",
-    "town_kana": "ニホンバシカヤバチョウ",
-    "street": "１丁目８−１",
-    "office_name": "日本電子計算　株式会社",
-    "office_name_kana": "ニホンデンシケイサン カブシキガイシヤ"
   },
   "8218": {
     "postcode": "1038218",

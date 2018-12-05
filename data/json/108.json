@@ -3340,6 +3340,19 @@
     "office_name": "テクノレント　株式会社",
     "office_name_kana": "テクノレント カブシキカイシヤ"
   },
+  "8522": {
+    "postcode": "1088522",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝",
+    "town_kana": "シバ",
+    "street": "５−３６−７三田ベルジュビル２０階",
+    "office_name": "株式会社　ニフコ　東京支社",
+    "office_name_kana": "カブシキガイシヤ ニフコ トウキヨウシシヤ"
+  },
   "8523": {
     "postcode": "1088523",
     "prefecture": "東京都",

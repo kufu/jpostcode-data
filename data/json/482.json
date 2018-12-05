@@ -519,6 +519,19 @@
     "office_name": "カウパック　株式会社",
     "office_name_kana": "カウパツク カブシキガイシヤ"
   },
+  "8660": {
+    "postcode": "4828660",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "岩倉市",
+    "city_kana": "イワクラシ",
+    "town": "八剱町",
+    "town_kana": "ヤツルギチョウ",
+    "street": "井ノ下１−１",
+    "office_name": "株式会社　ゲオ　岩倉流通",
+    "office_name_kana": "カブシキガイシヤ ゲオ イワクラリユウツウ"
+  },
   "8686": {
     "postcode": "4828686",
     "prefecture": "愛知県",
