@@ -1246,5 +1246,18 @@
     "street": "三丁目６番２",
     "office_name": "地方独立行政法人　東金九十九里地域医療センター　東千葉メディカルセンター",
     "office_name_kana": "チホウドクリツギヨウセイホウジン トウガネクジユウクリチイキイリヨウセンタ- ヒガシチバメデイカルセンタ-"
+  },
+  "8701": {
+    "postcode": "2838701",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "東金市",
+    "city_kana": "トウガネシ",
+    "town": "東金",
+    "town_kana": "トウガネ",
+    "street": "１１８７−１",
+    "office_name": "一般社団法人　ＹＡＳＳＡＷＡＶＥ",
+    "office_name_kana": "イツパンシヤダンホウジン ヤツサウエ-ブ"
   }
 }

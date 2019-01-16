@@ -376,6 +376,19 @@
     "office_name": "株式会社　公文教育研究会",
     "office_name_kana": "カブシキガイシヤ クモンキヨウイクケンキユウカイ"
   },
+  "8512": {
+    "postcode": "5328512",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市淀川区",
+    "city_kana": "オオサカシヨドガワク",
+    "town": "田川",
+    "town_kana": "タガワ",
+    "street": "２丁目１番１１号",
+    "office_name": "株式会社　ダイヘン",
+    "office_name_kana": "カブシキカイシヤ ダイヘン"
+  },
   "8514": {
     "postcode": "5328514",
     "prefecture": "大阪府",

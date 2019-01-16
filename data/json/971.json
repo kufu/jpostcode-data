@@ -632,10 +632,10 @@
     "prefecture_code": 7,
     "city": "いわき市",
     "city_kana": "イワキシ",
-    "town": "",
-    "town_kana": "",
-    "street": "いわき都市計画小名浜港背後地震災復興土地区画整理事業地内",
-    "office_name": "イオンモール　いわき小名浜",
-    "office_name_kana": "イオンモ-ル イワキオナハマ"
+    "town": "小名浜",
+    "town_kana": "オナハマ",
+    "street": "字辰巳町７９番地",
+    "office_name": "イオンモールいわき小名浜　イオンモール事務所",
+    "office_name_kana": "イオンモ-ルイワキオナハマ イオンモ-ルジムシヨ"
   }
 }

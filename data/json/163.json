@@ -701,6 +701,19 @@
     "office_name": "株式会社　朝日カルチャーセンター　通信講座",
     "office_name_kana": "カブシキガイシヤ アサヒカルチヤ-センタ- ツウシンコウザ"
   },
+  "0287": {
+    "postcode": "1630287",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "西新宿",
+    "town_kana": "ニシシンジュク",
+    "street": "２−６−１−１６階（新宿郵便局私書箱第１４２号）",
+    "office_name": "司法書士法人　中央事務所",
+    "office_name_kana": "シホウシヨシホウジン チユウオウジムシヨ"
+  },
   "0290": {
     "postcode": "1630290",
     "prefecture": "東京都",

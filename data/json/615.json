@@ -4785,6 +4785,19 @@
     "office_name": "ローム　株式会社",
     "office_name_kana": "ロ-ム カブシキガイシヤ"
   },
+  "8666": {
+    "postcode": "6158666",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "京都市右京区",
+    "city_kana": "キョウトシウキョウク",
+    "town": "西京極中沢町",
+    "town_kana": "ニシキョウゴクナカザワチョウ",
+    "street": "１",
+    "office_name": "明成化学工業　株式会社",
+    "office_name_kana": "メイセイカガクコウギヨウ カブシキガイシヤ"
+  },
   "8686": {
     "postcode": "6158686",
     "prefecture": "京都府",

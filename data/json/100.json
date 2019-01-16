@@ -6402,9 +6402,9 @@
     "prefecture_code": 13,
     "city": "千代田区",
     "city_kana": "チヨダク",
-    "town": "内幸町",
-    "town_kana": "ウチサイワイチョウ",
-    "street": "１−１−６ＮＴＴ日比谷ビル",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "２−３−１大手町プレイスウエストタワー",
     "office_name": "エヌ・ティ・ティ・コミュニケーションズ　株式会社",
     "office_name_kana": "エヌ・テイ・テイ・コミユニケ-シヨンズ カブシキガイシヤ"
   },
@@ -6524,6 +6524,19 @@
     "street": "２丁目３−１",
     "office_name": "三菱商事　株式会社",
     "office_name_kana": "ミツビシシヨウジ カブシキガイシヤ"
+  },
+  "8101": {
+    "postcode": "1008101",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "２丁目３番２号大手町プレイスイーストタワー１１Ｆ",
+    "office_name": "株式会社　クニエ",
+    "office_name_kana": "カブシキカイシヤ クニエ"
   },
   "8102": {
     "postcode": "1008102",
@@ -7711,6 +7724,19 @@
     "street": "１−１２−１新有楽町ビル",
     "office_name": "株式会社　ニコン",
     "office_name_kana": "カブシキガイシヤ ニコン"
+  },
+  "8332": {
+    "postcode": "1008332",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "丸の内",
+    "town_kana": "マルノウチ",
+    "street": "３丁目２番３号丸の内二重橋ビル",
+    "office_name": "三菱重工業　株式会社",
+    "office_name_kana": "ミツビシジユウコウギヨウ カブシキカイシヤ"
   },
   "8338": {
     "postcode": "1008338",

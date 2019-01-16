@@ -2442,6 +2442,19 @@
     "office_name": "株式会社　アタゴ",
     "office_name_kana": "カブシキガイシヤ アタゴ"
   },
+  "8668": {
+    "postcode": "9188668",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "prefecture_code": 18,
+    "city": "福井市",
+    "city_kana": "フクイシ",
+    "town": "毛矢",
+    "town_kana": "ケヤ",
+    "street": "１丁目２−７",
+    "office_name": "広撚　株式会社",
+    "office_name_kana": "ヒロネン カブシキガイシヤ"
+  },
   "8681": {
     "postcode": "9188681",
     "prefecture": "福井県",

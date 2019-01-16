@@ -1626,6 +1626,19 @@
     "office_name": "さぬき市保健福祉事務所　（長尾支所）",
     "office_name_kana": "サヌキシホケンフクシジムシヨ (ナガオシシヨ)"
   },
+  "2395": {
+    "postcode": "7692395",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "prefecture_code": 37,
+    "city": "さぬき市",
+    "city_kana": "サヌキシ",
+    "town": "寒川町石田東",
+    "town_kana": "サンガワマチイシダヒガシ",
+    "street": "甲９３５−１",
+    "office_name": "さぬき市役所　（寒川庁舎）",
+    "office_name_kana": "サヌキシヤクシヨ (サンガワチヨウシヤ)"
+  },
   "2401": {
     "postcode": "7692401",
     "prefecture": "香川県",
@@ -1895,9 +1908,9 @@
     "city_kana": "ヒガシカガワシ",
     "town": "三本松",
     "town_kana": "サンボンマツ",
-    "street": "１１７２",
-    "office_name": "東かがわ市役所　大内庁舎",
-    "office_name_kana": "ヒガシカガワシヤクシヨ オオチチヨウシヤ"
+    "street": "１１７２番地１",
+    "office_name": "ひとの駅さんぼんまつ",
+    "office_name_kana": "ヒトノエキサンボンマツ"
   },
   "2693": {
     "postcode": "7692693",

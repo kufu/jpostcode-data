@@ -389,6 +389,19 @@
     "office_name": "芝浦工業大学中学高等学校",
     "office_name_kana": "シバウラコウギヨウダイガクチユウガクコウトウガツコウ"
   },
+  "8525": {
+    "postcode": "1748525",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "板橋区",
+    "city_kana": "イタバシク",
+    "town": "坂下",
+    "town_kana": "サカシタ",
+    "street": "１−１９−１ＦＸＳＳビル",
+    "office_name": "富士ゼロックスシステムサービス　株式会社",
+    "office_name_kana": "フジゼロツクスシステムサ-ビス カブシキガイシヤ"
+  },
   "8526": {
     "postcode": "1748526",
     "prefecture": "東京都",

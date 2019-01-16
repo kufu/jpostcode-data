@@ -4319,6 +4319,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8511": {
+    "postcode": "0688511",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "岩見沢市",
+    "city_kana": "イワミザワシ",
+    "town": "二条東",
+    "town_kana": "2ジョウヒガシ",
+    "street": "１８丁目１番地",
+    "office_name": "及川産業　株式会社",
+    "office_name_kana": "オイカワサンギヨウ カブシキカイシヤ"
+  },
   "8550": {
     "postcode": "0688550",
     "prefecture": "北海道",

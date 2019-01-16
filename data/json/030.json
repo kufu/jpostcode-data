@@ -2614,11 +2614,11 @@
     "prefecture_code": 2,
     "city": "青森市",
     "city_kana": "アオモリシ",
-    "town": "新町",
-    "town_kana": "シンマチ",
-    "street": "２丁目３−１",
-    "office_name": "青森県　教育庁",
-    "office_name_kana": "アオモリケン キヨウイクチヨウ"
+    "town": "長島",
+    "town_kana": "ナガシマ",
+    "street": "一丁目１番１号",
+    "office_name": "青森県教育庁",
+    "office_name_kana": "アオモリケンキヨウイクチヨウ"
   },
   "8541": {
     "postcode": "0308541",
