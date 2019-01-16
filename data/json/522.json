@@ -2098,6 +2098,19 @@
     "office_name": "日本年金機構　彦根年金事務所",
     "office_name_kana": "ニホンネンキンキコウ ヒコネネンキンジムシヨ"
   },
+  "8543": {
+    "postcode": "5228543",
+    "prefecture": "滋賀県",
+    "prefecture_kana": "シガケン",
+    "prefecture_code": 25,
+    "city": "彦根市",
+    "city_kana": "ヒコネシ",
+    "town": "長曽根南町",
+    "town_kana": "ナガソネミナミチョウ",
+    "street": "４７２番地２",
+    "office_name": "株式会社　パリヤ",
+    "office_name_kana": "カブシキガイシヤ パリヤ"
+  },
   "8585": {
     "postcode": "5228585",
     "prefecture": "滋賀県",

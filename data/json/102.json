@@ -2131,32 +2131,6 @@
     "office_name": "株式会社　セブン・ミールサービス",
     "office_name_kana": "カブシキガイシヤ セブン・ミ-ルサ-ビス"
   },
-  "8427": {
-    "postcode": "1028427",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "二番町",
-    "town_kana": "ニバンチョウ",
-    "street": "８−８",
-    "office_name": "株式会社　オッシュマンズ・ジャパン",
-    "office_name_kana": "カブシキガイシヤ オツシユマンズ・ジヤパン"
-  },
-  "8429": {
-    "postcode": "1028429",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "二番町",
-    "town_kana": "ニバンチョウ",
-    "street": "８−８",
-    "office_name": "株式会社　メリーアン",
-    "office_name_kana": "カブシキガイシヤ メリ-アン"
-  },
   "8430": {
     "postcode": "1028430",
     "prefecture": "東京都",
@@ -2195,19 +2169,6 @@
     "street": "４−５",
     "office_name": "株式会社　セブン・カードサービス",
     "office_name_kana": "カブシキガイシヤ セブン・カ-ドサ-ビス"
-  },
-  "8438": {
-    "postcode": "1028438",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "二番町",
-    "town_kana": "ニバンチョウ",
-    "street": "１２−８ロイヤルビルディング",
-    "office_name": "株式会社　セブン＆アイ出版",
-    "office_name_kana": "カブシキガイシヤ セブンアンドアイシユツパン"
   },
   "8440": {
     "postcode": "1028440",

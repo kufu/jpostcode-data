@@ -58,7 +58,7 @@
     "prefecture_code": 11,
     "city": "桶川市",
     "city_kana": "オケガワシ",
-    "town": "五丁台",
+    "town": "五町台",
     "town_kana": "ゴチョウダイ",
     "street": null,
     "office_name": null,
@@ -216,6 +216,19 @@
     "city_kana": "オケガワシ",
     "town": "西",
     "town_kana": "ニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0018": {
+    "postcode": "3630018",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "桶川市",
+    "city_kana": "オケガワシ",
+    "town": "坂田西",
+    "town_kana": "サカタニシ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

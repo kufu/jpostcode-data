@@ -220,6 +220,19 @@
     "office_name": "航空自衛隊　那覇基地",
     "office_name_kana": "コウクウジエイタイ ナハキチ"
   },
+  "0196": {
+    "postcode": "9010196",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "prefecture_code": 47,
+    "city": "那覇市",
+    "city_kana": "ナハシ",
+    "town": "大嶺",
+    "town_kana": "オオミネ",
+    "street": "２６０番地",
+    "office_name": "ＭＲＯ　Ｊａｐａｎ　株式会社",
+    "office_name_kana": "エムア-ルオ- ジヤパン カブシキガイシヤ"
+  },
   "0200": {
     "postcode": "9010200",
     "prefecture": "沖縄県",
