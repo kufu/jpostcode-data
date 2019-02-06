@@ -649,6 +649,19 @@
     "office_name": "株式会社　セディナ",
     "office_name_kana": "カブシキガイシヤ セデイナ"
   },
+  "8553": {
+    "postcode": "1308553",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "墨田区",
+    "city_kana": "スミダク",
+    "town": "両国",
+    "town_kana": "リョウゴク",
+    "street": "４丁目３０番７号",
+    "office_name": "東京都金属プレス工業健康保険組合",
+    "office_name_kana": "トウキヨウトキンゾクプレスコウギヨウケンコウホケンクミアイ"
+  },
   "8554": {
     "postcode": "1308554",
     "prefecture": "東京都",

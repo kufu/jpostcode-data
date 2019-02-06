@@ -220,6 +220,19 @@
     "office_name": "東京いすゞ自動車　株式会社",
     "office_name_kana": "トウキヨウイスズジドウシヤ カブシキガイシヤ"
   },
+  "8520": {
+    "postcode": "1568520",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "世田谷区",
+    "city_kana": "セタガヤク",
+    "town": "船橋",
+    "town_kana": "フナバシ",
+    "street": "５丁目８番１号",
+    "office_name": "学校法人　恵泉女学園",
+    "office_name_kana": "ガツコウホウジン ケイセンジヨガクエン"
+  },
   "8522": {
     "postcode": "1568522",
     "prefecture": "東京都",

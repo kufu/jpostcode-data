@@ -1494,6 +1494,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0849": {
+    "postcode": "4790849",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "常滑市",
+    "city_kana": "トコナメシ",
+    "town": "虹の丘",
+    "town_kana": "ニジノオカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0851": {
     "postcode": "4790851",
     "prefecture": "愛知県",

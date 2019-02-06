@@ -246,6 +246,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0028": {
+    "postcode": "2520028",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "座間市",
+    "city_kana": "ザマシ",
+    "town": "入谷東",
+    "town_kana": "イリヤヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0100": {
     "postcode": "2520100",
     "prefecture": "神奈川県",
@@ -3131,8 +3144,8 @@
     "town": "鹿沼台",
     "town_kana": "カヌマダイ",
     "street": "１丁目２−１８",
-    "office_name": "株式会社　オリバーツウ・リアルエステート",
-    "office_name_kana": "カブシキガイシヤ オリバ-ツウ・リアルエステ-ト"
+    "office_name": "株式会社　オリバー",
+    "office_name_kana": "カブシキガイシヤ オリバ-"
   },
   "5255": {
     "postcode": "2525255",

@@ -181,6 +181,19 @@
     "office_name": "大正区役所",
     "office_name_kana": "タイシヨウクヤクシヨ"
   },
+  "8511": {
+    "postcode": "5518511",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市大正区",
+    "city_kana": "オオサカシタイショウク",
+    "town": "船町",
+    "town_kana": "フナマチ",
+    "street": "１丁目２−２１（ロジポート大阪大正内）",
+    "office_name": "株式会社　エディオンＬＥＣ近畿",
+    "office_name_kana": "カブシキガイシヤ エデイオンエルイ-シ-キンキ"
+  },
   "8551": {
     "postcode": "5518551",
     "prefecture": "大阪府",

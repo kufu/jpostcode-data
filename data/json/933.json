@@ -2686,6 +2686,19 @@
     "office_name": "北陸コカ・コーラボトリング　株式会社",
     "office_name_kana": "ホクリクコカ・コ-ラボトリング カブシキガイシヤ"
   },
+  "0398": {
+    "postcode": "9330398",
+    "prefecture": "富山県",
+    "prefecture_kana": "トヤマケン",
+    "prefecture_code": 16,
+    "city": "高岡市",
+    "city_kana": "タカオカシ",
+    "town": "内島",
+    "town_kana": "ウチジマ",
+    "street": "３５５０",
+    "office_name": "株式会社　ヒスコムＨＬＣ事業本部",
+    "office_name_kana": "カブシキガイシヤ ヒスコムエイチエルシ-ジギヨウホンブ"
+  },
   "0801": {
     "postcode": "9330801",
     "prefecture": "富山県",
