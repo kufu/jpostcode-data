@@ -155,6 +155,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8422": {
+    "postcode": "1718422",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "豊島区",
+    "city_kana": "トシマク",
+    "town": "南池袋",
+    "town_kana": "ミナミイケブクロ",
+    "street": "２丁目４５−１",
+    "office_name": "豊島区役所",
+    "office_name_kana": "トシマクヤクシヨ"
+  },
   "8501": {
     "postcode": "1718501",
     "prefecture": "東京都",

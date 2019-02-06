@@ -454,6 +454,19 @@
     "office_name": "信越半導体　株式会社　磯部工場",
     "office_name_kana": "シンエツハンドウタイ カブシキガイシヤ イソベコウジヨウ"
   },
+  "0197": {
+    "postcode": "3790197",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "prefecture_code": 10,
+    "city": "安中市",
+    "city_kana": "アンナカシ",
+    "town": "中宿",
+    "town_kana": "ナカジュク",
+    "street": "１４４３番地",
+    "office_name": "東邦亜鉛　株式会社　安中精錬所",
+    "office_name_kana": "トウホウアエン カブシキガイシヤ アンナカセイレンジヨ"
+  },
   "0201": {
     "postcode": "3790201",
     "prefecture": "群馬県",

@@ -4733,34 +4733,19 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "1144": [
-    {
-      "postcode": "8701144",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "田尻グリーンハイツ",
-      "town_kana": "タジリグリーンハイツ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8701144",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "田尻西",
-      "town_kana": "タジリニシ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
+  "1144": {
+    "postcode": "8701144",
+    "prefecture": "大分県",
+    "prefecture_kana": "オオイタケン",
+    "prefecture_code": 44,
+    "city": "大分市",
+    "city_kana": "オオイタシ",
+    "town": "田尻西",
+    "town_kana": "タジリニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1145": {
     "postcode": "8701145",
     "prefecture": "大分県",
@@ -4995,62 +4980,32 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "1164": [
-    {
-      "postcode": "8701164",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "雄城台住宅地",
-      "town_kana": "オギノダイジュウタクチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8701164",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "雄城台中央",
-      "town_kana": "オギノダイチュウオウ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
-  "1165": [
-    {
-      "postcode": "8701165",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "雄城台",
-      "town_kana": "オギノダイ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8701165",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "雄城台団地",
-      "town_kana": "オギノダイダンチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
+  "1164": {
+    "postcode": "8701164",
+    "prefecture": "大分県",
+    "prefecture_kana": "オオイタケン",
+    "prefecture_code": 44,
+    "city": "大分市",
+    "city_kana": "オオイタシ",
+    "town": "雄城台中央",
+    "town_kana": "オギノダイチュウオウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "1165": {
+    "postcode": "8701165",
+    "prefecture": "大分県",
+    "prefecture_kana": "オオイタケン",
+    "prefecture_code": 44,
+    "city": "大分市",
+    "city_kana": "オオイタシ",
+    "town": "雄城台",
+    "town_kana": "オギノダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1166": {
     "postcode": "8701166",
     "prefecture": "大分県",
@@ -5064,34 +5019,19 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "1167": [
-    {
-      "postcode": "8701167",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "上宗方南",
-      "town_kana": "カミムナカタミナミ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8701167",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "二豊団地",
-      "town_kana": "ニホウダンチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
+  "1167": {
+    "postcode": "8701167",
+    "prefecture": "大分県",
+    "prefecture_kana": "オオイタケン",
+    "prefecture_code": 44,
+    "city": "大分市",
+    "city_kana": "オオイタシ",
+    "town": "上宗方南",
+    "town_kana": "カミムナカタミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1168": {
     "postcode": "8701168",
     "prefecture": "大分県",

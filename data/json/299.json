@@ -1026,6 +1026,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0269": {
+    "postcode": "2990269",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "袖ケ浦市",
+    "city_kana": "ソデガウラシ",
+    "town": "袖ケ浦駅前",
+    "town_kana": "ソデガウラエキマエ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0271": {
     "postcode": "2990271",
     "prefecture": "千葉県",

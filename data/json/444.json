@@ -1663,6 +1663,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0317": {
+    "postcode": "4440317",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "西尾市",
+    "city_kana": "ニシオシ",
+    "town": "羽塚西ノ山",
+    "town_kana": "ハツカニシノヤマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0321": {
     "postcode": "4440321",
     "prefecture": "愛知県",

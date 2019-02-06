@@ -595,6 +595,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0039": {
+    "postcode": "4980039",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "弥富市",
+    "city_kana": "ヤトミシ",
+    "town": "大藤町",
+    "town_kana": "オオフジチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0040": {
+    "postcode": "4980040",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "弥富市",
+    "city_kana": "ヤトミシ",
+    "town": "栄南町",
+    "town_kana": "エイナンチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0041": [
     {
       "postcode": "4980041",
@@ -770,6 +796,19 @@
     "city_kana": "ヤトミシ",
     "town": "稲吉",
     "town_kana": "イナヨシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0049": {
+    "postcode": "4980049",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "弥富市",
+    "city_kana": "ヤトミシ",
+    "town": "大縄場町",
+    "town_kana": "オオナワバチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -968,6 +1007,19 @@
       "office_name_kana": null
     }
   ],
+  "0060": {
+    "postcode": "4980060",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "弥富市",
+    "city_kana": "ヤトミシ",
+    "town": "曙",
+    "town_kana": "アケボノ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0061": {
     "postcode": "4980061",
     "prefecture": "愛知県",
@@ -1189,6 +1241,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0810": {
+    "postcode": "4980810",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "prefecture_code": 24,
+    "city": "桑名郡木曽岬町",
+    "city_kana": "クワナグンキソサキチョウ",
+    "town": "川先",
+    "town_kana": "カワサキ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0811": {
     "postcode": "4980811",
     "prefecture": "三重県",
@@ -1341,6 +1406,19 @@
     "city_kana": "クワナグンキソサキチョウ",
     "town": "和富",
     "town_kana": "カズトミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0824": {
+    "postcode": "4980824",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "prefecture_code": 24,
+    "city": "桑名郡木曽岬町",
+    "city_kana": "クワナグンキソサキチョウ",
+    "town": "新輪",
+    "town_kana": "シンワ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

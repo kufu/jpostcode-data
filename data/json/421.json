@@ -77,6 +77,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0107": {
+    "postcode": "4210107",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "静岡市駿河区",
+    "city_kana": "シズオカシスルガク",
+    "town": "向手越",
+    "town_kana": "ムコウテゴシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0111": {
     "postcode": "4210111",
     "prefecture": "静岡県",
