@@ -1676,6 +1676,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0318": {
+    "postcode": "4440318",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "西尾市",
+    "city_kana": "ニシオシ",
+    "town": "矢田",
+    "town_kana": "ヤタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0321": {
     "postcode": "4440321",
     "prefecture": "愛知県",
@@ -1776,6 +1789,19 @@
     "city_kana": "ニシオシ",
     "town": "平坂吉山",
     "town_kana": "ヘイサカヨシヤマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0329": {
+    "postcode": "4440329",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "西尾市",
+    "city_kana": "ニシオシ",
+    "town": "富山",
+    "town_kana": "トミヤマ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

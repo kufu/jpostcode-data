@@ -584,6 +584,19 @@
     "office_name": "株式会社　レイヤーズ・コンサルティング",
     "office_name_kana": "カブシキガイシヤ レイヤ-ズ・コンサルテイング"
   },
+  "8260": {
+    "postcode": "1418260",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "東五反田",
+    "town_kana": "ヒガシゴタンダ",
+    "street": "２−１８−１大崎フォレストビルディング",
+    "office_name": "東洋鋼鈑　株式会社",
+    "office_name_kana": "トウヨウコウハン カブシキガイシヤ"
+  },
   "8411": {
     "postcode": "1418411",
     "prefecture": "東京都",

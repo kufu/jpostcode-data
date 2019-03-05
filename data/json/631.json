@@ -1093,19 +1093,34 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0842": {
-    "postcode": "6310842",
-    "prefecture": "奈良県",
-    "prefecture_kana": "ナラケン",
-    "prefecture_code": 29,
-    "city": "奈良市",
-    "city_kana": "ナラシ",
-    "town": "菅原町",
-    "town_kana": "スガハラチョウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0842": [
+    {
+      "postcode": "6310842",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "prefecture_code": 29,
+      "city": "奈良市",
+      "city_kana": "ナラシ",
+      "town": "菅原町",
+      "town_kana": "スガハラチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6310842",
+      "prefecture": "奈良県",
+      "prefecture_kana": "ナラケン",
+      "prefecture_code": 29,
+      "city": "奈良市",
+      "city_kana": "ナラシ",
+      "town": "菅原東",
+      "town_kana": "スガハラヒガシ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0843": {
     "postcode": "6310843",
     "prefecture": "奈良県",

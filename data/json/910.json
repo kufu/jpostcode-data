@@ -935,15 +935,28 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0131": {
-    "postcode": "9100131",
+  "0125": {
+    "postcode": "9100125",
     "prefecture": "福井県",
     "prefecture_kana": "フクイケン",
     "prefecture_code": 18,
     "city": "福井市",
     "city_kana": "フクイシ",
-    "town": "漆原町",
-    "town_kana": "ウルシハラチョウ",
+    "town": "石盛",
+    "town_kana": "イシモリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0126": {
+    "postcode": "9100126",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "prefecture_code": 18,
+    "city": "福井市",
+    "city_kana": "フクイシ",
+    "town": "定正",
+    "town_kana": "サダマサ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -957,19 +970,6 @@
     "city_kana": "フクイシ",
     "town": "河合寄安町",
     "town_kana": "カワイヨリヤスチョウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "0133": {
-    "postcode": "9100133",
-    "prefecture": "福井県",
-    "prefecture_kana": "フクイケン",
-    "prefecture_code": 18,
-    "city": "福井市",
-    "city_kana": "フクイシ",
-    "town": "森田新保町",
-    "town_kana": "モリタシンボチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -1020,8 +1020,21 @@
     "prefecture_code": 18,
     "city": "福井市",
     "city_kana": "フクイシ",
-    "town": "栗森町",
-    "town_kana": "クリモリチョウ",
+    "town": "栗森",
+    "town_kana": "クリモリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0138": {
+    "postcode": "9100138",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "prefecture_code": 18,
+    "city": "福井市",
+    "city_kana": "フクイシ",
+    "town": "東森田",
+    "town_kana": "ヒガシモリダ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -8820,12 +8833,12 @@
   "8530": {
     "postcode": "9108530",
     "prefecture": "福井県",
-    "prefecture_kana": "フクイケン",
-    "prefecture_code": 18,
+    "prefecture_kana": null,
+    "prefecture_code": null,
     "city": "福井市",
-    "city_kana": "フクイシ",
+    "city_kana": null,
     "town": "漆原町",
-    "town_kana": "ウルシハラチョウ",
+    "town_kana": null,
     "street": "１−１",
     "office_name": "株式会社　松浦機械製作所",
     "office_name_kana": "カブシキガイシヤ マツウラキカイセイサクシヨ"

@@ -1494,6 +1494,19 @@
     "office_name": "新宿区役所　総務部　税務課",
     "office_name_kana": "シンジユククヤクシヨ ソウムブ ゼイムカ"
   },
+  "8486": {
+    "postcode": "1608486",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "新宿",
+    "town_kana": "シンジュク",
+    "street": "５−３−１",
+    "office_name": "株式会社　ヨドバシカメラ",
+    "office_name_kana": "カブシキガイシヤ ヨドバシカメラ"
+  },
   "8487": {
     "postcode": "1608487",
     "prefecture": "東京都",

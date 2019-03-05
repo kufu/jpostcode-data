@@ -5877,6 +5877,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3495": {
+    "postcode": "6693495",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "丹波市",
+    "city_kana": "タンバシ",
+    "town": "氷上町石生",
+    "town_kana": "ヒカミチョウイソウ",
+    "street": "２００２番地７",
+    "office_name": "兵庫県立丹波医療センター",
+    "office_name_kana": "ヒヨウゴケンリツタンバイリヨウセンタ-"
+  },
   "3571": {
     "postcode": "6693571",
     "prefecture": "兵庫県",

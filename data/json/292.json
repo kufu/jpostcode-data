@@ -1598,6 +1598,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0808": {
+    "postcode": "2920808",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "木更津市",
+    "city_kana": "キサラヅシ",
+    "town": "千束台",
+    "town_kana": "センゾクダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0811": {
     "postcode": "2920811",
     "prefecture": "千葉県",

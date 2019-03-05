@@ -294,9 +294,9 @@
     "city_kana": "セタガヤク",
     "town": "砧",
     "town_kana": "キヌタ",
-    "street": "１丁目１０−１１",
-    "office_name": "ＮＨＫ　首都圏事務センター",
-    "office_name_kana": "エヌエイチケイ シユトケンジムセンタ-"
+    "street": "１−１０−１１",
+    "office_name": "ＮＨＫ　東京事務センター",
+    "office_name_kana": "エヌエイチケイ トウキヨウジムセンタ-"
   },
   "8535": {
     "postcode": "1578535",

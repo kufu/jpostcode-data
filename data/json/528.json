@@ -428,6 +428,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0040": {
+    "postcode": "5280040",
+    "prefecture": "滋賀県",
+    "prefecture_kana": "シガケン",
+    "prefecture_code": 25,
+    "city": "甲賀市",
+    "city_kana": "コウカシ",
+    "town": "水口町三本柳",
+    "town_kana": "ミナクチチョウサンボンヤナギ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0041": {
     "postcode": "5280041",
     "prefecture": "滋賀県",

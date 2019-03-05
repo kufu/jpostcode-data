@@ -6917,6 +6917,19 @@
     "office_name": "三菱地所　株式会社",
     "office_name_kana": "ミツビシジシヨ カブシキガイシヤ"
   },
+  "8134": {
+    "postcode": "1008134",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "２−６−２日本ビル９Ｆ",
+    "office_name": "株式会社　ベネフィット・ワン",
+    "office_name_kana": "カブシキガイシヤ ベネフイツト・ワン"
+  },
   "8135": {
     "postcode": "1008135",
     "prefecture": "東京都",
@@ -7033,6 +7046,19 @@
     "street": "１丁目７番１号読売新聞ビル",
     "office_name": "株式会社　中央公論新社",
     "office_name_kana": "カブシキガイシヤ チユウオウコウロンシンシヤ"
+  },
+  "8154": {
+    "postcode": "1008154",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "２−３−２大手町プレイスイーストタワー１０階",
+    "office_name": "三愛石油　株式会社",
+    "office_name_kana": "サンアイセキユ カブシキガイシヤ"
   },
   "8158": {
     "postcode": "1008158",
@@ -7737,6 +7763,19 @@
     "street": "３丁目２番３号丸の内二重橋ビル",
     "office_name": "三菱重工業　株式会社",
     "office_name_kana": "ミツビシジユウコウギヨウ カブシキカイシヤ"
+  },
+  "8333": {
+    "postcode": "1008333",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "丸の内",
+    "town_kana": "マルノウチ",
+    "street": "３−２−３丸の内二重橋ビルディング２０階",
+    "office_name": "ＥＬＣジャパン　株式会社",
+    "office_name_kana": "イ-エルシ-ジヤパン カブシキガイシヤ"
   },
   "8338": {
     "postcode": "1008338",
@@ -8674,60 +8713,6 @@
     "office_name": "株式会社　かんぽ生命保険",
     "office_name_kana": "カブシキガイシヤ カンポセイメイホケン"
   },
-  "8798": [
-    {
-      "postcode": "1008798",
-      "prefecture": "東京都",
-      "prefecture_kana": "トウキョウト",
-      "prefecture_code": 13,
-      "city": "千代田区",
-      "city_kana": "チヨダク",
-      "town": "霞が関",
-      "town_kana": "カスミガセキ",
-      "street": "１丁目３−２",
-      "office_name": "株式会社　ゆうちょ銀行",
-      "office_name_kana": "カブシキカイシヤ ユウチヨギンコウ"
-    },
-    {
-      "postcode": "1008798",
-      "prefecture": "東京都",
-      "prefecture_kana": "トウキョウト",
-      "prefecture_code": 13,
-      "city": "千代田区",
-      "city_kana": "チヨダク",
-      "town": "霞が関",
-      "town_kana": "カスミガセキ",
-      "street": "１丁目３−２",
-      "office_name": "株式会社　かんぽ生命",
-      "office_name_kana": "カブシキガイシヤ カンポセイメイ"
-    },
-    {
-      "postcode": "1008798",
-      "prefecture": "東京都",
-      "prefecture_kana": "トウキョウト",
-      "prefecture_code": 13,
-      "city": "千代田区",
-      "city_kana": "チヨダク",
-      "town": "霞が関",
-      "town_kana": "カスミガセキ",
-      "street": "１丁目３−２",
-      "office_name": "日本郵政　株式会社",
-      "office_name_kana": "ニツポンユウセイ カブシキガイシヤ"
-    },
-    {
-      "postcode": "1008798",
-      "prefecture": "東京都",
-      "prefecture_kana": "トウキョウト",
-      "prefecture_code": 13,
-      "city": "千代田区",
-      "city_kana": "チヨダク",
-      "town": "霞が関",
-      "town_kana": "カスミガセキ",
-      "street": "１丁目３−２",
-      "office_name": "日本郵便　株式会社　本社",
-      "office_name_kana": "ニホンユウビン カブシキガイシヤ ホンシヤ"
-    }
-  ],
   "8901": {
     "postcode": "1008901",
     "prefecture": "東京都",
