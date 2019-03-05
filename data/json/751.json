@@ -1103,5 +1103,18 @@
     "street": "２丁目１−１",
     "office_name": "下関市立大学",
     "office_name_kana": "シモノセキシリツダイガク"
+  },
+  "8630": {
+    "postcode": "7518630",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
+    "city": "下関市",
+    "city_kana": "シモノセキシ",
+    "town": "一の宮卸本町",
+    "town_kana": "イチノミヤオロシホンマチ",
+    "street": "２番３号",
+    "office_name": "株式会社　毎日メディアサービス山口",
+    "office_name_kana": "カブシキガイシヤ マイニチメデイアサ-ビスヤマグチ"
   }
 }

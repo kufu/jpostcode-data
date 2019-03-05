@@ -623,6 +623,19 @@
     "office_name": "新日鐵住金ステンレス　株式会社　製造本部光製造所",
     "office_name_kana": "シンニツテツスミキンステンレス カブシキガイシヤ セイゾウホンブヒカリセイゾウシヨ"
   },
+  "8561": {
+    "postcode": "7438561",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
+    "city": "光市",
+    "city_kana": "ヒカリシ",
+    "town": "光ケ丘",
+    "town_kana": "ヒカリガオカ",
+    "street": "６番１号",
+    "office_name": "光市立光総合病院",
+    "office_name_kana": "ヒカリシリツヒカリソウゴウビヨウイン"
+  },
   "8577": {
     "postcode": "7438577",
     "prefecture": "山口県",

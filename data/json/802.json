@@ -1639,6 +1639,19 @@
     "office_name": "北九州市総合保健福祉センター",
     "office_name_kana": "キタキユウシユウシソウゴウホケンフクシセンタ-"
   },
+  "8561": {
+    "postcode": "8028561",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "北九州市小倉北区",
+    "city_kana": "キタキュウシュウシコクラキタク",
+    "town": "馬借",
+    "town_kana": "バシャク",
+    "street": "二丁目１番１号",
+    "office_name": "北九州市立医療センター",
+    "office_name_kana": "キタキユウシユウシリツイリヨウセンタ-"
+  },
   "8566": {
     "postcode": "8028566",
     "prefecture": "福岡県",

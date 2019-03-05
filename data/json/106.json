@@ -2001,6 +2001,45 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "6241": {
+    "postcode": "1066241",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "六本木住友不動産六本木グランドタワー　４１階",
+    "town_kana": "ロッポンギスミトモフドウサンロッポンギグランドタワー41カイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "6242": {
+    "postcode": "1066242",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "六本木住友不動産六本木グランドタワー　４２階",
+    "town_kana": "ロッポンギスミトモフドウサンロッポンギグランドタワー42カイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "6243": {
+    "postcode": "1066243",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "六本木住友不動産六本木グランドタワー　４３階",
+    "town_kana": "ロッポンギスミトモフドウサンロッポンギグランドタワー43カイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "6290": {
     "postcode": "1066290",
     "prefecture": "東京都",

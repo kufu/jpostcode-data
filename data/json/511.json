@@ -2538,6 +2538,19 @@
     "office_name": "いなべ市役所　北勢庁舎",
     "office_name_kana": "イナベシヤクシヨ ホクセイチヨウシヤ"
   },
+  "0498": {
+    "postcode": "5110498",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "prefecture_code": 24,
+    "city": "いなべ市",
+    "city_kana": "イナベシ",
+    "town": "北勢町阿下喜",
+    "town_kana": "ホクセイチョウアゲキ",
+    "street": "３１番地",
+    "office_name": "いなべ市役所",
+    "office_name_kana": "イナベシヤクシヨ"
+  },
   "0501": {
     "postcode": "5110501",
     "prefecture": "三重県",
