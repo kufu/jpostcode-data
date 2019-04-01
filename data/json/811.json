@@ -1585,6 +1585,19 @@
     "office_name": "国立病院九州がんセンター",
     "office_name_kana": "コクリツビヨウインキユウシユウガンセンタ-"
   },
+  "1396": {
+    "postcode": "8111396",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "福岡市南区",
+    "city_kana": "フクオカシミナミク",
+    "town": "花畑",
+    "town_kana": "ハナハタ",
+    "street": "４丁目７−１福岡県警察本部福岡自動車運転免許試験場内",
+    "office_name": "自動車安全運転センター　福岡県事務所",
+    "office_name_kana": "ジドウシヤアンゼンウンテンセンタ- フクオカケンジムシヨ"
+  },
   "2100": [
     {
       "postcode": "8112100",

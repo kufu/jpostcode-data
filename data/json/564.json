@@ -727,6 +727,19 @@
     "office_name": "株式会社　日本創造教育研究所",
     "office_name_kana": "カブシキガイシヤ ニホンソウゾウキヨウイクケンキユウシヨ"
   },
+  "8565": {
+    "postcode": "5648565",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "吹田市",
+    "city_kana": "スイタシ",
+    "town": "岸部新町",
+    "town_kana": "キシベシンマチ",
+    "street": "６番１号",
+    "office_name": "国立研究開発法人　国立循環器病研究センター",
+    "office_name_kana": "コクリツケンキユウカイハツホウジン コクリツジユンカンキビヨウケンキユウセンタ-"
+  },
   "8567": {
     "postcode": "5648567",
     "prefecture": "大阪府",

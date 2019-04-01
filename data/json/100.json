@@ -6675,9 +6675,9 @@
     "prefecture_code": 13,
     "city": "千代田区",
     "city_kana": "チヨダク",
-    "town": "大手町",
-    "town_kana": "オオテマチ",
-    "street": "１丁目３−２",
+    "town": "丸の内",
+    "town_kana": "マルノウチ",
+    "street": "３丁目２番３号丸の内二重橋ビル２２階",
     "office_name": "三菱マテリアル　株式会社",
     "office_name_kana": "ミツビシマテリアル カブシキガイシヤ"
   },
@@ -8049,19 +8049,6 @@
     "street": "１丁目９−３",
     "office_name": "株式会社　ニッポン放送",
     "office_name_kana": "カブシキガイシヤ ニツポンホウソウ"
-  },
-  "8440": {
-    "postcode": "1008440",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "有楽町",
-    "town_kana": "ユウラクチョウ",
-    "street": "１丁目１−２",
-    "office_name": "旭化成工業　株式会社",
-    "office_name_kana": "アサヒカセイコウギヨウ カブシキガイシヤ"
   },
   "8444": {
     "postcode": "1008444",

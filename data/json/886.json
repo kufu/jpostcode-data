@@ -220,34 +220,6 @@
     "office_name": "小林市　須木庁舎",
     "office_name_kana": "コバヤシシ スキチヨウシヤ"
   },
-  "0203": [
-    {
-      "postcode": "8860203",
-      "prefecture": "宮崎県",
-      "prefecture_kana": "ミヤザキケン",
-      "prefecture_code": 45,
-      "city": "東諸県郡綾町",
-      "city_kana": "ヒガシモロカタグンアヤチョウ",
-      "town": "南俣",
-      "town_kana": "ミナミマタ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8860203",
-      "prefecture": "宮崎県",
-      "prefecture_kana": "ミヤザキケン",
-      "prefecture_code": 45,
-      "city": "東諸県郡綾町",
-      "city_kana": "ヒガシモロカタグンアヤチョウ",
-      "town": "南俣釜牟田",
-      "town_kana": "ミナミマタカマムタ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
   "0211": {
     "postcode": "8860211",
     "prefecture": "宮崎県",

@@ -2560,6 +2560,19 @@
     "office_name": "マルハニチロ　株式会社",
     "office_name_kana": "マルハニチロ カブシキガイシヤ"
   },
+  "8610": {
+    "postcode": "1358610",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "福住",
+    "town_kana": "フクズミ",
+    "street": "２−４−３",
+    "office_name": "セイコータイムシステム　株式会社",
+    "office_name_kana": "セイコ-タイムシステム カブシキガイシヤ"
+  },
   "8611": {
     "postcode": "1358611",
     "prefecture": "東京都",

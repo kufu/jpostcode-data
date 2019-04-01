@@ -1883,5 +1883,18 @@
     "street": "２丁目１１番１号大崎ウィズタワー（大崎郵便局私書箱第１２号）",
     "office_name": "ネオファースト生命保険　株式会社",
     "office_name_kana": "ネオフア-ストセイメイホケン カブシキガイシヤ"
+  },
+  "8924": {
+    "postcode": "1418924",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "西五反田",
+    "town_kana": "ニシゴタンダ",
+    "street": "２−２０−４",
+    "office_name": "パーク２４　株式会社",
+    "office_name_kana": "パ-クニジユウヨン カブシキガイシヤ"
   }
 }

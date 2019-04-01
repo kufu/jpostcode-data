@@ -493,6 +493,19 @@
     "office_name": "ミサワホーム西関東　（株）",
     "office_name_kana": "ミサワホ-ムニシカントウ (カブ)"
   },
+  "8511": {
+    "postcode": "3388511",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市中央区",
+    "city_kana": "サイタマシチュウオウク",
+    "town": "上落合",
+    "town_kana": "カミオチアイ",
+    "street": "８−３−３２",
+    "office_name": "株式会社　島忠",
+    "office_name_kana": "カブシキガイシヤ シマチユウ"
+  },
   "8512": {
     "postcode": "3388512",
     "prefecture": "埼玉県",

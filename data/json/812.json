@@ -1234,6 +1234,19 @@
     "office_name": "福岡商工会議所",
     "office_name_kana": "フクオカシヨウコウカイギシヨ"
   },
+  "8506": {
+    "postcode": "8128506",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "福岡市博多区",
+    "city_kana": "フクオカシハカタク",
+    "town": "榎田",
+    "town_kana": "エノキダ",
+    "street": "１−７−１７",
+    "office_name": "株式会社　毎日メディアサービス",
+    "office_name_kana": "カブシキガイシヤ マイニチメデイアサ-ビス"
+  },
   "8507": {
     "postcode": "8128507",
     "prefecture": "福岡県",

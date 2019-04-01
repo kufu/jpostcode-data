@@ -2755,6 +2755,19 @@
     "office_name": "株式会社　ヒノックス",
     "office_name_kana": "カブシキガイシヤ ヒノツクス"
   },
+  "8580": {
+    "postcode": "2908580",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "市原市",
+    "city_kana": "イチハラシ",
+    "town": "八幡海岸通",
+    "town_kana": "ヤワタカイガンドオリ",
+    "street": "３番地",
+    "office_name": "宮地エンジニアリング　株式会社",
+    "office_name_kana": "ミヤジエンジニアリング カブシキガイシヤ"
+  },
   "8585": {
     "postcode": "2908585",
     "prefecture": "千葉県",

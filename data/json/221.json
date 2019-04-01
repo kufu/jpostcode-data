@@ -1312,6 +1312,19 @@
     "office_name": "東邦電気　株式会社",
     "office_name_kana": "トウホウデンキ カブシキガイシヤ"
   },
+  "8718": {
+    "postcode": "2218718",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市神奈川区",
+    "city_kana": "ヨコハマシカナガワク",
+    "town": "片倉",
+    "town_kana": "カタクラ",
+    "street": "２−１−８",
+    "office_name": "一般社団法人　日本自動車連盟　神奈川支部",
+    "office_name_kana": "イツパンシヤダンホウジン ニホンジドウシヤレンメイ カナガワシブ"
+  },
   "8741": {
     "postcode": "2218741",
     "prefecture": "神奈川県",
