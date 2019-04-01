@@ -1715,6 +1715,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0829": {
+    "postcode": "9650829",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "会津若松市",
+    "city_kana": "アイヅワカマツシ",
+    "town": "門田町根岸東",
+    "town_kana": "モンデンマチネギシヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0830": {
     "postcode": "9650830",
     "prefecture": "福島県",

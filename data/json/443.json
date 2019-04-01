@@ -636,6 +636,19 @@
     "office_name": "カネキ水産　株式会社",
     "office_name_kana": "カネキスイサン カブシキガイシヤ"
   },
+  "8505": {
+    "postcode": "4438505",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "蒲郡市",
+    "city_kana": "ガマゴオリシ",
+    "town": "港町",
+    "town_kana": "ミナトマチ",
+    "street": "１８番２３号",
+    "office_name": "蒲郡商工会議所",
+    "office_name_kana": "ガマゴオリシヨウコウカイギシヨ"
+  },
   "8555": {
     "postcode": "4438555",
     "prefecture": "愛知県",

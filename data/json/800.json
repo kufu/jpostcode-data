@@ -1585,6 +1585,19 @@
     "office_name": "サニーサイドモール　小倉",
     "office_name_kana": "サニ-サイドモ-ル コクラ"
   },
+  "0286": {
+    "postcode": "8000286",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "北九州市小倉南区",
+    "city_kana": "キタキュウシュウシコクラミナミク",
+    "town": "葛原",
+    "town_kana": "クズハラ",
+    "street": "５丁目３−３",
+    "office_name": "サンデー北九州",
+    "office_name_kana": "サンデ-キタキユウシユウ"
+  },
   "0288": {
     "postcode": "8000288",
     "prefecture": "福岡県",

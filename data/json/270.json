@@ -597,6 +597,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0119": {
+    "postcode": "2700119",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "流山市",
+    "city_kana": "ナガレヤマシ",
+    "town": "おおたかの森北",
+    "town_kana": "オオタカノモリキタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0121": {
     "postcode": "2700121",
     "prefecture": "千葉県",
@@ -688,6 +701,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0128": {
+    "postcode": "2700128",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "流山市",
+    "city_kana": "ナガレヤマシ",
+    "town": "おおたかの森西",
+    "town_kana": "オオタカノモリニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0131": {
     "postcode": "2700131",
     "prefecture": "千葉県",
@@ -775,6 +801,32 @@
     "city_kana": "ナガレヤマシ",
     "town": "市野谷",
     "town_kana": "イチノヤ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0138": {
+    "postcode": "2700138",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "流山市",
+    "city_kana": "ナガレヤマシ",
+    "town": "おおたかの森東",
+    "town_kana": "オオタカノモリヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0139": {
+    "postcode": "2700139",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "流山市",
+    "city_kana": "ナガレヤマシ",
+    "town": "おおたかの森南",
+    "town_kana": "オオタカノモリミナミ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

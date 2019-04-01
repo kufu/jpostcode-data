@@ -2261,19 +2261,6 @@
     "office_name": "東日本興業　株式会社",
     "office_name_kana": "ヒガシニホンコウギヨウ カブシキガイシヤ"
   },
-  "8535": {
-    "postcode": "9808535",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市青葉区",
-    "city_kana": "センダイシアオバク",
-    "town": "一番町",
-    "town_kana": "イチバンチョウ",
-    "street": "２丁目４−１仙台興和ビル３Ｆ",
-    "office_name": "株式会社　大京アステージ　東北支店",
-    "office_name_kana": "カブシキガイシヤ ダイキヨウアステ-ジ トウホクシテン"
-  },
   "8543": {
     "postcode": "9808543",
     "prefecture": "宮城県",
@@ -2791,8 +2778,8 @@
     "town": "片平",
     "town_kana": "カタヒラ",
     "street": "１丁目２−３２",
-    "office_name": "株式会社　間組　東北支店",
-    "office_name_kana": "カブシキガイシヤ ハザマグミ トウホクシテン"
+    "office_name": "株式会社　安藤・間　東北支店",
+    "office_name_kana": "カブシキガイシヤ アンドウ ハザマ トウホクシテン"
   },
   "8650": {
     "postcode": "9808650",

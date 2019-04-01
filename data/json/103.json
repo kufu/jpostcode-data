@@ -1477,11 +1477,11 @@
     "prefecture_code": 13,
     "city": "中央区",
     "city_kana": "チュウオウク",
-    "town": "日本橋茅場町",
-    "town_kana": "ニホンバシカヤバチョウ",
-    "street": "２丁目１２−７",
-    "office_name": "高島屋スペースクリエイツ　（株）",
-    "office_name_kana": "タカシマヤスペ-スクリエイツ (カ)"
+    "town": "日本橋",
+    "town_kana": "ニホンバシ",
+    "street": "２丁目１２番１０号",
+    "office_name": "高島屋スペースクリエイツ　株式会社",
+    "office_name_kana": "タカシマヤスペ-スクリエイツ カブシキガイシヤ"
   },
   "8221": {
     "postcode": "1038221",

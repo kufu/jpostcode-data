@@ -1509,6 +1509,19 @@
     "office_name": "東北電機製造　株式会社",
     "office_name_kana": "トウホクデンキセイゾウ カブシキガイシヤ"
   },
+  "8537": {
+    "postcode": "9858537",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "多賀城市",
+    "city_kana": "タガジョウシ",
+    "town": "中央",
+    "town_kana": "チュウオウ",
+    "street": "１丁目１３−１",
+    "office_name": "東北学院大学　多賀城キャンパス",
+    "office_name_kana": "トウホクガクインダイガク タガジヨウキヤンパス"
+  },
   "8538": {
     "postcode": "9858538",
     "prefecture": "宮城県",

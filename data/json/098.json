@@ -2577,19 +2577,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "2951": {
-    "postcode": "0982951",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "天塩郡天塩町",
-    "city_kana": "テシオグンテシオチョウ",
-    "town": "下コクネップ",
-    "town_kana": "シモコクネップ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "3131": {
     "postcode": "0983131",
     "prefecture": "北海道",
@@ -2670,6 +2657,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3136": {
+    "postcode": "0983136",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "天塩郡天塩町",
+    "city_kana": "テシオグンテシオチョウ",
+    "town": "下コクネップ",
+    "town_kana": "シモコクネップ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3141": {
     "postcode": "0983141",
     "prefecture": "北海道",
@@ -2718,19 +2718,6 @@
     "city_kana": "テシオグンテシオチョウ",
     "town": "男能富",
     "town_kana": "ダンノップ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "3151": {
-    "postcode": "0983151",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "天塩郡幌延町",
-    "city_kana": "テシオグンホロノベチョウ",
-    "town": "雄興",
-    "town_kana": "ユウコウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -3030,6 +3017,19 @@
     "city_kana": "テシオグンホロノベチョウ",
     "town": "下沼",
     "town_kana": "シモヌマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "3251": {
+    "postcode": "0983251",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "天塩郡幌延町",
+    "city_kana": "テシオグンホロノベチョウ",
+    "town": "雄興",
+    "town_kana": "ユウコウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

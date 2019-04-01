@@ -636,6 +636,19 @@
     "office_name": "新村印刷　株式会社",
     "office_name_kana": "ニイムラインサツ カブシキガイシヤ"
   },
+  "8119": {
+    "postcode": "1028119",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "麹町",
+    "town_kana": "コウジマチ",
+    "street": "１−６−２アーバンネット麹町ビル",
+    "office_name": "一般財団法人　全国消防協会",
+    "office_name_kana": "イツパンザイダンホウジン ゼンコクシヨウボウキヨウカイ"
+  },
   "8120": {
     "postcode": "1028120",
     "prefecture": "東京都",
@@ -2195,19 +2208,6 @@
     "street": "２丁目１７−１",
     "office_name": "法政大学　通信教育部",
     "office_name_kana": "ホウセイダイガク ツウシンキヨウイクブ"
-  },
-  "8447": {
-    "postcode": "1028447",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "四番町",
-    "town_kana": "ヨンバンチョウ",
-    "street": "２番地１２",
-    "office_name": "東洋鋼鈑　株式会社",
-    "office_name_kana": "トウヨウコウハン カブシキガイシヤ"
   },
   "8450": {
     "postcode": "1028450",

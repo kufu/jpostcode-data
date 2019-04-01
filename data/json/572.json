@@ -2027,6 +2027,19 @@
     "office_name": "日本科学冶金　株式会社",
     "office_name_kana": "ニホンカガクヤキン カブシキガイシヤ"
   },
+  "8566": {
+    "postcode": "5728566",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "寝屋川市",
+    "city_kana": "ネヤガワシ",
+    "town": "池田西町",
+    "town_kana": "イケダニシマチ",
+    "street": "２４番５号",
+    "office_name": "寝屋川市立池の里市民交流センター",
+    "office_name_kana": "ネヤガワシリツイケノサトシミンコウリユウセンタ-"
+  },
   "8567": {
     "postcode": "5728567",
     "prefecture": "大阪府",
