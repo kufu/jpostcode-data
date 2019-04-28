@@ -1600,19 +1600,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "8501": {
-    "postcode": "9518501",
-    "prefecture": "新潟県",
-    "prefecture_kana": "ニイガタケン",
-    "prefecture_code": 15,
-    "city": "新潟市中央区",
-    "city_kana": "ニイガタシチュウオウク",
-    "town": "川岸町",
-    "town_kana": "カワギシチョウ",
-    "street": "１丁目３８番地３",
-    "office_name": "土地改良会館",
-    "office_name_kana": "トチカイリヨウカイカン"
-  },
   "8502": {
     "postcode": "9518502",
     "prefecture": "新潟県",
@@ -1743,19 +1730,6 @@
     "office_name": "新潟大学　歯学部・歯学部附属病院",
     "office_name_kana": "ニイガタダイガク シガクブ・シガクブフゾクビヨウイン"
   },
-  "8515": {
-    "postcode": "9518515",
-    "prefecture": "新潟県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
-    "city": "新潟市中央区",
-    "city_kana": null,
-    "town": "東中通１番町",
-    "town_kana": null,
-    "street": "８６",
-    "office_name": "新潟県　学校生活協同組合",
-    "office_name_kana": "ニイガタケン ガツコウセイカツキヨウドウクミアイ"
-  },
   "8518": {
     "postcode": "9518518",
     "prefecture": "新潟県",
@@ -1807,19 +1781,6 @@
     "street": "２２３０−１９",
     "office_name": "株式会社　新潟テレビ２１",
     "office_name_kana": "カブシキガイシヤ ニイガタテレビニジユウイチ"
-  },
-  "8522": {
-    "postcode": "9518522",
-    "prefecture": "新潟県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
-    "city": "新潟市中央区",
-    "city_kana": null,
-    "town": "上大川前通７番町",
-    "town_kana": null,
-    "street": "１２４３",
-    "office_name": "新潟商工会議所　中央支所",
-    "office_name_kana": "ニイガタシヨウコウカイギシヨ チユウオウシシヨ"
   },
   "8528": {
     "postcode": "9518528",
@@ -1925,19 +1886,6 @@
     "office_name": "新潟県立　新潟高等学校　通信制",
     "office_name_kana": "ニイガタケンリツ ニイガタコウトウガツコウ ツウシンセイ"
   },
-  "8545": {
-    "postcode": "9518545",
-    "prefecture": "新潟県",
-    "prefecture_kana": "ニイガタケン",
-    "prefecture_code": 15,
-    "city": "新潟市中央区",
-    "city_kana": "ニイガタシチュウオウク",
-    "town": "白山浦",
-    "town_kana": "ハクサンウラ",
-    "street": "１丁目３３２",
-    "office_name": "国土交通省　北陸地方整備局　（港湾空港庁舎）",
-    "office_name_kana": "コクドコウツウシヨウ ホクリクチホウセイビキヨク (コウワンクウコウチヨウシヤ)"
-  },
   "8550": {
     "postcode": "9518550",
     "prefecture": "新潟県",
@@ -1976,19 +1924,6 @@
     "street": "８６６番地",
     "office_name": "新潟市郵送証明センター",
     "office_name_kana": "ニイガタシユウソウシヨウメイセンタ-"
-  },
-  "8553": {
-    "postcode": "9518553",
-    "prefecture": "新潟県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
-    "city": "新潟市中央区",
-    "city_kana": null,
-    "town": "西堀通６番町",
-    "town_kana": null,
-    "street": "８６６番地",
-    "office_name": "新潟市中央区役所",
-    "office_name_kana": "ニイガタシチユウオウクヤクシヨ"
   },
   "8555": {
     "postcode": "9518555",
@@ -2068,19 +2003,6 @@
     "office_name": "新潟県　信用農業協同組合連合会",
     "office_name_kana": "ニイガタケン シンヨウノウギヨウキヨウドウクミアイレンゴウカイ"
   },
-  "8577": {
-    "postcode": "9518577",
-    "prefecture": "新潟県",
-    "prefecture_kana": "ニイガタケン",
-    "prefecture_code": 15,
-    "city": "新潟市中央区",
-    "city_kana": "ニイガタシチュウオウク",
-    "town": "川岸町",
-    "town_kana": "カワギシチョウ",
-    "street": "１丁目５６",
-    "office_name": "新潟労働基準監督署",
-    "office_name_kana": "ニイガタロウドウキジユンカントクシヨ"
-  },
   "8580": {
     "postcode": "9518580",
     "prefecture": "新潟県",
@@ -2132,19 +2054,6 @@
     "street": "１丁目４４０１",
     "office_name": "北陸瓦斯　株式会社　新潟営業所",
     "office_name_kana": "ホクリクガス カブシキカイシヤ ニイガタエイギヨウシヨ"
-  },
-  "8588": {
-    "postcode": "9518588",
-    "prefecture": "新潟県",
-    "prefecture_kana": "ニイガタケン",
-    "prefecture_code": 15,
-    "city": "新潟市中央区",
-    "city_kana": "ニイガタシチュウオウク",
-    "town": "川岸町",
-    "town_kana": "カワギシチョウ",
-    "street": "１丁目５６",
-    "office_name": "新潟労働基準局・新潟女性少年室",
-    "office_name_kana": "ニイガタロウドウキジユンキヨク・ニイガタジヨセイシヨウネンシツ"
   },
   "8601": {
     "postcode": "9518601",
@@ -2327,19 +2236,6 @@
     "street": "３−１０（新潟中郵便局私書箱第４８号）",
     "office_name": "株式会社　福田組",
     "office_name_kana": "カブシキガイシヤ フクダグミ"
-  },
-  "8676": {
-    "postcode": "9518676",
-    "prefecture": "新潟県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
-    "city": "新潟市中央区",
-    "city_kana": null,
-    "town": "上大川前通９番町",
-    "town_kana": null,
-    "street": "１２６５（新潟中郵便局私書箱第６２号）",
-    "office_name": "株式会社　新潟ケンベイ",
-    "office_name_kana": "カブシキガイシヤ ニイガタケンベイ"
   },
   "8678": {
     "postcode": "9518678",

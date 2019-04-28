@@ -3238,6 +3238,19 @@
     "office_name": "鹿児島工業高等専門学校",
     "office_name_kana": "カゴシマコウギヨウコウトウセンモンガツコウ"
   },
+  "5195": {
+    "postcode": "8995195",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "prefecture_code": 46,
+    "city": "霧島市",
+    "city_kana": "キリシマシ",
+    "town": "隼人町内",
+    "town_kana": "ハヤトチョウウチ",
+    "street": "９９９−３",
+    "office_name": "京セラ　株式会社　鹿児島隼人工場",
+    "office_name_kana": "キヨウセラ カブシキガイシヤ カゴシマハヤトコウジヨウ"
+  },
   "5201": {
     "postcode": "8995201",
     "prefecture": "鹿児島県",

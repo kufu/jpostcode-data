@@ -5153,6 +5153,19 @@
     "office_name": "株式会社　特電",
     "office_name_kana": "カブシキガイシヤ トクデン"
   },
+  "8541": {
+    "postcode": "4108541",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "沼津市",
+    "city_kana": "ヌマヅシ",
+    "town": "東椎路",
+    "town_kana": "ヒガシシイジ",
+    "street": "字東荒３０１番地３",
+    "office_name": "三井ショッピングパークららぽーと沼津",
+    "office_name_kana": "ミツイシヨツピングパ-クララポ-トヌマヅ"
+  },
   "8543": {
     "postcode": "4108543",
     "prefecture": "静岡県",

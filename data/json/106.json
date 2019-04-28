@@ -2131,6 +2131,19 @@
     "office_name": "日本中央競馬会　六本木事務所",
     "office_name_kana": "ニホンチユウオウケイバカイ ロツポンギジムシヨ"
   },
+  "8487": {
+    "postcode": "1068487",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "六本木",
+    "town_kana": "ロッポンギ",
+    "street": "１−５−１７",
+    "office_name": "株式会社　ポニーキャニオン",
+    "office_name_kana": "カブシキガイシヤ ポニ-キヤニオン"
+  },
   "8507": {
     "postcode": "1068507",
     "prefecture": "東京都",
@@ -2912,19 +2925,6 @@
     "street": "２丁目３−４",
     "office_name": "株式会社　東機貿",
     "office_name_kana": "カブシキガイシヤ トウキボウ"
-  },
-  "8661": {
-    "postcode": "1068661",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "元麻布",
-    "town_kana": "モトアザブ",
-    "street": "３丁目８−４",
-    "office_name": "株式会社　ステレオサウンド",
-    "office_name_kana": "カブシキガイシヤ ステレオサウンド"
   },
   "8665": {
     "postcode": "1068665",

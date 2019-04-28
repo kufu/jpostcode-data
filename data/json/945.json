@@ -2614,6 +2614,19 @@
     "office_name": "柏崎総合医療センター",
     "office_name_kana": "カシワザキソウゴウイリヨウセンタ-"
   },
+  "8540": {
+    "postcode": "9458540",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "柏崎市",
+    "city_kana": "カシワザキシ",
+    "town": "駅前",
+    "town_kana": "エキマエ",
+    "street": "１丁目５番４５号",
+    "office_name": "株式会社　植木組",
+    "office_name_kana": "カブシキガイシヤ ウエキグミ"
+  },
   "8555": {
     "postcode": "9458555",
     "prefecture": "新潟県",
