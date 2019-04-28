@@ -181,6 +181,19 @@
     "office_name": "高鍋税務署",
     "office_name_kana": "タカナベゼイムシヨ"
   },
+  "8611": {
+    "postcode": "8848611",
+    "prefecture": "宮崎県",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "児湯郡高鍋町",
+    "city_kana": null,
+    "town": "大字南高鍋",
+    "town_kana": null,
+    "street": "１１７００−１",
+    "office_name": "宮崎キヤノン　株式会社　本社高鍋事業所",
+    "office_name_kana": "ミヤザキキヤノン カブシキガイシヤ ホンシヤタカナベジギヨウシヨ"
+  },
   "8655": {
     "postcode": "8848655",
     "prefecture": "宮崎県",

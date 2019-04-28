@@ -77,6 +77,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0006": {
+    "postcode": "2980006",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "いすみ市",
+    "city_kana": "イスミシ",
+    "town": "大原最上台",
+    "town_kana": "オオハラモガミダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0011": {
     "postcode": "2980011",
     "prefecture": "千葉県",

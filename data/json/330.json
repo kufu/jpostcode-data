@@ -2328,6 +2328,19 @@
     "office_name": "関東経済産業局",
     "office_name_kana": "カントウケイザイサンギヨウキヨク"
   },
+  "9720": {
+    "postcode": "3309720",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市中央区",
+    "city_kana": "サイタマシチュウオウク",
+    "town": "新都心",
+    "town_kana": "シントシン",
+    "street": "１−１−６Ｆ",
+    "office_name": "環境省関東地方環境事務所",
+    "office_name_kana": "カンキヨウシヨウカントウチホウカンキヨウジムシヨ"
+  },
   "9731": {
     "postcode": "3309731",
     "prefecture": "埼玉県",

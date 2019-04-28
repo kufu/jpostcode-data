@@ -259,19 +259,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0033": {
-    "postcode": "8180033",
-    "prefecture": "福岡県",
-    "prefecture_kana": "フクオカケン",
-    "prefecture_code": 40,
-    "city": "筑紫野市",
-    "city_kana": "チクシノシ",
-    "town": "馬市",
-    "town_kana": "ウマイチ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "0034": {
     "postcode": "8180034",
     "prefecture": "福岡県",
@@ -402,19 +389,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0051": {
-    "postcode": "8180051",
-    "prefecture": "福岡県",
-    "prefecture_kana": "フクオカケン",
-    "prefecture_code": 40,
-    "city": "筑紫野市",
-    "city_kana": "チクシノシ",
-    "town": "二日市",
-    "town_kana": "フツカイチ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "0052": {
     "postcode": "8180052",
     "prefecture": "福岡県",
@@ -450,19 +424,6 @@
     "city_kana": "チクシノシ",
     "town": "杉塚",
     "town_kana": "スギヅカ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "0055": {
-    "postcode": "8180055",
-    "prefecture": "福岡県",
-    "prefecture_kana": "フクオカケン",
-    "prefecture_code": 40,
-    "city": "筑紫野市",
-    "city_kana": "チクシノシ",
-    "town": "塔原",
-    "town_kana": "トウノハル",
     "street": null,
     "office_name": null,
     "office_name_kana": null

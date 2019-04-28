@@ -350,6 +350,32 @@
     "office_name": "天龍　株式会社",
     "office_name_kana": "テンリユウ カブシキガイシヤ"
   },
+  "8550": {
+    "postcode": "2758550",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "習志野市",
+    "city_kana": "ナラシノシ",
+    "town": "茜浜",
+    "town_kana": "アカネハマ",
+    "street": "３−６−２",
+    "office_name": "住商グローバル・ロジスティクス　株式会社　茜浜センター",
+    "office_name_kana": "スミシヨウグロ-バル・ロジステイクス カブシキガイシヤ アカネハマセンタ-"
+  },
+  "8551": {
+    "postcode": "2758551",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "習志野市",
+    "city_kana": "ナラシノシ",
+    "town": "東習志野",
+    "town_kana": "ヒガシナラシノ",
+    "street": "６−１８−９プロロジスパーク習志野５内",
+    "office_name": "住商グローバル・ロジスティクス　株式会社　東習志野センター",
+    "office_name_kana": "スミシヨウグロ-バル・ロジステイクス カブシキガイシヤ ヒガシナラシノセンタ-"
+  },
   "8560": {
     "postcode": "2758560",
     "prefecture": "千葉県",

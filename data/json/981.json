@@ -8228,15 +8228,28 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "4307": {
-    "postcode": "9814307",
+  "4308": {
+    "postcode": "9814308",
     "prefecture": "宮城県",
     "prefecture_kana": "ミヤギケン",
     "prefecture_code": 4,
     "city": "加美郡加美町",
     "city_kana": "カミグンカミマチ",
-    "town": "北田",
-    "town_kana": "キタダ",
+    "town": "長町",
+    "town_kana": "ナガマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "4309": {
+    "postcode": "9814309",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "加美郡加美町",
+    "city_kana": "カミグンカミマチ",
+    "town": "蓬田",
+    "town_kana": "ヨモギダ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -8347,6 +8360,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "4318": {
+    "postcode": "9814318",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "加美郡加美町",
+    "city_kana": "カミグンカミマチ",
+    "town": "清水田",
+    "town_kana": "シミズタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "4319": {
+    "postcode": "9814319",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "加美郡加美町",
+    "city_kana": "カミグンカミマチ",
+    "town": "久保田",
+    "town_kana": "クボタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "4321": {
     "postcode": "9814321",
     "prefecture": "宮城県",
@@ -8451,34 +8490,19 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "4329": [
-    {
-      "postcode": "9814329",
-      "prefecture": "宮城県",
-      "prefecture_kana": "ミヤギケン",
-      "prefecture_code": 4,
-      "city": "加美郡加美町",
-      "city_kana": "カミグンカミマチ",
-      "town": "鶴喰",
-      "town_kana": "ツルバミ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "9814329",
-      "prefecture": "宮城県",
-      "prefecture_kana": "ミヤギケン",
-      "prefecture_code": 4,
-      "city": "加美郡加美町",
-      "city_kana": "カミグンカミマチ",
-      "town": "鶴羽美",
-      "town_kana": "ツルバミ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
+  "4329": {
+    "postcode": "9814329",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "加美郡加美町",
+    "city_kana": "カミグンカミマチ",
+    "town": "鶴羽美",
+    "town_kana": "ツルバミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "4331": {
     "postcode": "9814331",
     "prefecture": "宮城県",
@@ -8739,6 +8763,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "4357": {
+    "postcode": "9814357",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "加美郡加美町",
+    "city_kana": "カミグンカミマチ",
+    "town": "城内",
+    "town_kana": "ジョウナイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "4358": {
+    "postcode": "9814358",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "加美郡加美町",
+    "city_kana": "カミグンカミマチ",
+    "town": "西八石",
+    "town_kana": "ニシハッコク",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "4361": {
     "postcode": "9814361",
     "prefecture": "宮城県",
@@ -8904,6 +8954,32 @@
     "city_kana": "カミグンカミマチ",
     "town": "味ケ袋",
     "town_kana": "アジガフクロ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "4376": {
+    "postcode": "9814376",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "加美郡加美町",
+    "city_kana": "カミグンカミマチ",
+    "town": "新北雷屋敷",
+    "town_kana": "シンキタイカズチヤシキ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "4377": {
+    "postcode": "9814377",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "加美郡加美町",
+    "city_kana": "カミグンカミマチ",
+    "town": "新南雷屋敷",
+    "town_kana": "シンミナミイカズチヤシキ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

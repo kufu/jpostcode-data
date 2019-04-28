@@ -508,6 +508,19 @@
     "office_name": "日本防蝕工業　株式会社",
     "office_name_kana": "ニホンボウシヨクコウギヨウ カブシキガイシヤ"
   },
+  "8566": {
+    "postcode": "1448566",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "大田区",
+    "city_kana": "オオタク",
+    "town": "南蒲田",
+    "town_kana": "ミナミカマタ",
+    "street": "２−１６−２テクノポート大樹生命ビル６階",
+    "office_name": "山一電機　株式会社",
+    "office_name_kana": "ヤマイチデンキ カブシキガイシヤ"
+  },
   "8570": {
     "postcode": "1448570",
     "prefecture": "東京都",
@@ -569,7 +582,7 @@
     "city_kana": "オオタク",
     "town": "南蒲田",
     "town_kana": "ミナミカマタ",
-    "street": "２丁目１６番２号テクノポート三井生命ビル５階",
+    "street": "２−１６−２テクノポート大樹生命ビル５階",
     "office_name": "山一電機　株式会社",
     "office_name_kana": "ヤマイチデンキ カブシキガイシヤ"
   },

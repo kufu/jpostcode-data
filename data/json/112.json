@@ -961,6 +961,19 @@
     "office_name": "音羽女子学生会館",
     "office_name_kana": "オトワジヨシガクセイカイカン"
   },
+  "8645": {
+    "postcode": "1128645",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "文京区",
+    "city_kana": "ブンキョウク",
+    "town": "大塚",
+    "town_kana": "オオツカ",
+    "street": "６丁目１１番１２号",
+    "office_name": "酒井工業　株式会社",
+    "office_name_kana": "サカイコウギヨウ カブシキガイシヤ"
+  },
   "8650": {
     "postcode": "1128650",
     "prefecture": "東京都",

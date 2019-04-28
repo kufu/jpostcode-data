@@ -402,6 +402,19 @@
     "office_name": "川口金属工業　株式会社",
     "office_name_kana": "カワグチキンゾクコウギヨウ カブシキガイシヤ"
   },
+  "8503": {
+    "postcode": "3328503",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "川口市",
+    "city_kana": "カワグチシ",
+    "town": "領家",
+    "town_kana": "リョウケ",
+    "street": "５−１４−３５",
+    "office_name": "アマゾン川口ＦＣ",
+    "office_name_kana": "アマゾンカワグチエフシ-"
+  },
   "8511": {
     "postcode": "3328511",
     "prefecture": "埼玉県",

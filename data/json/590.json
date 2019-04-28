@@ -3691,6 +3691,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8501": {
+    "postcode": "5908501",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "堺市堺区",
+    "city_kana": "サカイシサカイク",
+    "town": "南瓦町",
+    "town_kana": "ミナミカワラマチ",
+    "street": "３−１",
+    "office_name": "堺市役所・堺区役所",
+    "office_name_kana": "サカイシヤクシヨ・サカイクヤクシヨ"
+  },
   "8502": {
     "postcode": "5908502",
     "prefecture": "大阪府",
