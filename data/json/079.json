@@ -2994,12 +2994,12 @@
   "8509": {
     "postcode": "0798509",
     "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
+    "prefecture_kana": null,
+    "prefecture_code": null,
     "city": "旭川市",
-    "city_kana": "アサヒカワシ",
-    "town": "永山北２条",
-    "town_kana": "ナガヤマキタ2ジョウ",
+    "city_kana": null,
+    "town": "永山北二条",
+    "town_kana": null,
     "street": "６丁目",
     "office_name": "株式会社　カンディハウス",
     "office_name_kana": "カブシキカイシヤ カンデイハウス"

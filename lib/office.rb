@@ -46,7 +46,6 @@ module Jpostcode
           archives.each do |a|
             CSV.parse(a.get_input_stream.read) do |row|
               h = to_hash(row)
-              h[:town] = '永山北２条' if h[:town] == '永山北二条'
 
               h[:prefecture_kana],
               h[:prefecture_code],
