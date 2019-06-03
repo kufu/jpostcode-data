@@ -2976,6 +2976,19 @@
     "office_name": "株式会社　朝日データサービス",
     "office_name_kana": "カブシキガイシヤ アサヒデ-タサ-ビス"
   },
+  "8572": {
+    "postcode": "1078572",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "北青山",
+    "town_kana": "キタアオヤマ",
+    "street": "３−１−２青山セント・シオンビル５階",
+    "office_name": "株式会社　青二プロダクション",
+    "office_name_kana": "カブシキガイシヤ アオニプロダクシヨン"
+  },
   "8578": {
     "postcode": "1078578",
     "prefecture": "東京都",

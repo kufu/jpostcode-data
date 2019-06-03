@@ -3314,6 +3314,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3609": {
+    "postcode": "0283609",
+    "prefecture": "岩手県",
+    "prefecture_kana": "イワテケン",
+    "prefecture_code": 3,
+    "city": "紫波郡矢巾町",
+    "city_kana": "シワグンヤハバチョウ",
+    "town": "医大通",
+    "town_kana": "イダイドオリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3611": {
     "postcode": "0283611",
     "prefecture": "岩手県",
@@ -3401,6 +3414,19 @@
     "city_kana": "シワグンヤハバチョウ",
     "town": "太田",
     "town_kana": "オオタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "3618": {
+    "postcode": "0283618",
+    "prefecture": "岩手県",
+    "prefecture_kana": "イワテケン",
+    "prefecture_code": 3,
+    "city": "紫波郡矢巾町",
+    "city_kana": "シワグンヤハバチョウ",
+    "town": "駅東",
+    "town_kana": "エキヒガシ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
