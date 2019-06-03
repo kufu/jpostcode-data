@@ -5199,6 +5199,19 @@
     "office_name": "廣済堂",
     "office_name_kana": "コウサイドウ"
   },
+  "8319": {
+    "postcode": "1058319",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "東新橋",
+    "town_kana": "ヒガシシンバシ",
+    "street": "２丁目３番１７号",
+    "office_name": "センクシア　株式会社",
+    "office_name_kana": "センクシア カブシキガイシヤ"
+  },
   "8320": {
     "postcode": "1058320",
     "prefecture": "東京都",
@@ -5575,19 +5588,6 @@
     "street": "１丁目４−５",
     "office_name": "株式会社　トクヤマ",
     "office_name_kana": "カブシキガイシヤ トクヤマ"
-  },
-  "8430": {
-    "postcode": "1058430",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "虎ノ門",
-    "town_kana": "トラノモン",
-    "street": "２−１０−１",
-    "office_name": "伊藤忠エネクス　株式会社",
-    "office_name_kana": "イトウチユウエネクス カブシキガイシヤ"
   },
   "8432": {
     "postcode": "1058432",
@@ -6984,6 +6984,19 @@
     "office_name": "日本郵政　株式会社　宿泊事業部",
     "office_name_kana": "ニツポンユウセイ カブシキガイシヤ シユクハクジギヨウブ"
   },
+  "8620": {
+    "postcode": "1058620",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "浜松町",
+    "town_kana": "ハママツチョウ",
+    "street": "２丁目３番１号日本生命浜松町クレアタワー",
+    "office_name": "資生堂ジャパン　株式会社",
+    "office_name_kana": "シセイドウジヤパン カブシキガイシヤ"
+  },
   "8621": {
     "postcode": "1058621",
     "prefecture": "東京都",
@@ -7063,19 +7076,6 @@
     "street": "１丁目２番１シーバンスＮ館７階",
     "office_name": "株式会社　ＳＵＭＣＯ",
     "office_name_kana": "カブシキカイシヤ サムコ"
-  },
-  "8639": {
-    "postcode": "1058639",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "虎ノ門",
-    "town_kana": "トラノモン",
-    "street": "１−１０−５ＫＤＸ虎ノ門１丁目ビル",
-    "office_name": "株式会社　ＡＤＫクリエイティブ・ワン",
-    "office_name_kana": "カブシキカイシヤ エイデイケイクリエイテイブ・ワン"
   },
   "8640": {
     "postcode": "1058640",

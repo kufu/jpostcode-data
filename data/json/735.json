@@ -363,6 +363,19 @@
     "office_name": "キリンビール　株式会社　中国地区本部",
     "office_name_kana": "キリンビ-ル カブシキガイシヤ チユウゴクチクホンブ"
   },
+  "8511": {
+    "postcode": "7358511",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "安芸郡府中町",
+    "city_kana": "アキグンフチュウチョウ",
+    "town": "大須",
+    "town_kana": "オオス",
+    "street": "４丁目２−１０",
+    "office_name": "株式会社　サンリブ広島地区店舗運営部",
+    "office_name_kana": "カブシキガイシヤ サンリブヒロシマチクテンポウンエイブ"
+  },
   "8555": {
     "postcode": "7358555",
     "prefecture": "広島県",

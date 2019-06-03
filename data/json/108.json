@@ -3288,32 +3288,6 @@
     "office_name": "東京コカコーラボトリング　株式会社",
     "office_name_kana": "トウキヨウコカコ-ラボトリング カブシキガイシヤ"
   },
-  "8515": {
-    "postcode": "1088515",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "芝浦",
-    "town_kana": "シバウラ",
-    "street": "４丁目８−３トヨタアドミニスタ芝浦ビル",
-    "office_name": "ネッツトヨタ東京　株式会社",
-    "office_name_kana": "ネツツトヨタトウキヨウ カブシキカイシヤ"
-  },
-  "8518": {
-    "postcode": "1088518",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "芝浦",
-    "town_kana": "シバウラ",
-    "street": "４−８−３トヨタ東京販売ホールディングス芝浦ビル１１階",
-    "office_name": "トヨタ東京カローラ　株式会社",
-    "office_name_kana": "トヨタトウキヨウカロ-ラ カブシキガイシヤ"
-  },
   "8520": {
     "postcode": "1088520",
     "prefecture": "東京都",
@@ -4129,8 +4103,8 @@
     "city_kana": "ミナトク",
     "town": "芝浦",
     "town_kana": "シバウラ",
-    "street": "４丁目８−３（高輪郵便局私書箱第１３号）",
-    "office_name": "東京トヨペット　株式会社",
-    "office_name_kana": "トウキヨウトヨペツト カブシキガイシヤ"
+    "street": "４丁目８番３号（高輪郵便局私書箱第１３号）",
+    "office_name": "トヨタモビリティ東京　株式会社",
+    "office_name_kana": "トヨタモビリテイトウキヨウ カブシキガイシヤ"
   }
 }

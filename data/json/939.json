@@ -5371,6 +5371,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1110": {
+    "postcode": "9391110",
+    "prefecture": "富山県",
+    "prefecture_kana": "トヤマケン",
+    "prefecture_code": 16,
+    "city": "高岡市",
+    "city_kana": "タカオカシ",
+    "town": "ＩＣパーク",
+    "town_kana": "アイシーパーク",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1111": {
     "postcode": "9391111",
     "prefecture": "富山県",

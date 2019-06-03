@@ -2755,6 +2755,19 @@
     "office_name": "神奈川県　信用保証協会",
     "office_name_kana": "カナガワケン シンヨウホシヨウキヨウカイ"
   },
+  "8559": {
+    "postcode": "2208559",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "高島",
+    "town_kana": "タカシマ",
+    "street": "１−２−１１",
+    "office_name": "（株）　資生堂グローバルイノベーションセンター",
+    "office_name_kana": "カブ シセイドウグロ-バルイノベ-シヨンセンタ-"
+  },
   "8560": {
     "postcode": "2208560",
     "prefecture": "神奈川県",
@@ -3014,6 +3027,19 @@
     "street": "２番地",
     "office_name": "日産自動車　株式会社　横浜工場",
     "office_name_kana": "ニツサンジドウシヤ カブシキガイシヤ ヨコハマコウジヨウ"
+  },
+  "8625": {
+    "postcode": "2208625",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "高島",
+    "town_kana": "タカシマ",
+    "street": "１−２−８",
+    "office_name": "京浜急行電鉄　株式会社",
+    "office_name_kana": "ケイヒンキユウコウデンテツ カブシキガイシヤ"
   },
   "8653": {
     "postcode": "2208653",

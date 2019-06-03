@@ -2131,6 +2131,19 @@
     "office_name": "株式会社　日本交通公社　関西営業本部",
     "office_name_kana": "カブシキガイシヤ ニホンコウツウコウシヤ カンサイエイギヨウホンブ"
   },
+  "8283": {
+    "postcode": "5308283",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市北区",
+    "city_kana": "オオサカシキタク",
+    "town": "梅田",
+    "town_kana": "ウメダ",
+    "street": "３丁目４番５号",
+    "office_name": "毎日新聞　大阪開発　株式会社",
+    "office_name_kana": "マイニチシンブン オオサカカイハツ カブシキガイシヤ"
+  },
   "8287": {
     "postcode": "5308287",
     "prefecture": "大阪府",
