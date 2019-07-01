@@ -1769,6 +1769,19 @@
     "office_name": "国立国際医療センター",
     "office_name_kana": "コクリツコクサイイリヨウセンタ-"
   },
+  "8656": {
+    "postcode": "1628656",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "戸山",
+    "town_kana": "トヤマ",
+    "street": "三丁目２０番１号",
+    "office_name": "学習院女子中・高等科",
+    "office_name_kana": "ガクシユウインジヨシチユウ・コウトウカ"
+  },
   "8666": {
     "postcode": "1628666",
     "prefecture": "東京都",

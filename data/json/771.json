@@ -1425,6 +1425,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0281": {
+    "postcode": "7710281",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "prefecture_code": 36,
+    "city": "板野郡北島町",
+    "city_kana": "イタノグンキタジマチョウ",
+    "town": "高房",
+    "town_kana": "タカボウ",
+    "street": "字居内１−１大鵬薬品工業株式会社北島工場厚生・事務棟",
+    "office_name": "大塚ビジネスサポート　株式会社",
+    "office_name_kana": "オオツカビジネスサポ-ト カブシキカイシヤ"
+  },
   "0282": {
     "postcode": "7710282",
     "prefecture": "徳島県",

@@ -1163,13 +1163,13 @@
     "prefecture": "北海道",
     "prefecture_kana": "ホッカイドウ",
     "prefecture_code": 1,
-    "city": "札幌市中央区",
-    "city_kana": "サッポロシチュウオウク",
-    "town": "大通西",
-    "town_kana": "オオドオリニシ",
-    "street": "７丁目３−１",
+    "city": "札幌市東区",
+    "city_kana": "サッポロシヒガシク",
+    "town": "北七条東",
+    "town_kana": "キタ7ジョウヒガシ",
+    "street": "２丁目１番１号",
     "office_name": "北海道瓦斯　株式会社",
-    "office_name_kana": "ホツカイドウガス カブシキガイシヤ"
+    "office_name_kana": "ホツカイドウガス カブシキカイシヤ"
   },
   "8531": {
     "postcode": "0608531",
@@ -1553,13 +1553,13 @@
     "prefecture": "北海道",
     "prefecture_kana": "ホッカイドウ",
     "prefecture_code": 1,
-    "city": "札幌市中央区",
-    "city_kana": "サッポロシチュウオウク",
-    "town": "北四条東",
-    "town_kana": "キタ4ジョウヒガシ",
-    "street": "５丁目",
-    "office_name": "北海道瓦斯　（株）",
-    "office_name_kana": "ホツカイドウガス カブシキガイシヤ"
+    "city": "札幌市東区",
+    "city_kana": "サッポロシヒガシク",
+    "town": "北七条東",
+    "town_kana": "キタ7ジョウヒガシ",
+    "street": "２丁目１番１号",
+    "office_name": "北海道瓦斯　株式会社",
+    "office_name_kana": "ホツカイドウガス カブシキカイシヤ"
   },
   "8563": {
     "postcode": "0608563",
