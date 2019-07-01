@@ -3587,6 +3587,19 @@
     "office_name": "沖縄県　自動車税事務所",
     "office_name_kana": "オキナワケン ジドウシヤゼイジムシヨ"
   },
+  "2507": {
+    "postcode": "9012507",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "prefecture_code": 47,
+    "city": "浦添市",
+    "city_kana": "ウラソエシ",
+    "town": "西洲",
+    "town_kana": "イリジマ",
+    "street": "三丁目１番地１",
+    "office_name": "サンエー浦添西海岸　パルコ　シティ",
+    "office_name_kana": "サンエ-ウラソエニシカイガン パルコ シテイ"
+  },
   "2510": {
     "postcode": "9012510",
     "prefecture": "沖縄県",

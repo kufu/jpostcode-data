@@ -3706,6 +3706,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1420": {
+    "postcode": "0101420",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "prefecture_code": 5,
+    "city": "秋田市",
+    "city_kana": "アキタシ",
+    "town": "大住南",
+    "town_kana": "オオスミミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1421": {
     "postcode": "0101421",
     "prefecture": "秋田県",

@@ -5708,6 +5708,19 @@
     "office_name": "財団法人　ゆうちょ財団",
     "office_name_kana": "ザイダンホウジン ユウチヨザイダン"
   },
+  "8444": {
+    "postcode": "1058444",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "虎ノ門",
+    "town_kana": "トラノモン",
+    "street": "３丁目５番１号虎ノ門３７森ビル９階",
+    "office_name": "一般社団法人　建設技能人材機構，ＪＡＣ",
+    "office_name_kana": "イツパンシヤダンホウジン ケンセツギノウジンザイキコウ.ジヤツク"
+  },
   "8445": {
     "postcode": "1058445",
     "prefecture": "東京都",
