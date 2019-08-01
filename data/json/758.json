@@ -784,15 +784,15 @@
   "8585": {
     "postcode": "7588585",
     "prefecture": "山口県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
     "city": "萩市",
-    "city_kana": null,
-    "town": "大字椿東",
-    "town_kana": null,
-    "street": "浦田５０００",
-    "office_name": "萩国際大学",
-    "office_name_kana": "ハギコクサイダイガク"
+    "city_kana": "ハギシ",
+    "town": "椿東",
+    "town_kana": "チントウ",
+    "street": "浦田５０００番地",
+    "office_name": "至誠館大学",
+    "office_name_kana": "シセイカンダイガク"
   },
   "8615": {
     "postcode": "7588615",

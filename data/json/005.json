@@ -1013,19 +1013,34 @@
     "office_name": "医療法人　愛全会　愛全病院",
     "office_name_kana": "イリヨウホウジン アイゼンカイ アイゼンビヨウイン"
   },
-  "8543": {
-    "postcode": "0058543",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "札幌市南区",
-    "city_kana": "サッポロシミナミク",
-    "town": "真駒内",
-    "town_kana": "マコマナイ",
-    "street": "１７番地",
-    "office_name": "陸上自衛隊　真駒内駐屯地",
-    "office_name_kana": "リクジヨウジエイタイ マコマナイチユウトンチ"
-  },
+  "8543": [
+    {
+      "postcode": "0058543",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "prefecture_code": 1,
+      "city": "札幌市南区",
+      "city_kana": "サッポロシミナミク",
+      "town": "真駒内",
+      "town_kana": "マコマナイ",
+      "street": "１７番地（自衛隊札幌病院）",
+      "office_name": "自衛隊札幌病院",
+      "office_name_kana": "ジエイタイサツポロビヨウイン"
+    },
+    {
+      "postcode": "0058543",
+      "prefecture": "北海道",
+      "prefecture_kana": "ホッカイドウ",
+      "prefecture_code": 1,
+      "city": "札幌市南区",
+      "city_kana": "サッポロシミナミク",
+      "town": "真駒内",
+      "town_kana": "マコマナイ",
+      "street": "１７番地",
+      "office_name": "陸上自衛隊　真駒内駐屯地",
+      "office_name_kana": "リクジヨウジエイタイ マコマナイチユウトンチ"
+    }
+  ],
   "8555": {
     "postcode": "0058555",
     "prefecture": "北海道",

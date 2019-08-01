@@ -1013,19 +1013,6 @@
     "office_name": "札幌東公共職業安定所",
     "office_name_kana": "サツポロヒガシコウキヨウシヨクギヨウアンテイシヨ"
   },
-  "8610": {
-    "postcode": "0628610",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "札幌市豊平区",
-    "city_kana": "サッポロシトヨヒラク",
-    "town": "平岸一条",
-    "town_kana": "ヒラギシ1ジョウ",
-    "street": "１２丁目",
-    "office_name": "自衛隊札幌病院",
-    "office_name_kana": "ジエイタイサツポロビヨウイン"
-  },
   "8612": {
     "postcode": "0628612",
     "prefecture": "北海道",

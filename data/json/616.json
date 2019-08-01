@@ -5042,5 +5042,18 @@
     "street": "１０",
     "office_name": "東映太秦映画村",
     "office_name_kana": "トウエイウズマサエイガムラ"
+  },
+  "8666": {
+    "postcode": "6168666",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "京都市右京区",
+    "city_kana": "キョウトシウキョウク",
+    "town": "太秦下刑部町",
+    "town_kana": "ウズマサシモケイブチョウ",
+    "street": "１２番地サンサ右京２階",
+    "office_name": "京都市証明郵送センター",
+    "office_name_kana": "キヨウトシシヨウメイユウソウセンタ-"
   }
 }

@@ -3538,15 +3538,28 @@
   "3694": {
     "postcode": "0283694",
     "prefecture": "岩手県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "イワテケン",
+    "prefecture_code": 3,
     "city": "紫波郡矢巾町",
-    "city_kana": null,
-    "town": "大字西徳田",
-    "town_kana": null,
-    "street": "２−１−１",
-    "office_name": "岩手医科大学　矢巾キャンパス",
-    "office_name_kana": "イワテイカダイガク ヤハバキヤンパス"
+    "city_kana": "シワグンヤハバチョウ",
+    "town": "医大通",
+    "town_kana": "イダイドオリ",
+    "street": "一丁目１番１号",
+    "office_name": "学校法人　岩手医科大学",
+    "office_name_kana": "ガツコウホウジン イワテイカダイガク"
+  },
+  "3695": {
+    "postcode": "0283695",
+    "prefecture": "岩手県",
+    "prefecture_kana": "イワテケン",
+    "prefecture_code": 3,
+    "city": "紫波郡矢巾町",
+    "city_kana": "シワグンヤハバチョウ",
+    "town": "医大通",
+    "town_kana": "イダイドオリ",
+    "street": "二丁目１番１号",
+    "office_name": "岩手医科大学　附属病院",
+    "office_name_kana": "イワテイカダイガク フゾクビヨウイン"
   },
   "3697": {
     "postcode": "0283697",
