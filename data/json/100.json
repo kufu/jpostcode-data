@@ -6512,6 +6512,19 @@
     "office_name": "株式会社　産業経済新聞社",
     "office_name_kana": "カブシキガイシヤ サンギヨウケイザイシンブンシヤ"
   },
+  "8080": {
+    "postcode": "1008080",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "１−７−１（読売新聞ビル内）",
+    "office_name": "一般社団法人　読売調査研究機構",
+    "office_name_kana": "イツパンシヤダンホウジン ヨミウリチヨウサケンキユウキコウ"
+  },
   "8086": {
     "postcode": "1008086",
     "prefecture": "東京都",
@@ -7854,19 +7867,6 @@
     "street": "３丁目３−１",
     "office_name": "中村合同特許法律事務所",
     "office_name_kana": "ナカムラゴウドウトツキヨホウリツジムシヨ"
-  },
-  "8366": {
-    "postcode": "1008366",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "丸の内",
-    "town_kana": "マルノウチ",
-    "street": "３丁目４−１",
-    "office_name": "日新製鋼　株式会社",
-    "office_name_kana": "ニツシンセイコウ カブシキガイシヤ"
   },
   "8370": {
     "postcode": "1008370",

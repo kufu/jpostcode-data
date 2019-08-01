@@ -809,6 +809,19 @@
     "office_name": "長野精工　株式会社　金沢工場",
     "office_name_kana": "ナガノセイコウ カブシキガイシヤ カナザワコウジヨウ"
   },
+  "8566": {
+    "postcode": "3918566",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "茅野市",
+    "city_kana": "チノシ",
+    "town": "金沢",
+    "town_kana": "カナザワ",
+    "street": "５１２５番地",
+    "office_name": "株式会社　キッツマイクロフィルター　茅野工場",
+    "office_name_kana": "カブシキガイシヤ キツツマイクロフイルタ- チノコウジヨウ"
+  },
   "8567": {
     "postcode": "3918567",
     "prefecture": "長野県",

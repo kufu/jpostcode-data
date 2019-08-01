@@ -675,6 +675,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0261": {
+    "postcode": "1630261",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "西新宿",
+    "town_kana": "ニシシンジュク",
+    "street": "２丁目６番１号新宿住友ビル１９階",
+    "office_name": "光ビジネスフォーム　株式会社",
+    "office_name_kana": "ヒカリビジネスフオ-ム カブシキガイシヤ"
+  },
   "0268": {
     "postcode": "1630268",
     "prefecture": "東京都",

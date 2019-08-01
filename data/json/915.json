@@ -3091,6 +3091,19 @@
     "office_name": "医療法人　林病院",
     "office_name_kana": "イリヨウホウジン ハヤシビヨウイン"
   },
+  "8520": {
+    "postcode": "9158520",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "prefecture_code": 18,
+    "city": "越前市",
+    "city_kana": "エチゼンシ",
+    "town": "池ノ上町",
+    "town_kana": "イケノカミチョウ",
+    "street": "３８",
+    "office_name": "アイシン・エィ・ダブリュ工業　株式会社",
+    "office_name_kana": "アイシン・エイ・ダブリユコウギヨウ カブシキガイシヤ"
+  },
   "8524": {
     "postcode": "9158524",
     "prefecture": "福井県",
