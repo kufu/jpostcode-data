@@ -844,6 +844,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0082": {
+    "postcode": "5670082",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "茨木市",
+    "city_kana": "イバラキシ",
+    "town": "彩都はなだ",
+    "town_kana": "サイトハナダ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0083": {
+    "postcode": "5670083",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "茨木市",
+    "city_kana": "イバラキシ",
+    "town": "彩都もえぎ",
+    "town_kana": "サイトモエギ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0084": {
     "postcode": "5670084",
     "prefecture": "大阪府",

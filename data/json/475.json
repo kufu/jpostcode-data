@@ -2781,6 +2781,19 @@
     "office_name": "半田公共職業安定所",
     "office_name_kana": "ハンダコウキヨウシヨクギヨウアンテイシヨ"
   },
+  "8505": {
+    "postcode": "4758505",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "半田市",
+    "city_kana": "ハンダシ",
+    "town": "出口町",
+    "town_kana": "デグチチョウ",
+    "street": "一丁目３６番地",
+    "office_name": "愛知県知多県税事務所",
+    "office_name_kana": "アイチケンチタケンゼイジムシヨ"
+  },
   "8510": {
     "postcode": "4758510",
     "prefecture": "愛知県",

@@ -2287,6 +2287,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8240": {
+    "postcode": "4928240",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "稲沢市",
+    "city_kana": "イナザワシ",
+    "town": "島下畑町",
+    "town_kana": "シマシモバタチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8241": {
     "postcode": "4928241",
     "prefecture": "愛知県",
@@ -2393,6 +2406,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8248": {
+    "postcode": "4928248",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "稲沢市",
+    "city_kana": "イナザワシ",
+    "town": "島寺西町",
+    "town_kana": "シマテラニシチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "8249": {
+    "postcode": "4928249",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "稲沢市",
+    "city_kana": "イナザワシ",
+    "town": "島新田町",
+    "town_kana": "シマシンデンチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8251": {
     "postcode": "4928251",
     "prefecture": "愛知県",
@@ -2480,6 +2519,32 @@
     "city_kana": "イナザワシ",
     "town": "奥田島崎町",
     "town_kana": "オクダシマザキチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "8258": {
+    "postcode": "4928258",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "稲沢市",
+    "city_kana": "イナザワシ",
+    "town": "島本郷町",
+    "town_kana": "シマホンゴウチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "8259": {
+    "postcode": "4928259",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "稲沢市",
+    "city_kana": "イナザワシ",
+    "town": "島北浦町",
+    "town_kana": "シマキタウラチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

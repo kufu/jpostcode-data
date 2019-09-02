@@ -3167,5 +3167,18 @@
     "street": "７２２",
     "office_name": "倉吉市役所",
     "office_name_kana": "クラヨシシヤクシヨ"
+  },
+  "8633": {
+    "postcode": "6828633",
+    "prefecture": "鳥取県",
+    "prefecture_kana": "トットリケン",
+    "prefecture_code": 31,
+    "city": "倉吉市",
+    "city_kana": "クラヨシシ",
+    "town": "堺町",
+    "town_kana": "サカエマチ",
+    "street": "２丁目２５３番地１",
+    "office_name": "倉吉市役所　第２庁舎",
+    "office_name_kana": "クラヨシシヤクシヨ ダイニチヨウシヤ"
   }
 }

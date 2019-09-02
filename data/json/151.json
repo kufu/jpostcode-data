@@ -155,6 +155,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8070": {
+    "postcode": "1518070",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "渋谷区",
+    "city_kana": "シブヤク",
+    "town": "代々木",
+    "town_kana": "ヨヨギ",
+    "street": "２丁目１−１",
+    "office_name": "積水ハウス　株式会社",
+    "office_name_kana": "セキスイハウス カブシキガイシヤ"
+  },
   "8401": {
     "postcode": "1518401",
     "prefecture": "東京都",

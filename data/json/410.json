@@ -2561,8 +2561,8 @@
     "town": "御宿",
     "town_kana": "ミシュク",
     "street": "１２００番地",
-    "office_name": "関東自動車工業　株式会社　東富士工場",
-    "office_name_kana": "カントウジドウシヤコウギヨウ カブシキガイシヤ ヒガシフジコウジヨウ"
+    "office_name": "トヨタ自動車東日本　株式会社　東富士工場",
+    "office_name_kana": "トヨタジドウシヤヒガシニホン カブシキガイシヤ ヒガシフジコウジヨウ"
   },
   "1196": {
     "postcode": "4101196",
@@ -2589,6 +2589,19 @@
     "street": "６２０番地の１",
     "office_name": "裾野警察署",
     "office_name_kana": "スソノケイサツシヨ"
+  },
+  "1198": {
+    "postcode": "4101198",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "裾野市",
+    "city_kana": "スソノシ",
+    "town": "御宿",
+    "town_kana": "ミシュク",
+    "street": "１５０１",
+    "office_name": "トヨタ自動車東日本　株式会社　東富士総合センター",
+    "office_name_kana": "トヨタジドウシヤヒガシニホン カブシキガイシヤ ヒガシフジソウゴウセンタ-"
   },
   "1231": {
     "postcode": "4101231",

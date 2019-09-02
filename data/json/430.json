@@ -1704,6 +1704,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8510": {
+    "postcode": "4308510",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "浜松市南区",
+    "city_kana": "ハママツシミナミク",
+    "town": "東町",
+    "town_kana": "ヒガシマチ",
+    "street": "１８７６番地",
+    "office_name": "共和レザー　株式会社",
+    "office_name_kana": "キヨウワレザ- カブシキガイシヤ"
+  },
   "8511": {
     "postcode": "4308511",
     "prefecture": "静岡県",
