@@ -3106,6 +3106,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2306": {
+    "postcode": "9012306",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "prefecture_code": 47,
+    "city": "中頭郡北中城村",
+    "city_kana": "ナカガミグンキタナカグスクソン",
+    "town": "ライカム",
+    "town_kana": "ライカム",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2311": {
     "postcode": "9012311",
     "prefecture": "沖縄県",

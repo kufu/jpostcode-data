@@ -372,7 +372,7 @@
     "city_kana": "オオサカシニシク",
     "town": "立売堀",
     "town_kana": "イタチボリ",
-    "street": "１丁目９番２８番",
+    "street": "１丁目９番２８号",
     "office_name": "サンコーインダストリー　株式会社",
     "office_name_kana": "サンコ-インダストリ- カブシキガイシヤ"
   },
@@ -502,9 +502,9 @@
     "city_kana": "オオサカシニシク",
     "town": "北堀江",
     "town_kana": "キタホリエ",
-    "street": "２丁目２−２５２Ｆ",
-    "office_name": "（株）　オーエムエムジー",
-    "office_name_kana": "(カブ) オ-エムエムジ-"
+    "street": "２丁目２−２５−２Ｆ",
+    "office_name": "株式会社　オーエムエムジー",
+    "office_name_kana": "カブシキカイシヤ オ-エムエムジ-"
   },
   "8580": {
     "postcode": "5508580",

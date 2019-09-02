@@ -3432,6 +3432,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2709": {
+    "postcode": "9792709",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "相馬郡新地町",
+    "city_kana": "ソウマグンシンチマチ",
+    "town": "駅前",
+    "town_kana": "エキマエ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "2711": {
+    "postcode": "9792711",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "相馬郡新地町",
+    "city_kana": "ソウマグンシンチマチ",
+    "town": "中島",
+    "town_kana": "ナカシマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2792": {
     "postcode": "9792792",
     "prefecture": "福島県",

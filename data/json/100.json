@@ -7660,6 +7660,19 @@
     "office_name": "三菱電線工業　株式会社",
     "office_name_kana": "ミツビシデンセンコウギヨウ カブシキガイシヤ"
   },
+  "8306": {
+    "postcode": "1008306",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "丸の内",
+    "town_kana": "マルノウチ",
+    "street": "３−３−１新東京ビル５階",
+    "office_name": "株式会社　フジクラ・ダイヤケーブル",
+    "office_name_kana": "カブシキガイシヤ フジクラ・ダイヤケ-ブル"
+  },
   "8307": {
     "postcode": "1008307",
     "prefecture": "東京都",

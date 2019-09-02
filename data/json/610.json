@@ -911,6 +911,19 @@
     "office_name": "ワタキューセイモア　株式会社",
     "office_name_kana": "ワタキユ-セイモア カブシキガイシヤ"
   },
+  "0397": {
+    "postcode": "6100397",
+    "prefecture": "京都府",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "京田辺市",
+    "city_kana": null,
+    "town": "松井宮田",
+    "town_kana": null,
+    "street": "１",
+    "office_name": "アマゾン京田辺ＦＣ",
+    "office_name_kana": "アマゾンキヨウタナベエフシ-"
+  },
   "1101": {
     "postcode": "6101101",
     "prefecture": "京都府",

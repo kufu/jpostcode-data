@@ -3561,6 +3561,19 @@
     "office_name": "戸田建設　株式会社",
     "office_name_kana": "トダケンセツ カブシキガイシヤ"
   },
+  "8389": {
+    "postcode": "1048389",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中央区",
+    "city_kana": "チュウオウク",
+    "town": "京橋",
+    "town_kana": "キョウバシ",
+    "street": "１丁目７番２号",
+    "office_name": "神鋼商事　株式会社",
+    "office_name_kana": "シンコウシヨウジ カブシキカイシヤ"
+  },
   "8401": {
     "postcode": "1048401",
     "prefecture": "東京都",

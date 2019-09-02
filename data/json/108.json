@@ -1930,11 +1930,11 @@
     "prefecture_code": 13,
     "city": "港区",
     "city_kana": "ミナトク",
-    "town": "港南",
-    "town_kana": "コウナン",
-    "street": "２−１６−４−１７Ｆ",
-    "office_name": "ＮＴＴソフトウェア　株式会社",
-    "office_name_kana": "エヌ・テイ・テイ・ソフトウエア カブシキガイシヤ"
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "３−４−１田町グランパークタワー１５Ｆ",
+    "office_name": "ＮＴＴテクノクロス　株式会社",
+    "office_name_kana": "エヌ・テイ・テイ・テクノクロス カブシキガイシヤ"
   },
   "8203": {
     "postcode": "1088203",
@@ -2248,6 +2248,19 @@
     "office_name": "大塚製薬　株式会社",
     "office_name_kana": "オオツカセイヤク カブシキガイシヤ"
   },
+  "8243": {
+    "postcode": "1088243",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "港南",
+    "town_kana": "コウナン",
+    "street": "１丁目８番２３号ＳｈｉｎａｇａｗａＨＥＡＲＴ１３階",
+    "office_name": "日本特殊陶業　株式会社　東京支社",
+    "office_name_kana": "ニツポントクシユトウギヨウ カブシキガイシヤ トウキヨウシシヤ"
+  },
   "8248": {
     "postcode": "1088248",
     "prefecture": "東京都",
@@ -2437,9 +2450,9 @@
     "prefecture_code": 13,
     "city": "港区",
     "city_kana": "ミナトク",
-    "town": "三田",
-    "town_kana": "ミタ",
-    "street": "３−１３−１６",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "３丁目１番３５号",
     "office_name": "株式会社　バンダイナムコアミューズメント",
     "office_name_kana": "カブシキガイシヤ バンダイナムコアミユ-ズメント"
   },

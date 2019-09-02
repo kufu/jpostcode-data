@@ -1033,6 +1033,19 @@
     "office_name": "熊本県庁",
     "office_name_kana": "クマモトケンチヨウ"
   },
+  "8571": {
+    "postcode": "8628571",
+    "prefecture": "熊本県",
+    "prefecture_kana": "クマモトケン",
+    "prefecture_code": 43,
+    "city": "熊本市中央区",
+    "city_kana": "クマモトシチュウオウク",
+    "town": "水前寺",
+    "town_kana": "スイゼンジ",
+    "street": "６丁目１８−１",
+    "office_name": "熊本県県央広域本部税務部",
+    "office_name_kana": "クマモトケンケンオウコウイキホンブゼイムブ"
+  },
   "8601": {
     "postcode": "8628601",
     "prefecture": "熊本県",
