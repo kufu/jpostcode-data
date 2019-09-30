@@ -1910,6 +1910,19 @@
     "office_name": "共立マテリアル　株式会社",
     "office_name_kana": "キヨウリツマテリアル カブシキガイシヤ"
   },
+  "8670": {
+    "postcode": "4558670",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市港区",
+    "city_kana": "ナゴヤシミナトク",
+    "town": "千年",
+    "town_kana": "チトセ",
+    "street": "三丁目１番１２号（名古屋港郵便局私書箱第７号）",
+    "office_name": "株式会社　ＵＡＣＪ名古屋製造所",
+    "office_name_kana": "カブシキガイシヤ ユ-エ-シ-ジエ-ナゴヤセイゾウシヨ"
+  },
   "8671": {
     "postcode": "4558671",
     "prefecture": "愛知県",

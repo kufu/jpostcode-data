@@ -3028,6 +3028,19 @@
     "office_name": "長野工業高等専門学校",
     "office_name_kana": "ナガノコウギヨウコウトウセンモンガツコウ"
   },
+  "8551": {
+    "postcode": "3818551",
+    "prefecture": "長野県",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "長野市",
+    "city_kana": null,
+    "town": "大字富竹",
+    "town_kana": null,
+    "street": "１３３３番地１",
+    "office_name": "長野市民病院",
+    "office_name_kana": "ナガノシミンビヨウイン"
+  },
   "8556": {
     "postcode": "3818556",
     "prefecture": "長野県",

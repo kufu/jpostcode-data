@@ -2989,6 +2989,19 @@
     "office_name": "株式会社　青二プロダクション",
     "office_name_kana": "カブシキガイシヤ アオニプロダクシヨン"
   },
+  "8577": {
+    "postcode": "1078577",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "南青山",
+    "town_kana": "ミナミアオヤマ",
+    "street": "３−１−３０エイベックスビル",
+    "office_name": "エイベックス　株式会社",
+    "office_name_kana": "エイベツクス カブシキガイシヤ"
+  },
   "8578": {
     "postcode": "1078578",
     "prefecture": "東京都",

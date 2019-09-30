@@ -1104,19 +1104,34 @@
     "office_name": "株式会社　サニーマート　生鮮・惣菜工場",
     "office_name_kana": "カブシキガイシヤ サニ-マ-ト セイセン・ソウザイコウジヨウ"
   },
-  "8555": {
-    "postcode": "7838555",
-    "prefecture": "高知県",
-    "prefecture_kana": "コウチケン",
-    "prefecture_code": 39,
-    "city": "南国市",
-    "city_kana": "ナンコクシ",
-    "town": "領石",
-    "town_kana": "リョウセキ",
-    "street": "２４６",
-    "office_name": "旭食品　株式会社　四国支社",
-    "office_name_kana": "アサヒシヨクヒン カブシキガイシヤ シコクシシヤ"
-  },
+  "8555": [
+    {
+      "postcode": "7838555",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "prefecture_code": 39,
+      "city": "南国市",
+      "city_kana": "ナンコクシ",
+      "town": "領石",
+      "town_kana": "リョウセキ",
+      "street": "２４６",
+      "office_name": "旭食品　株式会社　四国支社",
+      "office_name_kana": "アサヒシヨクヒン カブシキガイシヤ シコクシシヤ"
+    },
+    {
+      "postcode": "7838555",
+      "prefecture": "高知県",
+      "prefecture_kana": "コウチケン",
+      "prefecture_code": 39,
+      "city": "南国市",
+      "city_kana": "ナンコクシ",
+      "town": "領石",
+      "town_kana": "リョウセキ",
+      "street": "２４６",
+      "office_name": "旭食品　株式会社　本社",
+      "office_name_kana": "アサヒシヨクヒン カブシキガイシヤ ホンシヤ"
+    }
+  ],
   "8585": {
     "postcode": "7838585",
     "prefecture": "高知県",

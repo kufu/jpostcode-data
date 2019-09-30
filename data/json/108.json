@@ -4016,6 +4016,19 @@
     "office_name": "株式会社　日本教育新聞社",
     "office_name_kana": "カブシキガイシヤ ニホンキヨウイクシンブンシヤ"
   },
+  "8639": {
+    "postcode": "1088639",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "白金台",
+    "town_kana": "シロカネダイ",
+    "street": "４−６−１",
+    "office_name": "東京大学医科学研究所",
+    "office_name_kana": "トウキヨウダイガクイカガクケンキユウシヨ"
+  },
   "8640": {
     "postcode": "1088640",
     "prefecture": "東京都",

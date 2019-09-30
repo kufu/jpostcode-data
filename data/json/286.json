@@ -1650,6 +1650,19 @@
     "office_name": "株式会社　ボンベルタ",
     "office_name_kana": "カブシキガイシヤ ボンベルタ"
   },
+  "8523": {
+    "postcode": "2868523",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "成田市",
+    "city_kana": "ナリタシ",
+    "town": "飯田町",
+    "town_kana": "イイダチョウ",
+    "street": "９０−１",
+    "office_name": "成田赤十字病院",
+    "office_name_kana": "ナリタセキジユウジビヨウイン"
+  },
   "8585": {
     "postcode": "2868585",
     "prefecture": "千葉県",

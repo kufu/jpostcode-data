@@ -2791,6 +2791,19 @@
     "office_name": "サンファイン　株式会社",
     "office_name_kana": "サンフアイン カブシキガイシヤ"
   },
+  "8506": {
+    "postcode": "4918506",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "一宮市",
+    "city_kana": "イチノミヤシ",
+    "town": "新生",
+    "town_kana": "シンセイ",
+    "street": "２丁目２１番１２号",
+    "office_name": "愛知県西尾張県税事務所",
+    "office_name_kana": "アイチケンニシオワリケンゼイジムシヨ"
+  },
   "8508": {
     "postcode": "4918508",
     "prefecture": "愛知県",

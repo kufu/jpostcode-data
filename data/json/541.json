@@ -337,6 +337,19 @@
     "office_name": "興和　株式会社　大阪支店",
     "office_name_kana": "コ-ワ カブシキガイシヤ オオサカシテン"
   },
+  "8513": {
+    "postcode": "5418513",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市中央区",
+    "city_kana": "オオサカシチュウオウク",
+    "town": "伏見町",
+    "town_kana": "フシミマチ",
+    "street": "三丁目３番７号",
+    "office_name": "ＫＩＳＣＯ　株式会社　大阪本社",
+    "office_name_kana": "キスコ カブシキガイシヤ オオサカホンシヤ"
+  },
   "8515": {
     "postcode": "5418515",
     "prefecture": "大阪府",

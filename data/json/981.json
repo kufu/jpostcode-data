@@ -116,6 +116,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0114": {
+    "postcode": "9810114",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "宮城郡利府町",
+    "city_kana": "ミヤギグンリフチョウ",
+    "town": "新中道",
+    "town_kana": "シンナカミチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0121": {
     "postcode": "9810121",
     "prefecture": "宮城県",
