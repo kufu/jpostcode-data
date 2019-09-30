@@ -7142,6 +7142,32 @@
     "office_name": "ＮＴＴファイナンス　株式会社",
     "office_name_kana": "エヌテイテイフアイナンス カブシキガイシヤ"
   },
+  "8656": {
+    "postcode": "1058656",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝",
+    "town_kana": "シバ",
+    "street": "２丁目１４−５",
+    "office_name": "株式会社　大広ＷＥＤＯ",
+    "office_name_kana": "カブシキガイシヤ ダイコウウイドウ"
+  },
+  "8658": {
+    "postcode": "1058658",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝",
+    "town_kana": "シバ",
+    "street": "２丁目１４−５",
+    "office_name": "株式会社　大広",
+    "office_name_kana": "カブシキガイシヤ ダイコウ"
+  },
   "8660": {
     "postcode": "1058660",
     "prefecture": "東京都",
@@ -7284,19 +7310,6 @@
     "street": "３丁目１番１号",
     "office_name": "八洲電機　株式会社",
     "office_name_kana": "ヤシマデンキ カブシキガイシヤ"
-  },
-  "8687": {
-    "postcode": "1058687",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "新橋",
-    "town_kana": "シンバシ",
-    "street": "４丁目２２−４（芝郵便局私書箱第２号）",
-    "office_name": "株式会社　カナデン",
-    "office_name_kana": "カブシキガイシヤ カナデン"
   },
   "8688": {
     "postcode": "1058688",

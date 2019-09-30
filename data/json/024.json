@@ -1092,5 +1092,18 @@
     "street": "２番８号",
     "office_name": "県南広域振興局",
     "office_name_kana": "ケンナンコウイキシンコウキヨク"
+  },
+  "8555": {
+    "postcode": "0248555",
+    "prefecture": "岩手県",
+    "prefecture_kana": "イワテケン",
+    "prefecture_code": 3,
+    "city": "北上市",
+    "city_kana": "キタカミシ",
+    "town": "北工業団地",
+    "town_kana": "キタコウギョウダンチ",
+    "street": "６番６号",
+    "office_name": "キオクシア岩手　株式会社",
+    "office_name_kana": "キオクシアイワテ カブシキガイシヤ"
   }
 }

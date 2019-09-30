@@ -6720,6 +6720,19 @@
     "office_name": "株式会社　京都自動車会館",
     "office_name_kana": "カブシキガイシヤ キヨウトジドウシヤカイカン"
   },
+  "8602": {
+    "postcode": "6128602",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "京都市伏見区",
+    "city_kana": "キョウトシフシミク",
+    "town": "南寝小屋町",
+    "town_kana": "ミナミネコヤチョウ",
+    "street": "５番地",
+    "office_name": "佐川グローバルロジスティクス　株式会社",
+    "office_name_kana": "サガワグロ-バルロジステイクス カブシキガイシヤ"
+  },
   "8660": {
     "postcode": "6128660",
     "prefecture": "京都府",

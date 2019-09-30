@@ -2769,5 +2769,18 @@
     "street": "四丁目３番地",
     "office_name": "ユニー　株式会社　ピオニウォーク東松山",
     "office_name_kana": "ユニ- カブシキガイシヤ ピオニウオ-クヒガシマツヤマ"
+  },
+  "8608": {
+    "postcode": "3558608",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "東松山市",
+    "city_kana": "ヒガシマツヤマシ",
+    "town": "仲田町",
+    "town_kana": "ナカダチョウ",
+    "street": "２",
+    "office_name": "株式会社　ＬＩＸＩＬビバ　東松山物流センター",
+    "office_name_kana": "カブシキガイシヤ リクシルビバ ヒガシマツヤマブツリユウセンタ-"
   }
 }
