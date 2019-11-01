@@ -1197,6 +1197,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1120": {
+    "postcode": "8191120",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糸島市",
+    "city_kana": "イトシマシ",
+    "town": "神在東",
+    "town_kana": "カミアリヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1121": {
     "postcode": "8191121",
     "prefecture": "福岡県",

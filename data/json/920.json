@@ -2234,6 +2234,45 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0321": {
+    "postcode": "9200321",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "金沢市",
+    "city_kana": "カナザワシ",
+    "town": "金石海禅寺町",
+    "town_kana": "カナイワカイゼンジマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0322": {
+    "postcode": "9200322",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "金沢市",
+    "city_kana": "カナザワシ",
+    "town": "金石今町",
+    "town_kana": "カナイワイママチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0330": {
+    "postcode": "9200330",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "金沢市",
+    "city_kana": "カナザワシ",
+    "town": "金石新町",
+    "town_kana": "カナイワシンチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0331": {
     "postcode": "9200331",
     "prefecture": "石川県",

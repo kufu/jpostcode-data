@@ -90,19 +90,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0011": {
-    "postcode": "2260011",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "横浜市緑区",
-    "city_kana": "ヨコハマシミドリク",
-    "town": "中山町",
-    "town_kana": "ナカヤマチョウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "0012": {
     "postcode": "2260012",
     "prefecture": "神奈川県",
@@ -392,12 +379,12 @@
   "8512": {
     "postcode": "2268512",
     "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
+    "prefecture_kana": null,
+    "prefecture_code": null,
     "city": "横浜市緑区",
-    "city_kana": "ヨコハマシミドリク",
+    "city_kana": null,
     "town": "中山町",
-    "town_kana": "ナカヤマチョウ",
+    "town_kana": null,
     "street": "４０２−１",
     "office_name": "京セラ　株式会社　横浜中山事業所",
     "office_name_kana": "キヨウセラ カブシキガイシヤ ヨコハマナカヤマジギヨウシヨ"
