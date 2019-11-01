@@ -2443,6 +2443,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8249": {
+    "postcode": "6148249",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "八幡市",
+    "city_kana": "ヤワタシ",
+    "town": "内里五丁",
+    "town_kana": "ウチザトゴチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8251": {
     "postcode": "6148251",
     "prefecture": "京都府",

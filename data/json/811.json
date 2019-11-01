@@ -2835,6 +2835,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2417": {
+    "postcode": "8112417",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糟屋郡篠栗町",
+    "city_kana": "カスヤグンササグリマチ",
+    "town": "中央",
+    "town_kana": "チュウオウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "2418": {
+    "postcode": "8112418",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糟屋郡篠栗町",
+    "city_kana": "カスヤグンササグリマチ",
+    "town": "彩り台",
+    "town_kana": "イロドリダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2492": {
     "postcode": "8112492",
     "prefecture": "福岡県",

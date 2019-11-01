@@ -376,19 +376,34 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0035": {
-    "postcode": "5710035",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "prefecture_code": 27,
-    "city": "門真市",
-    "city_kana": "カドマシ",
-    "town": "桑才",
-    "town_kana": "クワザイ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0035": [
+    {
+      "postcode": "5710035",
+      "prefecture": "大阪府",
+      "prefecture_kana": "オオサカフ",
+      "prefecture_code": 27,
+      "city": "門真市",
+      "city_kana": "カドマシ",
+      "town": "桑才",
+      "town_kana": "クワザイ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "5710035",
+      "prefecture": "大阪府",
+      "prefecture_kana": "オオサカフ",
+      "prefecture_code": 27,
+      "city": "門真市",
+      "city_kana": "カドマシ",
+      "town": "桑才町",
+      "town_kana": "クワザイチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0036": {
     "postcode": "5710036",
     "prefecture": "大阪府",
@@ -402,19 +417,34 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0037": {
-    "postcode": "5710037",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "prefecture_code": 27,
-    "city": "門真市",
-    "city_kana": "カドマシ",
-    "town": "ひえ島",
-    "town_kana": "ヒエジマ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0037": [
+    {
+      "postcode": "5710037",
+      "prefecture": "大阪府",
+      "prefecture_kana": "オオサカフ",
+      "prefecture_code": 27,
+      "city": "門真市",
+      "city_kana": "カドマシ",
+      "town": "ひえ島",
+      "town_kana": "ヒエジマ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "5710037",
+      "prefecture": "大阪府",
+      "prefecture_kana": "オオサカフ",
+      "prefecture_code": 27,
+      "city": "門真市",
+      "city_kana": "カドマシ",
+      "town": "ひえ島町",
+      "town_kana": "ヒエジマチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0038": {
     "postcode": "5710038",
     "prefecture": "大阪府",
