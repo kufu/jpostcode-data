@@ -937,9 +937,9 @@
     "prefecture_code": 38,
     "city": "大洲市",
     "city_kana": "オオズシ",
-    "town": "徳森",
-    "town_kana": "トクノモリ",
-    "street": "字小鳥越２６３２−３",
+    "town": "東大洲",
+    "town_kana": "ヒガシオオズ",
+    "street": "１５６３番地１",
     "office_name": "喜多医師会病院",
     "office_name_kana": "キタイシカイビヨウイン"
   },
@@ -995,19 +995,6 @@
     "office_name": "大洲記念病院",
     "office_name_kana": "オオズキネンビヨウイン"
   },
-  "8511": {
-    "postcode": "7958511",
-    "prefecture": "愛媛県",
-    "prefecture_kana": "エヒメケン",
-    "prefecture_code": 38,
-    "city": "大洲市",
-    "city_kana": "オオズシ",
-    "town": "徳森",
-    "town_kana": "トクノモリ",
-    "street": "１３４９",
-    "office_name": "ミュープロタック",
-    "office_name_kana": "ミユ-プロタツク"
-  },
   "8601": {
     "postcode": "7958601",
     "prefecture": "愛媛県",
@@ -1020,19 +1007,6 @@
     "street": "６９０−１（大洲郵便局私書箱第７号）",
     "office_name": "大洲市役所",
     "office_name_kana": "オオズシヤクシヨ"
-  },
-  "8602": {
-    "postcode": "7958602",
-    "prefecture": "愛媛県",
-    "prefecture_kana": "エヒメケン",
-    "prefecture_code": 38,
-    "city": "大洲市",
-    "city_kana": "オオズシ",
-    "town": "東大洲",
-    "town_kana": "ヒガシオオズ",
-    "street": "１２２０−１",
-    "office_name": "パナソニック四国エレクトロニクス　株式会社　大洲地区",
-    "office_name_kana": "パナソニツクシコクエレクトロニクス カブシキカイシヤ オオズチク"
   },
   "8603": {
     "postcode": "7958603",

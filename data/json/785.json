@@ -1943,50 +1943,24 @@
     "prefecture_code": 39,
     "city": "須崎市",
     "city_kana": "スサキシ",
-    "town": "大間本町",
-    "town_kana": "オオマホンマチ",
-    "street": "１４−２６",
+    "town": "多ノ郷甲",
+    "town_kana": "オオノゴウコウ",
+    "street": "３５７１−１１",
     "office_name": "土佐くろしお農業協同組合　（本所）",
     "office_name_kana": "トサクロシオノウギヨウキヨウドウクミアイ (ホンシヨ)"
   },
   "8533": {
     "postcode": "7858533",
     "prefecture": "高知県",
-    "prefecture_kana": "コウチケン",
-    "prefecture_code": 39,
+    "prefecture_kana": null,
+    "prefecture_code": null,
     "city": "須崎市",
-    "city_kana": "スサキシ",
-    "town": "",
-    "town_kana": "",
-    "street": "多ノ郷和佐田甲４１６７−３",
+    "city_kana": null,
+    "town": "多ノ郷和佐田甲",
+    "town_kana": null,
+    "street": "４１６７−３",
     "office_name": "高知県立　須崎工業高等学校",
     "office_name_kana": "コウチケンリツ スサキコウギヨウコウトウガツコウ"
-  },
-  "8550": {
-    "postcode": "7858550",
-    "prefecture": "高知県",
-    "prefecture_kana": "コウチケン",
-    "prefecture_code": 39,
-    "city": "須崎市",
-    "city_kana": "スサキシ",
-    "town": "下分甲",
-    "town_kana": "シモブンコウ",
-    "street": "３９１−２",
-    "office_name": "高知県立　須崎高等学校",
-    "office_name_kana": "コウチケンリツ スサキコウトウガツコウ"
-  },
-  "8560": {
-    "postcode": "7858560",
-    "prefecture": "高知県",
-    "prefecture_kana": "コウチケン",
-    "prefecture_code": 39,
-    "city": "須崎市",
-    "city_kana": "スサキシ",
-    "town": "下分乙",
-    "town_kana": "シモブンオツ",
-    "street": "１１０１",
-    "office_name": "日鉄鉱業　株式会社　鳥形山鉱業所",
-    "office_name_kana": "ニツテツコウギヨウ カブシキガイシヤ トリガタヤマコウギヨウシヨ"
   },
   "8570": {
     "postcode": "7858570",
@@ -2013,19 +1987,6 @@
     "street": "１−２４",
     "office_name": "須崎県税事務所",
     "office_name_kana": "スサキケンゼイジムシヨ"
-  },
-  "8575": {
-    "postcode": "7858575",
-    "prefecture": "高知県",
-    "prefecture_kana": "コウチケン",
-    "prefecture_code": 39,
-    "city": "須崎市",
-    "city_kana": "スサキシ",
-    "town": "西古市町",
-    "town_kana": "ニシフルイチマチ",
-    "street": "１−２４",
-    "office_name": "高知県　高幡福祉事務所",
-    "office_name_kana": "コウチケン コウバンフクシジムシヨ"
   },
   "8576": {
     "postcode": "7858576",
@@ -2076,8 +2037,8 @@
     "town": "東古市町",
     "town_kana": "ヒガシフルイチマチ",
     "street": "６−２６",
-    "office_name": "高幡保健所",
-    "office_name_kana": "コウバンホケンシヨ"
+    "office_name": "高知県須崎福祉保健所",
+    "office_name_kana": "コウチケンスサキフクシホケンジヨ"
   },
   "8601": {
     "postcode": "7858601",
@@ -2088,21 +2049,8 @@
     "city_kana": "スサキシ",
     "town": "山手町",
     "town_kana": "ヤマテマチ",
-    "street": "１−７（須崎郵便局私書箱第６号）",
+    "street": "１−７",
     "office_name": "須崎市役所",
     "office_name_kana": "スサキシヤクシヨ"
-  },
-  "8650": {
-    "postcode": "7858650",
-    "prefecture": "高知県",
-    "prefecture_kana": "コウチケン",
-    "prefecture_code": 39,
-    "city": "須崎市",
-    "city_kana": "スサキシ",
-    "town": "青木町",
-    "town_kana": "アオキマチ",
-    "street": "７−３（須崎郵便局私書箱第７号）",
-    "office_name": "四国電力　株式会社　須崎営業所",
-    "office_name_kana": "シコクデンリヨク カブシキガイシヤ スサキエイギヨウシヨ"
   }
 }

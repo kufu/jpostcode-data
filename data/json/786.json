@@ -1376,8 +1376,8 @@
     "town": "大正",
     "town_kana": "タイショウ",
     "street": "３８０",
-    "office_name": "四万十町役場　大正総合支所",
-    "office_name_kana": "シマントチヨウヤクバ タイシヨウソウゴウシシヨ"
+    "office_name": "四万十町役場　大正地域振興局",
+    "office_name_kana": "シマントチヨウヤクバ タイシヨウチイキシンコウキヨク"
   },
   "0501": {
     "postcode": "7860501",
@@ -1659,9 +1659,9 @@
     "prefecture_code": 39,
     "city": "高岡郡四万十町",
     "city_kana": "タカオカグンシマントチョウ",
-    "town": "茂串町",
-    "town_kana": "シゲクシチョウ",
-    "street": "３−２",
+    "town": "琴平町",
+    "town_kana": "コトヒラマチ",
+    "street": "１６−１７",
     "office_name": "四万十町役場",
     "office_name_kana": "シマントチヨウヤクバ"
   }

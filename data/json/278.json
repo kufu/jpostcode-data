@@ -738,6 +738,19 @@
       "town": "野田",
       "town_kana": "ノダ",
       "street": "２５０番地（野田郵便局私書箱第１号）",
+      "office_name": "キッコーマンクリーンサービス　株式会社",
+      "office_name_kana": "キツコ-マンクリ-ンサ-ビス カブシキガイシヤ"
+    },
+    {
+      "postcode": "2788601",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "prefecture_code": 12,
+      "city": "野田市",
+      "city_kana": "ノダシ",
+      "town": "野田",
+      "town_kana": "ノダ",
+      "street": "２５０番地（野田郵便局私書箱第１号）",
       "office_name": "キッコーマン食品　株式会社",
       "office_name_kana": "キツコ-マンシヨクヒン カブシキガイシヤ"
     },

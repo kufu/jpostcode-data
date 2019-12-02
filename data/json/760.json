@@ -1041,19 +1041,6 @@
       "office_name_kana": null
     }
   ],
-  "8501": {
-    "postcode": "7608501",
-    "prefecture": "香川県",
-    "prefecture_kana": "カガワケン",
-    "prefecture_code": 37,
-    "city": "高松市",
-    "city_kana": "タカマツシ",
-    "town": "亀井町",
-    "town_kana": "カメイチョウ",
-    "street": "７",
-    "office_name": "四国電力　株式会社　高松支店",
-    "office_name_kana": "シコクデンリヨク カブシキガイシヤ タカマツシテン"
-  },
   "8502": {
     "postcode": "7608502",
     "prefecture": "香川県",
@@ -1249,19 +1236,6 @@
     "office_name": "四国機器　株式会社",
     "office_name_kana": "シコクキキ カブシキガイシヤ"
   },
-  "8519": {
-    "postcode": "7608519",
-    "prefecture": "香川県",
-    "prefecture_kana": "カガワケン",
-    "prefecture_code": 37,
-    "city": "高松市",
-    "city_kana": "タカマツシ",
-    "town": "藤塚町",
-    "town_kana": "フジヅカチョウ",
-    "street": "１丁目１１−２２",
-    "office_name": "ＦＭ高松　コミュニティ放送　株式会社",
-    "office_name_kana": "エフエムタカマツ コミユニテイホウソウ カブシキガイシヤ"
-  },
   "8520": {
     "postcode": "7608520",
     "prefecture": "香川県",
@@ -1353,19 +1327,6 @@
     "office_name": "東京海上日動火災保険　株式会社　高松支店",
     "office_name_kana": "トウキヨウカイジヨウニチドウカサイホケン カブシキガイシヤ タカマツシテン"
   },
-  "8528": {
-    "postcode": "7608528",
-    "prefecture": "香川県",
-    "prefecture_kana": "カガワケン",
-    "prefecture_code": 37,
-    "city": "高松市",
-    "city_kana": "タカマツシ",
-    "town": "瓦町",
-    "town_kana": "カワラマチ",
-    "street": "２丁目７−６",
-    "office_name": "サンライフ　株式会社",
-    "office_name_kana": "サンライフ カブシキガイシヤ"
-  },
   "8530": {
     "postcode": "7608530",
     "prefecture": "香川県",
@@ -1378,32 +1339,6 @@
     "street": "１丁目４−１",
     "office_name": "高松平和病院",
     "office_name_kana": "タカマツヘイワビヨウイン"
-  },
-  "8531": {
-    "postcode": "7608531",
-    "prefecture": "香川県",
-    "prefecture_kana": "カガワケン",
-    "prefecture_code": 37,
-    "city": "高松市",
-    "city_kana": "タカマツシ",
-    "town": "亀井町",
-    "town_kana": "カメイチョウ",
-    "street": "７−１５",
-    "office_name": "ＵＦＪニコス　株式会社",
-    "office_name_kana": "ユ-エフジエイニコス カブシキガイシヤ"
-  },
-  "8532": {
-    "postcode": "7608532",
-    "prefecture": "香川県",
-    "prefecture_kana": "カガワケン",
-    "prefecture_code": 37,
-    "city": "高松市",
-    "city_kana": "タカマツシ",
-    "town": "兵庫町",
-    "town_kana": "ヒョウゴマチ",
-    "street": "８−１",
-    "office_name": "ボーダフォン　株式会社",
-    "office_name_kana": "ボ-ダフオン カブシキガイシヤ"
   },
   "8533": {
     "postcode": "7608533",
@@ -1912,19 +1847,6 @@
     "office_name": "高松地方裁判所",
     "office_name_kana": "タカマツチホウサイバンシヨ"
   },
-  "8587": {
-    "postcode": "7608587",
-    "prefecture": "香川県",
-    "prefecture_kana": "カガワケン",
-    "prefecture_code": 37,
-    "city": "高松市",
-    "city_kana": "タカマツシ",
-    "town": "松島町",
-    "town_kana": "マツシマチョウ",
-    "street": "１丁目１１−２２",
-    "office_name": "（株）　四電工　本店",
-    "office_name_kana": "カブシキガイシヤ ヨンデンコウ ホンテン"
-  },
   "8588": {
     "postcode": "7608588",
     "prefecture": "香川県",
@@ -1971,9 +1893,9 @@
     "prefecture_code": 37,
     "city": "高松市",
     "city_kana": "タカマツシ",
-    "town": "中野町",
-    "town_kana": "ナカノチョウ",
-    "street": "１６−４（高松中央郵便局私書箱第６６号）",
+    "town": "番町",
+    "town_kana": "バンチョウ",
+    "street": "１丁目１−５（高松中央郵便局私書箱第６６号）",
     "office_name": "日本生命保険　相互会社　高松支社",
     "office_name_kana": "ニホンセイメイホケン ソウゴガイシヤ タカマツシシヤ"
   },
@@ -1984,9 +1906,9 @@
     "prefecture_code": 37,
     "city": "高松市",
     "city_kana": "タカマツシ",
-    "town": "瓦町",
-    "town_kana": "カワラマチ",
-    "street": "１丁目１（高松中央郵便局私書箱第３９号）",
+    "town": "丸亀町",
+    "town_kana": "マルガメマチ",
+    "street": "８−２３（高松中央郵便局私書箱第３９号）",
     "office_name": "株式会社　四国銀行　高松支店",
     "office_name_kana": "カブシキガイシヤ シコクギンコウ タカマツシテン"
   },
@@ -2049,9 +1971,9 @@
     "prefecture_code": 37,
     "city": "高松市",
     "city_kana": "タカマツシ",
-    "town": "西の丸町",
-    "town_kana": "ニシノマルチョウ",
-    "street": "１３−５（高松中央郵便局私書箱第２７号）",
+    "town": "紺屋町",
+    "town_kana": "コンヤマチ",
+    "street": "２−６（高松中央郵便局私書箱第２７号）",
     "office_name": "信金中央金庫　四国支店",
     "office_name_kana": "シンキンチユウオウキンコ シコクシテン"
   },
@@ -2103,7 +2025,7 @@
     "city_kana": "タカマツシ",
     "town": "古新町",
     "town_kana": "フルジンマチ",
-    "street": "８−１四国パナソニックビル６階（高松中央郵便局私書箱第４２号）",
+    "street": "８−１四国パナソニックビル６階",
     "office_name": "日新火災海上保険　株式会社　四国統括サービス部",
     "office_name_kana": "ニツシンカサイカイジヨウホケン カブシキガイシヤ シコクトウカツサ-ビスブ"
   },
@@ -2142,7 +2064,7 @@
     "city_kana": "タカマツシ",
     "town": "鍛冶屋町",
     "town_kana": "カジヤマチ",
-    "street": "２−１（高松中央郵便局私書箱第４０号）",
+    "street": "２−１",
     "office_name": "株式会社　三菱東京ＵＦＪ銀行　高松支店",
     "office_name_kana": "カブシキガイシヤ ミツビシトウキヨウユ-エフジエイギンコウ タカマツシテン"
   },
@@ -2166,9 +2088,9 @@
     "prefecture_code": 37,
     "city": "高松市",
     "city_kana": "タカマツシ",
-    "town": "古新町",
-    "town_kana": "フルジンマチ",
-    "street": "１０−３（高松中央郵便局私書箱第３６号）",
+    "town": "大工町",
+    "town_kana": "ダイクマチ",
+    "street": "５−１８（高松中央郵便局私書箱第３６号）",
     "office_name": "簡易保険加入者協会",
     "office_name_kana": "カンイホケンカニユウシヤキヨウカイ"
   },
@@ -2218,9 +2140,9 @@
     "prefecture_code": 37,
     "city": "高松市",
     "city_kana": "タカマツシ",
-    "town": "丸亀町",
-    "town_kana": "マルガメマチ",
-    "street": "１５−７（高松中央郵便局私書箱第１５３号）",
+    "town": "塩屋町",
+    "town_kana": "シオヤマチ",
+    "street": "８−１",
     "office_name": "四国興業　株式会社",
     "office_name_kana": "シコクコウギヨウ カブシキガイシヤ"
   },
@@ -2233,7 +2155,7 @@
     "city_kana": "タカマツシ",
     "town": "亀井町",
     "town_kana": "カメイチョウ",
-    "street": "７−１５（高松中央郵便局私書箱第２８号）",
+    "street": "７−１５",
     "office_name": "百十四ワークサポート　株式会社",
     "office_name_kana": "ヒヤクジユウシワ-クサポ-ト カブシキガイシヤ"
   },
@@ -2309,24 +2231,11 @@
     "prefecture_code": 37,
     "city": "高松市",
     "city_kana": "タカマツシ",
-    "town": "南新町",
-    "town_kana": "ミナミシンマチ",
-    "street": "２−２（高松中央郵便局私書箱第５３号）",
+    "town": "番町",
+    "town_kana": "バンチョウ",
+    "street": "１丁目１−５（高松中央郵便局私書箱第５３号）",
     "office_name": "株式会社　阿波銀行　高松支店",
     "office_name_kana": "カブシキガイシヤ アワギンコウ タカマツシテン"
-  },
-  "8680": {
-    "postcode": "7608680",
-    "prefecture": "香川県",
-    "prefecture_kana": "カガワケン",
-    "prefecture_code": 37,
-    "city": "高松市",
-    "city_kana": "タカマツシ",
-    "town": "丸亀町",
-    "town_kana": "マルガメマチ",
-    "street": "１３−２（高松中央郵便局私書箱第６３号）",
-    "office_name": "株式会社　新生銀行　高松支店",
-    "office_name_kana": "カブシキガイシヤ シンセイギンコウ タカマツシテン"
   },
   "8686": {
     "postcode": "7608686",
@@ -2350,7 +2259,7 @@
     "city_kana": "タカマツシ",
     "town": "錦町",
     "town_kana": "ニシキマチ",
-    "street": "１丁目１−６（高松中央郵便局私書箱第６号）",
+    "street": "２丁目６−３",
     "office_name": "日本通運　（株）　四国支店",
     "office_name_kana": "ニホンツウウン カブシキガイシヤ シコクシテン"
   },

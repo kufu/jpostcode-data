@@ -1065,6 +1065,19 @@
     "office_name": "アニコム損害保険　株式会社",
     "office_name_kana": "アニコムソンガイホケン カブシキガイシヤ"
   },
+  "8353": {
+    "postcode": "1608353",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "西新宿",
+    "town_kana": "ニシシンジュク",
+    "street": "７丁目７番３０小田急西新宿Ｏ−ＰＬＡＣＥ",
+    "office_name": "（公財）　東京都防災・建築まちづくりセンター",
+    "office_name_kana": "(コウザイ) トウキヨウトボウサイ・ケンチクマチヅクリセンタ-"
+  },
   "8358": {
     "postcode": "1608358",
     "prefecture": "東京都",

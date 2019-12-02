@@ -4159,6 +4159,19 @@
     "office_name": "三機工業　株式会社",
     "office_name_kana": "サンキコウギヨウ カブシキガイシヤ"
   },
+  "8510": {
+    "postcode": "1048510",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中央区",
+    "city_kana": "チュウオウク",
+    "town": "京橋",
+    "town_kana": "キョウバシ",
+    "street": "１丁目７番２号",
+    "office_name": "株式会社　兼松ＫＧＫ",
+    "office_name_kana": "カブシキガイシヤ カネマツ ケ-ジ-ケイ"
+  },
   "8512": {
     "postcode": "1048512",
     "prefecture": "東京都",
@@ -4522,19 +4535,6 @@
     "street": "９番１号",
     "office_name": "財団法人　聖路加国際病院",
     "office_name_kana": "ザイダンホウジン セイルカコクサイビヨウイン"
-  },
-  "8563": {
-    "postcode": "1048563",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "入船",
-    "town_kana": "イリフネ",
-    "street": "３丁目７−２山崎ビル４Ｆ",
-    "office_name": "ブルックハルトジャパン　株式会社",
-    "office_name_kana": "ブルツクハルトジヤパン カブシキガイシヤ"
   },
   "8566": {
     "postcode": "1048566",

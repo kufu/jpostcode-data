@@ -1901,19 +1901,6 @@
     "office_name": "愛媛県中予地方局",
     "office_name_kana": "エヒメケンチユウヨチホウキヨク"
   },
-  "8503": {
-    "postcode": "7908503",
-    "prefecture": "愛媛県",
-    "prefecture_kana": "エヒメケン",
-    "prefecture_code": 38,
-    "city": "松山市",
-    "city_kana": "マツヤマシ",
-    "town": "湊町",
-    "town_kana": "ミナトマチ",
-    "street": "４丁目６−６",
-    "office_name": "株式会社　丸三書店",
-    "office_name_kana": "カブシキガイシヤ マルサンシヨテン"
-  },
   "8505": {
     "postcode": "7908505",
     "prefecture": "愛媛県",
@@ -2186,19 +2173,6 @@
     "street": "２３５−１",
     "office_name": "（株）エイ・ビー・エム",
     "office_name_kana": "カブシキガイシヤエイ.ビ-.エム"
-  },
-  "8536": {
-    "postcode": "7908536",
-    "prefecture": "愛媛県",
-    "prefecture_kana": "エヒメケン",
-    "prefecture_code": 38,
-    "city": "松山市",
-    "city_kana": "マツヤマシ",
-    "town": "一番町",
-    "town_kana": "イチバンチョウ",
-    "street": "１丁目９−１５",
-    "office_name": "愛媛社会保険事務局",
-    "office_name_kana": "エヒメシヤカイホケンジムキヨク"
   },
   "8537": {
     "postcode": "7908537",
@@ -2805,9 +2779,9 @@
     "prefecture_code": 38,
     "city": "松山市",
     "city_kana": "マツヤマシ",
-    "town": "二番町",
-    "town_kana": "ニバンチョウ",
-    "street": "４丁目４−５（松山中央郵便局私書箱第４２号）",
+    "town": "千舟町",
+    "town_kana": "チフネマチ",
+    "street": "４丁目５−４（松山中央郵便局私書箱第４２号）",
     "office_name": "株式会社　帝国データバンク　松山支店",
     "office_name_kana": "カブシキガイシヤ テイコクデ-タバンク マツヤマシテン"
   },
@@ -3033,18 +3007,5 @@
       "office_name": "日本郵便　株式会社　四国支社",
       "office_name_kana": "ニホンユウビン カブシキガイシヤ シコクシシヤ"
     }
-  ],
-  "8798": {
-    "postcode": "7908798",
-    "prefecture": "愛媛県",
-    "prefecture_kana": "エヒメケン",
-    "prefecture_code": 38,
-    "city": "松山市",
-    "city_kana": "マツヤマシ",
-    "town": "道後樋又",
-    "town_kana": "ドウゴヒマタ",
-    "street": "９−１２",
-    "office_name": "四国郵政研修センター",
-    "office_name_kana": "シコクユウセイケンシユウセンタ-"
-  }
+  ]
 }

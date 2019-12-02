@@ -5801,19 +5801,6 @@
     "office_name": "宇部興産　株式会社",
     "office_name_kana": "ウベコウサン カブシキカイシヤ"
   },
-  "8450": {
-    "postcode": "1058450",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "虎ノ門",
-    "town_kana": "トラノモン",
-    "street": "２丁目３番１７号（虎ノ門２丁目タワー）",
-    "office_name": "積水化学工業　株式会社",
-    "office_name_kana": "セキスイカガクコウギヨウ カブシキガイシヤ"
-  },
   "8451": {
     "postcode": "1058451",
     "prefecture": "東京都",
@@ -7284,6 +7271,19 @@
     "street": "１丁目２６−５虎ノ門１７森ビル５階（芝郵便局私書箱第３８号）",
     "office_name": "株式会社　アシェット　婦人画報社",
     "office_name_kana": "カブシキガイシヤ アシエツト フジンガホウシヤ"
+  },
+  "8681": {
+    "postcode": "1058681",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "新橋",
+    "town_kana": "シンバシ",
+    "street": "１丁目１番１３号アーバンネット内幸町ビル",
+    "office_name": "日本軽金属グループ",
+    "office_name_kana": "ニツポンケイキンゾクグル-プ"
   },
   "8685": {
     "postcode": "1058685",
