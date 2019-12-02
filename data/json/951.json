@@ -1925,6 +1925,19 @@
     "office_name": "新潟市郵送証明センター",
     "office_name_kana": "ニイガタシユウソウシヨウメイセンタ-"
   },
+  "8554": {
+    "postcode": "9518554",
+    "prefecture": "新潟県",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "新潟市中央区",
+    "city_kana": null,
+    "town": "古町通７番町",
+    "town_kana": null,
+    "street": "１０１０",
+    "office_name": "新潟市役所　ふるまち庁舎",
+    "office_name_kana": "ニイガタシヤクシヨ フルマチチヨウシヤ"
+  },
   "8555": {
     "postcode": "9518555",
     "prefecture": "新潟県",

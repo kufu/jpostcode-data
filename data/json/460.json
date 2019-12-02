@@ -2666,19 +2666,6 @@
     "office_name": "株式会社　さくら銀行　名古屋支店",
     "office_name_kana": "カブシキガイシヤ サクラギンコウ ナゴヤシテン"
   },
-  "8685": {
-    "postcode": "4608685",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "栄",
-    "town_kana": "サカエ",
-    "street": "３丁目１５番３３号（名古屋中郵便局私書箱第１５５号）",
-    "office_name": "三井住友信託銀行　株式会社　名古屋営業部",
-    "office_name_kana": "ミツイスミトモシンタクギンコウ カブシキガイシヤ ナゴヤエイギヨウブ"
-  },
   "8686": {
     "postcode": "4608686",
     "prefecture": "愛知県",
@@ -2831,9 +2818,9 @@
     "city_kana": "ナゴヤシナカク",
     "town": "錦",
     "town_kana": "ニシキ",
-    "street": "２丁目２番２号（名古屋中郵便局私書箱第２２０号）",
-    "office_name": "丸紅　株式会社　名古屋支社",
-    "office_name_kana": "マルベニ カブシキガイシヤ ナゴヤシシヤ"
+    "street": "２丁目２番２号",
+    "office_name": "丸紅　株式会社　中部支社",
+    "office_name_kana": "マルベニ カブシキガイシヤ チユウブシシヤ"
   },
   "8718": {
     "postcode": "4608718",

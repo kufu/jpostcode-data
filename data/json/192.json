@@ -1286,19 +1286,6 @@
     "office_name": "東京電力　株式会社　多摩支店",
     "office_name_kana": "トウキヨウデンリヨク カブシキガイシヤ タマシテン"
   },
-  "0994": {
-    "postcode": "1920994",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "八王子市",
-    "city_kana": "ハチオウジシ",
-    "town": "子安町",
-    "town_kana": "コヤスマチ",
-    "street": "４丁目４−９",
-    "office_name": "八王子税務署",
-    "office_name_kana": "ハチオウジゼイムシヨ"
-  },
   "0996": {
     "postcode": "1920996",
     "prefecture": "東京都",
@@ -1649,6 +1636,19 @@
     "street": "４丁目２０−１",
     "office_name": "東京都立南多摩高等学校",
     "office_name_kana": "トウキヨウトリツミナミタマコウトウガツコウ"
+  },
+  "8565": {
+    "postcode": "1928565",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "八王子市",
+    "city_kana": "ハチオウジシ",
+    "town": "明神町",
+    "town_kana": "ミョウジンチョウ",
+    "street": "４丁目２１番３号",
+    "office_name": "八王子税務署",
+    "office_name_kana": "ハチオウジゼイムシヨ"
   },
   "8568": {
     "postcode": "1928568",

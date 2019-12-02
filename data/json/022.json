@@ -214,11 +214,11 @@
     "prefecture_code": 3,
     "city": "大船渡市",
     "city_kana": "オオフナトシ",
-    "town": "盛町",
-    "town_kana": "サカリチョウ",
-    "street": "字下舘下７番地１６",
-    "office_name": "大船渡農業協同組合",
-    "office_name_kana": "オオフナトノウギヨウキヨウドウクミアイ"
+    "town": "大船渡町",
+    "town_kana": "オオフナトチョウ",
+    "street": "字茶屋前６１−６",
+    "office_name": "大船渡市農業協同組合",
+    "office_name_kana": "オオフナトシノウギヨウキヨウドウクミアイ"
   },
   "8508": {
     "postcode": "0228508",

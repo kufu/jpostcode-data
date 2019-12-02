@@ -636,6 +636,19 @@
     "office_name": "淑徳幼児教育専門学校",
     "office_name_kana": "シユクトクヨウジキヨウイクセンモンガツコウ"
   },
+  "8651": {
+    "postcode": "1748651",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "板橋区",
+    "city_kana": "イタバシク",
+    "town": "宮本町",
+    "town_kana": "ミヤモトチョウ",
+    "street": "３８−８",
+    "office_name": "エスビー食品　株式会社　板橋スパイスセンター",
+    "office_name_kana": "エスビ-シヨクヒン カブシキガイシヤ イタバシスパイスセンタ-"
+  },
   "8680": {
     "postcode": "1748680",
     "prefecture": "東京都",

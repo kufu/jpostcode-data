@@ -5801,6 +5801,32 @@
     "office_name": "出雲崎町役場",
     "office_name_kana": "イズモザキマチヤクバ"
   },
+  "4397": {
+    "postcode": "9494397",
+    "prefecture": "新潟県",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "三島郡出雲崎町",
+    "city_kana": null,
+    "town": "大字川西",
+    "town_kana": null,
+    "street": "６６０番地１",
+    "office_name": "社会福祉法人　中越老人福祉協会　やすらぎの里",
+    "office_name_kana": "シヤカイフクシホウジン チユウエツロウジンフクシキヨウカイ ヤスラギノサト"
+  },
+  "4398": {
+    "postcode": "9494398",
+    "prefecture": "新潟県",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "三島郡出雲崎町",
+    "city_kana": null,
+    "town": "大字船橋",
+    "town_kana": null,
+    "street": "４７９番地２",
+    "office_name": "グループホームかめさんの家",
+    "office_name_kana": "グル-プホ-ムカメサンノイエ"
+  },
   "4501": {
     "postcode": "9494501",
     "prefecture": "新潟県",

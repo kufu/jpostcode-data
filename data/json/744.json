@@ -2181,6 +2181,45 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0076": {
+    "postcode": "7440076",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
+    "city": "下松市",
+    "city_kana": "クダマツシ",
+    "town": "せせらぎ町",
+    "town_kana": "セセラギチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0077": {
+    "postcode": "7440077",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
+    "city": "下松市",
+    "city_kana": "クダマツシ",
+    "town": "中島町",
+    "town_kana": "ナカシマチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0078": {
+    "postcode": "7440078",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
+    "city": "下松市",
+    "city_kana": "クダマツシ",
+    "town": "西市",
+    "town_kana": "ニシイチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0271": [
     {
       "postcode": "7440271",

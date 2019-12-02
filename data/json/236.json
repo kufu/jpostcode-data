@@ -675,6 +675,19 @@
     "office_name": "杉田ゴルフ場",
     "office_name_kana": "スギタゴルフジヨウ"
   },
+  "8641": {
+    "postcode": "2368641",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市金沢区",
+    "city_kana": "ヨコハマシカナザワク",
+    "town": "福浦",
+    "town_kana": "フクウラ",
+    "street": "２丁目３番２号",
+    "office_name": "株式会社　ＲＥＪ",
+    "office_name_kana": "カブシキガイシヤ ア-ルイ-ジエイ"
+  },
   "8645": {
     "postcode": "2368645",
     "prefecture": "神奈川県",

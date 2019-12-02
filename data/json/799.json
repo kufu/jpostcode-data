@@ -242,7 +242,7 @@
     "city_kana": "シコクチュウオウシ",
     "town": "川之江町",
     "town_kana": "カワノエチョウ",
-    "street": "８２６（川之江郵便局私書箱第２号）",
+    "street": "８２６",
     "office_name": "丸住製紙　株式会社",
     "office_name_kana": "マルスミセイシ カブシキガイシヤ"
   },
@@ -580,7 +580,7 @@
     "city_kana": "シコクチュウオウシ",
     "town": "村松町",
     "town_kana": "ムラマツチョウ",
-    "street": "１９０（伊予三島郵便局私書箱第３８号）",
+    "street": "１９０",
     "office_name": "福助工業　株式会社",
     "office_name_kana": "フクスケコウギヨウ カブシキガイシヤ"
   },
@@ -606,7 +606,7 @@
     "city_kana": "シコクチュウオウシ",
     "town": "三島宮川",
     "town_kana": "ミシマミヤガワ",
-    "street": "４丁目６−５５（伊予三島郵便局私書箱第２３号）",
+    "street": "４丁目６−５５",
     "office_name": "四国中央市役所",
     "office_name_kana": "シコクチユウオウシヤクシヨ"
   },
@@ -619,7 +619,7 @@
     "city_kana": "シコクチュウオウシ",
     "town": "三島宮川",
     "town_kana": "ミシマミヤガワ",
-    "street": "４丁目６−５５（伊予三島郵便局私書箱第１７号）",
+    "street": "４丁目６−５５",
     "office_name": "伊予三島商工会議所",
     "office_name_kana": "イヨミシマシヨウコウカイギシヨ"
   },
@@ -3609,19 +3609,6 @@
     "street": "６００−１",
     "office_name": "愛媛県立　北条高等学校",
     "office_name_kana": "エヒメケンリツ ホウジヨウコウトウガツコウ"
-  },
-  "2495": {
-    "postcode": "7992495",
-    "prefecture": "愛媛県",
-    "prefecture_kana": "エヒメケン",
-    "prefecture_code": 38,
-    "city": "松山市",
-    "city_kana": "マツヤマシ",
-    "town": "北条",
-    "town_kana": "ホウジョウ",
-    "street": "１００５",
-    "office_name": "倉敷紡績　（株）　北条工場",
-    "office_name_kana": "クラシキボウセキ カブシキガイシヤ ホウジヨウコウジヨウ"
   },
   "2496": {
     "postcode": "7992496",

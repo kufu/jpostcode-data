@@ -248,6 +248,19 @@
     "office_name": "大山崎町役場",
     "office_name_kana": "オオヤマザキチヨウヤクバ"
   },
+  "8502": {
+    "postcode": "6188502",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "三島郡島本町",
+    "city_kana": "ミシマグンシマモトチョウ",
+    "town": "若山台",
+    "town_kana": "ワカヤマダイ",
+    "street": "１丁目１−１",
+    "office_name": "大阪青凌中学校・高等学校",
+    "office_name_kana": "オオサカセイリヨウチユウガツコウ・コウトウガツコウ"
+  },
   "8511": {
     "postcode": "6188511",
     "prefecture": "京都府",

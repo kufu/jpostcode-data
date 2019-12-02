@@ -1397,13 +1397,13 @@
     "prefecture": "埼玉県",
     "prefecture_kana": "サイタマケン",
     "prefecture_code": 11,
-    "city": "さいたま市浦和区",
-    "city_kana": "サイタマシウラワク",
-    "town": "常盤",
-    "town_kana": "トキワ",
-    "street": "４丁目１６−２",
-    "office_name": "株式会社　エフエム埼玉　ＮＡＣＫ５",
-    "office_name_kana": "カブシキガイシヤ エフエムサイタマ ナツクフアイブ"
+    "city": "さいたま市大宮区",
+    "city_kana": "サイタマシオオミヤク",
+    "town": "錦町",
+    "town_kana": "ニシキチョウ",
+    "street": "６８２−２ＪＡＣＫ大宮１１Ｆ",
+    "office_name": "株式会社　ＦＭＮＡＣＫ５",
+    "office_name_kana": "カブシキガイシヤ エフエムナツクフアイブ"
   },
   "8580": {
     "postcode": "3308580",
@@ -1469,6 +1469,19 @@
     "street": "１丁目８９（さいたま新都心郵便局私書箱第１７号）",
     "office_name": "大和証券　株式会社　大宮支店",
     "office_name_kana": "ダイワシヨウケン カブシキガイシヤ オオミヤシテン"
+  },
+  "8603": {
+    "postcode": "3308603",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市大宮区",
+    "city_kana": "サイタマシオオミヤク",
+    "town": "吉敷町",
+    "town_kana": "キシキチョウ",
+    "street": "１丁目１２４番地１大宮区役所５階",
+    "office_name": "さいたま市役所　財政局　税務部　市民税課　特別徴収係",
+    "office_name_kana": "サイタマシヤクシヨ ザイセイキヨク ゼイムブ シミンゼイカ トクベツチヨウシユウカカリ"
   },
   "8634": {
     "postcode": "3308634",

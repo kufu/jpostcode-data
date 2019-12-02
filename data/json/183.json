@@ -623,6 +623,19 @@
     "office_name": "横河ディジタルコンピュータ　株式会社",
     "office_name_kana": "ヨコガワデイジタルコンピユ-タ カブシキガイシヤ"
   },
+  "8519": {
+    "postcode": "1838519",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "府中市",
+    "city_kana": "フチュウシ",
+    "town": "本町",
+    "town_kana": "ホンマチ",
+    "street": "２−３０",
+    "office_name": "株式会社　田原電機製作所",
+    "office_name_kana": "カブシキカイシヤ タハラデンキセイサクジヨ"
+  },
   "8521": {
     "postcode": "1838521",
     "prefecture": "東京都",

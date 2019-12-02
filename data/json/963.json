@@ -859,6 +859,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0552": {
+    "postcode": "9630552",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "郡山市",
+    "city_kana": "コオリヤマシ",
+    "town": "東原",
+    "town_kana": "ヒガシハラ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0661": {
     "postcode": "9630661",
     "prefecture": "福島県",

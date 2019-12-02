@@ -207,32 +207,6 @@
     "office_name": "三豊市立　西香川病院",
     "office_name_kana": "ミトヨシリツ ニシカガワビヨウイン"
   },
-  "8511": {
-    "postcode": "7678511",
-    "prefecture": "香川県",
-    "prefecture_kana": "カガワケン",
-    "prefecture_code": 37,
-    "city": "三豊市",
-    "city_kana": "ミトヨシ",
-    "town": "高瀬町下勝間",
-    "town_kana": "タカセチョウシモカツマ",
-    "street": "２３７９",
-    "office_name": "瀬戸内短期大学",
-    "office_name_kana": "セトウチタンキダイガク"
-  },
-  "8512": {
-    "postcode": "7678512",
-    "prefecture": "香川県",
-    "prefecture_kana": "カガワケン",
-    "prefecture_code": 37,
-    "city": "三豊市",
-    "city_kana": "ミトヨシ",
-    "town": "高瀬町下勝間",
-    "town_kana": "タカセチョウシモカツマ",
-    "street": "２３７９",
-    "office_name": "瀬戸内総合学院",
-    "office_name_kana": "セトウチソウゴウガクイン"
-  },
   "8513": {
     "postcode": "7678513",
     "prefecture": "香川県",
@@ -242,9 +216,9 @@
     "city_kana": "ミトヨシ",
     "town": "高瀬町下勝間",
     "town_kana": "タカセチョウシモカツマ",
-    "street": "２３５１−２",
-    "office_name": "香川西高等学校",
-    "office_name_kana": "カガワニシコウトウガツコウ"
+    "street": "２３７９",
+    "office_name": "四国学院大学　香川西高等学校",
+    "office_name_kana": "シコクガクインダイガク カガワニシコウトウガツコウ"
   },
   "8585": {
     "postcode": "7678585",

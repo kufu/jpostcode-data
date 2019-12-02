@@ -532,32 +532,6 @@
     "office_name": "三豊市　山本支所",
     "office_name_kana": "ミトヨシ ヤマモトシシヨ"
   },
-  "8501": {
-    "postcode": "7688501",
-    "prefecture": "香川県",
-    "prefecture_kana": "カガワケン",
-    "prefecture_code": 37,
-    "city": "観音寺市",
-    "city_kana": "カンオンジシ",
-    "town": "坂本町",
-    "town_kana": "サカモトチョウ",
-    "street": "５丁目１８−３７",
-    "office_name": "株式会社　加ト吉",
-    "office_name_kana": "カブシキガイシヤ カトキチ"
-  },
-  "8502": {
-    "postcode": "7688502",
-    "prefecture": "香川県",
-    "prefecture_kana": "カガワケン",
-    "prefecture_code": 37,
-    "city": "観音寺市",
-    "city_kana": "カンオンジシ",
-    "town": "室本町",
-    "town_kana": "ムロモトチョウ",
-    "street": "１３２５−６１",
-    "office_name": "株式会社　オーブン",
-    "office_name_kana": "カブシキガイシヤ オ-ブン"
-  },
   "8601": {
     "postcode": "7688601",
     "prefecture": "香川県",

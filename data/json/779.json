@@ -1048,19 +1048,6 @@
     "office_name": "阿南市　羽ノ浦支所",
     "office_name_kana": "アナンシ ハノウラシシヨ"
   },
-  "1198": {
-    "postcode": "7791198",
-    "prefecture": "徳島県",
-    "prefecture_kana": "トクシマケン",
-    "prefecture_code": 36,
-    "city": "阿南市",
-    "city_kana": "アナンシ",
-    "town": "羽ノ浦町中庄",
-    "town_kana": "ハノウラチョウナカノショウ",
-    "street": "蔵ノホケ３６",
-    "office_name": "阿南共栄病院",
-    "office_name_kana": "アナンキヨウエイイビヨウイン"
-  },
   "1231": {
     "postcode": "7791231",
     "prefecture": "徳島県",
@@ -2885,7 +2872,7 @@
     "city_kana": "ミョウザイグンイシイチョウ",
     "town": "高川原",
     "town_kana": "タカガワラ",
-    "street": "字高川原１２１−１（石井郵便局私書箱第５号）",
+    "street": "字高川原１２１−１",
     "office_name": "石井町役場",
     "office_name_kana": "イシイチヨウヤクバ"
   },
@@ -2898,7 +2885,7 @@
     "city_kana": "ミョウザイグンイシイチョウ",
     "town": "浦庄",
     "town_kana": "ウラショウ",
-    "street": "字国実１８８（石井郵便局私書箱第８号）",
+    "street": "字国実１８８",
     "office_name": "加賀屋醤油　株式会社",
     "office_name_kana": "カガヤシヨウユ カブシキガイシヤ"
   },

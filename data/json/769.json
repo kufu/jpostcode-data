@@ -1234,32 +1234,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "1689": {
-    "postcode": "7691689",
-    "prefecture": "香川県",
-    "prefecture_kana": "カガワケン",
-    "prefecture_code": 37,
-    "city": "観音寺市",
-    "city_kana": "カンオンジシ",
-    "town": "大野原町大野原",
-    "town_kana": "オオノハラチョウオオノハラ",
-    "street": "５５３７",
-    "office_name": "香川県立　三豊工業高等学校",
-    "office_name_kana": "カガワケンリツ ミトヨコウギヨウコウトウガツコウ"
-  },
-  "1694": {
-    "postcode": "7691694",
-    "prefecture": "香川県",
-    "prefecture_kana": "カガワケン",
-    "prefecture_code": 37,
-    "city": "観音寺市",
-    "city_kana": "カンオンジシ",
-    "town": "豊浜町姫浜",
-    "town_kana": "トヨハマチョウヒメハマ",
-    "street": "３２５",
-    "office_name": "富士紡績　豊浜工場",
-    "office_name_kana": "フジボウセキ トヨハマコウジヨウ"
-  },
   "1695": {
     "postcode": "7691695",
     "prefecture": "香川県",
@@ -1612,19 +1586,6 @@
     "street": null,
     "office_name": null,
     "office_name_kana": null
-  },
-  "2392": {
-    "postcode": "7692392",
-    "prefecture": "香川県",
-    "prefecture_kana": "カガワケン",
-    "prefecture_code": 37,
-    "city": "さぬき市",
-    "city_kana": "サヌキシ",
-    "town": "長尾東",
-    "town_kana": "ナガオヒガシ",
-    "street": "８８８−５",
-    "office_name": "さぬき市保健福祉事務所　（長尾支所）",
-    "office_name_kana": "サヌキシホケンフクシジムシヨ (ナガオシシヨ)"
   },
   "2395": {
     "postcode": "7692395",
@@ -2119,6 +2080,19 @@
     "street": "１８４７−１",
     "office_name": "東かがわ市役所",
     "office_name_kana": "ヒガシカガワシヤクシヨ"
+  },
+  "2793": {
+    "postcode": "7692793",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "prefecture_code": 37,
+    "city": "東かがわ市",
+    "city_kana": "ヒガシカガワシ",
+    "town": "西山",
+    "town_kana": "ニシヤマ",
+    "street": "４３１番地６",
+    "office_name": "四国化工　株式会社　西山第一工場",
+    "office_name_kana": "シコクカコウ カブシキカイシヤ ニシヤマダイイチコウジヨウ"
   },
   "2794": {
     "postcode": "7692794",

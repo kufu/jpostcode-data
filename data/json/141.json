@@ -1286,6 +1286,19 @@
     "office_name": "協同広告　株式会社",
     "office_name_kana": "キヨウドウコウコク カブシキガイシヤ"
   },
+  "8607": {
+    "postcode": "1418607",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "大崎",
+    "town_kana": "オオサキ",
+    "street": "３−７−９",
+    "office_name": "株式会社　明電エンジニアリング",
+    "office_name_kana": "カブシキカイシヤ メイデンエンジニアリング"
+  },
   "8609": {
     "postcode": "1418609",
     "prefecture": "東京都",
