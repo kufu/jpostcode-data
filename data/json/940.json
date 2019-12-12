@@ -4285,10 +4285,10 @@
   "2081": {
     "postcode": "9402081",
     "prefecture": "新潟県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
     "city": "長岡市",
-    "city_kana": null,
+    "city_kana": "ナガオカシ",
     "town": "三ツ郷屋町",
     "town_kana": null,
     "street": "３７１−１",

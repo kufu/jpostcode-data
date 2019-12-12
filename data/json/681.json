@@ -535,10 +535,10 @@
   "8501": {
     "postcode": "6818501",
     "prefecture": "鳥取県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "トットリケン",
+    "prefecture_code": 31,
     "city": "岩美郡岩美町",
-    "city_kana": null,
+    "city_kana": "イワミグンイワミチョウ",
     "town": "大字浦富",
     "town_kana": null,
     "street": "６７５−１",

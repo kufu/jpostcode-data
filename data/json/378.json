@@ -1406,10 +1406,10 @@
   "0498": {
     "postcode": "3780498",
     "prefecture": "群馬県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "グンマケン",
+    "prefecture_code": 10,
     "city": "利根郡片品村",
-    "city_kana": null,
+    "city_kana": "トネグンカタシナムラ",
     "town": "大字鎌田",
     "town_kana": null,
     "street": "３９６７−３",

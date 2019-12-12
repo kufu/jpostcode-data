@@ -2264,10 +2264,10 @@
   "1292": {
     "postcode": "7091292",
     "prefecture": "岡山県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "オカヤマケン",
+    "prefecture_code": 33,
     "city": "岡山市南区",
-    "city_kana": null,
+    "city_kana": "オカヤマシミナミク",
     "town": "灘崎町片岡",
     "town_kana": null,
     "street": "２０７",

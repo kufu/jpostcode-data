@@ -1681,10 +1681,10 @@
   "8585": {
     "postcode": "3158585",
     "prefecture": "茨城県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
     "city": "石岡市",
-    "city_kana": null,
+    "city_kana": "イシオカシ",
     "town": "大字柏原",
     "town_kana": null,
     "street": "８−２",

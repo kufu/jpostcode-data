@@ -1003,10 +1003,10 @@
   "0193": {
     "postcode": "9250193",
     "prefecture": "石川県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
     "city": "羽咋郡志賀町",
-    "city_kana": null,
+    "city_kana": "ハクイグンシカマチ",
     "town": "字末吉",
     "town_kana": null,
     "street": "小崎１０",

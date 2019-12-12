@@ -3800,10 +3800,10 @@
   "5495": {
     "postcode": "8995495",
     "prefecture": "鹿児島県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "カゴシマケン",
+    "prefecture_code": 46,
     "city": "姶良市",
-    "city_kana": null,
+    "city_kana": "アイラシ",
     "town": "東餅田",
     "town_kana": null,
     "street": "３３６",

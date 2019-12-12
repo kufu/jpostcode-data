@@ -1562,10 +1562,10 @@
   "8555": {
     "postcode": "0178555",
     "prefecture": "秋田県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "アキタケン",
+    "prefecture_code": 5,
     "city": "大館市",
-    "city_kana": null,
+    "city_kana": "オオダテシ",
     "town": "字中城",
     "town_kana": null,
     "street": "２０",

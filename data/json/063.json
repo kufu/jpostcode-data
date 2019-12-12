@@ -1211,10 +1211,10 @@
   "8607": {
     "postcode": "0638607",
     "prefecture": "北海道",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
     "city": "札幌市西区",
-    "city_kana": null,
+    "city_kana": "サッポロシニシク",
     "town": "発寒１０条",
     "town_kana": null,
     "street": "１３丁目１番１号",

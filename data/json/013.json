@@ -3005,10 +3005,10 @@
   "0498": {
     "postcode": "0130498",
     "prefecture": "秋田県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "アキタケン",
+    "prefecture_code": 5,
     "city": "横手市",
-    "city_kana": null,
+    "city_kana": "ヨコテシ",
     "town": "大雄",
     "town_kana": null,
     "street": "字高津野１７５",

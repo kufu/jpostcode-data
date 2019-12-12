@@ -548,10 +548,10 @@
   "8601": {
     "postcode": "8338601",
     "prefecture": "福岡県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
     "city": "筑後市",
-    "city_kana": null,
+    "city_kana": "チクゴシ",
     "town": "大字山ノ井",
     "town_kana": null,
     "street": "８９８（筑後郵便局私書箱第６号）",

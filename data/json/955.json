@@ -2166,10 +2166,10 @@
   "8612": {
     "postcode": "9558612",
     "prefecture": "新潟県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
     "city": "三条市",
-    "city_kana": null,
+    "city_kana": "サンジョウシ",
     "town": "大字井戸場",
     "town_kana": null,
     "street": "５６８−６（三条郵便局私書箱第１００号）",

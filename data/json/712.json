@@ -836,10 +836,10 @@
   "8550": {
     "postcode": "7128550",
     "prefecture": "岡山県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "オカヤマケン",
+    "prefecture_code": 33,
     "city": "倉敷市",
-    "city_kana": null,
+    "city_kana": "クラシキシ",
     "town": "東常磐町",
     "town_kana": null,
     "street": "１０−５",

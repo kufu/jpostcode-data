@@ -8785,10 +8785,10 @@
   "4395": {
     "postcode": "7714395",
     "prefecture": "徳島県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "トクシマケン",
+    "prefecture_code": 36,
     "city": "勝浦郡勝浦町",
-    "city_kana": null,
+    "city_kana": "カツウラグンカツウラチョウ",
     "town": "大字久国",
     "town_kana": null,
     "street": "字久保田３",

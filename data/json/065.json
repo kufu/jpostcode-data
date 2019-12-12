@@ -665,10 +665,10 @@
   "8631": {
     "postcode": "0658631",
     "prefecture": "北海道",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
     "city": "札幌市東区",
-    "city_kana": null,
+    "city_kana": "サッポロシヒガシク",
     "town": "北５条東",
     "town_kana": null,
     "street": "８丁目１番３３号",

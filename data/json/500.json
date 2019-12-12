@@ -6441,10 +6441,10 @@
   "8734": {
     "postcode": "5008734",
     "prefecture": "岐阜県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ギフケン",
+    "prefecture_code": 21,
     "city": "岐阜市",
-    "city_kana": null,
+    "city_kana": "ギフシ",
     "town": "千畳敷下",
     "town_kana": null,
     "street": "２５７",

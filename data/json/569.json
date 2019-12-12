@@ -2667,10 +2667,10 @@
   "1197": {
     "postcode": "5691197",
     "prefecture": "大阪府",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
     "city": "高槻市",
-    "city_kana": null,
+    "city_kana": "タカツキシ",
     "town": "大字奈佐原",
     "town_kana": null,
     "street": "１０−１０",

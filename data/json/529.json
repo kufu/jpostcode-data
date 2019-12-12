@@ -4476,10 +4476,10 @@
   "1692": {
     "postcode": "5291692",
     "prefecture": "滋賀県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "シガケン",
+    "prefecture_code": 25,
     "city": "蒲生郡日野町",
-    "city_kana": null,
+    "city_kana": "ガモウグンヒノチョウ",
     "town": "大字中在寺",
     "town_kana": null,
     "street": "１２２５",

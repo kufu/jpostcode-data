@@ -1146,10 +1146,10 @@
   "0192": {
     "postcode": "3740192",
     "prefecture": "群馬県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "グンマケン",
+    "prefecture_code": 10,
     "city": "邑楽郡板倉町",
-    "city_kana": null,
+    "city_kana": "オウラグンイタクラマチ",
     "town": "大字板倉",
     "town_kana": null,
     "street": "２０６７",

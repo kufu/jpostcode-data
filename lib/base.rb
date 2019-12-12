@@ -44,6 +44,22 @@ module Jpostcode
         db.execute 'COMMIT'
       end
 
+      def convert_kansuji(text)
+        return text if text.nil?
+
+        text.tr('〇一二三四五六七八九', '0123456789')
+          .gsub(/(\d+)?十(\d+)?/) { ($1 || 1).to_i * 10            + $2.to_i }
+          .gsub(/(\d+)?百(\d+)?/) { ($1 || 1).to_i * 100           + $2.to_i }
+          .gsub(/(\d+)?千(\d+)?/) { ($1 || 1).to_i * 1000          + $2.to_i }
+          .gsub(/(\d+)万(\d+)?/)  {        $1.to_i * 10000         + $2.to_i }
+          .gsub(/(\d+)億(\d+)?/)  {        $1.to_i * 100000000     + $2.to_i }
+          .gsub(/(\d+)兆(\d+)?/)  {        $1.to_i * 1000000000000 + $2.to_i }
+      end
+
+      def convert_to_zen(text)
+        text.tr('0-9', '０-９')
+      end
+
       INSERT_SQL = <<-SQL
         INSERT INTO addresses (
           postcode,

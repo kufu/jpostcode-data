@@ -2047,10 +2047,10 @@
   "8588": {
     "postcode": "9448588",
     "prefecture": "新潟県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
     "city": "妙高市",
-    "city_kana": null,
+    "city_kana": "ミョウコウシ",
     "town": "大字姫川原",
     "town_kana": null,
     "street": "宮の前９２１−３",

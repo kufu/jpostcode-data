@@ -964,10 +964,10 @@
   "8585": {
     "postcode": "3938585",
     "prefecture": "長野県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
     "city": "諏訪郡下諏訪町",
-    "city_kana": null,
+    "city_kana": "スワグンシモスワマチ",
     "town": "御田町上",
     "town_kana": null,
     "street": "３１２８",

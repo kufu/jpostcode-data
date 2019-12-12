@@ -420,10 +420,10 @@
   "8501": {
     "postcode": "1918501",
     "prefecture": "東京都",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
     "city": "日野市",
-    "city_kana": null,
+    "city_kana": "ヒノシ",
     "town": "大字日野",
     "town_kana": null,
     "street": "４２１−８",

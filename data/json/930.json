@@ -11043,10 +11043,10 @@
   "8686": {
     "postcode": "9308686",
     "prefecture": "富山県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "トヤマケン",
+    "prefecture_code": 16,
     "city": "富山市",
-    "city_kana": null,
+    "city_kana": "トヤマシ",
     "town": "牛島",
     "town_kana": null,
     "street": "１５−１（富山南郵便局富山駅前分室私書箱第４３号）",

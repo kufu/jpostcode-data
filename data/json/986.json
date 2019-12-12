@@ -1562,10 +1562,10 @@
   "0792": {
     "postcode": "9860792",
     "prefecture": "宮城県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
     "city": "本吉郡南三陸町",
-    "city_kana": null,
+    "city_kana": "モトヨシグンミナミサンリクチョウ",
     "town": "志津川",
     "town_kana": null,
     "street": "字塩入７７番地（志津川郵便局私書箱第３号）",

@@ -626,12 +626,12 @@
   "8501": {
     "postcode": "0678501",
     "prefecture": "北海道",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
     "city": "江別市",
-    "city_kana": null,
+    "city_kana": "エベツシ",
     "town": "二条",
-    "town_kana": null,
+    "town_kana": "2ジョウ",
     "street": "５丁目９番２号",
     "office_name": "株式会社　ペイロール　北海道ＢＰＯセンター",
     "office_name_kana": "カブシキカイシヤ ペイロ-ル ホツカイドウビ-ピ-オ-センタ-"
@@ -639,12 +639,12 @@
   "8547": {
     "postcode": "0678547",
     "prefecture": "北海道",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
     "city": "江別市",
-    "city_kana": null,
+    "city_kana": "エベツシ",
     "town": "四条",
-    "town_kana": null,
+    "town_kana": "4ジョウ",
     "street": "７丁目１",
     "office_name": "江別商工会議所",
     "office_name_kana": "エベツシヨウコウカイギシヨ"

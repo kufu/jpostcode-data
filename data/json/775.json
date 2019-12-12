@@ -727,10 +727,10 @@
   "8570": {
     "postcode": "7758570",
     "prefecture": "徳島県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "トクシマケン",
+    "prefecture_code": 36,
     "city": "海部郡牟岐町",
-    "city_kana": null,
+    "city_kana": "カイフグンムギチョウ",
     "town": "大字中村",
     "town_kana": null,
     "street": "字本村７−４",
