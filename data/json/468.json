@@ -977,10 +977,10 @@
   "8513": {
     "postcode": "4688513",
     "prefecture": "愛知県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
     "city": "名古屋市天白区",
-    "city_kana": null,
+    "city_kana": "ナゴヤシテンパクク",
     "town": "天白町大字平針",
     "town_kana": null,
     "street": "字黒石２８４５",

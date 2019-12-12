@@ -249,10 +249,10 @@
   "8501": {
     "postcode": "8468501",
     "prefecture": "佐賀県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "サガケン",
+    "prefecture_code": 41,
     "city": "多久市",
-    "city_kana": null,
+    "city_kana": "タクシ",
     "town": "北多久町大字小侍",
     "town_kana": null,
     "street": "７−１",

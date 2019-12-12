@@ -613,10 +613,10 @@
   "0498": {
     "postcode": "9680498",
     "prefecture": "福島県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
     "city": "南会津郡只見町",
-    "city_kana": null,
+    "city_kana": "ミナミアイヅグンタダミマチ",
     "town": "大字只見",
     "town_kana": null,
     "street": "字雨堤１０３９番地",

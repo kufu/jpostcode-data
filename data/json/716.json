@@ -1289,10 +1289,10 @@
   "1192": {
     "postcode": "7161192",
     "prefecture": "岡山県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "オカヤマケン",
+    "prefecture_code": 33,
     "city": "加賀郡吉備中央町",
-    "city_kana": null,
+    "city_kana": "カガグンキビチュウオウチョウ",
     "town": "大字豊野",
     "town_kana": null,
     "street": "１−２",

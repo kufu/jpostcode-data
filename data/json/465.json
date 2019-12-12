@@ -1302,10 +1302,10 @@
   "8611": {
     "postcode": "4658611",
     "prefecture": "愛知県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
     "city": "名古屋市名東区",
-    "city_kana": null,
+    "city_kana": "ナゴヤシメイトウク",
     "town": "猪高町大字上社",
     "town_kana": null,
     "street": "字井堀２５−１",

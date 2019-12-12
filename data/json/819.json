@@ -953,10 +953,10 @@
   "0395": {
     "postcode": "8190395",
     "prefecture": "福岡県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
     "city": "福岡市西区",
-    "city_kana": null,
+    "city_kana": "フクオカシニシク",
     "town": "大字元岡",
     "town_kana": null,
     "street": "７４４番地",

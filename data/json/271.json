@@ -756,10 +756,10 @@
   "8580": {
     "postcode": "2718580",
     "prefecture": "千葉県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
     "city": "松戸市",
-    "city_kana": null,
+    "city_kana": "マツドシ",
     "town": "南花島向町",
     "town_kana": null,
     "street": "３１９",

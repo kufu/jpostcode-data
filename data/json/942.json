@@ -4164,10 +4164,10 @@
   "8611": {
     "postcode": "9428611",
     "prefecture": "新潟県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
     "city": "上越市",
-    "city_kana": null,
+    "city_kana": "ジョウエツシ",
     "town": "福田町",
     "town_kana": null,
     "street": "１番地（直江津郵便局私書箱第２３号）",

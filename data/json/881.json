@@ -704,10 +704,10 @@
   "8567": {
     "postcode": "8818567",
     "prefecture": "宮崎県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ミヤザキケン",
+    "prefecture_code": 45,
     "city": "西都市",
-    "city_kana": null,
+    "city_kana": "サイトシ",
     "town": "大字右松",
     "town_kana": null,
     "street": "２０７１",

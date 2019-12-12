@@ -639,10 +639,10 @@
   "8503": {
     "postcode": "2248503",
     "prefecture": "神奈川県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
     "city": "横浜市都筑区",
-    "city_kana": null,
+    "city_kana": "ヨコハマシツヅキク",
     "town": "茅ヶ崎中央",
     "town_kana": null,
     "street": "３５−１",

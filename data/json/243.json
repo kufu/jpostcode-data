@@ -587,10 +587,10 @@
   "0195": {
     "postcode": "2430195",
     "prefecture": "神奈川県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
     "city": "愛甲郡清川村",
-    "city_kana": null,
+    "city_kana": "アイコウグンキヨカワムラ",
     "town": "煤ヶ谷",
     "town_kana": null,
     "street": "２２１６番地",

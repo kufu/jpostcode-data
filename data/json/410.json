@@ -4948,10 +4948,10 @@
   "3693": {
     "postcode": "4103693",
     "prefecture": "静岡県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
     "city": "賀茂郡松崎町",
-    "city_kana": null,
+    "city_kana": "カモグンマツザキチョウ",
     "town": "櫻田",
     "town_kana": null,
     "street": "１８８（松崎郵便局私書箱第６号）",

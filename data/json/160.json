@@ -1744,10 +1744,10 @@
   "8547": {
     "postcode": "1608547",
     "prefecture": "東京都",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
     "city": "新宿区",
-    "city_kana": null,
+    "city_kana": "シンジュクク",
     "town": "本塩町",
     "town_kana": null,
     "street": "１９",

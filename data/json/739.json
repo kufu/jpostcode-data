@@ -678,10 +678,10 @@
   "0193": {
     "postcode": "7390193",
     "prefecture": "広島県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
     "city": "東広島市",
-    "city_kana": null,
+    "city_kana": "ヒガシヒロシマシ",
     "town": "八本松町大字原",
     "town_kana": null,
     "street": "１７５−１",

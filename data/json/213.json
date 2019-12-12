@@ -444,10 +444,10 @@
   "8520": {
     "postcode": "2138520",
     "prefecture": "神奈川県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
     "city": "川崎市高津区",
-    "city_kana": null,
+    "city_kana": "カワサキシタカツク",
     "town": "野川",
     "town_kana": null,
     "street": "３６９６",

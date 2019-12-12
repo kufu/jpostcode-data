@@ -340,10 +340,10 @@
   "1192": {
     "postcode": "4901192",
     "prefecture": "愛知県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
     "city": "海部郡大治町",
-    "city_kana": null,
+    "city_kana": "アマグンオオハルチョウ",
     "town": "大字馬島",
     "town_kana": null,
     "street": "字大門西１−１",

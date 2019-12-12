@@ -2134,10 +2134,10 @@
   "8518": {
     "postcode": "5168518",
     "prefecture": "三重県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ミエケン",
+    "prefecture_code": 24,
     "city": "伊勢市",
-    "city_kana": null,
+    "city_kana": "イセシ",
     "town": "宇治浦田町",
     "town_kana": null,
     "street": "２−１−１０",

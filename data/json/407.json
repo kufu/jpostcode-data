@@ -574,10 +574,10 @@
   "0192": {
     "postcode": "4070192",
     "prefecture": "山梨県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ヤマナシケン",
+    "prefecture_code": 19,
     "city": "韮崎市",
-    "city_kana": null,
+    "city_kana": "ニラサキシ",
     "town": "穂坂町三ツ澤",
     "town_kana": null,
     "street": "６５０",

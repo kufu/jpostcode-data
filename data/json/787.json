@@ -1854,10 +1854,10 @@
   "0892": {
     "postcode": "7870892",
     "prefecture": "高知県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "コウチケン",
+    "prefecture_code": 39,
     "city": "幡多郡三原村",
-    "city_kana": null,
+    "city_kana": "ハタグンミハラムラ",
     "town": "大字来栖野",
     "town_kana": null,
     "street": "３４６",

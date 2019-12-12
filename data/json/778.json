@@ -1460,10 +1460,10 @@
   "8506": {
     "postcode": "7788506",
     "prefecture": "徳島県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "トクシマケン",
+    "prefecture_code": 36,
     "city": "三好市",
-    "city_kana": null,
+    "city_kana": "ミヨシシ",
     "town": "池田町ウヱノ",
     "town_kana": null,
     "street": "２８３４",

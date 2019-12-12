@@ -1999,10 +1999,10 @@
   "8611": {
     "postcode": "0218611",
     "prefecture": "岩手県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "イワテケン",
+    "prefecture_code": 3,
     "city": "一関市",
-    "city_kana": null,
+    "city_kana": "イチノセキシ",
     "town": "字柄貝",
     "town_kana": null,
     "street": "１",

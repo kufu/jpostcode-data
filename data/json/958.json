@@ -1952,10 +1952,10 @@
   "8558": {
     "postcode": "9588558",
     "prefecture": "新潟県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
     "city": "村上市",
-    "city_kana": null,
+    "city_kana": "ムラカミシ",
     "town": "大字仲間町",
     "town_kana": null,
     "street": "２００",

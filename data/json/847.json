@@ -2866,10 +2866,10 @@
   "8588": {
     "postcode": "8478588",
     "prefecture": "佐賀県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "サガケン",
+    "prefecture_code": 41,
     "city": "唐津市",
-    "city_kana": null,
+    "city_kana": "カラツシ",
     "town": "和多田",
     "town_kana": null,
     "street": "２４３０",

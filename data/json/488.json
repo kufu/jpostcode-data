@@ -1523,10 +1523,10 @@
   "8555": {
     "postcode": "4888555",
     "prefecture": "愛知県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
     "city": "尾張旭市",
-    "city_kana": null,
+    "city_kana": "オワリアサヒシ",
     "town": "大字新居",
     "town_kana": null,
     "street": "５１８２−１",

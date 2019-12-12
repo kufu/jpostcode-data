@@ -1956,10 +1956,10 @@
   "2492": {
     "postcode": "8762492",
     "prefecture": "大分県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "オオイタケン",
+    "prefecture_code": 44,
     "city": "佐伯市",
-    "city_kana": null,
+    "city_kana": "サイキシ",
     "town": "蒲江大字蒲江浦",
     "town_kana": null,
     "street": "３２８３",

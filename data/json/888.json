@@ -197,10 +197,10 @@
   "8555": {
     "postcode": "8888555",
     "prefecture": "宮崎県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ミヤザキケン",
+    "prefecture_code": 45,
     "city": "串間市",
-    "city_kana": null,
+    "city_kana": "クシマシ",
     "town": "大字西方",
     "town_kana": null,
     "street": "５５５０",

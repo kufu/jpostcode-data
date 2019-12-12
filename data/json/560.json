@@ -678,10 +678,10 @@
   "8567": {
     "postcode": "5608567",
     "prefecture": "大阪府",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
     "city": "豊中市",
-    "city_kana": null,
+    "city_kana": "トヨナカシ",
     "town": "螢池西町",
     "town_kana": null,
     "street": "２丁目２−１",

@@ -2264,10 +2264,10 @@
   "0394": {
     "postcode": "8000394",
     "prefecture": "福岡県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
     "city": "京都郡苅田町",
-    "city_kana": null,
+    "city_kana": "ミヤコグンカンダマチ",
     "town": "大字新津",
     "town_kana": null,
     "street": "１−１１",

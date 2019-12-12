@@ -743,10 +743,10 @@
   "8501": {
     "postcode": "8288501",
     "prefecture": "福岡県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
     "city": "豊前市",
-    "city_kana": null,
+    "city_kana": "ブゼンシ",
     "town": "大字吉木",
     "town_kana": null,
     "street": "９５５",

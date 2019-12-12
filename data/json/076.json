@@ -938,10 +938,10 @@
   "8511": {
     "postcode": "0768511",
     "prefecture": "北海道",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
     "city": "富良野市",
-    "city_kana": null,
+    "city_kana": "フラノシ",
     "town": "字中御料",
     "town_kana": null,
     "street": "",

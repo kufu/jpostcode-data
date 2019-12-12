@@ -2082,10 +2082,10 @@
   "1298": {
     "postcode": "8301298",
     "prefecture": "福岡県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
     "city": "三井郡大刀洗町",
-    "city_kana": null,
+    "city_kana": "ミイグンタチアライマチ",
     "town": "大字富多",
     "town_kana": null,
     "street": "８１９",

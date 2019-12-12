@@ -1003,10 +1003,10 @@
   "8501": {
     "postcode": "7838501",
     "prefecture": "高知県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "コウチケン",
+    "prefecture_code": 39,
     "city": "南国市",
-    "city_kana": null,
+    "city_kana": "ナンコクシ",
     "town": "大そね",
     "town_kana": null,
     "street": "甲２３０１",

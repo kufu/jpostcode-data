@@ -2653,10 +2653,10 @@
   "8585": {
     "postcode": "0158585",
     "prefecture": "秋田県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "アキタケン",
+    "prefecture_code": 5,
     "city": "由利本荘市",
-    "city_kana": null,
+    "city_kana": "ユリホンジョウシ",
     "town": "陳場岱",
     "town_kana": null,
     "street": "６",

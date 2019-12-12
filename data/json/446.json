@@ -925,10 +925,10 @@
   "8514": {
     "postcode": "4468514",
     "prefecture": "愛知県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
     "city": "安城市",
-    "city_kana": null,
+    "city_kana": "アンジョウシ",
     "town": "柿碕町",
     "town_kana": null,
     "street": "東山２５",

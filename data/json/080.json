@@ -1042,10 +1042,10 @@
   "0196": {
     "postcode": "0800196",
     "prefecture": "北海道",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
     "city": "河東郡音更町",
-    "city_kana": null,
+    "city_kana": "カトウグンオトフケチョウ",
     "town": "字下音更北",
     "town_kana": null,
     "street": "９線西１−８−２",

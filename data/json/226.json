@@ -379,10 +379,10 @@
   "8512": {
     "postcode": "2268512",
     "prefecture": "神奈川県",
-    "prefecture_kana": null,
-    "prefecture_code": null,
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
     "city": "横浜市緑区",
-    "city_kana": null,
+    "city_kana": "ヨコハマシミドリク",
     "town": "中山町",
     "town_kana": null,
     "street": "４０２−１",
