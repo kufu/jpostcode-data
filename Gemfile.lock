@@ -25,7 +25,7 @@ GEM
       rspec-support (~> 3.9.0)
     rspec-support (3.9.0)
     rubyzip (2.0.0)
-    sqlite3 (1.4.1)
+    sqlite3 (1.4.2)
 
 PLATFORMS
   ruby
@@ -37,3 +37,6 @@ DEPENDENCIES
   rspec
   rubyzip
   sqlite3
+
+BUNDLED WITH
+   2.1.2

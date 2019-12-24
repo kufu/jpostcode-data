@@ -55,7 +55,7 @@ module Jpostcode
 
       def retrieve
         arr = []
-        Zip::File.open(open(ZIP_URL).path) do |archives|
+        Zip::File.open(URI.open(ZIP_URL).path) do |archives|
           archives.each do |a|
             CSV.parse(a.get_input_stream.read) do |row|
               h = to_hash(row)
