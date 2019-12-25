@@ -26,7 +26,7 @@ module Jpostcode
 
       def retrieve
         arr = []
-        Zip::File.open(open(zip_url).path) do |archives|
+        Zip::File.open(URI.open(zip_url).path) do |archives|
           archives.each do |a|
             CSV.parse(a.get_input_stream.read) do |row|
               h = to_hash(row)
@@ -43,7 +43,7 @@ module Jpostcode
       end
 
       def zip_url
-        html = Nokogiri::HTML(open(URL_DOMAIN))
+        html = Nokogiri::HTML(URI.open(URL_DOMAIN))
         url = html.css('[href^="/zipcodedata/download"]').last.attributes['href']
         "#{URL_DOMAIN}#{url}"
       end
