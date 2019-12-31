@@ -103,6 +103,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0010": {
+    "postcode": "5810010",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "八尾市",
+    "city_kana": "ヤオシ",
+    "town": "都塚北",
+    "town_kana": "ミヤコヅカキタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0011": {
     "postcode": "5810011",
     "prefecture": "大阪府",
@@ -360,7 +373,20 @@
     "city": "八尾市",
     "city_kana": "ヤオシ",
     "town": "東弓削",
-    "town_kana": "ヒガシユゲ",
+    "town_kana": "ヒガシユウゲ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0030": {
+    "postcode": "5810030",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "八尾市",
+    "city_kana": "ヤオシ",
+    "town": "都塚南",
+    "town_kana": "ミヤコヅカミナミ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

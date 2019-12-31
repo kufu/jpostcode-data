@@ -9805,19 +9805,34 @@
     "office_name": "トピー工業　株式会社　豊橋製造所",
     "office_name_kana": "トピ-コウギヨウ カブシキガイシヤ トヨハシセイゾウシヨ"
   },
-  "8511": {
-    "postcode": "4418511",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "豊橋市",
-    "city_kana": "トヨハシシ",
-    "town": "神野新田町",
-    "town_kana": "ジンノシンデンチョウ",
-    "street": "字テノ割１",
-    "office_name": "中部ガス　株式会社　豊橋支店",
-    "office_name_kana": "チユウブガス カブシキガイシヤ トヨハシシテン"
-  },
+  "8511": [
+    {
+      "postcode": "4418511",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "豊橋市",
+      "city_kana": "トヨハシシ",
+      "town": "神野新田町",
+      "town_kana": "ジンノシンデンチョウ",
+      "street": "字テノ割１番地",
+      "office_name": "サーラＥ＆Ｌ東三河　株式会社",
+      "office_name_kana": "サ-ライ-アンドエルヒガシミカワ カブシキガイシヤ"
+    },
+    {
+      "postcode": "4418511",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "豊橋市",
+      "city_kana": "トヨハシシ",
+      "town": "神野新田町",
+      "town_kana": "ジンノシンデンチョウ",
+      "street": "字テノ割１番地",
+      "office_name": "サーラエナジー　株式会社",
+      "office_name_kana": "サ-ラエナジ- カブシキガイシヤ"
+    }
+  ],
   "8512": {
     "postcode": "4418512",
     "prefecture": "愛知県",

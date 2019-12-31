@@ -6958,6 +6958,19 @@
     "office_name": "西日本電信電話　株式会社　京都支店　京都１１６センタ　みやこＩＰコールセンタ",
     "office_name_kana": "ニシニホンデンシンデンワ カブシキガイシヤ キヨウトシテン キヨウトイチイチロクセンタ ミヤコアイピ-コ-ルセンタ"
   },
+  "8560": {
+    "postcode": "6018560",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "京都市南区",
+    "city_kana": "キョウトシミナミク",
+    "town": "西九条柳ノ内町",
+    "town_kana": "ニシクジョウヤナギノウチチョウ",
+    "street": "８",
+    "office_name": "株式会社　きんでん　京都支店",
+    "office_name_kana": "カブシキカイシヤ キンデン キヨウトシテン"
+  },
   "8588": {
     "postcode": "6018588",
     "prefecture": "京都府",

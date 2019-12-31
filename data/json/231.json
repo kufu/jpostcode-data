@@ -1637,6 +1637,19 @@
     "office_name": "ＷＭＢＳサポートセンター",
     "office_name_kana": "ダブルエムビ-エスサポ-トセンタ-"
   },
+  "8340": {
+    "postcode": "2318340",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "山下町",
+    "town_kana": "ヤマシタチョウ",
+    "street": "２８０番２",
+    "office_name": "ハイアットリージェンシー横浜",
+    "office_name_kana": "ハイアツトリ-ジエンシ-ヨコハマ"
+  },
   "8343": {
     "postcode": "2318343",
     "prefecture": "神奈川県",

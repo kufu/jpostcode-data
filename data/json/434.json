@@ -194,6 +194,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0018": {
+    "postcode": "4340018",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "浜松市浜北区",
+    "city_kana": "ハママツシハマキタク",
+    "town": "西中瀬",
+    "town_kana": "ニシナカゼ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "4340021",
     "prefecture": "静岡県",

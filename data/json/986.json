@@ -3093,19 +3093,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "2241": {
-    "postcode": "9862241",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "牡鹿郡女川町",
-    "city_kana": "オシカグンオナガワチョウ",
-    "town": "黄金町",
-    "town_kana": "コガネチョウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "2242": {
     "postcode": "9862242",
     "prefecture": "宮城県",
@@ -3141,19 +3128,6 @@
     "city_kana": "オシカグンオナガワチョウ",
     "town": "桜ケ丘",
     "town_kana": "サクラガオカ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "2245": {
-    "postcode": "9862245",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "牡鹿郡女川町",
-    "city_kana": "オシカグンオナガワチョウ",
-    "town": "寿町",
-    "town_kana": "コトブキチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -3297,19 +3271,6 @@
     "city_kana": "オシカグンオナガワチョウ",
     "town": "大原",
     "town_kana": "オオハラ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "2271": {
-    "postcode": "9862271",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "牡鹿郡女川町",
-    "city_kana": "オシカグンオナガワチョウ",
-    "town": "清水町",
-    "town_kana": "シミズチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
