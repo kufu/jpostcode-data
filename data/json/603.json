@@ -3418,6 +3418,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8458": {
+    "postcode": "6038458",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "京都市北区",
+    "city_kana": "キョウトシキタク",
+    "town": "大北山鷲峯町",
+    "town_kana": "オオキタヤマワシミネチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8461": {
     "postcode": "6038461",
     "prefecture": "京都府",

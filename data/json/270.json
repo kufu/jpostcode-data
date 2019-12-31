@@ -1169,6 +1169,19 @@
     "office_name": "流山おおたかの森Ｓ・Ｃ",
     "office_name_kana": "ナガレヤマオオタカノモリシヨツピング・センタ-"
   },
+  "0197": {
+    "postcode": "2700197",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "流山市",
+    "city_kana": "ナガレヤマシ",
+    "town": "南",
+    "town_kana": "ミナミ",
+    "street": "２６１番地ＧＬＰ流山Ⅱ",
+    "office_name": "楽天　株式会社　楽天フルフィルメントセンター流山",
+    "office_name_kana": "ラクテン カブシキガイシヤ ラクテンフルフイルメントセンタ-ナガレヤマ"
+  },
   "0198": {
     "postcode": "2700198",
     "prefecture": "千葉県",
@@ -3183,6 +3196,19 @@
     "street": "２丁目２−１",
     "office_name": "三井住友海上火災保険　株式会社",
     "office_name_kana": "ミツイスミトモカイジヨウカサイホケン カブシキカイシヤ"
+  },
+  "1382": {
+    "postcode": "2701382",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "印西市",
+    "city_kana": "インザイシ",
+    "town": "牧の台",
+    "town_kana": "マキノダイ",
+    "street": "２−１−７",
+    "office_name": "日本通信紙　株式会社　印西ＢＰＯセンター",
+    "office_name_kana": "ニホンツウシンシ カブシキガイシヤ インザイビ-ピ-オ-センタ-"
   },
   "1383": {
     "postcode": "2701383",

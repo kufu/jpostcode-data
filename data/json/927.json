@@ -1375,9 +1375,9 @@
     "prefecture_code": 17,
     "city": "鳳珠郡能登町",
     "city_kana": "ホウスグンノトチョウ",
-    "town": "字宇出津新",
+    "town": "字宇出津",
     "town_kana": null,
-    "street": "１字１９７−１（能都郵便局私書箱第６号）",
+    "street": "ト字５０番地１（能都郵便局私書箱第６号）",
     "office_name": "能登町役場",
     "office_name_kana": "ノトチヨウヤクバ"
   },
@@ -1922,9 +1922,9 @@
     "city_kana": "ホウスグンノトチョウ",
     "town": "字松波",
     "town_kana": null,
-    "street": "１３字７５（松波郵便局私書箱第１号）",
-    "office_name": "能登町役場　内浦庁舎",
-    "office_name_kana": "ノトチヨウヤクバ ウチウラチヨウシヤ"
+    "street": "１３字７５番地１（松波郵便局私書箱第１号）",
+    "office_name": "能登町役場　内浦総合支所",
+    "office_name_kana": "ノトチヨウヤクバ ウチウラソウゴウシシヨ"
   },
   "1200": {
     "postcode": "9271200",

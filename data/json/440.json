@@ -2699,22 +2699,9 @@
     "city_kana": "トヨハシシ",
     "town": "駅前大通",
     "town_kana": "エキマエオオドオリ",
-    "street": "１丁目５５番地",
-    "office_name": "中部ガス　株式会社",
-    "office_name_kana": "チユウブガス カブシキガイシヤ"
-  },
-  "8532": {
-    "postcode": "4408532",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "豊橋市",
-    "city_kana": "トヨハシシ",
-    "town": "駅前大通",
-    "town_kana": "エキマエオオドオリ",
-    "street": "１丁目５５番地",
-    "office_name": "ガステックサービス　株式会社",
-    "office_name_kana": "ガステツクサ-ビス カブシキガイシヤ"
+    "street": "一丁目５５番地サーラタワー",
+    "office_name": "サーラエナジー　株式会社",
+    "office_name_kana": "サ-ラエナジ- カブシキガイシヤ"
   },
   "8533": {
     "postcode": "4408533",
