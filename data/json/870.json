@@ -3067,34 +3067,19 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0859": [
-    {
-      "postcode": "8700859",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "中の瀬団地",
-      "town_kana": "ナカノセダンチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8700859",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "中の瀬町",
-      "town_kana": "ナカノセマチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
+  "0859": {
+    "postcode": "8700859",
+    "prefecture": "大分県",
+    "prefecture_kana": "オオイタケン",
+    "prefecture_code": 44,
+    "city": "大分市",
+    "city_kana": "オオイタシ",
+    "town": "中の瀬町",
+    "town_kana": "ナカノセマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0860": {
     "postcode": "8700860",
     "prefecture": "大分県",

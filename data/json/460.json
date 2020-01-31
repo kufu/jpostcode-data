@@ -651,19 +651,6 @@
     "office_name": "日本経済新聞社　名古屋支社",
     "office_name_kana": "ニホンケイザイシンブンシヤ ナゴヤシシヤ"
   },
-  "8380": {
-    "postcode": "4608380",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "金山",
-    "town_kana": "カナヤマ",
-    "street": "５丁目８−１",
-    "office_name": "悠閑堂　株式会社",
-    "office_name_kana": "ユウカンドウ カブシキガイシヤ"
-  },
   "8383": {
     "postcode": "4608383",
     "prefecture": "愛知県",
@@ -832,19 +819,6 @@
     "street": "１丁目５番地",
     "office_name": "日石三菱　株式会社　中部支店",
     "office_name_kana": "ニツセキミツビシ カブシキガイシヤ チユウブシテン"
-  },
-  "8420": {
-    "postcode": "4608420",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "栄",
-    "town_kana": "サカエ",
-    "street": "２丁目３−１名古屋広小路ビル",
-    "office_name": "大成建設　株式会社　名古屋支店",
-    "office_name_kana": "タイセイケンセツ カブシキガイシヤ ナゴヤシテン"
   },
   "8422": {
     "postcode": "4608422",
@@ -1028,19 +1002,6 @@
     "office_name": "名古屋市中区役所",
     "office_name_kana": "ナゴヤシナカクヤクシヨ"
   },
-  "8448": {
-    "postcode": "4608448",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "栄",
-    "town_kana": "サカエ",
-    "street": "４丁目１４−５松下中日ビル３階",
-    "office_name": "株式会社　旭通信社　名古屋支社",
-    "office_name_kana": "カブシキガイシヤ アサヒツウシンシヤ ナゴヤシシヤ"
-  },
   "8450": {
     "postcode": "4608450",
     "prefecture": "愛知県",
@@ -1093,19 +1054,6 @@
     "office_name": "新日本法規出版　株式会社　名古屋支社",
     "office_name_kana": "シンニホンホウキシユツパン カブシキガイシヤ ナゴヤシシヤ"
   },
-  "8460": {
-    "postcode": "4608460",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "新栄",
-    "town_kana": "シンサカエ",
-    "street": "１丁目４−２３",
-    "office_name": "株式会社　鈴丹",
-    "office_name_kana": "カブシキガイシヤ スズタン"
-  },
   "8461": {
     "postcode": "4608461",
     "prefecture": "愛知県",
@@ -1119,32 +1067,6 @@
     "office_name": "株式会社　名古屋流行発信",
     "office_name_kana": "カブシキガイシヤ ナゴヤリユウコウハツシン"
   },
-  "8462": {
-    "postcode": "4608462",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "新栄町",
-    "town_kana": "シンサカエマチ",
-    "street": "１丁目５日石栄ビルディング４階",
-    "office_name": "中部テレメッセージ　株式会社　本店",
-    "office_name_kana": "チユウブテレメツセ-ジ カブシキガイシヤ ホンテン"
-  },
-  "8468": {
-    "postcode": "4608468",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "栄",
-    "town_kana": "サカエ",
-    "street": "４丁目１−８中区役所朝日生命共同ビル",
-    "office_name": "ＮＴＴ東海移動通信網　株式会社",
-    "office_name_kana": "エヌテイテイトウカイイドウツウシンモウ カブシキガイシヤ"
-  },
   "8470": {
     "postcode": "4608470",
     "prefecture": "愛知県",
@@ -1157,32 +1079,6 @@
     "street": "一丁目２番１号",
     "office_name": "読売新聞　東京本社　中部支社",
     "office_name_kana": "ヨミウリシンブン トウキヨウホンシヤ チユウブシシヤ"
-  },
-  "8472": {
-    "postcode": "4608472",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "新栄",
-    "town_kana": "シンサカエ",
-    "street": "２丁目１−９雲竜フレックスビル西館１２０５",
-    "office_name": "リッチ　株式会社　名古屋管理センター",
-    "office_name_kana": "リツチ カブシキガイシヤ ナゴヤカンリセンタ-"
-  },
-  "8473": {
-    "postcode": "4608473",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "新栄",
-    "town_kana": "シンサカエ",
-    "street": "２丁目２−２４",
-    "office_name": "新栄県税事務所",
-    "office_name_kana": "シンサカエケンゼイジムシヨ"
   },
   "8475": {
     "postcode": "4608475",
@@ -1522,19 +1418,6 @@
     "office_name": "国土交通省　中部地方整備局　港湾空港部",
     "office_name_kana": "コクドコウツウシヨウ チユウブチホウセイビキヨク コウワンクウコウブ"
   },
-  "8518": {
-    "postcode": "4608518",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "錦",
-    "town_kana": "ニシキ",
-    "street": "３丁目１１−２３弘洋ビル４階",
-    "office_name": "ぴあ　株式会社　名古屋支局",
-    "office_name_kana": "ピア カブシキガイシヤ ナゴヤシキヨク"
-  },
   "8520": {
     "postcode": "4608520",
     "prefecture": "愛知県",
@@ -1717,19 +1600,6 @@
     "office_name": "株式会社　ダイテック",
     "office_name_kana": "カブシキガイシヤ ダイテツク"
   },
-  "8540": {
-    "postcode": "4608540",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "丸の内",
-    "town_kana": "マルノウチ",
-    "street": "２丁目１３−３１",
-    "office_name": "株式会社　市文",
-    "office_name_kana": "カブシキガイシヤ イチブン"
-  },
   "8541": {
     "postcode": "4608541",
     "prefecture": "愛知県",
@@ -1742,19 +1612,6 @@
     "street": "２丁目２０番１９号",
     "office_name": "東京海上日動火災保険　株式会社",
     "office_name_kana": "トウキヨウカイジヨウニチドウカサイホケン カブシキガイシヤ"
-  },
-  "8543": {
-    "postcode": "4608543",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "丸の内",
-    "town_kana": "マルノウチ",
-    "street": "２丁目１３−４",
-    "office_name": "三木産業　株式会社　名古屋支店",
-    "office_name_kana": "ミキサンギヨウ カブシキガイシヤ ナゴヤシテン"
   },
   "8545": {
     "postcode": "4608545",
@@ -1886,32 +1743,6 @@
     "office_name": "株式会社　角川マーケティング　東海オフィス",
     "office_name_kana": "カブシキカイシヤ カドカワマ-ケテイング トウカイオフイス"
   },
-  "8570": {
-    "postcode": "4608570",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "丸の内",
-    "town_kana": "マルノウチ",
-    "street": "３丁目１７−１６",
-    "office_name": "株式会社　小林大薬房",
-    "office_name_kana": "カブシキガイシヤ コバヤシタイヤクボウ"
-  },
-  "8574": {
-    "postcode": "4608574",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "丸の内",
-    "town_kana": "マルノウチ",
-    "street": "３丁目１１−４",
-    "office_name": "八神商事　株式会社　本社",
-    "office_name_kana": "ヤガミシヨウジ カブシキガイシヤ ホンシヤ"
-  },
   "8575": {
     "postcode": "4608575",
     "prefecture": "愛知県",
@@ -1990,19 +1821,6 @@
     "office_name": "株式会社　オリエントコーポレーション　名古屋支店",
     "office_name_kana": "カブシキガイシヤ オリエントコ-ポレ-シヨン ナゴヤシテン"
   },
-  "8587": {
-    "postcode": "4608587",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "錦",
-    "town_kana": "ニシキ",
-    "street": "１丁目８−４８",
-    "office_name": "株式会社　丸愛商会",
-    "office_name_kana": "カブシキガイシヤ マルアイシヨウカイ"
-  },
   "8588": {
     "postcode": "4608588",
     "prefecture": "愛知県",
@@ -2016,19 +1834,6 @@
     "office_name": "ヤマハ　株式会社　名古屋支店",
     "office_name_kana": "ヤマハ カブシキガイシヤ ナゴヤシテン"
   },
-  "8601": {
-    "postcode": "4608601",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "錦",
-    "town_kana": "ニシキ",
-    "street": "２丁目７−８",
-    "office_name": "鳴河　株式会社",
-    "office_name_kana": "ナルカワ カブシキガイシヤ"
-  },
   "8602": {
     "postcode": "4608602",
     "prefecture": "愛知県",
@@ -2041,19 +1846,6 @@
     "street": "２丁目３−１６",
     "office_name": "八木兵　株式会社",
     "office_name_kana": "ヤギヒヨ- カブシキガイシヤ"
-  },
-  "8603": {
-    "postcode": "4608603",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "錦",
-    "town_kana": "ニシキ",
-    "street": "２丁目４−３錦パークビル１３階",
-    "office_name": "株式会社　日本コンタクトレンズ",
-    "office_name_kana": "カブシキガイシヤ ニホンコンタクトレンズ"
   },
   "8605": {
     "postcode": "4608605",
@@ -2106,19 +1898,6 @@
     "street": "２丁目１８番１９号住友銀行名古屋ビル",
     "office_name": "ニチハ　株式会社",
     "office_name_kana": "ニチハ カブシキガイシヤ"
-  },
-  "8611": {
-    "postcode": "4608611",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "錦",
-    "town_kana": "ニシキ",
-    "street": "３丁目２４−１７日本生命栄町ビル３Ｆ",
-    "office_name": "国際ロータリー旅行　株式会社　名古屋支店",
-    "office_name_kana": "コクサイロ-タリ-リヨコウ カブシキガイシヤ ナゴヤシテン"
   },
   "8614": {
     "postcode": "4608614",
@@ -2197,19 +1976,6 @@
     "street": "３丁目２３−２１",
     "office_name": "安藤証券　株式会社",
     "office_name_kana": "アンドウシヨウケン カブシキガイシヤ"
-  },
-  "8620": {
-    "postcode": "4608620",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "錦",
-    "town_kana": "ニシキ",
-    "street": "３丁目５−２１布袋ビル錦ＨＯＴＥＩビル７Ｆ",
-    "office_name": "日本信販ニコスカードセンター",
-    "office_name_kana": "ニホンシンパンニコスカ-ドセンタ-"
   },
   "8621": {
     "postcode": "4608621",
@@ -2419,19 +2185,6 @@
     "office_name": "シヤチハタ商事　株式会社　名古屋支店",
     "office_name_kana": "シヤチハタシヨウジ カブシキガイシヤ ナゴヤシテン"
   },
-  "8656": {
-    "postcode": "4608656",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "丸の内",
-    "town_kana": "マルノウチ",
-    "street": "１丁目１７−１９長銀ビル（名古屋中郵便局私書箱第１２０号）",
-    "office_name": "株式会社　日本長期信用銀行　名古屋支店",
-    "office_name_kana": "カブシキガイシヤ ニホンチヨウキシンヨウギンコウ ナゴヤシテン"
-  },
   "8657": {
     "postcode": "4608657",
     "prefecture": "愛知県",
@@ -2457,19 +2210,6 @@
     "street": "二丁目２０番１５号（名古屋中郵便局私書箱第１６０号）",
     "office_name": "（株）　三菱ＵＦＪ銀行",
     "office_name_kana": "(カ) ミツビシユ-エフジエ-ギンコウ"
-  },
-  "8663": {
-    "postcode": "4608663",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "丸の内",
-    "town_kana": "マルノウチ",
-    "street": "２丁目２０−１９（名古屋中郵便局私書箱第１１２号）",
-    "office_name": "タキヒヨー　株式会社",
-    "office_name_kana": "タキヒヨ- カブシキガイシヤ"
   },
   "8665": {
     "postcode": "4608665",
@@ -2509,19 +2249,6 @@
     "street": "２丁目１３−１９（名古屋中郵便局私書箱第７３号）",
     "office_name": "瀧定　株式会社",
     "office_name_kana": "タキサダ カブシキガイシヤ"
-  },
-  "8668": {
-    "postcode": "4608668",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "錦",
-    "town_kana": "ニシキ",
-    "street": "１丁目５−１３（名古屋中郵便局私書箱第７２号）",
-    "office_name": "日商岩井　株式会社　名古屋支社",
-    "office_name_kana": "ニツシヨウイワイ カブシキガイシヤ ナゴヤシシヤ"
   },
   "8669": {
     "postcode": "4608669",
@@ -2627,19 +2354,6 @@
     "office_name": "株式会社　中京銀行",
     "office_name_kana": "カブシキガイシヤ チユウキヨウギンコウ"
   },
-  "8682": {
-    "postcode": "4608682",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "錦",
-    "town_kana": "ニシキ",
-    "street": "２丁目６−６（名古屋中郵便局私書箱第１３２号）",
-    "office_name": "株式会社　春日井",
-    "office_name_kana": "カブシキガイシヤ カスガイ"
-  },
   "8683": {
     "postcode": "4608683",
     "prefecture": "愛知県",
@@ -2730,19 +2444,6 @@
     "street": "１丁目４−６（名古屋中郵便局私書箱第１４１号）",
     "office_name": "中電コンピューターサービス　株式会社",
     "office_name_kana": "チユウデンコンピユ-タ-サ-ビス カブシキガイシヤ"
-  },
-  "8701": {
-    "postcode": "4608701",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "錦",
-    "town_kana": "ニシキ",
-    "street": "３丁目１−１８（名古屋中郵便局私書箱第５０号）",
-    "office_name": "ニチメン　株式会社　名古屋支社",
-    "office_name_kana": "ニチメン カブシキガイシヤ ナゴヤシシヤ"
   },
   "8703": {
     "postcode": "4608703",
@@ -2847,18 +2548,5 @@
     "street": "１丁目８−１４（名古屋中郵便局私書箱第２２号）",
     "office_name": "富永電機　株式会社　本社",
     "office_name_kana": "トミナガデンキ カブシキガイシヤ ホンシヤ"
-  },
-  "8791": {
-    "postcode": "4608791",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "大須",
-    "town_kana": "オオス",
-    "street": "３丁目１−１０",
-    "office_name": "共通事務センター",
-    "office_name_kana": "キヨウツウジムセンタ-"
   }
 }

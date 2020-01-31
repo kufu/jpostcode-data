@@ -4050,6 +4050,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1207": {
+    "postcode": "4411207",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "豊川市",
+    "city_kana": "トヨカワシ",
+    "town": "大木新町通",
+    "town_kana": "オオギシンマチドオリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1211": {
     "postcode": "4411211",
     "prefecture": "愛知県",

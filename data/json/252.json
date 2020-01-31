@@ -259,6 +259,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0029": {
+    "postcode": "2520029",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "座間市",
+    "city_kana": "ザマシ",
+    "town": "入谷西",
+    "town_kana": "イリヤニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0100": {
     "postcode": "2520100",
     "prefecture": "神奈川県",

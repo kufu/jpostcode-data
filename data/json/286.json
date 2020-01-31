@@ -1637,6 +1637,19 @@
     "office_name": "成田税務署",
     "office_name_kana": "ナリタ ゼイムシヨ"
   },
+  "8520": {
+    "postcode": "2868520",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "成田市",
+    "city_kana": "ナリタシ",
+    "town": "畑ケ田",
+    "town_kana": "ハタケダ",
+    "street": "８５２",
+    "office_name": "国際医療福祉大学成田病院",
+    "office_name_kana": "コクサイイリヨウフクシダイガクナリタビヨウイン"
+  },
   "8521": {
     "postcode": "2868521",
     "prefecture": "千葉県",

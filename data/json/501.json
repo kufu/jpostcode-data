@@ -2187,6 +2187,19 @@
     "office_name": "大野町役場",
     "office_name_kana": "オオノチヨウヤクバ"
   },
+  "0596": {
+    "postcode": "5010596",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "prefecture_code": 21,
+    "city": "揖斐郡大野町",
+    "city_kana": "イビグンオオノチョウ",
+    "town": "五之里",
+    "town_kana": "ゴノリ",
+    "street": "字三林４５１",
+    "office_name": "東海森紙業　（株）　岐阜事業所",
+    "office_name_kana": "トウカイモリシギヨウ (カ) ギフジギヨウシヨ"
+  },
   "0600": {
     "postcode": "5010600",
     "prefecture": "岐阜県",

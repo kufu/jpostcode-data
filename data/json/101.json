@@ -2794,6 +2794,19 @@
     "office_name": "新生フィナンシャル　株式会社",
     "office_name_kana": "シンセイフイナンシヤル カブシキガイシヤ"
   },
+  "8604": {
+    "postcode": "1018604",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "外神田",
+    "town_kana": "ソトカンダ",
+    "street": "３丁目１２番８号住友不動産秋葉原ビル１７階",
+    "office_name": "アルファ債権回収　株式会社",
+    "office_name_kana": "アルフアサイケンカイシユウ カブシキガイシヤ"
+  },
   "8605": {
     "postcode": "1018605",
     "prefecture": "東京都",

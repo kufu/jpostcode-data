@@ -2326,6 +2326,19 @@
     "office_name": "中国電力　株式会社",
     "office_name_kana": "チユウゴクデンリヨク カブシキガイシヤ"
   },
+  "8702": {
+    "postcode": "7308702",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "広島市中区",
+    "city_kana": "ヒロシマシナカク",
+    "town": "小町",
+    "town_kana": "コマチ",
+    "street": "４番３３号（広島中央郵便局私書箱第１９号）",
+    "office_name": "中国電力ネットワーク　株式会社",
+    "office_name_kana": "チユウゴクデンリヨクネツトワ-ク カブシキガイシヤ"
+  },
   "8706": {
     "postcode": "7308706",
     "prefecture": "広島県",

@@ -3395,6 +3395,58 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1413": {
+    "postcode": "0711413",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "上川郡東川町",
+    "city_kana": "カミカワグンヒガシカワチョウ",
+    "town": "新栄東",
+    "town_kana": "シンエイヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "1414": {
+    "postcode": "0711414",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "上川郡東川町",
+    "city_kana": "カミカワグンヒガシカワチョウ",
+    "town": "新栄南",
+    "town_kana": "シンエイミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "1415": {
+    "postcode": "0711415",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "上川郡東川町",
+    "city_kana": "カミカワグンヒガシカワチョウ",
+    "town": "新栄西",
+    "town_kana": "シンエイニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "1416": {
+    "postcode": "0711416",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "上川郡東川町",
+    "city_kana": "カミカワグンヒガシカワチョウ",
+    "town": "新栄北",
+    "town_kana": "シンエイキタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1418": {
     "postcode": "0711418",
     "prefecture": "北海道",

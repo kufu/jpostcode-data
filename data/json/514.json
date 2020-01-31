@@ -1525,6 +1525,19 @@
     "office_name": "ＵＤトラックス　株式会社",
     "office_name_kana": "ユ-デイ-トラツクス カブシキガイシヤ"
   },
+  "0398": {
+    "postcode": "5140398",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "prefecture_code": 24,
+    "city": "津市",
+    "city_kana": "ツシ",
+    "town": "雲出鋼管町",
+    "town_kana": "クモズコウカンチョウ",
+    "street": "１−３",
+    "office_name": "ジャパンマリンユナイテッド　株式会社",
+    "office_name_kana": "ジヤパンマリンユナイテツド カブシキガイシヤ"
+  },
   "0801": {
     "postcode": "5140801",
     "prefecture": "三重県",
