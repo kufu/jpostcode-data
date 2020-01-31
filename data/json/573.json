@@ -1663,18 +1663,18 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0192": {
-    "postcode": "5730192",
+  "0193": {
+    "postcode": "5730193",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
     "prefecture_code": 27,
     "city": "枚方市",
     "city_kana": "ヒラカタシ",
-    "town": "杉",
-    "town_kana": "スギ",
-    "street": "３丁目５０−１",
-    "office_name": "大阪国際大学",
-    "office_name_kana": "オオサカコクサイダイガク"
+    "town": "長尾谷町",
+    "town_kana": "ナガオタニマチ",
+    "street": "１−２−１ＧＬＰ枚方Ⅲ",
+    "office_name": "楽天　株式会社　楽天フルフィルメントセンター枚方",
+    "office_name_kana": "ラクテン カブシキガイシヤ ラクテンフルフイルメントセンタ-ヒラカタ"
   },
   "0195": {
     "postcode": "5730195",

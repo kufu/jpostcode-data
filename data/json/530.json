@@ -2692,6 +2692,19 @@
     "office_name": "株式会社　鴻池組　大阪本店",
     "office_name_kana": "カブシキガイシヤ コウノイケグミ オオサカホンテン"
   },
+  "8520": {
+    "postcode": "5308520",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市北区",
+    "city_kana": "オオサカシキタク",
+    "town": "中之島",
+    "town_kana": "ナカノシマ",
+    "street": "３丁目６−３２ダイビル本館",
+    "office_name": "株式会社　大林組",
+    "office_name_kana": "カブシキガイシヤ オオバヤシグミ"
+  },
   "8521": {
     "postcode": "5308521",
     "prefecture": "大阪府",

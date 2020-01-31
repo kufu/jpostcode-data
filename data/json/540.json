@@ -3086,6 +3086,19 @@
     "office_name": "塩野義製薬　株式会社",
     "office_name_kana": "シオノギセイヤク カブシキガイシヤ"
   },
+  "8615": {
+    "postcode": "5408615",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市中央区",
+    "city_kana": "オオサカシチュウオウク",
+    "town": "大手前",
+    "town_kana": "オオテマエ",
+    "street": "１丁目５−４４大阪合同庁舎第１号館",
+    "office_name": "国土交通省　近畿地方整備局　建政部　建設産業第一課",
+    "office_name_kana": "コクドコウツウシヨウ キンキチホウセイビキヨク ケンセイブ ケンセツサンギヨウダイイチカ"
+  },
   "8620": {
     "postcode": "5408620",
     "prefecture": "大阪府",

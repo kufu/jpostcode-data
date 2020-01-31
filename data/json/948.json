@@ -772,6 +772,19 @@
       "street": null,
       "office_name": null,
       "office_name_kana": null
+    },
+    {
+      "postcode": "9480056",
+      "prefecture": "新潟県",
+      "prefecture_kana": "ニイガタケン",
+      "prefecture_code": 15,
+      "city": "十日町市",
+      "city_kana": "トオカマチシ",
+      "town": "高田町六丁目",
+      "town_kana": "タカダチョウロクチョウメ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
     }
   ],
   "0057": {
