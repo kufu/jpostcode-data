@@ -2900,21 +2900,8 @@
     "city_kana": "キヨスシ",
     "town": "西枇杷島町一反五畝割",
     "town_kana": "ニシビワジマチョウイッタンゴセワリ",
-    "street": "４９６−１（枇杷島郵便局私書箱第２４号）",
+    "street": "４９６−１",
     "office_name": "株式会社　明電舎",
     "office_name_kana": "カブシキガイシヤ メイデンシヤ"
-  },
-  "8604": {
-    "postcode": "4528604",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "清須市",
-    "city_kana": "キヨスシ",
-    "town": "西枇杷島町芳野",
-    "town_kana": "ニシビワジマチョウヨシノ",
-    "street": "３丁目１",
-    "office_name": "（株）　高岳製作所　名古屋事業所",
-    "office_name_kana": "(カブ) タカオカセイサクシヨ ナゴヤジギヨウシヨ"
   }
 }

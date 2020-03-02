@@ -1729,5 +1729,18 @@
     "street": "３１８番地",
     "office_name": "アサヒビール　株式会社　名古屋工場",
     "office_name_kana": "アサヒビ-ル カブシキガイシヤ ナゴヤコウジヨウ"
+  },
+  "8585": {
+    "postcode": "4638585",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市守山区",
+    "city_kana": "ナゴヤシモリヤマク",
+    "town": "大字下志段味",
+    "town_kana": null,
+    "street": "字穴ケ洞２２６６番１３２",
+    "office_name": "名古屋市衛生研究所",
+    "office_name_kana": "ナゴヤシエイセイケンキユウシヨ"
   }
 }

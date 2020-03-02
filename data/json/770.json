@@ -2696,6 +2696,19 @@
     "office_name": "三協商事　株式会社",
     "office_name_kana": "サンキヨウシヨウジ カブシキガイシヤ"
   },
+  "8520": {
+    "postcode": "7708520",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "prefecture_code": 36,
+    "city": "徳島市",
+    "city_kana": "トクシマシ",
+    "town": "寺島本町西",
+    "town_kana": "テラシマホンチョウニシ",
+    "street": "２丁目２２番地１",
+    "office_name": "東京海上日動火災保険　株式会社　徳島支店",
+    "office_name_kana": "トウキヨウカイジヨウニチドウカサイホケン カブシキガイシヤ トクシマシテン"
+  },
   "8521": {
     "postcode": "7708521",
     "prefecture": "徳島県",

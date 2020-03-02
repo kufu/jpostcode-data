@@ -9324,6 +9324,19 @@
     "office_name": "東京簡易裁判所",
     "office_name_kana": "トウキヨウカンイサイバンシヨ"
   },
+  "8973": {
+    "postcode": "1008973",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "霞が関",
+    "town_kana": "カスミガセキ",
+    "street": "１−１−１",
+    "office_name": "出入国在留管理庁",
+    "office_name_kana": "シユツニユウコクザイリユウカンリチヨウ"
+  },
   "8974": {
     "postcode": "1008974",
     "prefecture": "東京都",

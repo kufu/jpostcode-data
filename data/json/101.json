@@ -2099,11 +2099,11 @@
     "prefecture_code": 13,
     "city": "千代田区",
     "city_kana": "チヨダク",
-    "town": "内神田",
-    "town_kana": "ウチカンダ",
-    "street": "１丁目５−１２",
+    "town": "神田三崎町",
+    "town_kana": "カンダミサキチョウ",
+    "street": "３−１−１６神保町北東急ビル",
     "office_name": "オザックス　株式会社",
-    "office_name_kana": "オザツクス カブシキガイシヤ"
+    "office_name_kana": "オザツクス カブシキカイシヤ"
   },
   "8506": {
     "postcode": "1018506",

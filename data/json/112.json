@@ -233,6 +233,19 @@
     "office_name": "キネマ旬報社",
     "office_name_kana": "キネマジユンポウシヤ"
   },
+  "8503": {
+    "postcode": "1128503",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "文京区",
+    "city_kana": "ブンキョウク",
+    "town": "小石川",
+    "town_kana": "コイシカワ",
+    "street": "１丁目１番１号文京ガーデンゲートタワー２０階",
+    "office_name": "太平洋セメント　株式会社",
+    "office_name_kana": "タイヘイヨウセメント カブシキガイシヤ"
+  },
   "8505": {
     "postcode": "1128505",
     "prefecture": "東京都",
@@ -372,9 +385,9 @@
     "city_kana": "ブンキョウク",
     "town": "関口",
     "town_kana": "セキグチ",
-    "street": "１−２０−１０住友不動産江戸川橋駅前ビル５Ｆ",
-    "office_name": "株式会社　Ｇｚブレイン",
-    "office_name_kana": "カブシキガイシヤ ジ-ズブレイン"
+    "street": "１丁目２０番１０号住友不動産江戸川橋駅前ビル５Ｆ",
+    "office_name": "株式会社　ＫＡＤＯＫＡＷＡ　Ｇａｍｅ　Ｌｉｎｋａｇｅ",
+    "office_name_kana": "カブシキガイシヤ カドカワ ゲ-ム リンケ-ジ"
   },
   "8531": {
     "postcode": "1128531",

@@ -194,19 +194,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0024": {
-    "postcode": "2520024",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "座間市",
-    "city_kana": "ザマシ",
-    "town": "入谷",
-    "town_kana": "イリヤ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "0025": {
     "postcode": "2520025",
     "prefecture": "神奈川県",
@@ -3428,7 +3415,7 @@
     "city": "座間市",
     "city_kana": "ザマシ",
     "town": "入谷",
-    "town_kana": "イリヤ",
+    "town_kana": null,
     "street": "３丁目１７０７−１６星野ハイツＣ１０２号",
     "office_name": "ＮＰＯ法人　神奈川県視覚障害者福祉協会",
     "office_name_kana": "エヌピ-オ-ホウジン カナガワケンシカクシヨウガイシヤフクシキヨウカイ"

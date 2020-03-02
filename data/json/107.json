@@ -2092,6 +2092,19 @@
     "office_name": "株式会社　ＴＢＳテレビ",
     "office_name_kana": "カブシキガイシヤ テイビ-エステレビ"
   },
+  "8010": {
+    "postcode": "1078010",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "南青山",
+    "town_kana": "ミナミアオヤマ",
+    "street": "３丁目１０番４３号",
+    "office_name": "きらぼし証券準備　株式会社",
+    "office_name_kana": "キラボシシヨウケンジユンビ カブシキガイシヤ"
+  },
   "8060": {
     "postcode": "1078060",
     "prefecture": "東京都",
