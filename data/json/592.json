@@ -365,6 +365,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8550": {
+    "postcode": "5928550",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "堺市西区",
+    "city_kana": "サカイシニシク",
+    "town": "築港浜寺町",
+    "town_kana": "チッコウハマデラチョウ",
+    "street": "１番地",
+    "office_name": "ＪＸＴＧエネルギー　株式会社　堺製油所",
+    "office_name_kana": "ジエイエツクステイ-ジ-エネルギ- カブシキガイシヤ サカイセイユシヨ"
+  },
   "8585": {
     "postcode": "5928585",
     "prefecture": "大阪府",

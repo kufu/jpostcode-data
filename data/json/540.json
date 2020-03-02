@@ -2731,6 +2731,19 @@
     "office_name": "日本電気　株式会社　関西支社",
     "office_name_kana": "ニホンデンキ カブシキガイシヤ カンサイシシヤ"
   },
+  "8553": {
+    "postcode": "5408553",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市中央区",
+    "city_kana": "オオサカシチュウオウク",
+    "town": "城見",
+    "town_kana": "シロミ",
+    "street": "２丁目２番３３号",
+    "office_name": "パナソニック　株式会社　コネクティッドソリューションズ社　ｙｔｖ京橋ビル",
+    "office_name_kana": "パナソニツク カブシキガイシヤ コネクテイツドソリユ-シヨンズシヤ ワイテイヴイキヨウバシビル"
+  },
   "8555": {
     "postcode": "5408555",
     "prefecture": "大阪府",

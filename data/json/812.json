@@ -1949,6 +1949,19 @@
     "office_name": "株式会社　間組　九州支店",
     "office_name_kana": "カブシキガイシヤ ハザマグミ キユウシユウシテン"
   },
+  "8563": {
+    "postcode": "8128563",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "福岡市博多区",
+    "city_kana": "フクオカシハカタク",
+    "town": "博多駅前",
+    "town_kana": "ハカタエキマエ",
+    "street": "１−１３−１",
+    "office_name": "資生堂ジャパン　株式会社　福岡オフィス",
+    "office_name_kana": "シセイドウジヤパン カブシキガイシヤ フクオカオフイス"
+  },
   "8564": {
     "postcode": "8128564",
     "prefecture": "福岡県",

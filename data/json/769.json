@@ -1600,6 +1600,19 @@
     "office_name": "さぬき市役所　（寒川庁舎）",
     "office_name_kana": "サヌキシヤクシヨ (サンガワチヨウシヤ)"
   },
+  "2396": {
+    "postcode": "7692396",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "prefecture_code": 37,
+    "city": "さぬき市",
+    "city_kana": "サヌキシ",
+    "town": "寒川町石田東甲",
+    "town_kana": null,
+    "street": "４２５番地",
+    "office_name": "さぬき市教育委員会",
+    "office_name_kana": "サヌキシキヨウイクイインカイ"
+  },
   "2401": {
     "postcode": "7692401",
     "prefecture": "香川県",

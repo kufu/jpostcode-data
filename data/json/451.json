@@ -1221,19 +1221,6 @@
     "office_name": "名糖産業　株式会社",
     "office_name_kana": "メイトウサンギヨウ カブシキガイシヤ"
   },
-  "8521": {
-    "postcode": "4518521",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市西区",
-    "city_kana": "ナゴヤシニシク",
-    "town": "児玉",
-    "town_kana": "コダマ",
-    "street": "１丁目８−４",
-    "office_name": "エステー化学　株式会社　名古屋支店",
-    "office_name_kana": "エステ-カガク カブシキガイシヤ ナゴヤシテン"
-  },
   "8522": {
     "postcode": "4518522",
     "prefecture": "愛知県",
@@ -1269,7 +1256,7 @@
     "city_kana": "ナゴヤシニシク",
     "town": "城西",
     "town_kana": "ジョウサイ",
-    "street": "１丁目３−５",
+    "street": "１丁目３−１",
     "office_name": "株式会社　ヤマダヤ",
     "office_name_kana": "カブシキガイシヤ ヤマダヤ"
   },
@@ -1464,7 +1451,7 @@
     "city_kana": "ナゴヤシニシク",
     "town": "牛島町",
     "town_kana": "ウシジマチョウ",
-    "street": "６−１名古屋ルーセントタワー２２Ｆ（名古屋中央郵便局私書箱第４５８号）",
+    "street": "６−１名古屋ルーセントタワー２２Ｆ（名古屋西郵便局ＪＰタワー私書箱第５号）",
     "office_name": "タキヒヨー　株式会社",
     "office_name_kana": "タキヒヨ- カブシキガイシヤ"
   },

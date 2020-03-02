@@ -2924,6 +2924,19 @@
     "office_name": "関西電力　株式会社　枚方営業所",
     "office_name_kana": "カンサイデンリヨク カブシキカイシヤ ヒラカタエイギヨウシヨ"
   },
+  "8567": {
+    "postcode": "5738567",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "枚方市",
+    "city_kana": "ヒラカタシ",
+    "town": "中宮大池",
+    "town_kana": "ナカミヤオオイケ",
+    "street": "２−１０−１",
+    "office_name": "近畿エア・ウォーター　株式会社",
+    "office_name_kana": "キンキエア・ウオ-タ- カブシキカイシヤ"
+  },
   "8573": {
     "postcode": "5738573",
     "prefecture": "大阪府",
