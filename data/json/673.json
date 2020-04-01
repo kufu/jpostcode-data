@@ -789,6 +789,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0416": {
+    "postcode": "6730416",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "三木市",
+    "city_kana": "ミキシ",
+    "town": "府内町",
+    "town_kana": "フナイチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0421": {
     "postcode": "6730421",
     "prefecture": "兵庫県",

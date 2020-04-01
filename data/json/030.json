@@ -2776,6 +2776,19 @@
     "office_name": "東北電力　株式会社　青森支店",
     "office_name_kana": "トウホクデンリヨク カブシキガイシヤ アオモリシテン"
   },
+  "8561": {
+    "postcode": "0308561",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "prefecture_code": 2,
+    "city": "青森市",
+    "city_kana": "アオモリシ",
+    "town": "港町",
+    "town_kana": "ミナトマチ",
+    "street": "２丁目１２番１９号",
+    "office_name": "東北電力ネットワーク　株式会社　青森支社",
+    "office_name_kana": "トウホクデンリヨクネツトワ-ク カブシキガイシヤ アオモリシシヤ"
+  },
   "8566": {
     "postcode": "0308566",
     "prefecture": "青森県",
@@ -2850,9 +2863,9 @@
     "city_kana": "アオモリシ",
     "town": "本町",
     "town_kana": "ホンチョウ",
-    "street": "１丁目３−９",
-    "office_name": "東北電力　株式会社　青森営業所",
-    "office_name_kana": "トウホクデンリヨク カブシキガイシヤ アオモリエイギヨウシヨ"
+    "street": "１丁目３番９号",
+    "office_name": "東北電力ネットワーク　株式会社　青森電力センター",
+    "office_name_kana": "トウホクデンリヨクネツトワ-ク カブシキガイシヤ アオモリデンリヨクセンタ-"
   },
   "8585": {
     "postcode": "0308585",

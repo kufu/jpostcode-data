@@ -1587,6 +1587,19 @@
     "office_name": "日本放送協会　千葉放送局",
     "office_name_kana": "ニツポンホウソウキヨウカイ チバホウソウキヨク"
   },
+  "8611": {
+    "postcode": "2608611",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "千葉市中央区",
+    "city_kana": "チバシチュウオウク",
+    "town": "中央",
+    "town_kana": "チュウオウ",
+    "street": "４−８−１三井住友銀行千葉ビル５階",
+    "office_name": "株式会社　三井住友銀行　財形オフィス",
+    "office_name_kana": "カブシキガイシヤ ミツイスミトモギンコウ ザイケイオフイス"
+  },
   "8612": {
     "postcode": "2608612",
     "prefecture": "千葉県",

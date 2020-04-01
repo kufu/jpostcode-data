@@ -861,6 +861,19 @@
     "office_name": "兼松　株式会社　大阪支社",
     "office_name_kana": "カネマツ カブシキガイシヤ オオサカシシヤ"
   },
+  "8561": {
+    "postcode": "5418561",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市中央区",
+    "city_kana": "オオサカシチュウオウク",
+    "town": "瓦町",
+    "town_kana": "カワラマチ",
+    "street": "２丁目６番６号",
+    "office_name": "株式会社　サンケイリビング新聞社",
+    "office_name_kana": "カブシキガイシヤ サンケイリビングシンブンシヤ"
+  },
   "8563": {
     "postcode": "5418563",
     "prefecture": "大阪府",

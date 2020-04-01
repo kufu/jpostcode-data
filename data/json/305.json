@@ -1652,6 +1652,19 @@
     "office_name": "独立行政法人　国立環境研究所",
     "office_name_kana": "ドクリツギヨウセイホウジン コクリツカンキヨウケンキユウジヨ"
   },
+  "8510": {
+    "postcode": "3058510",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "つくば市",
+    "city_kana": "ツクバシ",
+    "town": "西大橋",
+    "town_kana": "ニシオオハシ",
+    "street": "５９９−１",
+    "office_name": "株式会社　カスミ",
+    "office_name_kana": "カブシキガイシヤ カスミ"
+  },
   "8515": {
     "postcode": "3058515",
     "prefecture": "茨城県",

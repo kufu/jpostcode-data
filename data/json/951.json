@@ -2194,9 +2194,22 @@
     "city_kana": "ニイガタシチュウオウク",
     "town": "上大川前通５番町",
     "town_kana": null,
-    "street": "８４（新潟中郵便局私書箱第５号）",
-    "office_name": "東北電力　株式会社　新潟営業所",
-    "office_name_kana": "トウホクデンリヨク カブシキガイシヤ ニイガタエイギヨウシヨ"
+    "street": "８４番地",
+    "office_name": "東北電力　株式会社　新潟支店",
+    "office_name_kana": "トウホクデンリヨク カブシキガイシヤ ニイガタシテン"
+  },
+  "8640": {
+    "postcode": "9518640",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "新潟市中央区",
+    "city_kana": "ニイガタシチュウオウク",
+    "town": "川岸町",
+    "town_kana": "カワギシチョウ",
+    "street": "１丁目４７番地１",
+    "office_name": "新潟県信用保証協会",
+    "office_name_kana": "ニイガタケンシンヨウホシヨウキヨウカイ"
   },
   "8650": {
     "postcode": "9518650",

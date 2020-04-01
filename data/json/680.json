@@ -5346,19 +5346,6 @@
     "office_name": "鳥取信用金庫",
     "office_name_kana": "トツトリシンヨウキンコ"
   },
-  "8622": {
-    "postcode": "6808622",
-    "prefecture": "鳥取県",
-    "prefecture_kana": "トットリケン",
-    "prefecture_code": 31,
-    "city": "鳥取市",
-    "city_kana": "トットリシ",
-    "town": "新品治町",
-    "town_kana": "シンホンジチョウ",
-    "street": "１−６",
-    "office_name": "中国電力　株式会社　鳥取営業所",
-    "office_name_kana": "チユウゴクデンリヨク カブシキガイシヤ トツトリエイギヨウシヨ"
-  },
   "8634": {
     "postcode": "6808634",
     "prefecture": "鳥取県",
@@ -5366,11 +5353,11 @@
     "prefecture_code": 31,
     "city": "鳥取市",
     "city_kana": "トットリシ",
-    "town": "南吉方",
-    "town_kana": "ミナミヨシカタ",
-    "street": "３丁目２０１",
-    "office_name": "鳥取三洋電機　株式会社",
-    "office_name_kana": "トツトリサンヨウデンキ カブシキガイシヤ"
+    "town": "立川町",
+    "town_kana": "タチカワチョウ",
+    "street": "７丁目１０１番地",
+    "office_name": "三洋テクノソリューションズ鳥取　株式会社",
+    "office_name_kana": "サンヨウテクノソリユ-シヨンズトツトリ カブシキガイシヤ"
   },
   "8644": {
     "postcode": "6808644",

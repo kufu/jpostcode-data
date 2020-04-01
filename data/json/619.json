@@ -484,6 +484,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0247": {
+    "postcode": "6190247",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "相楽郡精華町",
+    "city_kana": "ソウラクグンセイカチョウ",
+    "town": "狛田",
+    "town_kana": "コマダ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0280": {
     "postcode": "6190280",
     "prefecture": "京都府",

@@ -4551,6 +4551,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1507": {
+    "postcode": "3701507",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "秩父市",
+    "city_kana": "チチブシ",
+    "town": "吉田太田部",
+    "town_kana": "ヨシダオオタブ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1511": {
     "postcode": "3701511",
     "prefecture": "群馬県",

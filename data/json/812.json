@@ -2014,6 +2014,19 @@
     "office_name": "株式会社　フジタ　九州支店",
     "office_name_kana": "カブシキガイシヤ フジタ キユウシユウシテン"
   },
+  "8569": {
+    "postcode": "8128569",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "福岡市博多区",
+    "city_kana": "フクオカシハカタク",
+    "town": "博多駅東",
+    "town_kana": "ハカタエキヒガシ",
+    "street": "２丁目１０番７号福岡第二合同庁舎",
+    "office_name": "国土交通省　九州地方整備局　建政部　建設産業課",
+    "office_name_kana": "コクドコウツウシヨウ キユウシユウチホウセイビキヨク ケンセイブ ケンセツサンギヨウカ"
+  },
   "8570": {
     "postcode": "8128570",
     "prefecture": "福岡県",
@@ -2978,19 +2991,6 @@
     "office_name": "日本年金機構　東福岡年金事務所",
     "office_name_kana": "ニツポンネンキンキコウ ヒガシフクオカネンキンジムシヨ"
   },
-  "8658": {
-    "postcode": "8128658",
-    "prefecture": "福岡県",
-    "prefecture_kana": "フクオカケン",
-    "prefecture_code": 40,
-    "city": "福岡市博多区",
-    "city_kana": "フクオカシハカタク",
-    "town": "博多駅東",
-    "town_kana": "ハカタエキヒガシ",
-    "street": "２丁目６−１九勧筑紫通ビル",
-    "office_name": "ソフトバンクモバイル　株式会社",
-    "office_name_kana": "ソフトバンクモバイル カブシキガイシヤ"
-  },
   "8659": {
     "postcode": "8128659",
     "prefecture": "福岡県",
@@ -3328,19 +3328,6 @@
     "street": "４−２５（博多北郵便局私書箱第１８６号）",
     "office_name": "九宏薬品　株式会社",
     "office_name_kana": "キユウコウヤクヒンカブシキガイシヤ"
-  },
-  "8710": {
-    "postcode": "8128710",
-    "prefecture": "福岡県",
-    "prefecture_kana": "フクオカケン",
-    "prefecture_code": 40,
-    "city": "福岡市博多区",
-    "city_kana": "フクオカシハカタク",
-    "town": "店屋町",
-    "town_kana": "テンヤマチ",
-    "street": "１−３５（博多北郵便局私書箱第１３６号）",
-    "office_name": "三井物産　株式会社　九州支社",
-    "office_name_kana": "ミツイブツサン カブシキガイシヤ キユウシユウシシヤ"
   },
   "8717": {
     "postcode": "8128717",
