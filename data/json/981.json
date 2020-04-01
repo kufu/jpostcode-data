@@ -5665,6 +5665,19 @@
     "office_name": "東北電力　株式会社　仙台北営業所",
     "office_name_kana": "トウホクデンリヨク カブシキカイシヤ センダイキタエイギヨウシヨ"
   },
+  "3185": {
+    "postcode": "9813185",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "仙台市泉区",
+    "city_kana": "センダイシイズミク",
+    "town": "八乙女",
+    "town_kana": "ヤオトメ",
+    "street": "４丁目５−１",
+    "office_name": "東北電力ネットワーク　株式会社　仙台北電力センター",
+    "office_name_kana": "トウホクデンリヨクネツトワ-ク カブシキガイシヤ センダイキタデンリヨクセンタ-"
+  },
   "3188": {
     "postcode": "9813188",
     "prefecture": "宮城県",

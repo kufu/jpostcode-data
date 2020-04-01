@@ -4991,9 +4991,9 @@
     "city_kana": "モリオカシ",
     "town": "紺屋町",
     "town_kana": "コンヤチョウ",
-    "street": "１−２５",
-    "office_name": "東北電力　株式会社　盛岡営業所",
-    "office_name_kana": "トウホクデンリヨク カブシキガイシヤ モリオカエイギヨウシヨ"
+    "street": "１番２５号",
+    "office_name": "東北電力　株式会社　岩手支店",
+    "office_name_kana": "トウホクデンリヨク カブシキガイシヤ イワテシテン"
   },
   "8522": {
     "postcode": "0208522",
@@ -5033,6 +5033,32 @@
     "street": "２−５",
     "office_name": "ＪＴＢ　盛岡支店",
     "office_name_kana": "ジエイテイビイ モリオカシテン"
+  },
+  "8526": {
+    "postcode": "0208526",
+    "prefecture": "岩手県",
+    "prefecture_kana": "イワテケン",
+    "prefecture_code": 3,
+    "city": "盛岡市",
+    "city_kana": "モリオカシ",
+    "town": "紺屋町",
+    "town_kana": "コンヤチョウ",
+    "street": "１番２５号",
+    "office_name": "東北電力ネットワーク　株式会社　岩手支社",
+    "office_name_kana": "トウホクデンリヨクネツトワ-ク カブシキガイシヤ イワテシシヤ"
+  },
+  "8527": {
+    "postcode": "0208527",
+    "prefecture": "岩手県",
+    "prefecture_kana": "イワテケン",
+    "prefecture_code": 3,
+    "city": "盛岡市",
+    "city_kana": "モリオカシ",
+    "town": "紺屋町",
+    "town_kana": "コンヤチョウ",
+    "street": "１番２５号",
+    "office_name": "東北電力ネットワーク　株式会社　盛岡電力センター",
+    "office_name_kana": "トウホクデンリヨクネツトワ-ク カブシキガイシヤ モリオカデンリヨクセンタ-"
   },
   "8530": {
     "postcode": "0208530",

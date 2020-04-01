@@ -3886,6 +3886,19 @@
     "office_name": "堺税務署",
     "office_name_kana": "サカイゼイムシヨ"
   },
+  "8551": {
+    "postcode": "5908551",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "堺市堺区",
+    "city_kana": "サカイシサカイク",
+    "town": "大仙西町",
+    "town_kana": "ダイセンニシマチ",
+    "street": "三丁９１番地",
+    "office_name": "コニカミノルタ　株式会社　堺サイト",
+    "office_name_kana": "コニカミノルタ カブシキガイシヤ サカイサイト"
+  },
   "8560": {
     "postcode": "5908560",
     "prefecture": "大阪府",

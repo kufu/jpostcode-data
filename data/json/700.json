@@ -3686,6 +3686,19 @@
     "office_name": "第一生命保険　株式会社　岡山支社",
     "office_name_kana": "ダイイチセイメイホケン カブシキガイシヤ オカヤマシシヤ"
   },
+  "8761": {
+    "postcode": "7008761",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "prefecture_code": 33,
+    "city": "岡山市北区",
+    "city_kana": "オカヤマシキタク",
+    "town": "北長瀬本町",
+    "town_kana": "キタナガセホンマチ",
+    "street": "１９番３４号",
+    "office_name": "岡山県立岡山大安寺中等教育学校",
+    "office_name_kana": "オカヤマケンリツオカヤマダイアンジチユウトウキヨウイクガツコウ"
+  },
   "8794": {
     "postcode": "7008794",
     "prefecture": "岡山県",

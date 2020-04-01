@@ -10437,6 +10437,19 @@
     "office_name": "アルプス電気　（株）　古川工場",
     "office_name_kana": "アルプスデンキ カブ フルカワコウジヨウ"
   },
+  "6182": {
+    "postcode": "9896182",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "大崎市",
+    "city_kana": "オオサキシ",
+    "town": "古川中里",
+    "town_kana": "フルカワナカザト",
+    "street": "１丁目４番１１号",
+    "office_name": "東北電力ネットワーク　株式会社　古川電力センター",
+    "office_name_kana": "トウホクデンリヨクネツトワ-ク カブシキガイシヤ フルカワデンリヨクセンタ-"
+  },
   "6183": {
     "postcode": "9896183",
     "prefecture": "宮城県",
@@ -10485,9 +10498,9 @@
     "city_kana": "オオサキシ",
     "town": "古川中里",
     "town_kana": "フルカワナカザト",
-    "street": "１丁目４−１１",
-    "office_name": "東北電力　株式会社　古川営業所",
-    "office_name_kana": "トウホクデンリヨク カブシキガイシヤ フルカワエイギヨウシヨ"
+    "street": "１丁目４番１１号",
+    "office_name": "東北電力　株式会社　宮城県北営業所",
+    "office_name_kana": "トウホクデンリヨク カブシキガイシヤ ミヤギケンポクエイギヨウシヨ"
   },
   "6193": {
     "postcode": "9896193",

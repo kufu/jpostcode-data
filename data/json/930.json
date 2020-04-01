@@ -11052,5 +11052,18 @@
     "street": "１５−１（富山南郵便局富山駅前分室私書箱第４３号）",
     "office_name": "北陸電力　株式会社　本店",
     "office_name_kana": "ホクリクデンリヨク カブシキガイシヤ ホンテン"
+  },
+  "8687": {
+    "postcode": "9308687",
+    "prefecture": "富山県",
+    "prefecture_kana": "トヤマケン",
+    "prefecture_code": 16,
+    "city": "富山市",
+    "city_kana": "トヤマシ",
+    "town": "牛島町",
+    "town_kana": "ウシジマチョウ",
+    "street": "１５番１号",
+    "office_name": "北陸電力送配電　株式会社",
+    "office_name_kana": "ホクリクデンリヨクソウハイデン カブシキガイシヤ"
   }
 }
