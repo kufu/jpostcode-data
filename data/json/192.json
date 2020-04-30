@@ -1650,6 +1650,19 @@
     "office_name": "八王子税務署",
     "office_name_kana": "ハチオウジゼイムシヨ"
   },
+  "8566": {
+    "postcode": "1928566",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "八王子市",
+    "city_kana": "ハチオウジシ",
+    "town": "明神町",
+    "town_kana": "ミョウジンチョウ",
+    "street": "４丁目９−８",
+    "office_name": "横河計測　株式会社",
+    "office_name_kana": "ヨコカワケイソク カブシキガイシヤ"
+  },
   "8568": {
     "postcode": "1928568",
     "prefecture": "東京都",

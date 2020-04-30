@@ -805,6 +805,19 @@
     "office_name": "札幌私書箱センター",
     "office_name_kana": "サツポロシシヨバコセンタ-"
   },
+  "8555": {
+    "postcode": "0018555",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "札幌市北区",
+    "city_kana": "サッポロシキタク",
+    "town": "北十五条西",
+    "town_kana": "キタ15ジョウニシ",
+    "street": "５丁目１番５号",
+    "office_name": "北海道ホルスタイン農業協同組合",
+    "office_name_kana": "ホツカイドウホルスタインノウギヨウキヨウドウクミアイ"
+  },
   "8577": {
     "postcode": "0018577",
     "prefecture": "北海道",

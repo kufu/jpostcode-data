@@ -1803,8 +1803,8 @@
     "town": "中央",
     "town_kana": "チュウオウ",
     "street": "４丁目１−６",
-    "office_name": "東北電力　株式会社　仙台営業所",
-    "office_name_kana": "トウホクデンリヨク カブシキガイシヤ センダイエイギヨウシヨ"
+    "office_name": "東北電力ネットワーク　株式会社　仙台電力センター",
+    "office_name_kana": "トウホクデンリヨクネツトワ-ク カブシキガイシヤ センダイデンリヨクセンタ-"
   },
   "8446": {
     "postcode": "9808446",
@@ -2325,6 +2325,19 @@
     "street": "１丁目７−１",
     "office_name": "東北電力　株式会社",
     "office_name_kana": "トウホクデンリヨク カブシキガイシヤ"
+  },
+  "8551": {
+    "postcode": "9808551",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "仙台市青葉区",
+    "city_kana": "センダイシアオバク",
+    "town": "本町",
+    "town_kana": "ホンチョウ",
+    "street": "１丁目７−１",
+    "office_name": "東北電力ネットワーク　株式会社",
+    "office_name_kana": "トウホクデンリヨクネツトワ-ク カブシキガイシヤ"
   },
   "8555": {
     "postcode": "9808555",

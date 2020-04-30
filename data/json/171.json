@@ -207,6 +207,19 @@
     "office_name": "財団法人　関東電気保安協会",
     "office_name_kana": "ザイダンホウジン カントウデンキホアンキヨウカイ"
   },
+  "8505": {
+    "postcode": "1718505",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "豊島区",
+    "city_kana": "トシマク",
+    "town": "西池袋",
+    "town_kana": "ニシイケブクロ",
+    "street": "１丁目６−１",
+    "office_name": "ホテルメトロポリタン",
+    "office_name_kana": "ホテルメトロポリタン"
+  },
   "8507": {
     "postcode": "1718507",
     "prefecture": "東京都",

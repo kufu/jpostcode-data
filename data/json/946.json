@@ -1471,19 +1471,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "8511": {
-    "postcode": "9468511",
-    "prefecture": "新潟県",
-    "prefecture_kana": "ニイガタケン",
-    "prefecture_code": 15,
-    "city": "魚沼市",
-    "city_kana": "ウオヌマシ",
-    "town": "大沢",
-    "town_kana": "オオサワ",
-    "street": "２１３−１",
-    "office_name": "魚沼市役所　湯之谷庁舎",
-    "office_name_kana": "ウオヌマシヤクシヨ ユノタニチヨウシヤ"
-  },
   "8513": {
     "postcode": "9468513",
     "prefecture": "新潟県",
@@ -1497,19 +1484,6 @@
     "office_name": "アルプス電気　株式会社　磁気応用事業部　小出工場",
     "office_name_kana": "アルプスデンキ カブシキガイシヤ ジキオウヨウジギヨウブ コイデコウジヨウ"
   },
-  "8555": {
-    "postcode": "9468555",
-    "prefecture": "新潟県",
-    "prefecture_kana": "ニイガタケン",
-    "prefecture_code": 15,
-    "city": "魚沼市",
-    "city_kana": "ウオヌマシ",
-    "town": "今泉",
-    "town_kana": "イマイズミ",
-    "street": "１４８８−１",
-    "office_name": "魚沼市役所　広神庁舎",
-    "office_name_kana": "ウオヌマシヤクシヨ ヒロカミチヨウシヤ"
-  },
   "8601": {
     "postcode": "9468601",
     "prefecture": "新潟県",
@@ -1519,8 +1493,8 @@
     "city_kana": "ウオヌマシ",
     "town": "小出島",
     "town_kana": "コイデジマ",
-    "street": "１３０−１",
-    "office_name": "魚沼市役所　小出庁舎",
-    "office_name_kana": "ウオヌマシヤクシヨ コイデチヨウシヤ"
+    "street": "９１０番地",
+    "office_name": "魚沼市役所　本庁舎",
+    "office_name_kana": "ウオヌマシヤクシヨ ホンチヨウシヤ"
   }
 }

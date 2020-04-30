@@ -971,21 +971,8 @@
     "town": "前田七条",
     "town_kana": "マエダ7ジョウ",
     "street": "１５丁目４番１号",
-    "office_name": "北海道工業大学",
-    "office_name_kana": "ホツカイドウコウギヨウダイガク"
-  },
-  "8590": {
-    "postcode": "0068590",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "札幌市手稲区",
-    "city_kana": "サッポロシテイネク",
-    "town": "前田七条",
-    "town_kana": "マエダ7ジョウ",
-    "street": "１５丁目４番１号",
-    "office_name": "北海道薬科大学",
-    "office_name_kana": "ホツカイドウヤツカダイガク"
+    "office_name": "北海道科学大学",
+    "office_name_kana": "ホツカイドウカガクダイガク"
   },
   "8612": {
     "postcode": "0068612",

@@ -2703,6 +2703,19 @@
     "office_name": "株式会社　ドコモＣＳ　神奈川支店",
     "office_name_kana": "カブシキガイシヤ ドコモシ-エス カナガワシテン"
   },
+  "8538": {
+    "postcode": "2208538",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "みなとみらい",
+    "town_kana": "ミナトミライ",
+    "street": "４丁目６番２号みなとみらいグランドセントラルタワー９階",
+    "office_name": "全国健康保険協会　神奈川支部",
+    "office_name_kana": "ゼンコクケンコウホケンキヨウカイ カナガワシブ"
+  },
   "8540": {
     "postcode": "2208540",
     "prefecture": "神奈川県",

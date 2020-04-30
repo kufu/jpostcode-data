@@ -573,8 +573,8 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0898": {
-    "postcode": "4300898",
+  "0897": {
+    "postcode": "4300897",
     "prefecture": "静岡県",
     "prefecture_kana": "シズオカケン",
     "prefecture_code": 22,
@@ -585,6 +585,19 @@
     "street": "６００番地の１",
     "office_name": "浜松市　南区役所",
     "office_name_kana": "ハママツシ ミナミクヤクシヨ"
+  },
+  "0898": {
+    "postcode": "4300898",
+    "prefecture": "静岡県",
+    "prefecture_kana": null,
+    "prefecture_code": null,
+    "city": "浜松市",
+    "city_kana": null,
+    "town": "瓜内町",
+    "town_kana": null,
+    "street": "５４０番地",
+    "office_name": "株式会社　マルイチ",
+    "office_name_kana": "カブシキガイシヤ マルイチ"
   },
   "0901": {
     "postcode": "4300901",

@@ -792,6 +792,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0082": {
+    "postcode": "2900082",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "市原市",
+    "city_kana": "イチハラシ",
+    "town": "五井中央南",
+    "town_kana": "ゴイチュウオウミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0141": {
     "postcode": "2900141",
     "prefecture": "千葉県",
