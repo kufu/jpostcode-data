@@ -1975,6 +1975,19 @@
     "office_name": "カワボウ　株式会社",
     "office_name_kana": "カワボウ カブシキカイシヤ"
   },
+  "8503": {
+    "postcode": "5028503",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "prefecture_code": 21,
+    "city": "岐阜市",
+    "city_kana": "ギフシ",
+    "town": "学園町",
+    "town_kana": "ガクエンチョウ",
+    "street": "２−３３",
+    "office_name": "岐阜県障がい者総合就労支援センター、ぎふ木遊館",
+    "office_name_kana": "ギフケンシヨウガイシヤソウゴウシユウロウシエンセンタ-、ギフモクユウカン"
+  },
   "8511": {
     "postcode": "5028511",
     "prefecture": "岐阜県",

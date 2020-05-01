@@ -168,6 +168,19 @@
     "office_name": "国立市役所",
     "office_name_kana": "クニタチシヤクシヨ"
   },
+  "8505": {
+    "postcode": "1868505",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "国立市",
+    "city_kana": "クニタチシ",
+    "town": "東",
+    "town_kana": "ヒガシ",
+    "street": "１丁目４−１５−６Ｆ",
+    "office_name": "ユアサ商事　株式会社　西関東営業所",
+    "office_name_kana": "ユアサシヨウジ カブシキガイシヤ ニシカントウエイギヨウシヨ"
+  },
   "8519": {
     "postcode": "1868519",
     "prefecture": "東京都",

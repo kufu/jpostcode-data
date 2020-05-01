@@ -740,6 +740,19 @@
     "office_name": "株式会社　ＩＨＩ　砂町工場",
     "office_name_kana": "カブシキガイシヤ アイエイチアイ スナマチコウジヨウ"
   },
+  "8651": {
+    "postcode": "1368651",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "新砂",
+    "town_kana": "シンスナ",
+    "street": "３−２−９",
+    "office_name": "Ｘフロンティア",
+    "office_name_kana": "エツクスフロンテイア"
+  },
   "8666": [
     {
       "postcode": "1368666",

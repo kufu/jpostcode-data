@@ -63,18 +63,5 @@
     "street": "２丁目４−８（新東京郵便局私書箱第８６号）",
     "office_name": "株式会社　ニッポン放送",
     "office_name_kana": "カブシキガイシヤ ニツポンホウソウ"
-  },
-  "8719": {
-    "postcode": "1378719",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "江東区",
-    "city_kana": "コウトウク",
-    "town": "新砂",
-    "town_kana": "シンスナ",
-    "street": "（新東京局私書箱第１４５号）",
-    "office_name": "コミックマーケット",
-    "office_name_kana": "コミツクマ-ケツト"
   }
 }

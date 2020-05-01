@@ -1306,11 +1306,11 @@
     "prefecture_code": 1,
     "city": "函館市",
     "city_kana": "ハコダテシ",
-    "town": "大手町",
-    "town_kana": "オオテマチ",
-    "street": "２番７号（函館中央郵便局私書箱第４５号）",
-    "office_name": "函館信用金庫",
-    "office_name_kana": "ハコダテシンヨウキンコ"
+    "town": "上新川町",
+    "town_kana": "カミシンカワチョウ",
+    "street": "１番２５号（函館中央郵便局私書箱第４５号）",
+    "office_name": "道南うみ街信用金庫",
+    "office_name_kana": "ドウナンウミマチシンヨウキンコ"
   },
   "8727": {
     "postcode": "0408727",

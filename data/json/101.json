@@ -558,6 +558,19 @@
     "office_name": "旭化成　株式会社",
     "office_name_kana": "アサヒカセイ カブシキガイシヤ"
   },
+  "8189": {
+    "postcode": "1018189",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "神田錦町",
+    "town_kana": "カンダニシキチョウ",
+    "street": "２丁目２番地１ＫＡＮＤＡＳＱＵＡＲＥ９階",
+    "office_name": "株式会社　富士薬品",
+    "office_name_kana": "カブシキガイシヤ フジヤクヒン"
+  },
   "8201": {
     "postcode": "1018201",
     "prefecture": "東京都",

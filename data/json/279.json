@@ -337,6 +337,19 @@
     "office_name": "株式会社　Ｅプロダクション",
     "office_name_kana": "カブシキカイシヤ イ-プロダクシヨン"
   },
+  "8517": {
+    "postcode": "2798517",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "浦安市",
+    "city_kana": "ウラヤスシ",
+    "town": "舞浜",
+    "town_kana": "マイハマ",
+    "street": "１番地１",
+    "office_name": "株式会社　ミリアルリゾートホテルズ（オリエンタルランド内第３別館１階）",
+    "office_name_kana": "カブイキガイシヤ ミリアルリゾ-トホテルズ(オリエンタルランドナイダイサンベツカンイチカイ)"
+  },
   "8518": {
     "postcode": "2798518",
     "prefecture": "千葉県",

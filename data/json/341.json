@@ -669,11 +669,11 @@
     "prefecture_code": 11,
     "city": "三郷市",
     "city_kana": "ミサトシ",
-    "town": "幸房",
-    "town_kana": "コウボウ",
-    "street": "７４５",
-    "office_name": "医療法人　社団愛友会　三郷順心総合病院",
-    "office_name_kana": "イリヨウホウジン シヤダンアイユウカイ ミサトジユンシンソウゴウビヨウイン"
+    "town": "中央",
+    "town_kana": "チュウオウ",
+    "street": "四丁目５番地１",
+    "office_name": "医療法人社団　愛友会　三郷中央総合病院",
+    "office_name_kana": "イリヨウホウジンシヤダン アイユウカイ ミサトチユウオウソウゴウビヨウイン"
   },
   "8527": {
     "postcode": "3418527",

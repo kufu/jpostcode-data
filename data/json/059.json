@@ -708,11 +708,11 @@
     "prefecture_code": 1,
     "city": "登別市",
     "city_kana": "ノボリベツシ",
-    "town": "登別温泉町",
-    "town_kana": "ノボリベツオンセンチョウ",
-    "street": "１３３",
-    "office_name": "登別厚生年金病院",
-    "office_name_kana": "ノボリベツコウセイネンキンビヨウイン"
+    "town": "登別東町",
+    "town_kana": "ノボリベツヒガシチョウ",
+    "street": "３丁目１０番２２",
+    "office_name": "独立行政法人　地域医療機能推進機構　登別病院",
+    "office_name_kana": "ドクリツギヨウセイホウジン チイキイリヨウキノウスイシンキコウ ノボリベツビヨウイン"
   },
   "0641": {
     "postcode": "0590641",

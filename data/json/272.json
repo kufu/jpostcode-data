@@ -714,6 +714,19 @@
     "office_name": "アマゾン　市川ＦＣ　入庫係",
     "office_name_kana": "アマゾン イチカワエフシ- ニユウコカカリ"
   },
+  "0195": {
+    "postcode": "2720195",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "市川市",
+    "city_kana": "イチカワシ",
+    "town": "塩浜",
+    "town_kana": "シオハマ",
+    "street": "１−６−３ＧＬＰ・ＭＦＬＰ市川塩浜",
+    "office_name": "楽天　株式会社　楽天フルフィルメントセンター市川２",
+    "office_name_kana": "ラクテン カブシキガイシヤ ラクテンフルフイルメントセンタ-イチカワ2"
+  },
   "0801": {
     "postcode": "2720801",
     "prefecture": "千葉県",
