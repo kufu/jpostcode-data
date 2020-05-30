@@ -3735,19 +3735,34 @@
     "office_name": "株式会社　ＺＴＶ",
     "office_name_kana": "カブシキガイシヤ ゼツトテイヴイ"
   },
-  "8558": {
-    "postcode": "5148558",
-    "prefecture": "三重県",
-    "prefecture_kana": "ミエケン",
-    "prefecture_code": 24,
-    "city": "津市",
-    "city_kana": "ツシ",
-    "town": "丸之内",
-    "town_kana": "マルノウチ",
-    "street": "２−２１",
-    "office_name": "中部電力　株式会社　三重支店",
-    "office_name_kana": "チユウブデンリヨク カブシキガイシヤ ミエシテン"
-  },
+  "8558": [
+    {
+      "postcode": "5148558",
+      "prefecture": "三重県",
+      "prefecture_kana": "ミエケン",
+      "prefecture_code": 24,
+      "city": "津市",
+      "city_kana": "ツシ",
+      "town": "丸之内",
+      "town_kana": "マルノウチ",
+      "street": "２−２１",
+      "office_name": "中部電力パワーグリッド　株式会社　三重支社",
+      "office_name_kana": "チユウブデンリヨクパワ-グリツド カブシキガイシヤ ミエシシヤ"
+    },
+    {
+      "postcode": "5148558",
+      "prefecture": "三重県",
+      "prefecture_kana": "ミエケン",
+      "prefecture_code": 24,
+      "city": "津市",
+      "city_kana": "ツシ",
+      "town": "丸之内",
+      "town_kana": "マルノウチ",
+      "street": "２−２１",
+      "office_name": "中部電力ミライズ　株式会社　三重営業本部",
+      "office_name_kana": "チユウブデンリヨクミライズ カブシキガイシヤ ミエエイギヨウホンブ"
+    }
+  ],
   "8560": {
     "postcode": "5148560",
     "prefecture": "三重県",

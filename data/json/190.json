@@ -1314,6 +1314,19 @@
     "office_name": "読売新聞　東京本社　立川支局",
     "office_name_kana": "ヨミウリシンブン トウキヨウホンシヤ タチカワシキヨク"
   },
+  "8542": {
+    "postcode": "1908542",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "立川市",
+    "city_kana": "タチカワシ",
+    "town": "緑町",
+    "town_kana": "ミドリチョウ",
+    "street": "４−５壽屋ビル",
+    "office_name": "株式会社　壽屋",
+    "office_name_kana": "カブシキガイシヤ コトブキヤ"
+  },
   "8543": {
     "postcode": "1908543",
     "prefecture": "東京都",

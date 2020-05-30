@@ -493,6 +493,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0066": {
+    "postcode": "1350066",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "海の森",
+    "town_kana": "ウミノモリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0091": {
     "postcode": "1350091",
     "prefecture": "東京都",
@@ -515,6 +528,19 @@
     "city_kana": "シナガワク",
     "town": "東八潮",
     "town_kana": "ヒガシヤシオ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0093": {
+    "postcode": "1350093",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "大田区",
+    "city_kana": "オオタク",
+    "town": "令和島",
+    "town_kana": "レイワジマ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

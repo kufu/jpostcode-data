@@ -9521,19 +9521,34 @@
     "office_name": "岡崎信用金庫",
     "office_name_kana": "オカザキシンヨウキンコ"
   },
-  "8606": {
-    "postcode": "4448606",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "岡崎市",
-    "city_kana": "オカザキシ",
-    "town": "戸崎町",
-    "town_kana": "トサキチョウ",
-    "street": "字大道東７",
-    "office_name": "中部電力　株式会社　岡崎支店",
-    "office_name_kana": "チユウブデンリヨク カブシキガイシヤ オカザキシテン"
-  },
+  "8606": [
+    {
+      "postcode": "4448606",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "岡崎市",
+      "city_kana": "オカザキシ",
+      "town": "戸崎町",
+      "town_kana": "トサキチョウ",
+      "street": "字大道東７",
+      "office_name": "中部電力パワーグリッド　株式会社　岡崎支社",
+      "office_name_kana": "チユウブデンリヨクパワ-グリツド カブシキガイシヤ オカザキシシヤ"
+    },
+    {
+      "postcode": "4448606",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "岡崎市",
+      "city_kana": "オカザキシ",
+      "town": "戸崎町",
+      "town_kana": "トサキチョウ",
+      "street": "字大道東７",
+      "office_name": "中部電力ミライズ　株式会社　岡崎営業本部",
+      "office_name_kana": "チユウブデンリヨクミライズ カブシキガイシヤ オカザキエイギヨウホンブ"
+    }
+  ],
   "8610": {
     "postcode": "4448610",
     "prefecture": "愛知県",

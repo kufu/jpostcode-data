@@ -1321,9 +1321,9 @@
     "prefecture_code": 23,
     "city": "名古屋市東区",
     "city_kana": "ナゴヤシヒガシク",
-    "town": "矢田南",
-    "town_kana": "ヤダミナミ",
-    "street": "５丁目１−１４",
+    "town": "大幸南",
+    "town_kana": "ダイコウミナミ",
+    "street": "１丁目１−９",
     "office_name": "三菱電機システムサービス　株式会社",
     "office_name_kana": "ミツビシデンキシステムサ-ビス カブシキガイシヤ"
   },
@@ -1353,19 +1353,47 @@
     "office_name": "尾張精機　株式会社",
     "office_name_kana": "オワリセイキ カブシキガイシヤ"
   },
-  "8680": {
-    "postcode": "4618680",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市東区",
-    "city_kana": "ナゴヤシヒガシク",
-    "town": "東新町",
-    "town_kana": "ヒガシシンチョウ",
-    "street": "１（名古屋東郵便局私書箱第１５８号）",
-    "office_name": "中部電力",
-    "office_name_kana": "チユウブデンリヨク"
-  },
+  "8680": [
+    {
+      "postcode": "4618680",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "名古屋市東区",
+      "city_kana": "ナゴヤシヒガシク",
+      "town": "東新町",
+      "town_kana": "ヒガシシンチョウ",
+      "street": "１（名古屋東郵便局私書箱第１５８号）",
+      "office_name": "中部電力パワーグリッド　株式会社",
+      "office_name_kana": "チユウブデンリヨクパワ-グリツド カブシキガイシヤ"
+    },
+    {
+      "postcode": "4618680",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "名古屋市東区",
+      "city_kana": "ナゴヤシヒガシク",
+      "town": "東新町",
+      "town_kana": "ヒガシシンチョウ",
+      "street": "１（名古屋東郵便局私書箱第１５８号）",
+      "office_name": "中部電力ミライズ　株式会社",
+      "office_name_kana": "チユウブデンリヨクミライズ カブシキガイシヤ"
+    },
+    {
+      "postcode": "4618680",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "名古屋市東区",
+      "city_kana": "ナゴヤシヒガシク",
+      "town": "東新町",
+      "town_kana": "ヒガシシンチョウ",
+      "street": "１（名古屋東郵便局私書箱第１５８号）",
+      "office_name": "中部電力",
+      "office_name_kana": "チユウブデンリヨク"
+    }
+  ],
   "8703": {
     "postcode": "4618703",
     "prefecture": "愛知県",

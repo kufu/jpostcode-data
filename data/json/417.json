@@ -1143,6 +1143,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0856": {
+    "postcode": "4170856",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "富士市",
+    "city_kana": "フジシ",
+    "town": "さんどまき",
+    "town_kana": "サンドマキ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0861": {
     "postcode": "4170861",
     "prefecture": "静岡県",
