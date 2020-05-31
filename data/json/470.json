@@ -534,6 +534,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0186": {
+    "postcode": "4700186",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "愛知郡東郷町",
+    "city_kana": "アイチグントウゴウチョウ",
+    "town": "",
+    "town_kana": "",
+    "street": "東郷中央土地区画整理事業６２街区１，３",
+    "office_name": "ららぽーと愛知東郷",
+    "office_name_kana": "ララポ-トアイチトウゴウ"
+  },
   "0188": {
     "postcode": "4700188",
     "prefecture": "愛知県",

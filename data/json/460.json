@@ -389,19 +389,34 @@
     "office_name": "エヌエスディ　株式会社",
     "office_name_kana": "エヌエスデイ カブシキガイシヤ"
   },
-  "8310": {
-    "postcode": "4608310",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "千代田",
-    "town_kana": "チヨダ",
-    "street": "２丁目１２−１４",
-    "office_name": "中部電力　株式会社　中電千代田ビル（名古屋支店・中営業所・中電力センター）",
-    "office_name_kana": "チユウブデンリヨク カブシキガイシヤ チユウデンチヨダビル(ナゴヤシテン・ナカエイギヨウシヨ・ナカデンリヨクセンタ-)"
-  },
+  "8310": [
+    {
+      "postcode": "4608310",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "名古屋市中区",
+      "city_kana": "ナゴヤシナカク",
+      "town": "千代田",
+      "town_kana": "チヨダ",
+      "street": "２丁目１２−１４",
+      "office_name": "中部電力パワーグリッド　株式会社　中電千代田ビル（名古屋支店、中営業所、中電力センター）",
+      "office_name_kana": "チユウブデンリヨクパワ-グリツド カブシキカイシヤ チユウデンチヨダビル"
+    },
+    {
+      "postcode": "4608310",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "名古屋市中区",
+      "city_kana": "ナゴヤシナカク",
+      "town": "千代田",
+      "town_kana": "チヨダ",
+      "street": "２丁目１２−１４",
+      "office_name": "中部電力ミライズ　株式会社　名古屋営業本部",
+      "office_name_kana": "チユウブデンリヨクミライズ カブシキカイシヤ ナゴヤエイギヨウホンブ"
+    }
+  ],
   "8311": {
     "postcode": "4608311",
     "prefecture": "愛知県",
