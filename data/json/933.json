@@ -753,6 +753,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0068": {
+    "postcode": "9330068",
+    "prefecture": "富山県",
+    "prefecture_kana": "トヤマケン",
+    "prefecture_code": 16,
+    "city": "高岡市",
+    "city_kana": "タカオカシ",
+    "town": "志貴野しらとり台",
+    "town_kana": "シキノシラトリダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0071": {
     "postcode": "9330071",
     "prefecture": "富山県",
@@ -5158,9 +5171,9 @@
     "prefecture_code": 16,
     "city": "高岡市",
     "city_kana": "タカオカシ",
-    "town": "守山町",
-    "town_kana": "モリヤママチ",
-    "street": "２２（高岡郵便局私書箱第４２号）",
+    "town": "下関町",
+    "town_kana": "シモゼキマチ",
+    "street": "３番１号（高岡郵便局私書箱第４２号）",
     "office_name": "株式会社　富山銀行　本店",
     "office_name_kana": "カブシキガイシヤ トヤマギンコウ ホンテン"
   },

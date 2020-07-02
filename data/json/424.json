@@ -2300,6 +2300,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0908": {
+    "postcode": "4240908",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "静岡市清水区",
+    "city_kana": "シズオカシシミズク",
+    "town": "三保松原町",
+    "town_kana": "ミホマツバラチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0911": {
     "postcode": "4240911",
     "prefecture": "静岡県",

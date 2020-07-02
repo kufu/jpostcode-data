@@ -1,4 +1,17 @@
 {
+  "0039": {
+    "postcode": "1950039",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "町田市",
+    "city_kana": "マチダシ",
+    "town": "藤の台",
+    "town_kana": "フジノダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0051": {
     "postcode": "1950051",
     "prefecture": "東京都",
@@ -203,6 +216,19 @@
     "city_kana": "マチダシ",
     "town": "山崎",
     "town_kana": "ヤマザキ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0076": {
+    "postcode": "1950076",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "町田市",
+    "city_kana": "マチダシ",
+    "town": "金井ヶ丘",
+    "town_kana": "カナイガオカ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

@@ -1559,6 +1559,19 @@
     "office_name": "（株）　帝国データバンク　北見支店",
     "office_name_kana": "カブシキガイシヤ テイコクデ-タバンクキタミシテン"
   },
+  "8701": {
+    "postcode": "0908701",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "北見市",
+    "city_kana": "キタミシ",
+    "town": "中ノ島町",
+    "town_kana": "ナカノシマチョウ",
+    "street": "１丁目４番１号",
+    "office_name": "北見市上下水道局",
+    "office_name_kana": "キタミシジヨウゲスイドウキヨク"
+  },
   "8710": {
     "postcode": "0908710",
     "prefecture": "北海道",
