@@ -1046,6 +1046,19 @@
     "office_name": "熊本県県央広域本部税務部",
     "office_name_kana": "クマモトケンケンオウコウイキホンブゼイムブ"
   },
+  "8585": {
+    "postcode": "8628585",
+    "prefecture": "熊本県",
+    "prefecture_kana": "クマモトケン",
+    "prefecture_code": 43,
+    "city": "熊本市中央区",
+    "city_kana": "クマモトシチュウオウク",
+    "town": "九品寺",
+    "town_kana": "クホンジ",
+    "street": "１−２−１１",
+    "office_name": "西日本電信電話　株式会社　熊本支店",
+    "office_name_kana": "ニシニホンデンシンデンワ カブシキガイシヤ クマモトシテン"
+  },
   "8601": {
     "postcode": "8628601",
     "prefecture": "熊本県",
