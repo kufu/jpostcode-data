@@ -2003,6 +2003,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1266": {
+    "postcode": "8071266",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "北九州市八幡西区",
+    "city_kana": "キタキュウシュウシヤハタニシク",
+    "town": "木屋瀬東",
+    "town_kana": "コヤノセヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1300": {
     "postcode": "8071300",
     "prefecture": "福岡県",

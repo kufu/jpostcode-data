@@ -545,6 +545,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0049": {
+    "postcode": "0130049",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "prefecture_code": 5,
+    "city": "横手市",
+    "city_kana": "ヨコテシ",
+    "town": "駅西",
+    "town_kana": "エキニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0051": {
     "postcode": "0130051",
     "prefecture": "秋田県",

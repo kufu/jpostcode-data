@@ -1404,5 +1404,31 @@
     "street": "５丁目１番３−１０１号東京富山会館７階",
     "office_name": "クラリオン販売　株式会社",
     "office_name_kana": "クラリオンハンバイ カブシキガイシヤ"
+  },
+  "8750": {
+    "postcode": "1128750",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "文京区",
+    "city_kana": "ブンキョウク",
+    "town": "小石川",
+    "town_kana": "コイシカワ",
+    "street": "１−３−１１",
+    "office_name": "キャリテック　株式会社",
+    "office_name_kana": "キヤリテツク カブシキカイシヤ"
+  },
+  "8778": {
+    "postcode": "1128778",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "文京区",
+    "city_kana": "ブンキョウク",
+    "town": "小石川",
+    "town_kana": "コイシカワ",
+    "street": "１丁目１番１号",
+    "office_name": "三菱食品　株式会社",
+    "office_name_kana": "ミツビシシヨクヒン カブシキガイシヤ"
   }
 }

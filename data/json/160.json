@@ -1572,6 +1572,19 @@
     "office_name": "株式会社　サンミュージックプロダクション",
     "office_name_kana": "カブシキガイシヤ サンミユ-ジツクプロダクシヨン"
   },
+  "8507": {
+    "postcode": "1608507",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "四谷",
+    "town_kana": "ヨツヤ",
+    "street": "１丁目６番１号６階",
+    "office_name": "全国健康保険協会　本部",
+    "office_name_kana": "ゼンコクケンコウホケンキヨウカイ ホンブ"
+  },
   "8510": {
     "postcode": "1608510",
     "prefecture": "東京都",
@@ -1581,7 +1594,7 @@
     "city_kana": "シンジュクク",
     "town": "四谷",
     "town_kana": "ヨツヤ",
-    "street": "２丁目４",
+    "street": "１丁目６番１号コモレ四谷・四谷タワー５階",
     "office_name": "新菱冷熱工業　株式会社",
     "office_name_kana": "シンリヨウレイネツコウギヨウ カブシキガイシヤ"
   },

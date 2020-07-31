@@ -2119,5 +2119,18 @@
     "street": "１（筑波農林研究団地内郵便局私書箱第１６号）",
     "office_name": "独立行政法人　森林総合研究所",
     "office_name_kana": "ドクリツギヨウセイホウジン シンリンソウゴウケンキユジヨ"
+  },
+  "8701": {
+    "postcode": "3058701",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "つくば市",
+    "city_kana": "ツクバシ",
+    "town": "さくらの森",
+    "town_kana": "サクラノモリ",
+    "street": "２５−３ＺＯＺＯＢＡＳＥつくば２",
+    "office_name": "株式会社　ＺＯＺＯ",
+    "office_name_kana": "カブシキガイシヤ ゾゾ"
   }
 }

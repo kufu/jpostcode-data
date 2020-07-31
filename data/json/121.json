@@ -623,6 +623,19 @@
     "office_name": "足立福祉事務所　北部福祉課",
     "office_name_kana": "アダチフクシジムシヨ ホクブフクシカ"
   },
+  "8577": {
+    "postcode": "1218577",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "足立区",
+    "city_kana": "アダチク",
+    "town": "花畑",
+    "town_kana": "ハナハタ",
+    "street": "５−６−１",
+    "office_name": "文教大学　東京あだちキャンパス",
+    "office_name_kana": "ブンキヨウダイガク トウキヨウアダチキヤンパス"
+  },
   "8585": {
     "postcode": "1218585",
     "prefecture": "東京都",

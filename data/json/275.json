@@ -389,6 +389,19 @@
     "office_name": "セイコークロック　株式会社",
     "office_name_kana": "セイコ-クロツク カブシキガイシヤ"
   },
+  "8565": {
+    "postcode": "2758565",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "習志野市",
+    "city_kana": "ナラシノシ",
+    "town": "茜浜",
+    "town_kana": "アカネハマ",
+    "street": "３−７−２ＺＯＺＯＢＡＳＥ習志野２",
+    "office_name": "株式会社　ＺＯＺＯ",
+    "office_name_kana": "カブシキガイシヤ ゾゾ"
+  },
   "8572": {
     "postcode": "2758572",
     "prefecture": "千葉県",

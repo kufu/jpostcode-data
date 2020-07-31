@@ -7511,9 +7511,9 @@
     "prefecture_code": 13,
     "city": "港区",
     "city_kana": "ミナトク",
-    "town": "海岸",
-    "town_kana": "カイガン",
-    "street": "１丁目２番３号",
+    "town": "虎ノ門",
+    "town_kana": "トラノモン",
+    "street": "１丁目３番１号",
     "office_name": "一般財団法人　日本不動産研究所",
     "office_name_kana": "イツパンザイダンホウジン ニホンフドウサンケンキユウジヨ"
   },
@@ -8101,6 +8101,19 @@
     "street": "４丁目３−１３ヒューリック神谷町ビル４階",
     "office_name": "日昭産業　株式会社",
     "office_name_kana": "ニツシヨウサンギヨウ カブシキガイシヤ"
+  },
+  "8568": {
+    "postcode": "1058568",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝公園",
+    "town_kana": "シバコウエン",
+    "street": "２丁目４番１号芝パークビルＢ館１２階",
+    "office_name": "ＹＫアクロス　株式会社",
+    "office_name_kana": "ワイケイアクロス カブシキガイシヤ"
   },
   "8574": {
     "postcode": "1058574",

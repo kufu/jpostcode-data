@@ -1091,6 +1091,19 @@
     "office_name": "株式会社　ディスクガレージ",
     "office_name_kana": "カブシキガイシヤ デイスクガレ-ジ"
   },
+  "8671": {
+    "postcode": "1538671",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "目黒区",
+    "city_kana": "メグロク",
+    "town": "下目黒",
+    "town_kana": "シモメグロ",
+    "street": "２丁目１７−７",
+    "office_name": "大東通信機　株式会社",
+    "office_name_kana": "ダイトウツウシンキ カブシキガイシヤ"
+  },
   "8677": {
     "postcode": "1538677",
     "prefecture": "東京都",

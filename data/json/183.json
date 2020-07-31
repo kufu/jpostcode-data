@@ -896,6 +896,19 @@
     "office_name": "東京都立　小児総合医療センター",
     "office_name_kana": "トウキヨウトリツ シヨウニソウゴウイリヨウセンタ-"
   },
+  "8570": {
+    "postcode": "1838570",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "府中市",
+    "city_kana": "フチュウシ",
+    "town": "四谷",
+    "town_kana": "ヨツヤ",
+    "street": "５丁目２３−６２",
+    "office_name": "アマゾン府中ＦＣ",
+    "office_name_kana": "アマゾンフチユウエフシ-"
+  },
   "8585": {
     "postcode": "1838585",
     "prefecture": "東京都",
