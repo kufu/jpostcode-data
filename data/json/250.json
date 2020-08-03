@@ -792,6 +792,19 @@
     "office_name": "南足柄市役所",
     "office_name_kana": "ミナミアシガラシヤクシヨ"
   },
+  "0193": {
+    "postcode": "2500193",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "南足柄市",
+    "city_kana": "ミナミアシガラシ",
+    "town": "中沼",
+    "town_kana": "ナカヌマ",
+    "street": "２１０",
+    "office_name": "富士フイルム　株式会社　神奈川事業場",
+    "office_name_kana": "フジフイルム カブシキガイシヤ カナガワジギヨウジヨウ"
+  },
   "0201": {
     "postcode": "2500201",
     "prefecture": "神奈川県",

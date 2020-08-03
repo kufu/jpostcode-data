@@ -872,6 +872,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0218": {
+    "postcode": "4700218",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "みよし市",
+    "city_kana": "ミヨシシ",
+    "town": "黒笹山手",
+    "town_kana": "クロザサヤマテ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0221": {
     "postcode": "4700221",
     "prefecture": "愛知県",

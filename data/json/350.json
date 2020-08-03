@@ -2274,6 +2274,19 @@
     "office_name": "株式会社　日東",
     "office_name_kana": "カブシキガイシヤ ニツトウ"
   },
+  "0282": {
+    "postcode": "3500282",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "坂戸市",
+    "city_kana": "サカドシ",
+    "town": "西インター",
+    "town_kana": "ニシインター",
+    "street": "１丁目２−１",
+    "office_name": "アマゾン坂戸ＦＣ",
+    "office_name_kana": "アマゾンサカドエフシ-"
+  },
   "0283": {
     "postcode": "3500283",
     "prefecture": "埼玉県",
@@ -5002,7 +5015,7 @@
     "city_kana": "カワゴエシ",
     "town": "脇田本町",
     "town_kana": "ワキタホンチョウ",
-    "street": "１５−１３東上パールビル３Ｆ",
+    "street": "８−１Ｕ＿ＰＬＡＣＥ５階",
     "office_name": "川越年金事務所",
     "office_name_kana": "カワゴエネンキンジムシヨ"
   },

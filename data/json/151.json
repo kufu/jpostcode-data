@@ -727,6 +727,19 @@
     "office_name": "株式会社　ウェットウエア",
     "office_name_kana": "カブシキガイシヤ ウエツトウエア"
   },
+  "8550": {
+    "postcode": "1518550",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "渋谷区",
+    "city_kana": "シブヤク",
+    "town": "本町",
+    "town_kana": "ホンマチ",
+    "street": "３−４７−１０",
+    "office_name": "株式会社　伊藤園",
+    "office_name_kana": "カブシキカイシヤ イトウエン"
+  },
   "8552": {
     "postcode": "1518552",
     "prefecture": "東京都",

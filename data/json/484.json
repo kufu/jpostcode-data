@@ -3041,6 +3041,19 @@
     "office_name": "医療法人社団　志聖会　犬山中央病院",
     "office_name_kana": "イリヨウホウジンシヤダン シセイカイ イヌヤマチユウオウビヨウイン"
   },
+  "8512": {
+    "postcode": "4848512",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "犬山市",
+    "city_kana": "イヌヤマシ",
+    "town": "大字犬山",
+    "town_kana": null,
+    "street": "字北白山平５番地",
+    "office_name": "成田山　大聖寺",
+    "office_name_kana": "ナリタサン ダイシヨウジ"
+  },
   "8609": {
     "postcode": "4848609",
     "prefecture": "愛知県",

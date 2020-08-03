@@ -3002,6 +3002,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8298": {
+    "postcode": "6148298",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "八幡市",
+    "city_kana": "ヤワタシ",
+    "town": "美濃山古寺",
+    "town_kana": "ミノヤマフルデラ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8301": {
     "postcode": "6148301",
     "prefecture": "京都府",

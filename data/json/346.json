@@ -675,6 +675,19 @@
     "office_name": "埼玉県立久喜図書館",
     "office_name_kana": "サイタマケンリツクキトシヨカン"
   },
+  "8511": {
+    "postcode": "3468511",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "久喜市",
+    "city_kana": "クキシ",
+    "town": "上清久",
+    "town_kana": "カミキヨク",
+    "street": "字桟敷１０００番１",
+    "office_name": "アマゾン久喜ＦＣ",
+    "office_name_kana": "アマゾンクキエフシ-"
+  },
   "8516": {
     "postcode": "3468516",
     "prefecture": "埼玉県",

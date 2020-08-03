@@ -5946,6 +5946,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2595": {
+    "postcode": "9402595",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "長岡市",
+    "city_kana": "ナガオカシ",
+    "town": "寺泊",
+    "town_kana": "テラドマリ",
+    "street": "下荒町９７７２−２０",
+    "office_name": "角上魚類ホールディングス　株式会社",
+    "office_name_kana": "カクジヨウギヨルイホ-ルデイングス カブシキガイシヤ"
+  },
   "8501": {
     "postcode": "9408501",
     "prefecture": "新潟県",

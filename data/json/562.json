@@ -85,7 +85,7 @@
     "city": "箕面市",
     "city_kana": "ミノオシ",
     "town": "温泉町",
-    "town_kana": "オンセンマチ",
+    "town_kana": "オンセンチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -111,7 +111,7 @@
     "city": "箕面市",
     "city_kana": "ミノオシ",
     "town": "白島",
-    "town_kana": "ハクシマ",
+    "town_kana": "ハクノシマ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -124,7 +124,7 @@
     "city": "箕面市",
     "city_kana": "ミノオシ",
     "town": "坊島",
-    "town_kana": "ボウシマ",
+    "town_kana": "ボウノシマ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -163,7 +163,7 @@
     "city": "箕面市",
     "city_kana": "ミノオシ",
     "town": "粟生間谷",
-    "town_kana": "アオマタニ",
+    "town_kana": "アオマダニ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -176,7 +176,7 @@
     "city": "箕面市",
     "city_kana": "ミノオシ",
     "town": "粟生間谷東",
-    "town_kana": "アオマタニヒガシ",
+    "town_kana": "アオマダニヒガシ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -189,7 +189,7 @@
     "city": "箕面市",
     "city_kana": "ミノオシ",
     "town": "粟生間谷西",
-    "town_kana": "アオマタニニシ",
+    "town_kana": "アオマダニニシ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -397,7 +397,7 @@
     "city": "箕面市",
     "city_kana": "ミノオシ",
     "town": "半町",
-    "town_kana": "ハンジョ",
+    "town_kana": "ハンジョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -514,7 +514,7 @@
     "city": "箕面市",
     "city_kana": "ミノオシ",
     "town": "粟生間谷東",
-    "town_kana": "アオマタニヒガシ",
+    "town_kana": "アオマダニヒガシ",
     "street": "八丁目１番１号",
     "office_name": "国立大学法人　大阪大学言語文化研究科・外国語学部",
     "office_name_kana": "コクリツダイガクホウジン オオサカダイガクゲンゴブンカケンキユウカ・ガイコクゴガクブ"
@@ -553,7 +553,7 @@
     "city": "箕面市",
     "city_kana": "ミノオシ",
     "town": "粟生間谷西",
-    "town_kana": "アオマタニニシ",
+    "town_kana": "アオマダニニシ",
     "street": "６丁目１４−１",
     "office_name": "ガラシア病院",
     "office_name_kana": "ガラシアビヨウイン"

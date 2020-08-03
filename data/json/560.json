@@ -610,6 +610,19 @@
     "office_name": "ＡＮＡベースメンテナンステクニクス　株式会社",
     "office_name_kana": "エ-エヌエ-ベ-スメンテナンステクニクス カブシキガイシヤ"
   },
+  "8550": {
+    "postcode": "5608550",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "豊中市",
+    "city_kana": "トヨナカシ",
+    "town": "新千里東町",
+    "town_kana": "シンセンリヒガシマチ",
+    "street": "１丁目５−１",
+    "office_name": "株式会社　阪急阪神百貨店　千里阪急",
+    "office_name_kana": "カブシキガイシヤ ハンキユウハンシンヒヤツカテン センリハンキユウ"
+  },
   "8552": {
     "postcode": "5608552",
     "prefecture": "大阪府",
