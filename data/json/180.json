@@ -233,6 +233,19 @@
     "office_name": "株式会社　東急百貨店　吉祥寺店",
     "office_name_kana": "カブシキガイシヤ トウキユウヒヤツカテン キチジヨウジテン"
   },
+  "8520": {
+    "postcode": "1808520",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "武蔵野市",
+    "city_kana": "ムサシノシ",
+    "town": "吉祥寺本町",
+    "town_kana": "キチジョウジホンチョウ",
+    "street": "１−５−１",
+    "office_name": "株式会社　パルコ　吉祥寺店",
+    "office_name_kana": "カブシキガイシヤ パルコ キチジヨウジテン"
+  },
   "8522": {
     "postcode": "1808522",
     "prefecture": "東京都",

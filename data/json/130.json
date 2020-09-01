@@ -740,6 +740,19 @@
     "office_name": "メットライフ生命保険　株式会社",
     "office_name_kana": "メツトライフセイメイホケン カブシキガイシヤ"
   },
+  "8563": {
+    "postcode": "1308563",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "墨田区",
+    "city_kana": "スミダク",
+    "town": "錦糸",
+    "town_kana": "キンシ",
+    "street": "１−２−４アルカウエスト８Ｆ",
+    "office_name": "サンデン・リテールシステム　株式会社",
+    "office_name_kana": "サンデン・リテ-ルシステム カブシキガイシヤ"
+  },
   "8565": {
     "postcode": "1308565",
     "prefecture": "東京都",

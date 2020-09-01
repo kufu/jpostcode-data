@@ -740,6 +740,19 @@
     "office_name": "（株）　日清製粉グループ本社",
     "office_name_kana": "(カブ) ニツシンセイフングル-プホンシヤ"
   },
+  "8525": {
+    "postcode": "3568525",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "ふじみ野市",
+    "city_kana": "フジミノシ",
+    "town": "福岡",
+    "town_kana": "フクオカ",
+    "street": "２丁目１番６号",
+    "office_name": "イオンタウンふじみ野",
+    "office_name_kana": "イオンタウンフジミノ"
+  },
   "8533": {
     "postcode": "3568533",
     "prefecture": "埼玉県",

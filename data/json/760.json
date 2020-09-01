@@ -1964,6 +1964,19 @@
     "office_name": "（株）　伊予銀行　高松支店",
     "office_name_kana": "カブシキガイシヤ イヨギンコウ タカマツシテン"
   },
+  "8615": {
+    "postcode": "7608615",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "prefecture_code": 37,
+    "city": "高松市",
+    "city_kana": "タカマツシ",
+    "town": "天神前",
+    "town_kana": "テンジンマエ",
+    "street": "２番１０号（高松中央郵便局私書箱第１２６号）",
+    "office_name": "高松税務署内　土庄税務署　集中処理担当",
+    "office_name_kana": "タカマツゼイムシヨナイ トノシヨウゼイムシヨ シユウチユウシヨリタントウ"
+  },
   "8618": {
     "postcode": "7608618",
     "prefecture": "香川県",

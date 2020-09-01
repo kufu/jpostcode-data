@@ -3542,6 +3542,19 @@
     "office_name": "（株）　北海道銀行　羽幌支店",
     "office_name_kana": "カブシキガイシヤ ホツカイドウギンコウ ハボロシテン"
   },
+  "4197": {
+    "postcode": "0784197",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "苫前郡羽幌町",
+    "city_kana": "トママエグンハボロチョウ",
+    "town": "栄町",
+    "town_kana": "サカエマチ",
+    "street": "１１０番地",
+    "office_name": "北海道立羽幌病院",
+    "office_name_kana": "ホツカイドウリツハボロビヨウイン"
+  },
   "4198": {
     "postcode": "0784198",
     "prefecture": "北海道",
