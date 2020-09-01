@@ -10728,6 +10728,19 @@
     "office_name": "学校法人　立命館",
     "office_name_kana": "ガツコウホウジン リツメイカン"
   },
+  "8540": {
+    "postcode": "6048540",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "京都市中京区",
+    "city_kana": "キョウトシナカギョウク",
+    "town": "御池通烏丸東入笹屋町",
+    "town_kana": null,
+    "street": "４３５番京都御池第一生命ビル７Ｆ",
+    "office_name": "ワタベウェディング　株式会社",
+    "office_name_kana": "ワタベウエデイング カブシキガイシヤ"
+  },
   "8550": {
     "postcode": "6048550",
     "prefecture": "京都府",

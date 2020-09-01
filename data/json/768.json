@@ -441,6 +441,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0077": {
+    "postcode": "7680077",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "prefecture_code": 37,
+    "city": "観音寺市",
+    "city_kana": "カンオンジシ",
+    "town": "凪瀬町",
+    "town_kana": "ナギセチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0101": {
     "postcode": "7680101",
     "prefecture": "香川県",

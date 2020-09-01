@@ -467,6 +467,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0054": {
+    "postcode": "2400054",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市保土ケ谷区",
+    "city_kana": "ヨコハマシホドガヤク",
+    "town": "西谷",
+    "town_kana": "ニシヤ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0061": {
     "postcode": "2400061",
     "prefecture": "神奈川県",

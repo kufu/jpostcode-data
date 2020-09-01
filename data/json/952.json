@@ -2037,8 +2037,8 @@
     "town": "河原田本町",
     "town_kana": "カワハラダホンマチ",
     "street": "３９４",
-    "office_name": "佐渡市役所　佐和田支所",
-    "office_name_kana": "サドシヤクシヨ サワタシシヨ"
+    "office_name": "佐渡市役所　佐和田行政サービスセンター",
+    "office_name_kana": "サドシヤクシヨ サワタギヨウセイサ-ビスセンタ-"
   },
   "1431": {
     "postcode": "9521431",
@@ -2970,9 +2970,9 @@
     "prefecture_code": 15,
     "city": "佐渡市",
     "city_kana": "サドシ",
-    "town": "相川塩屋町",
-    "town_kana": "アイカワシオヤマチ",
-    "street": "２６",
+    "town": "相川栄町",
+    "town_kana": "アイカワサカエマチ",
+    "street": "２７",
     "office_name": "佐渡市役所　相川支所",
     "office_name_kana": "サドシヤクシヨ アイカワシシヨ"
   },
