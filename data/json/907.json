@@ -183,6 +183,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0031": {
+    "postcode": "9070031",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "prefecture_code": 47,
+    "city": "石垣市",
+    "city_kana": "イシガキシ",
+    "town": "登野城尖閣",
+    "town_kana": "トノシロセンカク",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0241": {
     "postcode": "9070241",
     "prefecture": "沖縄県",

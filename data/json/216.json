@@ -324,6 +324,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0042": {
+    "postcode": "2160042",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "川崎市宮前区",
+    "city_kana": "カワサキシミヤマエク",
+    "town": "南野川",
+    "town_kana": "ミナミノガワ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0043": {
+    "postcode": "2160043",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "川崎市宮前区",
+    "city_kana": "カワサキシミヤマエク",
+    "town": "野川台",
+    "town_kana": "ノガワダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0044": {
     "postcode": "2160044",
     "prefecture": "神奈川県",

@@ -1689,6 +1689,19 @@
     "office_name": "名古屋法務局　西尾支局",
     "office_name_kana": "ナゴヤホウムキヨク ニシオシキヨク"
   },
+  "8555": {
+    "postcode": "4458555",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "西尾市",
+    "city_kana": "ニシオシ",
+    "town": "港町",
+    "town_kana": "ミナトマチ",
+    "street": "６番地６",
+    "office_name": "中日本鋳工　株式会社",
+    "office_name_kana": "ナカニホンチユウコウ カブシキガイシヤ"
+  },
   "8585": {
     "postcode": "4458585",
     "prefecture": "愛知県",

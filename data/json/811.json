@@ -3277,6 +3277,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3128": {
+    "postcode": "8113128",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "古賀市",
+    "city_kana": "コガシ",
+    "town": "玄望園",
+    "town_kana": "ゲンボウエン",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3131": {
     "postcode": "8113131",
     "prefecture": "福岡県",

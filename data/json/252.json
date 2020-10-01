@@ -3004,32 +3004,6 @@
     "office_name": "相模原市　城山総合事務所",
     "office_name_kana": "サガミハラシ シロヤマソウゴウジムシヨ"
   },
-  "5195": {
-    "postcode": "2525195",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "相模原市緑区",
-    "city_kana": "サガミハラシミドリク",
-    "town": "寸沢嵐",
-    "town_kana": "スワラシ",
-    "street": "１０９１−１",
-    "office_name": "帝京大学　薬学部",
-    "office_name_kana": "テイキヨウダイガク ヤクガクブ"
-  },
-  "5196": {
-    "postcode": "2525196",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "相模原市緑区",
-    "city_kana": "サガミハラシミドリク",
-    "town": "橋本台",
-    "town_kana": "ハシモトダイ",
-    "street": "４丁目１−１",
-    "office_name": "独立行政法人　雇用・能力開発機構　職業能力開発総合大学校",
-    "office_name_kana": "ドクリツギヨウセイホウジン コヨウ・ノウリヨクカイハツキコウ シヨクギヨウノウリヨクカイハツソウゴウダイガツコウ"
-  },
   "5201": {
     "postcode": "2525201",
     "prefecture": "神奈川県",
@@ -3263,19 +3237,6 @@
     "street": "６丁目２０−１",
     "office_name": "株式会社　エフエムさがみ",
     "office_name_kana": "カブシキガイシヤ エフエムサガミ"
-  },
-  "5292": {
-    "postcode": "2525292",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "相模原市中央区",
-    "city_kana": "サガミハラシチュウオウク",
-    "town": "田名",
-    "town_kana": "タナ",
-    "street": "３７００番地",
-    "office_name": "キャタピラージャパン　株式会社　相模事業所",
-    "office_name_kana": "キヤタピラ-ジヤパン カブシキガイシヤ サガミジギヨウシヨ"
   },
   "5293": {
     "postcode": "2525293",
