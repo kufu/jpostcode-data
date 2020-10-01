@@ -1782,6 +1782,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0226": {
+    "postcode": "9420226",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "上越市",
+    "city_kana": "ジョウエツシ",
+    "town": "頸城区塔ケ崎",
+    "town_kana": "クビキクトウガサキ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0231": {
     "postcode": "9420231",
     "prefecture": "新潟県",

@@ -726,5 +726,18 @@
     "street": "３４−１",
     "office_name": "株式会社　ジョイフル本田　ニューポートひたちなか店",
     "office_name_kana": "カブシキガイシヤ ジヨイフルホンダ ニユ-ポ-トヒタチナカテン"
+  },
+  "8511": {
+    "postcode": "3128511",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "ひたちなか市",
+    "city_kana": "ヒタチナカシ",
+    "town": "堀口",
+    "town_kana": "ホリグチ",
+    "street": "７５１番地",
+    "office_name": "ルネサスエレクトロニクス　株式会社　那珂事業所",
+    "office_name_kana": "ルネサスエレクトロニクス カブシキガイシヤ ナカジギヨウシヨ"
   }
 }

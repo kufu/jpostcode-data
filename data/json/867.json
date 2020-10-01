@@ -846,19 +846,47 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "8501": {
-    "postcode": "8678501",
-    "prefecture": "熊本県",
-    "prefecture_kana": "クマモトケン",
-    "prefecture_code": 43,
-    "city": "水俣市",
-    "city_kana": "ミナマタシ",
-    "town": "野口町",
-    "town_kana": "ノグチチョウ",
-    "street": "１−１",
-    "office_name": "チッソ　株式会社　水俣本部",
-    "office_name_kana": "チツソ カブシキガイシヤ ミナマタホンブ"
-  },
+  "8501": [
+    {
+      "postcode": "8678501",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "prefecture_code": 43,
+      "city": "水俣市",
+      "city_kana": "ミナマタシ",
+      "town": "野口町",
+      "town_kana": "ノグチチョウ",
+      "street": "１番１号",
+      "office_name": "ＪＮＣ　株式会社　水俣研究所",
+      "office_name_kana": "ジエイエヌシ- カブシキカイシヤ ミナマタケンキユウシヨ"
+    },
+    {
+      "postcode": "8678501",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "prefecture_code": 43,
+      "city": "水俣市",
+      "city_kana": "ミナマタシ",
+      "town": "野口町",
+      "town_kana": "ノグチチョウ",
+      "street": "１番１号",
+      "office_name": "ＪＮＣ　株式会社　水俣製造所",
+      "office_name_kana": "ジエイエヌシ- カブシキカイシヤ ミナマタセイゾウシヨ"
+    },
+    {
+      "postcode": "8678501",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "prefecture_code": 43,
+      "city": "水俣市",
+      "city_kana": "ミナマタシ",
+      "town": "野口町",
+      "town_kana": "ノグチチョウ",
+      "street": "１−１",
+      "office_name": "チッソ　株式会社　水俣本部",
+      "office_name_kana": "チツソ カブシキガイシヤ ミナマタホンブ"
+    }
+  ],
   "8555": {
     "postcode": "8678555",
     "prefecture": "熊本県",

@@ -1260,6 +1260,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0308": {
+    "postcode": "3060308",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "猿島郡五霞町",
+    "city_kana": "サシマグンゴカマチ",
+    "town": "ごかみらい",
+    "town_kana": "ゴカミライ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0311": {
     "postcode": "3060311",
     "prefecture": "茨城県",

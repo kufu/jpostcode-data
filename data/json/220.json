@@ -2716,6 +2716,19 @@
     "office_name": "全国健康保険協会　神奈川支部",
     "office_name_kana": "ゼンコクケンコウホケンキヨウカイ カナガワシブ"
   },
+  "8539": {
+    "postcode": "2208539",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "南幸",
+    "town_kana": "ミナミサイワイ",
+    "street": "１丁目１番１号",
+    "office_name": "株式会社　横浜ステーシヨンビル",
+    "office_name_kana": "カブシキガイシヤ ヨコハマステ-シヨンビル"
+  },
   "8540": {
     "postcode": "2208540",
     "prefecture": "神奈川県",

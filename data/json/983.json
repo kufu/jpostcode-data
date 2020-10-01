@@ -1015,19 +1015,6 @@
     "office_name": "宮城県　社会保険診療報酬支払基金",
     "office_name_kana": "ミヤギケン シヤカイホケンシンリヨウホウシユウシハライキキン"
   },
-  "8506": {
-    "postcode": "9838506",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市宮城野区",
-    "city_kana": "センダイシミヤギノク",
-    "town": "榴岡",
-    "town_kana": "ツツジガオカ",
-    "street": "３丁目４−１８",
-    "office_name": "東邦薬品　株式会社　東北営業本部",
-    "office_name_kana": "トウホウヤクヒン カブシキガイシヤ トウホクエイギヨウホンブ"
-  },
   "8507": {
     "postcode": "9838507",
     "prefecture": "宮城県",
@@ -1040,19 +1027,6 @@
     "street": "１仙台第四合同庁舎",
     "office_name": "仙台労働基準監督署",
     "office_name_kana": "センダイロウドウキジユンカントクシヨ"
-  },
-  "8510": {
-    "postcode": "9838510",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市宮城野区",
-    "city_kana": "センダイシミヤギノク",
-    "town": "苦竹",
-    "town_kana": "ニガタケ",
-    "street": "１丁目７−１０",
-    "office_name": "株式会社　ニチレイ",
-    "office_name_kana": "カブシキガイシヤ ニチレイ"
   },
   "8511": {
     "postcode": "9838511",
@@ -1145,32 +1119,6 @@
     "office_name": "ＮＴＴファイナンス　株式会社",
     "office_name_kana": "エヌテイテイフアイナンス カブシキガイシヤ"
   },
-  "8527": {
-    "postcode": "9838527",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市宮城野区",
-    "city_kana": "センダイシミヤギノク",
-    "town": "名掛丁",
-    "town_kana": "ナカケチョウ",
-    "street": "１２８番地広瀬通ＳＥビル５階",
-    "office_name": "日本年金機構　東北ブロック本部　宮城事務センター",
-    "office_name_kana": "ニツポンネンキンキコウ トウホクブロツクホンブ ミヤギジムセンタ-"
-  },
-  "8528": {
-    "postcode": "9838528",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市宮城野区",
-    "city_kana": "センダイシミヤギノク",
-    "town": "榴岡",
-    "town_kana": "ツツジガオカ",
-    "street": "５丁目１２番５５号",
-    "office_name": "株式会社　仙台ソフトウェアセンター",
-    "office_name_kana": "カブシキガイシヤ センダイソフトウエアセンタ-"
-  },
   "8533": {
     "postcode": "9838533",
     "prefecture": "宮城県",
@@ -1183,19 +1131,6 @@
     "street": "５丁目１２−１５",
     "office_name": "株式会社　菱食　仙台支社",
     "office_name_kana": "カブシキガイシヤ リヨウシヨク センダイシシヤ"
-  },
-  "8535": {
-    "postcode": "9838535",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市宮城野区",
-    "city_kana": "センダイシミヤギノク",
-    "town": "榴岡",
-    "town_kana": "ツツジガオカ",
-    "street": "４丁目３番１０号",
-    "office_name": "株式会社　ＮＴＴデータ　東北",
-    "office_name_kana": "カブシキガイシヤ エヌ・テイ・テイ・デ-タ トウホク"
   },
   "8536": {
     "postcode": "9838536",
@@ -1353,19 +1288,6 @@
     "office_name": "宮城トヨタ自動車　株式会社",
     "office_name_kana": "ミヤギトヨタジドウシヤ カブシキガイシヤ"
   },
-  "8584": {
-    "postcode": "9838584",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市宮城野区",
-    "city_kana": "センダイシミヤギノク",
-    "town": "扇町",
-    "town_kana": "オウギマチ",
-    "street": "２丁目４−５１",
-    "office_name": "ネッツトヨタ仙台　株式会社",
-    "office_name_kana": "ネツツトヨタセンダイ カブシキガイシヤ"
-  },
   "8585": {
     "postcode": "9838585",
     "prefecture": "宮城県",
@@ -1391,19 +1313,6 @@
     "street": "２丁目１２−３５（仙台東郵便局私書箱第２１号）",
     "office_name": "仙台市宮城野区役所",
     "office_name_kana": "センダイシミヤギノクヤクシヨ"
-  },
-  "8602": {
-    "postcode": "9838602",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市宮城野区",
-    "city_kana": "センダイシミヤギノク",
-    "town": "日の出町",
-    "town_kana": "ヒノデマチ",
-    "street": "３丁目３番１０号",
-    "office_name": "東北流通サービス　株式会社",
-    "office_name_kana": "トウホクリユウツウサ-ビス カブシキガイシヤ"
   },
   "8622": {
     "postcode": "9838622",

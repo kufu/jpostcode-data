@@ -7491,6 +7491,60 @@
     "office_name": "株式会社　丸和運輸機関",
     "office_name_kana": "カブシキガイシヤ マルワウンユキカン"
   },
+  "8241": [
+    {
+      "postcode": "1008241",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "千代田区",
+      "city_kana": "チヨダク",
+      "town": "丸の内",
+      "town_kana": "マルノウチ",
+      "street": "１丁目３番地３号",
+      "office_name": "株式会社　みずほ銀行",
+      "office_name_kana": "カブシキガイシヤ ミズホギンコウ"
+    },
+    {
+      "postcode": "1008241",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "千代田区",
+      "city_kana": "チヨダク",
+      "town": "丸の内",
+      "town_kana": "マルノウチ",
+      "street": "１丁目３番地３号",
+      "office_name": "株式会社　みずほフィナンシャルグループ",
+      "office_name_kana": "カブシキガイシヤ ミズホフイナンシヤルグル-プ"
+    },
+    {
+      "postcode": "1008241",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "千代田区",
+      "city_kana": "チヨダク",
+      "town": "丸の内",
+      "town_kana": "マルノウチ",
+      "street": "１丁目３番地３号",
+      "office_name": "みずほ証券　株式会社",
+      "office_name_kana": "ミズホシヨウケン カブシキガイシヤ"
+    },
+    {
+      "postcode": "1008241",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "千代田区",
+      "city_kana": "チヨダク",
+      "town": "丸の内",
+      "town_kana": "マルノウチ",
+      "street": "１丁目３番地３号",
+      "office_name": "みずほ信託銀行　株式会社",
+      "office_name_kana": "ミズホシンタクギンコウ カブシキガイシヤ"
+    }
+  ],
   "8246": {
     "postcode": "1008246",
     "prefecture": "東京都",

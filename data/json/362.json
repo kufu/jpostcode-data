@@ -766,6 +766,58 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0081": {
+    "postcode": "3620081",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "上尾市",
+    "city_kana": "アゲオシ",
+    "town": "壱丁目北",
+    "town_kana": "イッチョウメキタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0082": {
+    "postcode": "3620082",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "上尾市",
+    "city_kana": "アゲオシ",
+    "town": "壱丁目東",
+    "town_kana": "イッチョウメヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0083": {
+    "postcode": "3620083",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "上尾市",
+    "city_kana": "アゲオシ",
+    "town": "壱丁目南",
+    "town_kana": "イッチョウメミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0084": {
+    "postcode": "3620084",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "上尾市",
+    "city_kana": "アゲオシ",
+    "town": "壱丁目西",
+    "town_kana": "イッチョウメニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0800": {
     "postcode": "3620800",
     "prefecture": "埼玉県",
@@ -879,6 +931,19 @@
     "city_kana": "キタアダチグンイナマチ",
     "town": "小針新宿",
     "town_kana": "コバリシンシュク",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0809": {
+    "postcode": "3620809",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "北足立郡伊奈町",
+    "city_kana": "キタアダチグンイナマチ",
+    "town": "中央",
+    "town_kana": "チュウオウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

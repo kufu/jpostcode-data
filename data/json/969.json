@@ -7733,19 +7733,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "3592": {
-    "postcode": "9693592",
-    "prefecture": "福島県",
-    "prefecture_kana": "フクシマケン",
-    "prefecture_code": 7,
-    "city": "喜多方市",
-    "city_kana": "キタカタシ",
-    "town": "塩川町",
-    "town_kana": null,
-    "street": "字岡ノ前２４１（塩川郵便局私書箱第１号）",
-    "office_name": "喜多方市役所　塩川総合支所",
-    "office_name_kana": "キタカタシヤクシヨ シオカワソウゴウシシヨ"
-  },
   "3593": {
     "postcode": "9693593",
     "prefecture": "福島県",
@@ -7758,19 +7745,6 @@
     "street": "字長瀞１８番地",
     "office_name": "湯川村役場",
     "office_name_kana": "ユガワムラヤクバ"
-  },
-  "3594": {
-    "postcode": "9693594",
-    "prefecture": "福島県",
-    "prefecture_kana": "フクシマケン",
-    "prefecture_code": 7,
-    "city": "喜多方市",
-    "city_kana": "キタカタシ",
-    "town": "塩川町小府根",
-    "town_kana": "シオカワマチコフネ",
-    "street": "字大谷地１番",
-    "office_name": "オン・セミコンダクター・テクノロジー　株式会社",
-    "office_name_kana": "オン・セミコンダクタ-・テクノロジ- カブシキガイシヤ"
   },
   "4101": {
     "postcode": "9694101",
