@@ -131,6 +131,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0015": {
+    "postcode": "9070015",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "prefecture_code": 47,
+    "city": "石垣市",
+    "city_kana": "イシガキシ",
+    "town": "南ぬ浜町",
+    "town_kana": "パイヌハマチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "9070021",
     "prefecture": "沖縄県",

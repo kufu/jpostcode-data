@@ -1548,6 +1548,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1148": {
+    "postcode": "8191148",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糸島市",
+    "city_kana": "イトシマシ",
+    "town": "神在西",
+    "town_kana": "カミアリニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "1149": {
+    "postcode": "8191149",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糸島市",
+    "city_kana": "イトシマシ",
+    "town": "千早新田西",
+    "town_kana": "チハヤシンデンニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1151": {
     "postcode": "8191151",
     "prefecture": "福岡県",

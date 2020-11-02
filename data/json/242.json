@@ -346,22 +346,9 @@
     "city_kana": "ヤマトシ",
     "town": "大和南",
     "town_kana": "ヤマトミナミ",
-    "street": "１丁目７−１１三香ビル２Ｆ",
+    "street": "１丁目８−１ＹＡＭＡＴＯ文化森２０３",
     "office_name": "大和ラジオ放送　株式会社",
-    "office_name_kana": "ヤマトラジオホウソウ カブシキガイシヤ"
-  },
-  "8539": {
-    "postcode": "2428539",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "大和市",
-    "city_kana": "ヤマトシ",
-    "town": "深見台",
-    "town_kana": "フカミダイ",
-    "street": "１−５−２１",
-    "office_name": "株式会社　マルスコーポレーション",
-    "office_name_kana": "カブシキガイシヤ マルスコ-ポレ-シヨン"
+    "office_name_kana": "ヤマトラジオホウソウ カブシキガシヤ"
   },
   "8555": {
     "postcode": "2428555",

@@ -6954,19 +6954,6 @@
     "office_name": "都築電気　株式会社　第二本社",
     "office_name_kana": "ツヅキデンキ カブシキガイシヤ ダイニホンシヤ"
   },
-  "8422": {
-    "postcode": "1058422",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "虎ノ門",
-    "town_kana": "トラノモン",
-    "street": "２丁目２−１",
-    "office_name": "日本たばこ産業　株式会社",
-    "office_name_kana": "ニホンタバコサンギヨウ カブシキガイシヤ"
-  },
   "8423": {
     "postcode": "1058423",
     "prefecture": "東京都",
@@ -7031,6 +7018,19 @@
     "street": "１丁目４−５",
     "office_name": "株式会社　トクヤマ",
     "office_name_kana": "カブシキガイシヤ トクヤマ"
+  },
+  "8431": {
+    "postcode": "1058431",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "虎ノ門",
+    "town_kana": "トラノモン",
+    "street": "３−６−９",
+    "office_name": "気象庁",
+    "office_name_kana": "キシヨウチヨウ"
   },
   "8432": {
     "postcode": "1058432",
@@ -7620,19 +7620,6 @@
     "street": "４丁目１番４号",
     "office_name": "日本タタ・コンサルタンシー・サービシズ　株式会社",
     "office_name_kana": "ニホンタタ・コンサルタンシ-・サ-ビシズ カブシキガイシヤ"
-  },
-  "8509": {
-    "postcode": "1058509",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "芝公園",
-    "town_kana": "シバコウエン",
-    "street": "２丁目９−３",
-    "office_name": "世紀東急工業　株式会社",
-    "office_name_kana": "セイキトウキユウコウギヨウ カブシキガイシヤ"
   },
   "8510": {
     "postcode": "1058510",
@@ -8597,6 +8584,19 @@
     "street": "２丁目１４−５",
     "office_name": "株式会社　大広",
     "office_name_kana": "カブシキガイシヤ ダイコウ"
+  },
+  "8660": {
+    "postcode": "1058660",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "海岸",
+    "town_kana": "カイガン",
+    "street": "１−１０−３０",
+    "office_name": "株式会社　ヤクルト本社",
+    "office_name_kana": "カブシキガイシヤ ヤクルトホンシヤ"
   },
   "8665": {
     "postcode": "1058665",

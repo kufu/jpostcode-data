@@ -415,19 +415,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "8501": {
-    "postcode": "2128501",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "川崎市幸区",
-    "city_kana": "カワサキシサイワイク",
-    "town": "柳町",
-    "town_kana": "ヤナギチョウ",
-    "street": "７０番地",
-    "office_name": "株式会社　東芝　柳町事業所",
-    "office_name_kana": "カブシキガイシヤ トウシバ ヤナギチヨウジギヨウシヨ"
-  },
   "8502": {
     "postcode": "2128502",
     "prefecture": "神奈川県",
@@ -586,19 +573,6 @@
     "office_name": "キヤノン　株式会社　矢向事業所",
     "office_name_kana": "キヤノン カブシキガイシヤ ヤコウジギヨウシヨ"
   },
-  "8531": {
-    "postcode": "2128531",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "川崎市幸区",
-    "city_kana": "カワサキシサイワイク",
-    "town": "堀川町",
-    "town_kana": "ホリカワチョウ",
-    "street": "７２",
-    "office_name": "川崎南税務署",
-    "office_name_kana": "カワサキミナミゼイムシヨ"
-  },
   "8551": {
     "postcode": "2128551",
     "prefecture": "神奈川県",
@@ -625,19 +599,6 @@
     "office_name": "ミューザ川崎　管理組合",
     "office_name_kana": "ミユ-ザカワサキ カンリクミアイ"
   },
-  "8555": {
-    "postcode": "2128555",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "川崎市幸区",
-    "city_kana": "カワサキシサイワイク",
-    "town": "堀川町",
-    "town_kana": "ホリカワチョウ",
-    "street": "５８０番地ソリッドスクエア東館",
-    "office_name": "株式会社　エクサ",
-    "office_name_kana": "カブシキガイシヤ エクサ"
-  },
   "8557": {
     "postcode": "2128557",
     "prefecture": "神奈川県",
@@ -663,19 +624,6 @@
     "street": "５８０番地１６",
     "office_name": "黒田精工　株式会社",
     "office_name_kana": "クロダセイコウ カブシキガイシヤ"
-  },
-  "8563": {
-    "postcode": "2128563",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "川崎市幸区",
-    "city_kana": "カワサキシサイワイク",
-    "town": "堀川町",
-    "town_kana": "ホリカワチョウ",
-    "street": "５８０番地ソリッドスクエア東館",
-    "office_name": "株式会社　ＰＦＵ",
-    "office_name_kana": "カブシキガイシヤ ピ-エフユ-"
   },
   "8564": {
     "postcode": "2128564",

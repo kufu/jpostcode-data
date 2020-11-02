@@ -1534,5 +1534,18 @@
     "street": "２丁目４番１号札幌市交通局庁舎２階",
     "office_name": "札幌市東部市税事務所",
     "office_name_kana": "サツポロシトウブシゼイジムシヨ"
+  },
+  "8666": {
+    "postcode": "0048666",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "札幌市厚別区",
+    "city_kana": "サッポロシアツベツク",
+    "town": "厚別中央一条",
+    "town_kana": "アツベツチュウオウ1ジョウ",
+    "street": "５丁目",
+    "office_name": "学校法人　札幌学院大学　新札幌キャンパス",
+    "office_name_kana": "ガツコウホウジン サツポロガクインダイガク シンサツポロキヤンパス"
   }
 }

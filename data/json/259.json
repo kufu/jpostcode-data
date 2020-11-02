@@ -1405,19 +1405,6 @@
     "office_name": "東海大学医学部付属病院",
     "office_name_kana": "トウカイダイガクイガクブフゾクビヨウイン"
   },
-  "1195": {
-    "postcode": "2591195",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "伊勢原市",
-    "city_kana": "イセハラシ",
-    "town": "鈴川",
-    "town_kana": "スズカワ",
-    "street": "５４番地",
-    "office_name": "アズビル　株式会社　伊勢原工場",
-    "office_name_kana": "アズビル カブシキガイシヤ イセハラコウジヨウ"
-  },
   "1196": {
     "postcode": "2591196",
     "prefecture": "神奈川県",
@@ -1427,7 +1414,7 @@
     "city_kana": "イセハラシ",
     "town": "石田",
     "town_kana": "イシダ",
-    "street": "２００（伊勢原郵便局私書箱第７号）",
+    "street": "２００（伊勢原郵便局私書箱第５号）",
     "office_name": "株式会社　アマダ",
     "office_name_kana": "カブシキガイシヤ アマダ"
   },
@@ -1454,8 +1441,8 @@
     "town": "鈴川",
     "town_kana": "スズカワ",
     "street": "６",
-    "office_name": "オリイメック　株式会社",
-    "office_name_kana": "オリイメツク カブシキガイシヤ"
+    "office_name": "株式会社　アマダプレスシステム",
+    "office_name_kana": "カブシキガイシヤ アマダプレスシステム"
   },
   "1201": {
     "postcode": "2591201",

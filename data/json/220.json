@@ -3184,6 +3184,19 @@
     "office_name": "富士通　株式会社　神奈川支社",
     "office_name_kana": "フジツウ カブシキガイシヤ カナガワシシヤ"
   },
+  "8750": {
+    "postcode": "2208750",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "みなとみらい",
+    "town_kana": "ミナトミライ",
+    "street": "５−１−１",
+    "office_name": "ソニー　株式会社　ソニーシティみなとみらい",
+    "office_name_kana": "ソニ- カブシキガイシヤ ソニ-シテイミナトミライ"
+  },
   "8755": {
     "postcode": "2208755",
     "prefecture": "神奈川県",
