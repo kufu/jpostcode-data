@@ -271,31 +271,5 @@
     "street": "１９",
     "office_name": "住友重機械工業　株式会社　横須賀造船所",
     "office_name_kana": "スミトモジユウキカイコウギヨウ カブシキガイシヤ ヨコスカゾウセンジヨ"
-  },
-  "8585": {
-    "postcode": "2378585",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "横須賀市",
-    "city_kana": "ヨコスカシ",
-    "town": "田浦港町",
-    "town_kana": "タウラミナトチョウ",
-    "street": "無番地",
-    "office_name": "関東自動車工業　株式会社",
-    "office_name_kana": "カントウジドウシヤコウギヨウ カブシキガイシヤ"
-  },
-  "8588": {
-    "postcode": "2378588",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "横須賀市",
-    "city_kana": "ヨコスカシ",
-    "town": "船越町",
-    "town_kana": "フナコシチョウ",
-    "street": "１丁目８番地",
-    "office_name": "国家公務員共済組合連合会　横須賀北部共済病院",
-    "office_name_kana": "コツカコウムインキヨウサイクミアイレンゴウカイ ヨコスカホクブキヨウサイビヨウイン"
   }
 }

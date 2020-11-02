@@ -961,19 +961,6 @@
     "office_name": "寒川町役場",
     "office_name_kana": "サムカワマチヤクバ"
   },
-  "8501": {
-    "postcode": "2538501",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "茅ヶ崎市",
-    "city_kana": "チガサキシ",
-    "town": "中海岸",
-    "town_kana": "ナカカイガン",
-    "street": "１丁目２−４３",
-    "office_name": "株式会社　はせがわ",
-    "office_name_kana": "カブシキガイシヤ ハセガワ"
-  },
   "8510": {
     "postcode": "2538510",
     "prefecture": "神奈川県",
@@ -1023,8 +1010,8 @@
     "town": "茅ヶ崎",
     "town_kana": "チガサキ",
     "street": "２丁目７−７１",
-    "office_name": "株式会社　マイカル　茅ヶ崎サティ",
-    "office_name_kana": "カブシキガイシヤ マイカル チガサキサテイ"
+    "office_name": "イオンリテール　株式会社　イオンスタイル湘南茅ヶ崎",
+    "office_name_kana": "イオンリテ-ル カブシキガイシヤ イオンスタイルシヨウナンチガサキ"
   },
   "8543": {
     "postcode": "2538543",
@@ -1064,19 +1051,6 @@
     "street": "２６０９−５",
     "office_name": "アルバックテクノ　株式会社",
     "office_name_kana": "アルバツクテクノ カブシキガイシヤ"
-  },
-  "8567": {
-    "postcode": "2538567",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "茅ヶ崎市",
-    "city_kana": "チガサキシ",
-    "town": "赤松町",
-    "town_kana": "アカマツチョウ",
-    "street": "１３−１３",
-    "office_name": "パナソニック　（株）　エナジー社",
-    "office_name_kana": "パナソニツク カブシキカイシヤ エナジ-シヤ"
   },
   "8571": {
     "postcode": "2538571",
@@ -1127,8 +1101,8 @@
     "town": "下町屋",
     "town_kana": "シモマチヤ",
     "street": "１丁目１−１",
-    "office_name": "宮田工業　株式会社",
-    "office_name_kana": "ミヤタコウギヨウ カブシキガイシヤ"
+    "office_name": "モリタ宮田工業　株式会社　茅ヶ崎工場",
+    "office_name_kana": "モリタミヤタコウギヨウ カブシキガイシヤ チガサキコウジヨウ"
   },
   "8660": {
     "postcode": "2538660",

@@ -2926,19 +2926,6 @@
     "office_name": "旭川大学・旭川大学女子短期大学部",
     "office_name_kana": "アサヒカワダイガク・アサヒカワダイガクジヨシタンキダイガクブ"
   },
-  "8502": {
-    "postcode": "0798502",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "旭川市",
-    "city_kana": "アサヒカワシ",
-    "town": "永山一条",
-    "town_kana": "ナガヤマ1ジョウ",
-    "street": "４丁目１−３",
-    "office_name": "丸日商事　株式会社",
-    "office_name_kana": "マルヒシヨウジ カブシキガイシヤ"
-  },
   "8503": {
     "postcode": "0798503",
     "prefecture": "北海道",
@@ -2988,8 +2975,8 @@
     "town": "永山町",
     "town_kana": "ナガヤマチョウ",
     "street": "３丁目１０２番地",
-    "office_name": "北海道旭川凌雲高等学校",
-    "office_name_kana": "ホツカイドウアサヒカワリヨウウンコウトウガツコウ"
+    "office_name": "北海道旭川永嶺高等学校",
+    "office_name_kana": "ホツカイドウアサヒカワエイリヨウコウトウガツコウ"
   },
   "8509": {
     "postcode": "0798509",
@@ -3043,32 +3030,6 @@
     "office_name": "ジャパン建材　（株）　旭川営業所",
     "office_name_kana": "ジヤパンケンザイ カブシキガイシヤ アサヒカワエイギヨウシヨ"
   },
-  "8518": {
-    "postcode": "0798518",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "旭川市",
-    "city_kana": "アサヒカワシ",
-    "town": "流通団地二条",
-    "town_kana": "リュウツウダンチ2ジョウ",
-    "street": "４丁目",
-    "office_name": "株式会社　北海道リョーショク　旭川支社",
-    "office_name_kana": "カブシキガイシヤ ホツカイドウリヨ-シヨク アサヒカワシシヤ"
-  },
-  "8519": {
-    "postcode": "0798519",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "旭川市",
-    "city_kana": "アサヒカワシ",
-    "town": "流通団地二条",
-    "town_kana": "リュウツウダンチ2ジョウ",
-    "street": "３丁目",
-    "office_name": "株式会社　松井旭川",
-    "office_name_kana": "カブシキガイシヤ マツイアサヒカワ"
-  },
   "8550": {
     "postcode": "0798550",
     "prefecture": "北海道",
@@ -3108,19 +3069,6 @@
     "office_name": "株式会社　ふじ",
     "office_name_kana": "カブシキガイシヤ フジ"
   },
-  "8588": {
-    "postcode": "0798588",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "旭川市",
-    "city_kana": "アサヒカワシ",
-    "town": "流通団地三条",
-    "town_kana": "リュウツウダンチ3ジョウ",
-    "street": "５丁目７番地",
-    "office_name": "旭川国分　（株）",
-    "office_name_kana": "アサヒカワコクブ カブシキガイシヤ"
-  },
   "8610": {
     "postcode": "0798610",
     "prefecture": "北海道",
@@ -3130,9 +3078,9 @@
     "city_kana": "アサヒカワシ",
     "town": "永山六条",
     "town_kana": "ナガヤマ6ジョウ",
-    "street": "１９丁目",
-    "office_name": "北海道上川支庁",
-    "office_name_kana": "ホツカイドウカミカワシチヨウ"
+    "street": "１９丁目１−１",
+    "office_name": "北海道上川総合振興局",
+    "office_name_kana": "ホツカイドウカミカワソウゴウシンコウキヨク"
   },
   "8611": {
     "postcode": "0798611",
@@ -3169,9 +3117,9 @@
     "city_kana": "アサヒカワシ",
     "town": "永山六条",
     "town_kana": "ナガヤマ6ジョウ",
-    "street": "１９丁目",
-    "office_name": "北海道旭川土木現業所",
-    "office_name_kana": "ホツカイドウアサヒカワドボクゲンギヨウシヨ"
+    "street": "１９丁目１−１",
+    "office_name": "北海道上川総合振興局　旭川建設管理部",
+    "office_name_kana": "ホツカイドウカミカワソウゴウシンコウキヨク アサヒカワケンセツカンリブ"
   },
   "8650": {
     "postcode": "0798650",
@@ -3211,19 +3159,6 @@
     "street": "３丁目（永山郵便局私書箱第３号）",
     "office_name": "株式会社　一印　旭川魚卸売市場",
     "office_name_kana": "カブシキガイシヤ イチジルシ アサヒカワサカナオロシウリシジヨウ"
-  },
-  "8655": {
-    "postcode": "0798655",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "旭川市",
-    "city_kana": "アサヒカワシ",
-    "town": "永山二条",
-    "town_kana": "ナガヤマ2ジョウ",
-    "street": "６丁目（永山郵便局私書箱第１９号）",
-    "office_name": "今井金商　株式会社　旭川支店",
-    "office_name_kana": "イマイキンシヨウ カブシキガイシヤ アサヒカワシテン"
   },
   "8656": {
     "postcode": "0798656",

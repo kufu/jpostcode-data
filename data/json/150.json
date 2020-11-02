@@ -1540,11 +1540,11 @@
     "prefecture_code": 13,
     "city": "渋谷区",
     "city_kana": "シブヤク",
-    "town": "渋谷",
-    "town_kana": "シブヤ",
-    "street": "２丁目２４−１",
-    "office_name": "株式会社　東急百貨店　東横店",
-    "office_name_kana": "カブシキガイシヤ トウキユウヒヤツカテン トウヨコテン"
+    "town": "道玄坂",
+    "town_kana": "ドウゲンザカ",
+    "street": "１−１２−１渋谷マークシティ地下１階",
+    "office_name": "株式会社　東急百貨店　渋谷東急フードショー",
+    "office_name_kana": "カブシキガイシヤ トウキユウヒヤツカテン シブヤトウキユウフ-ドシヨ-"
   },
   "8322": {
     "postcode": "1508322",

@@ -1117,6 +1117,19 @@
     "office_name": "株式会社　西友　西町店",
     "office_name_kana": "カブシキガイシヤ セイユウ ニシマチテン"
   },
+  "8522": {
+    "postcode": "0638522",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "札幌市西区",
+    "city_kana": "サッポロシニシク",
+    "town": "発寒十二条",
+    "town_kana": "ハッサム12ジョウ",
+    "street": "１２丁目２−１",
+    "office_name": "潮物産　株式会社",
+    "office_name_kana": "ウシオブツサン カブシキガイシヤ"
+  },
   "8558": {
     "postcode": "0638558",
     "prefecture": "北海道",

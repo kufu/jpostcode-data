@@ -1165,7 +1165,7 @@
     "city_kana": "カイシ",
     "town": "島上条",
     "town_kana": "シマカミジョウ",
-    "street": "１２４８",
+    "street": "２２５４−１",
     "office_name": "甲斐市役所　敷島支所",
     "office_name_kana": "カイシヤクシヨ シキシマシシヨ"
   },
@@ -1205,8 +1205,8 @@
     "town": "下今井",
     "town_kana": "シモイマイ",
     "street": "１７１",
-    "office_name": "甲斐市役所　双葉庁舎",
-    "office_name_kana": "カイシヤクシヨ フタバチヨウシヤ"
+    "office_name": "甲斐市役所　双葉支所",
+    "office_name_kana": "カイシヤクシヨ フタバシシヨ"
   },
   "0201": {
     "postcode": "4000201",

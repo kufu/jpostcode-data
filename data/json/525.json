@@ -922,19 +922,34 @@
     "office_name": "立命館大学　びわこくさつキャンパス",
     "office_name_kana": "リツメイカンダイガク ビワコクサツキヤンパス"
   },
-  "8585": {
-    "postcode": "5258585",
-    "prefecture": "滋賀県",
-    "prefecture_kana": "シガケン",
-    "prefecture_code": 25,
-    "city": "草津市",
-    "city_kana": "クサツシ",
-    "town": "矢橋町",
-    "town_kana": "ヤバセチョウ",
-    "street": "１６６０",
-    "office_name": "社会医療法人　誠光会　草津総合病院",
-    "office_name_kana": "シヤカイイリヨウホウジン セイコウカイ クサツソウゴウビヨウイン"
-  },
+  "8585": [
+    {
+      "postcode": "5258585",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "prefecture_code": 25,
+      "city": "草津市",
+      "city_kana": "クサツシ",
+      "town": "矢橋町",
+      "town_kana": "ヤバセチョウ",
+      "street": "１６２９−５",
+      "office_name": "社会医療法人　誠光会　淡海ふれあい病院",
+      "office_name_kana": "シヤカイイリヨウホウジン セイコウカイ オウミフレアイビヨウイン"
+    },
+    {
+      "postcode": "5258585",
+      "prefecture": "滋賀県",
+      "prefecture_kana": "シガケン",
+      "prefecture_code": 25,
+      "city": "草津市",
+      "city_kana": "クサツシ",
+      "town": "矢橋町",
+      "town_kana": "ヤバセチョウ",
+      "street": "１６６０",
+      "office_name": "社会医療法人　誠光会　草津総合病院",
+      "office_name_kana": "シヤカイイリヨウホウジン セイコウカイ クサツソウゴウビヨウイン"
+    }
+  ],
   "8588": {
     "postcode": "5258588",
     "prefecture": "滋賀県",

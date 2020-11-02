@@ -1585,6 +1585,19 @@
     "office_name": "飯田市立高松病院",
     "office_name_kana": "イイダシリツタカマツビヨウイン"
   },
+  "8504": {
+    "postcode": "3958504",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "飯田市",
+    "city_kana": "イイダシ",
+    "town": "常盤町",
+    "town_kana": "トキワマチ",
+    "street": "４１番地",
+    "office_name": "飯田商工会議所",
+    "office_name_kana": "イイダシヨウコウカイギシヨ"
+  },
   "8505": {
     "postcode": "3958505",
     "prefecture": "長野県",
