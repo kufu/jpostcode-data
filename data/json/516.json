@@ -2157,6 +2157,19 @@
     "office_name": "伊勢市生涯学習センター　（いせトピア）",
     "office_name_kana": "イセシシヨウガイガクシユウセンタ- (イセトピア)"
   },
+  "8530": {
+    "postcode": "5168530",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "prefecture_code": 24,
+    "city": "伊勢市",
+    "city_kana": "イセシ",
+    "town": "御薗町高向",
+    "town_kana": "ミソノチョウタカブク",
+    "street": "１０３８番地",
+    "office_name": "横浜ゴム　株式会社　三重工場",
+    "office_name_kana": "ヨコハマゴム カブシキガイシヤ ミエコウジヨウ"
+  },
   "8533": {
     "postcode": "5168533",
     "prefecture": "三重県",

@@ -844,6 +844,19 @@
     "office_name": "株式会社　佐賀鉄工所　藤沢工場",
     "office_name_kana": "カブシキガイシヤ サガテツコウジヨ フジサワコウジヨウ"
   },
+  "8543": {
+    "postcode": "2518543",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "藤沢市",
+    "city_kana": "フジサワシ",
+    "town": "鵠沼東",
+    "town_kana": "クゲヌマヒガシ",
+    "street": "１番１号玉半ビル５階",
+    "office_name": "株式会社　アトムシステム",
+    "office_name_kana": "カブシキカイシヤ アトムシステム"
+  },
   "8550": {
     "postcode": "2518550",
     "prefecture": "神奈川県",

@@ -3134,11 +3134,11 @@
     "prefecture_code": 21,
     "city": "高山市",
     "city_kana": "タカヤマシ",
-    "town": "名田町",
-    "town_kana": "ナダマチ",
-    "street": "３丁目８２（高山郵便局私書箱第４号）",
-    "office_name": "高山　税務署",
-    "office_name_kana": "タカヤマ ゼイムシヨ"
+    "town": "昭和町",
+    "town_kana": "ショウワマチ",
+    "street": "２丁目２２０番地高山合同庁舎２階（高山郵便局私書箱第４号）",
+    "office_name": "高山税務署",
+    "office_name_kana": "タカヤマゼイムシヨ"
   },
   "8603": {
     "postcode": "5068603",

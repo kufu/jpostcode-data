@@ -2170,19 +2170,6 @@
     "office_name": "協同クレジットサービス　株式会社",
     "office_name_kana": "キヨウドウクレジツトサ-ビス カブシキガイシヤ"
   },
-  "8511": {
-    "postcode": "1018511",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "内神田",
-    "town_kana": "ウチカンダ",
-    "street": "１丁目１−１２コープビル１０Ｆ",
-    "office_name": "農林漁業団体職員共済組合",
-    "office_name_kana": "ノウリンギヨギヨウダンタイシヨクインキヨウサイクミアイ"
-  },
   "8512": {
     "postcode": "1018512",
     "prefecture": "東京都",
@@ -2325,6 +2312,19 @@
     "street": "２丁目１６−１１内神田渋谷ビル４Ｆ",
     "office_name": "（株）　アクティブ",
     "office_name_kana": "カブ アクテイブ"
+  },
+  "8527": {
+    "postcode": "1018527",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "内神田",
+    "town_kana": "ウチカンダ",
+    "street": "１−１−５東京都産業労働局神田庁舎５階",
+    "office_name": "東京都職業能力開発協会",
+    "office_name_kana": "トウキヨウトシヨクギヨウノウリヨクカイハツキヨウカイ"
   },
   "8528": {
     "postcode": "1018528",

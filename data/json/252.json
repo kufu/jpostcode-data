@@ -3043,6 +3043,58 @@
     "office_name": "相模原税務署",
     "office_name_kana": "サガミハラゼイムシヨ"
   },
+  "5212": {
+    "postcode": "2525212",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "相模原市中央区",
+    "city_kana": "サガミハラシチュウオウク",
+    "town": "田名",
+    "town_kana": "タナ",
+    "street": "字赤坂３７００−１",
+    "office_name": "ＧＬＰ　ＡＬＦＡＬＩＮＫ相模原Ⅰ",
+    "office_name_kana": "ジ-エルピ- アルフアリンクサガミハラワン"
+  },
+  "5213": {
+    "postcode": "2525213",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "相模原市中央区",
+    "city_kana": "サガミハラシチュウオウク",
+    "town": "田名",
+    "town_kana": "タナ",
+    "street": "字赤坂３７００−５",
+    "office_name": "ＧＬＰ　ＡＬＦＡＬＩＮＫ相模原Ⅱ",
+    "office_name_kana": "ジ-エルピ- アルフアリンクサガミハラツ-"
+  },
+  "5214": {
+    "postcode": "2525214",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "相模原市中央区",
+    "city_kana": "サガミハラシチュウオウク",
+    "town": "田名",
+    "town_kana": "タナ",
+    "street": "字白雨台３５３２−８",
+    "office_name": "ＧＬＰ　ＡＬＦＡＬＩＮＫ相模原Ⅲ",
+    "office_name_kana": "ジ-エルピ- アルフアリンクサガミハラスリ-"
+  },
+  "5215": {
+    "postcode": "2525215",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "相模原市中央区",
+    "city_kana": "サガミハラシチュウオウク",
+    "town": "田名",
+    "town_kana": "タナ",
+    "street": "字白雨台３５３２−１０",
+    "office_name": "ＧＬＰ　ＡＬＦＡＬＩＮＫ相模原Ⅳ",
+    "office_name_kana": "ジ-エルピ- アルフアリンクサガミハラフオ-"
+  },
   "5221": {
     "postcode": "2525221",
     "prefecture": "神奈川県",

@@ -1078,6 +1078,19 @@
     "office_name": "（株）　恒陽社印刷",
     "office_name_kana": "(カブ) コウヨウシヤインサツ"
   },
+  "8663": {
+    "postcode": "1408663",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "東品川",
+    "town_kana": "ヒガシシナガワ",
+    "street": "２丁目２番２４号",
+    "office_name": "ＡＯＩ　ＴＹＯ　Ｈｏｌｄｉｎｇｓ　株式会社",
+    "office_name_kana": "アオイ テイ-ワイオ- ホ-ルデイングス カブシキガイシヤ"
+  },
   "8666": {
     "postcode": "1408666",
     "prefecture": "東京都",

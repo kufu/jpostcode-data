@@ -4722,6 +4722,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2325": {
+    "postcode": "9892325",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "亘理郡亘理町",
+    "city_kana": "ワタリグンワタリチョウ",
+    "town": "花苺",
+    "town_kana": "ハナイチゴ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2331": {
     "postcode": "9892331",
     "prefecture": "宮城県",
@@ -4731,6 +4744,32 @@
     "city_kana": "ワタリグンワタリチョウ",
     "town": "吉田",
     "town_kana": "ヨシダ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "2332": {
+    "postcode": "9892332",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "亘理郡亘理町",
+    "city_kana": "ワタリグンワタリチョウ",
+    "town": "苺浜",
+    "town_kana": "イチゴハマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "2333": {
+    "postcode": "9892333",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "亘理郡亘理町",
+    "city_kana": "ワタリグンワタリチョウ",
+    "town": "苺里",
+    "town_kana": "イチゴサト",
     "street": null,
     "office_name": null,
     "office_name_kana": null
