@@ -2341,6 +2341,19 @@
     "office_name": "関東経済産業局",
     "office_name_kana": "カントウケイザイサンギヨウキヨク"
   },
+  "9717": {
+    "postcode": "3309717",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市中央区",
+    "city_kana": "サイタマシチュウオウク",
+    "town": "新都心",
+    "town_kana": "シントシン",
+    "street": "１−１さいたま新都心合同庁舎１号館１９階",
+    "office_name": "総務省　関東管区行政評価局",
+    "office_name_kana": "ソウムシヨウ カントウカンクギヨウセイヒヨウカキヨク"
+  },
   "9720": {
     "postcode": "3309720",
     "prefecture": "埼玉県",

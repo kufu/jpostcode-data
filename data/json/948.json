@@ -1384,6 +1384,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0094": {
+    "postcode": "9480094",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "十日町市",
+    "city_kana": "トオカマチシ",
+    "town": "上島",
+    "town_kana": "カミジマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0095": {
+    "postcode": "9480095",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "十日町市",
+    "city_kana": "トオカマチシ",
+    "town": "下島",
+    "town_kana": "シタジマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0101": {
     "postcode": "9480101",
     "prefecture": "新潟県",

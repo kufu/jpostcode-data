@@ -727,6 +727,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0192": {
+    "postcode": "0240192",
+    "prefecture": "岩手県",
+    "prefecture_kana": "イワテケン",
+    "prefecture_code": 3,
+    "city": "北上市",
+    "city_kana": "キタカミシ",
+    "town": "北工業団地",
+    "town_kana": "キタコウギョウダンチ",
+    "street": "３−１７",
+    "office_name": "スリーエムジャパンプロダクツ　株式会社　岩手事業所",
+    "office_name_kana": "スリ-エムジヤパンプロダクツ カブシキガイシヤ イワテジギヨウシヨ"
+  },
   "0193": {
     "postcode": "0240193",
     "prefecture": "岩手県",

@@ -1104,6 +1104,19 @@
     "office_name": "横浜マリノス　株式会社",
     "office_name_kana": "ヨコハママリノス カブシキガイシヤ"
   },
+  "8529": {
+    "postcode": "2218529",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市神奈川区",
+    "city_kana": "ヨコハマシカナガワク",
+    "town": "新浦島町",
+    "town_kana": "シンウラシマチョウ",
+    "street": "一丁目１番地２５テクノウェイブ１００−６階",
+    "office_name": "国立研究開発法人　水産研究・教育機構",
+    "office_name_kana": "コクリツケンキユウカイハツホウジン スイサンケンキユウキヨウイクキコウ"
+  },
   "8537": {
     "postcode": "2218537",
     "prefecture": "神奈川県",

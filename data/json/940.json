@@ -2235,6 +2235,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0813": {
+    "postcode": "9400813",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "長岡市",
+    "city_kana": "ナガオカシ",
+    "town": "川中",
+    "town_kana": "カワナカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0814": {
     "postcode": "9400814",
     "prefecture": "新潟県",

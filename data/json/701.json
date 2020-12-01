@@ -740,6 +740,19 @@
     "office_name": "株式会社　ハローズ",
     "office_name_kana": "カブシキガイシヤ ハロ-ズ"
   },
+  "0398": {
+    "postcode": "7010398",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "prefecture_code": 33,
+    "city": "都窪郡早島町",
+    "city_kana": "ツクボグンハヤシマチョウ",
+    "town": "矢尾",
+    "town_kana": "ヤオ",
+    "street": "８３０",
+    "office_name": "株式会社　ジップ早島センター",
+    "office_name_kana": "カブシキガイシヤ ジツプハヤシマセンタ-"
+  },
   "1131": {
     "postcode": "7011131",
     "prefecture": "岡山県",

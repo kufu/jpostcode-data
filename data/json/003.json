@@ -1367,6 +1367,19 @@
     "office_name": "札幌市白石区役所",
     "office_name_kana": "サツポロシロイシクヤクシヨ"
   },
+  "8620": {
+    "postcode": "0038620",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "札幌市白石区",
+    "city_kana": "サッポロシシロイシク",
+    "town": "本通",
+    "town_kana": "ホンドオリ",
+    "street": "２０丁目北１番６８号",
+    "office_name": "北海道いすゞ自動車　株式会社",
+    "office_name_kana": "ホツカイドウイスズジドウシヤ カブシキガイシヤ"
+  },
   "8630": {
     "postcode": "0038630",
     "prefecture": "北海道",

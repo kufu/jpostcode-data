@@ -155,6 +155,19 @@
     "office_name": "電気化学工業　株式会社　青海工場",
     "office_name_kana": "デンキカガクコウギヨウ カブシキガイシヤ オウミコウジヨウ"
   },
+  "0398": {
+    "postcode": "9490398",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "糸魚川市",
+    "city_kana": "イトイガワシ",
+    "town": "大字青海",
+    "town_kana": null,
+    "street": "１６５０番地",
+    "office_name": "田辺工業　株式会社　青海支店",
+    "office_name_kana": "タナベコウギヨウ カブシキガイシヤ オウミシテン"
+  },
   "0461": [
     {
       "postcode": "9490461",

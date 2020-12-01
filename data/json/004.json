@@ -1547,5 +1547,18 @@
     "street": "５丁目",
     "office_name": "学校法人　札幌学院大学　新札幌キャンパス",
     "office_name_kana": "ガツコウホウジン サツポロガクインダイガク シンサツポロキヤンパス"
+  },
+  "8686": {
+    "postcode": "0048686",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "札幌市厚別区",
+    "city_kana": "サッポロシアツベツク",
+    "town": "厚別中央一条",
+    "town_kana": "アツベツチュウオウ1ジョウ",
+    "street": "５丁目４９３番７６",
+    "office_name": "学校法人　滋慶学園　札幌看護医療専門学校",
+    "office_name_kana": "ガツコウホウジン ジケイガクエン サツポロカンゴイリヨウセンモンガツコウ"
   }
 }
