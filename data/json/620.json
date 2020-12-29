@@ -545,19 +545,34 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0055": {
-    "postcode": "6200055",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "福知山市",
-    "city_kana": "フクチヤマシ",
-    "town": "篠尾新町",
-    "town_kana": "サソオシンマチ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0055": [
+    {
+      "postcode": "6200055",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "篠尾",
+      "town_kana": "サソオ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6200055",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "篠尾新町",
+      "town_kana": "サソオシンマチ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0056": {
     "postcode": "6200056",
     "prefecture": "京都府",
@@ -2577,32 +2592,88 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0924": {
-    "postcode": "6200924",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "福知山市",
-    "city_kana": "フクチヤマシ",
-    "town": "下篠尾",
-    "town_kana": "シモサソオ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "0925": {
-    "postcode": "6200925",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "福知山市",
-    "city_kana": "フクチヤマシ",
-    "town": "上篠尾",
-    "town_kana": "カミサソオ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0924": [
+    {
+      "postcode": "6200924",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "篠尾",
+      "town_kana": "サソオ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6200924",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "篠尾下篠尾",
+      "town_kana": "サソオシモサソオ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6200924",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "下篠尾",
+      "town_kana": "シモサソオ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
+  "0925": [
+    {
+      "postcode": "6200925",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "上篠尾",
+      "town_kana": "カミサソオ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6200925",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "篠尾",
+      "town_kana": "サソオ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6200925",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "篠尾上篠尾",
+      "town_kana": "サソオカミサソオ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0926": {
     "postcode": "6200926",
     "prefecture": "京都府",
@@ -2642,58 +2713,170 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0931": {
-    "postcode": "6200931",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "福知山市",
-    "city_kana": "フクチヤマシ",
-    "town": "北羽合",
-    "town_kana": "キタハゴウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "0932": {
-    "postcode": "6200932",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "福知山市",
-    "city_kana": "フクチヤマシ",
-    "town": "西羽合",
-    "town_kana": "ニシハゴウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "0933": {
-    "postcode": "6200933",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "福知山市",
-    "city_kana": "フクチヤマシ",
-    "town": "東羽合",
-    "town_kana": "ヒガシハゴウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "0934": {
-    "postcode": "6200934",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "福知山市",
-    "city_kana": "フクチヤマシ",
-    "town": "南羽合",
-    "town_kana": "ミナミハゴウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0931": [
+    {
+      "postcode": "6200931",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "北羽合",
+      "town_kana": "キタハゴウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6200931",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "篠尾",
+      "town_kana": "サソオ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6200931",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "篠尾北羽合",
+      "town_kana": "サソオキタハゴウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
+  "0932": [
+    {
+      "postcode": "6200932",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "篠尾",
+      "town_kana": "サソオ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6200932",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "篠尾西羽合",
+      "town_kana": "サソオニシハゴウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6200932",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "西羽合",
+      "town_kana": "ニシハゴウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
+  "0933": [
+    {
+      "postcode": "6200933",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "篠尾",
+      "town_kana": "サソオ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6200933",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "篠尾東羽合",
+      "town_kana": "サソオヒガシハゴウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6200933",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "東羽合",
+      "town_kana": "ヒガシハゴウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
+  "0934": [
+    {
+      "postcode": "6200934",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "篠尾",
+      "town_kana": "サソオ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6200934",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "篠尾南羽合",
+      "town_kana": "サソオミナミハゴウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6200934",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "南羽合",
+      "town_kana": "ミナミハゴウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0935": {
     "postcode": "6200935",
     "prefecture": "京都府",
@@ -2837,19 +3020,47 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0948": {
-    "postcode": "6200948",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "福知山市",
-    "city_kana": "フクチヤマシ",
-    "town": "夕陽が丘",
-    "town_kana": "ユウヒガオカ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0948": [
+    {
+      "postcode": "6200948",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "篠尾",
+      "town_kana": "サソオ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6200948",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "篠尾夕陽が丘",
+      "town_kana": "サソオユウヒガオカ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6200948",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "福知山市",
+      "city_kana": "フクチヤマシ",
+      "town": "夕陽が丘",
+      "town_kana": "ユウヒガオカ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0949": {
     "postcode": "6200949",
     "prefecture": "京都府",

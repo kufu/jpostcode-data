@@ -1028,6 +1028,19 @@
     "office_name": "花巻農業共同組合　北上支店",
     "office_name_kana": "ハナマキノウギヨウキヨウドウクミアイ キタカミシテン"
   },
+  "8506": {
+    "postcode": "0248506",
+    "prefecture": "岩手県",
+    "prefecture_kana": "イワテケン",
+    "prefecture_code": 3,
+    "city": "北上市",
+    "city_kana": "キタカミシ",
+    "town": "九年橋",
+    "town_kana": "クネンバシ",
+    "street": "３丁目１５番３３号",
+    "office_name": "北上済生会病院",
+    "office_name_kana": "キタカミサイセイカイビヨウイン"
+  },
   "8507": {
     "postcode": "0248507",
     "prefecture": "岩手県",

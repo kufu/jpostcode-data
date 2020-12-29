@@ -3577,6 +3577,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1292": {
+    "postcode": "0801292",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "河東郡士幌町",
+    "city_kana": "カトウグンシホロチョウ",
+    "town": "字士幌",
+    "town_kana": null,
+    "street": "２２５番地",
+    "office_name": "士幌町役場",
+    "office_name_kana": "シホロチヨウヤクバ"
+  },
   "1400": {
     "postcode": "0801400",
     "prefecture": "北海道",

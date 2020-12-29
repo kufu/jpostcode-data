@@ -1650,6 +1650,19 @@
     "office_name": "株式会社　ダイセキ",
     "office_name_kana": "カブシキガイシヤ ダイセキ"
   },
+  "8512": {
+    "postcode": "4558512",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市港区",
+    "city_kana": "ナゴヤシミナトク",
+    "town": "大江町",
+    "town_kana": "オオエチョウ",
+    "street": "３番１２",
+    "office_name": "株式会社　テクノ中部",
+    "office_name_kana": "カブシキガイシヤ テクノチユウブ"
+  },
   "8515": {
     "postcode": "4558515",
     "prefecture": "愛知県",

@@ -3147,6 +3147,19 @@
     "office_name": "ニチメン　株式会社",
     "office_name_kana": "ニチメン カブシキガイシヤ"
   },
+  "8660": {
+    "postcode": "5308660",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市北区",
+    "city_kana": "オオサカシキタク",
+    "town": "中之島",
+    "town_kana": "ナカノシマ",
+    "street": "２−１−４５",
+    "office_name": "日本銀行　大阪支店",
+    "office_name_kana": "ニツポンギンコウ オオサカシテン"
+  },
   "8680": {
     "postcode": "5308680",
     "prefecture": "大阪府",

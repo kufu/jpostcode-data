@@ -7027,6 +7027,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3236": {
+    "postcode": "5203236",
+    "prefecture": "滋賀県",
+    "prefecture_kana": "シガケン",
+    "prefecture_code": 25,
+    "city": "湖南市",
+    "city_kana": "コナンシ",
+    "town": "柑子袋東",
+    "town_kana": "コウジブクロヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3237": {
     "postcode": "5203237",
     "prefecture": "滋賀県",
