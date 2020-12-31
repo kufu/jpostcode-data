@@ -701,6 +701,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0507": {
+    "postcode": "9810507",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "東松島市",
+    "city_kana": "ヒガシマツシマシ",
+    "town": "みそら",
+    "town_kana": "ミソラ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0901": {
     "postcode": "9810901",
     "prefecture": "宮城県",
@@ -7395,19 +7408,6 @@
     "street": "字平林６２",
     "office_name": "大衡村役場",
     "office_name_kana": "オオヒラムラヤクバ"
-  },
-  "3693": {
-    "postcode": "9813693",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "黒川郡大衡村",
-    "city_kana": "クロカワグンオオヒラムラ",
-    "town": "沖の平",
-    "town_kana": "オキノダイラ",
-    "street": "１番",
-    "office_name": "ラピスセミコンダクタ宮城　株式会社",
-    "office_name_kana": "ラピスセミコンダクタミヤギ カブシキガイシヤ"
   },
   "3697": {
     "postcode": "9813697",

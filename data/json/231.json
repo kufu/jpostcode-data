@@ -1416,19 +1416,6 @@
     "office_name": "富士ソフト　株式会社",
     "office_name_kana": "フジソフト カブシキガイシヤ"
   },
-  "8080": {
-    "postcode": "2318080",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "横浜市中区",
-    "city_kana": "ヨコハマシナカク",
-    "town": "桜木町",
-    "town_kana": "サクラギチョウ",
-    "street": "１丁目１−１８",
-    "office_name": "（株）　ワウワウ・コミュニケーションズ",
-    "office_name_kana": "(カブ) ワウワウ・コミユニケ-シヨンズ"
-  },
   "8307": {
     "postcode": "2318307",
     "prefecture": "神奈川県",
@@ -1475,9 +1462,9 @@
     "prefecture_code": 14,
     "city": "横浜市中区",
     "city_kana": "ヨコハマシナカク",
-    "town": "真砂町",
-    "town_kana": "マサゴチョウ",
-    "street": "２−２２関内中央ビル９階",
+    "town": "山下町",
+    "town_kana": "ヤマシタチョウ",
+    "street": "２",
     "office_name": "横浜市財政局主税部　法人課税課　事業所税担当",
     "office_name_kana": "ヨコハマシザイセイキヨクシユゼイブ ホウジンカゼイカ ジギヨウシヨゼイタントウ"
   },
@@ -1488,11 +1475,11 @@
     "prefecture_code": 14,
     "city": "横浜市中区",
     "city_kana": "ヨコハマシナカク",
-    "town": "真砂町",
-    "town_kana": "マサゴチョウ",
-    "street": "２−２２関内中央ビル９階",
-    "office_name": "財政局主税部納税管理課",
-    "office_name_kana": "ザイセイキヨクシユゼイブノウゼイカンリカ"
+    "town": "山下町",
+    "town_kana": "ヤマシタチョウ",
+    "street": "２",
+    "office_name": "横浜市財政局主税部　納税管理課",
+    "office_name_kana": "ヨコハマシザイセイキヨクシユゼイブ ノウゼイカンリカ"
   },
   "8314": {
     "postcode": "2318314",
@@ -1501,11 +1488,11 @@
     "prefecture_code": 14,
     "city": "横浜市中区",
     "city_kana": "ヨコハマシナカク",
-    "town": "真砂町",
-    "town_kana": "マサゴチョウ",
-    "street": "２−２２関内中央ビル９階",
-    "office_name": "横浜市特別徴収センター",
-    "office_name_kana": "ヨコハマシトクベツチヨウシユウセンタ-"
+    "town": "山下町",
+    "town_kana": "ヤマシタチョウ",
+    "street": "２",
+    "office_name": "横浜市財政局主税部　法人課税課　特別徴収センター",
+    "office_name_kana": "ヨコハマシザイセイキヨクシユゼイブ ホウジンカゼイカ トクベツチヨウシユウセンタ-"
   },
   "8315": {
     "postcode": "2318315",
@@ -1527,9 +1514,9 @@
     "prefecture_code": 14,
     "city": "横浜市中区",
     "city_kana": "ヨコハマシナカク",
-    "town": "真砂町",
-    "town_kana": "マサゴチョウ",
-    "street": "２−２２関内中央ビル９階",
+    "town": "山下町",
+    "town_kana": "ヤマシタチョウ",
+    "street": "２",
     "office_name": "横浜市財政局主税部　法人課税課　法人市民税担当",
     "office_name_kana": "ヨコハマシザイセイキヨクシユゼイブ ホウジンカゼイカ ホウジンシミンゼイタントウ"
   },
@@ -1657,11 +1644,11 @@
     "prefecture_code": 14,
     "city": "横浜市中区",
     "city_kana": "ヨコハマシナカク",
-    "town": "真砂町",
-    "town_kana": "マサゴチョウ",
-    "street": "２−２２関内中央ビル１０階",
-    "office_name": "横浜市償却資産センター",
-    "office_name_kana": "ヨコハマシシヨウキヤクシサンセンタ-"
+    "town": "山下町",
+    "town_kana": "ヤマシタチョウ",
+    "street": "２",
+    "office_name": "横浜市財政局主税部　償却資産課",
+    "office_name_kana": "ヨコハマシザイセイキヨクシユゼイブ シヨウキヤクシサンカ"
   },
   "8346": {
     "postcode": "2318346",
@@ -1728,19 +1715,6 @@
     "office_name": "株式会社　神奈川新聞社",
     "office_name_kana": "カブシキガイシヤ カナガワシンブンシヤ"
   },
-  "8461": {
-    "postcode": "2318461",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "横浜市中区",
-    "city_kana": "ヨコハマシナカク",
-    "town": "尾上町",
-    "town_kana": "オノエチョウ",
-    "street": "６丁目８６−１",
-    "office_name": "千代田火災海上保険　株式会社　神奈川第一支店",
-    "office_name_kana": "チヨダカサイカイジヨウホケン カブシキガイシヤ カナガワダイイチシテン"
-  },
   "8464": {
     "postcode": "2318464",
     "prefecture": "神奈川県",
@@ -1753,19 +1727,6 @@
     "street": "１丁目１番地５横浜東芝ビル５Ｆ",
     "office_name": "株式会社　東芝　神奈川支社",
     "office_name_kana": "カブシキガイシヤ トウシバ カナガワシシヤ"
-  },
-  "8470": {
-    "postcode": "2318470",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "横浜市中区",
-    "city_kana": "ヨコハマシナカク",
-    "town": "尾上町",
-    "town_kana": "オノエチョウ",
-    "street": "４丁目５７三井ビル６Ｆ",
-    "office_name": "日本信販　株式会社　横浜統括部",
-    "office_name_kana": "ニホンシンパン カブシキガイシヤ ヨコハマトウカツブ"
   },
   "8477": {
     "postcode": "2318477",
@@ -1870,19 +1831,6 @@
     "street": "２２３−１ＮＵ関内ビル４Ｆ",
     "office_name": "株式会社　ぱど",
     "office_name_kana": "カブシキガイシヤ パド"
-  },
-  "8542": {
-    "postcode": "2318542",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "横浜市中区",
-    "city_kana": "ヨコハマシナカク",
-    "town": "山下町",
-    "town_kana": "ヤマシタチョウ",
-    "street": "６９−１",
-    "office_name": "株式会社　テレビ神奈川",
-    "office_name_kana": "カブシキガイシヤ テレビカナガワ"
   },
   "8549": {
     "postcode": "2318549",
@@ -2092,18 +2040,18 @@
     "office_name": "横浜市こども青少年局　こども家庭課　手当給付係分室",
     "office_name_kana": "ヨコハマシコドモセイシヨウネンキヨク コドモカテイカ テアテキユウフガカリブンシツ"
   },
-  "8773": {
-    "postcode": "2318773",
+  "8831": {
+    "postcode": "2318831",
     "prefecture": "神奈川県",
     "prefecture_kana": "カナガワケン",
     "prefecture_code": 14,
     "city": "横浜市中区",
     "city_kana": "ヨコハマシナカク",
-    "town": "桜木町",
-    "town_kana": "サクラギチョウ",
-    "street": "１−１−１７ＨＵＬＩＣみなとみらい１４Ｆ",
-    "office_name": "東京都職員共済組合",
-    "office_name_kana": "トウキヨウトシヨクインキヨウサイクミアイ"
+    "town": "南仲通",
+    "town_kana": "ミナミナカドオリ",
+    "street": "２−２１−２",
+    "office_name": "株式会社　日本政策金融公庫　横浜支店",
+    "office_name_kana": "カブシキガイシヤ ニツポンセイサクキンユウコウコ ヨコハマシテン"
   },
   "8966": {
     "postcode": "2318966",

@@ -1260,6 +1260,19 @@
     "office_name": "ＤＣＭカーマ　株式会社",
     "office_name_kana": "デイ-シ-エムカ-マ カブシキガイシヤ"
   },
+  "8540": {
+    "postcode": "4488540",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "刈谷市",
+    "city_kana": "カリヤシ",
+    "town": "今川町",
+    "town_kana": "イマガワチョウ",
+    "street": "花池５３番地",
+    "office_name": "ナゼロ　株式会社",
+    "office_name_kana": "ナゼロ カブシキガイシヤ"
+  },
   "8542": {
     "postcode": "4488542",
     "prefecture": "愛知県",

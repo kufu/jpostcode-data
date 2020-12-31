@@ -578,24 +578,11 @@
     "prefecture_code": 8,
     "city": "結城市",
     "city_kana": "ユウキシ",
-    "town": "大字結城",
-    "town_kana": null,
-    "street": "１４４７",
+    "town": "中央町",
+    "town_kana": "チュウオウチョウ",
+    "street": "二丁目３番地",
     "office_name": "結城市役所",
     "office_name_kana": "ユウキシヤクシヨ"
-  },
-  "8502": {
-    "postcode": "3078502",
-    "prefecture": "茨城県",
-    "prefecture_kana": "イバラキケン",
-    "prefecture_code": 8,
-    "city": "結城市",
-    "city_kana": "ユウキシ",
-    "town": "大字結城",
-    "town_kana": null,
-    "street": "７４７３駅前分庁舎３階",
-    "office_name": "結城市教育委員会",
-    "office_name_kana": "ユウキシキヨウイクイインカイ"
   },
   "8601": {
     "postcode": "3078601",

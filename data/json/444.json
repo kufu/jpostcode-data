@@ -9443,6 +9443,19 @@
     "office_name": "ユアサ商事　株式会社　岡崎支店",
     "office_name_kana": "ユアサシヨウジ カブシキガイシヤ オカザキシテン"
   },
+  "8580": {
+    "postcode": "4448580",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "岡崎市",
+    "city_kana": "オカザキシ",
+    "town": "橋目町",
+    "town_kana": "ハシメチョウ",
+    "street": "北山１番地",
+    "office_name": "マルヤス工業　株式会社　岡崎工場",
+    "office_name_kana": "マルヤスコウギヨウ カブシキガイシヤ オカザキコウジヨウ"
+  },
   "8581": {
     "postcode": "4448581",
     "prefecture": "愛知県",
