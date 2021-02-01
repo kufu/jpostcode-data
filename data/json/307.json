@@ -207,6 +207,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0018": {
+    "postcode": "3070018",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "結城市",
+    "city_kana": "ユウキシ",
+    "town": "若宮西",
+    "town_kana": "ワカミヤニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "3070021",
     "prefecture": "茨城県",

@@ -1403,6 +1403,19 @@
     "office_name": "株式会社　さいか屋",
     "office_name_kana": "カブシキガイシヤ サイカヤ"
   },
+  "8602": {
+    "postcode": "2108602",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "川崎市川崎区",
+    "city_kana": "カワサキシカワサキク",
+    "town": "殿町",
+    "town_kana": "トノマチ",
+    "street": "３丁目２５−４",
+    "office_name": "川澄化学工業　株式会社",
+    "office_name_kana": "カワスミカガクコウギヨウ カブシキガイシヤ"
+  },
   "8604": {
     "postcode": "2108604",
     "prefecture": "神奈川県",

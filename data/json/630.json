@@ -5580,6 +5580,19 @@
     "office_name": "草竹コンクリート工業　株式会社",
     "office_name_kana": "クサタケコンクリ-トコウギヨウ カブシキガイシヤ"
   },
+  "8589": {
+    "postcode": "6308589",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "prefecture_code": 29,
+    "city": "奈良市",
+    "city_kana": "ナラシ",
+    "town": "北魚屋東町",
+    "town_kana": "キタウオヤヒガシマチ",
+    "street": "奈良女子大学コラボレーションセンター３Ｆ",
+    "office_name": "放送大学奈良学習センター",
+    "office_name_kana": "ホウソウダイガクナラガクシユウセンタ-"
+  },
   "8651": {
     "postcode": "6308651",
     "prefecture": "奈良県",

@@ -6055,6 +6055,19 @@
     "office_name": "アルプス電気　株式会社　中央研究所",
     "office_name_kana": "アルプスデンキ カブシキガイシヤ チユウオウケンキユウシヨ"
   },
+  "3281": {
+    "postcode": "9813281",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "仙台市泉区",
+    "city_kana": "センダイシイズミク",
+    "town": "紫山",
+    "town_kana": "ムラサキヤマ",
+    "street": "２丁目１−１",
+    "office_name": "独立行政法人　地域医療機能推進機構　仙台病院",
+    "office_name_kana": "ドクリツギヨウセイホウジン チイキイリヨウキノウスイシンキコウ センダイビヨウイン"
+  },
   "3287": {
     "postcode": "9813287",
     "prefecture": "宮城県",

@@ -716,6 +716,19 @@
     "office_name": "クアーズテック　株式会社　秦野事業所",
     "office_name_kana": "クア-ズテツク カブシキガイシヤ ハダノジギヨウシヨ"
   },
+  "8577": {
+    "postcode": "2578577",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "秦野市",
+    "city_kana": "ハダノシ",
+    "town": "曽屋",
+    "town_kana": "ソヤ",
+    "street": "２４２",
+    "office_name": "スタンレー電気　株式会社　秦野製作所　秦野テクニカルセンター",
+    "office_name_kana": "スタンレ-デンキ カブシキガイシヤ ハタノセイサクシヨ ハタノテクニカルセンタ-"
+  },
   "8584": {
     "postcode": "2578584",
     "prefecture": "神奈川県",

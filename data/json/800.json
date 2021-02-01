@@ -1780,6 +1780,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0307": {
+    "postcode": "8000307",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "京都郡苅田町",
+    "city_kana": "ミヤコグンカンダマチ",
+    "town": "新松山",
+    "town_kana": "シンマツヤマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0311": {
     "postcode": "8000311",
     "prefecture": "福岡県",

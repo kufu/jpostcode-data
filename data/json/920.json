@@ -9556,9 +9556,9 @@
     "city_kana": "カナザワシ",
     "town": "問屋町",
     "town_kana": "トイヤマチ",
-    "street": "１−３２",
-    "office_name": "株式会社　ヰセキ北陸",
-    "office_name_kana": "カブシキガイシヤ イセキホクリク"
+    "street": "１丁目３２番地",
+    "office_name": "株式会社　ヰセキ関西中部北陸支社",
+    "office_name_kana": "カブシキガイシヤ イセキカンサイチユウブホクリクシシヤ"
   },
   "8630": {
     "postcode": "9208630",
@@ -9935,9 +9935,9 @@
     "city_kana": "カナザワシ",
     "town": "玉川町",
     "town_kana": "タマガワチョウ",
-    "street": "１１−１８（金沢中央郵便局私書箱第４０号）",
-    "office_name": "北陸信用金庫",
-    "office_name_kana": "ホクリクシンヨウキンコ"
+    "street": "１１番１８号（金沢中央郵便局私書箱第４０号）",
+    "office_name": "はくさん信用金庫",
+    "office_name_kana": "ハクサンシンヨウキンコ"
   },
   "8676": {
     "postcode": "9208676",
@@ -10107,19 +10107,6 @@
     "street": "４丁目７−１（金沢中央郵便局私書箱第１００号）",
     "office_name": "丸果石川中央青果　株式会社",
     "office_name_kana": "マルカイシカワチユウオウセイカ カブシキガイシヤ"
-  },
-  "8720": {
-    "postcode": "9208720",
-    "prefecture": "石川県",
-    "prefecture_kana": "イシカワケン",
-    "prefecture_code": 17,
-    "city": "金沢市",
-    "city_kana": "カナザワシ",
-    "town": "三社町",
-    "town_kana": "サンジャマチ",
-    "street": "３番１５号（金沢中央郵便局私書箱第６５号）",
-    "office_name": "鶴来信用金庫",
-    "office_name_kana": "ツルギシンヨウキンコ"
   },
   "8721": {
     "postcode": "9208721",
