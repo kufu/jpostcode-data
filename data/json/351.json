@@ -597,6 +597,19 @@
     "office_name": "朝霞市役所",
     "office_name_kana": "アサカシヤクシヨ"
   },
+  "8503": {
+    "postcode": "3518503",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "朝霞市",
+    "city_kana": "アサカシ",
+    "town": "幸町",
+    "town_kana": "サイワイチョウ",
+    "street": "３丁目１４番１号",
+    "office_name": "新電元工業　株式会社　朝霞事業所",
+    "office_name_kana": "シンデンゲンコウギヨウ カブシキガイシヤ アサカジギヨウシヨ"
+  },
   "8508": {
     "postcode": "3518508",
     "prefecture": "埼玉県",

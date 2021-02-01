@@ -1793,6 +1793,19 @@
     "office_name": "千葉県東上総県民センター",
     "office_name_kana": "チバケンヒガシカズサケンミンセンタ-"
   },
+  "8550": {
+    "postcode": "2978550",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "茂原市",
+    "city_kana": "モバラシ",
+    "town": "茂原",
+    "town_kana": "モバラ",
+    "street": "６６１",
+    "office_name": "関東天然瓦斯開発　株式会社",
+    "office_name_kana": "カントウテンネンガスカイハツ カブシキカイシヤ"
+  },
   "8555": {
     "postcode": "2978555",
     "prefecture": "千葉県",

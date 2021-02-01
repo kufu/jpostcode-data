@@ -350,6 +350,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0041": {
+    "postcode": "7540041",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
+    "city": "山口市",
+    "city_kana": "ヤマグチシ",
+    "town": "小郡令和",
+    "town_kana": "オゴオリレイワ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0121": {
     "postcode": "7540121",
     "prefecture": "山口県",
