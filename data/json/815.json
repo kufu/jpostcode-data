@@ -337,6 +337,19 @@
     "office_name": "日本赤十字社　福岡県支部",
     "office_name_kana": "ニホンセキジユウジシヤ フクオカケンシブ"
   },
+  "8510": {
+    "postcode": "8158510",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "福岡市南区",
+    "city_kana": "フクオカシミナミク",
+    "town": "筑紫丘",
+    "town_kana": "チクシガオカ",
+    "street": "１丁目１−１",
+    "office_name": "学校法人　純真学園",
+    "office_name_kana": "ガツコウホウジン ジユンシンガクエン"
+  },
   "8511": {
     "postcode": "8158511",
     "prefecture": "福岡県",

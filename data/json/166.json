@@ -246,6 +246,19 @@
     "office_name": "株式会社　佼成出版社",
     "office_name_kana": "カブシキガイシヤ コウセイシユツパンシヤ"
   },
+  "8537": {
+    "postcode": "1668537",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "杉並区",
+    "city_kana": "スギナミク",
+    "town": "和田",
+    "town_kana": "ワダ",
+    "street": "２−１１−１",
+    "office_name": "立正佼成会",
+    "office_name_kana": "リツシヨウコウセイカイ"
+  },
   "8538": {
     "postcode": "1668538",
     "prefecture": "東京都",

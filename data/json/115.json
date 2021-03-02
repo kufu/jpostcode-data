@@ -272,6 +272,19 @@
     "office_name": "浮間合成　株式会社",
     "office_name_kana": "ウキマゴウセイ カブシキガイシヤ"
   },
+  "8650": {
+    "postcode": "1158650",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "北区",
+    "city_kana": "キタク",
+    "town": "赤羽台",
+    "town_kana": "アカバネダイ",
+    "street": "１−７−１１",
+    "office_name": "東洋大学　赤羽台キャンパス",
+    "office_name_kana": "トウヨウダイガク アカバネダイキヤンパス"
+  },
   "8711": {
     "postcode": "1158711",
     "prefecture": "東京都",

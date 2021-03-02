@@ -3184,6 +3184,19 @@
     "office_name": "富士通　株式会社　神奈川支社",
     "office_name_kana": "フジツウ カブシキガイシヤ カナガワシシヤ"
   },
+  "8739": {
+    "postcode": "2208739",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "みなとみらい",
+    "town_kana": "ミナトミライ",
+    "street": "４−５−３",
+    "office_name": "学校法人　神奈川大学　みなとみらいキャンパス",
+    "office_name_kana": "ガツコウホウジン カナガワダイガク ミナトミライキヤンパス"
+  },
   "8750": {
     "postcode": "2208750",
     "prefecture": "神奈川県",

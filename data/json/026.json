@@ -64,6 +64,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0005": {
+    "postcode": "0260005",
+    "prefecture": "岩手県",
+    "prefecture_kana": "イワテケン",
+    "prefecture_code": 3,
+    "city": "釜石市",
+    "city_kana": "カマイシシ",
+    "town": "平田町",
+    "town_kana": "ヘイタチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0011": {
     "postcode": "0260011",
     "prefecture": "岩手県",

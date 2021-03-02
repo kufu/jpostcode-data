@@ -1026,6 +1026,19 @@
     "office_name": "伊賀南部クリーンセンター",
     "office_name_kana": "イガナンブクリ-ンセンタ-"
   },
+  "0298": {
+    "postcode": "5180298",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "prefecture_code": 24,
+    "city": "伊賀市",
+    "city_kana": "イガシ",
+    "town": "阿保",
+    "town_kana": "アオ",
+    "street": "２１７１番地１２",
+    "office_name": "独立行政法人　水資源機構川上ダム建設所",
+    "office_name_kana": "ドクリツギヨウセイホウジン ミズシゲンキコウカワカミダムケンセツシヨ"
+  },
   "0400": {
     "postcode": "5180400",
     "prefecture": "三重県",
@@ -5020,8 +5033,8 @@
     "town": "ゆめが丘",
     "town_kana": "ユメガオカ",
     "street": "７丁目７番地の６",
-    "office_name": "パナソニック電工インテリア照明　株式会社",
-    "office_name_kana": "パナソニツクデンコウインテリアシヨウメイ カブシキガイシヤ"
+    "office_name": "パナソニックライティングシステムズ　株式会社",
+    "office_name_kana": "パナソニツクライテイングシステムズ カブシキカイシヤ"
   },
   "8533": {
     "postcode": "5188533",
