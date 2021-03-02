@@ -961,34 +961,19 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0831": [
-    {
-      "postcode": "2720831",
-      "prefecture": "千葉県",
-      "prefecture_kana": "チバケン",
-      "prefecture_code": 12,
-      "city": "市川市",
-      "city_kana": "イチカワシ",
-      "town": "稲越",
-      "town_kana": "イナゴシ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "2720831",
-      "prefecture": "千葉県",
-      "prefecture_kana": "チバケン",
-      "prefecture_code": 12,
-      "city": "市川市",
-      "city_kana": "イチカワシ",
-      "town": "稲越町",
-      "town_kana": "イナゴシマチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
+  "0831": {
+    "postcode": "2720831",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "市川市",
+    "city_kana": "イチカワシ",
+    "town": "稲越",
+    "town_kana": "イナゴシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0832": {
     "postcode": "2720832",
     "prefecture": "千葉県",

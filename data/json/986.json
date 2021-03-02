@@ -2391,6 +2391,45 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0881": {
+    "postcode": "9860881",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "石巻市",
+    "city_kana": "イシノマキシ",
+    "town": "明神南",
+    "town_kana": "ミョウジンミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0882": {
+    "postcode": "9860882",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "石巻市",
+    "city_kana": "イシノマキシ",
+    "town": "浦屋敷南",
+    "town_kana": "ウラヤシキミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0883": {
+    "postcode": "9860883",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "石巻市",
+    "city_kana": "イシノマキシ",
+    "town": "新館南",
+    "town_kana": "シンタテミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1111": {
     "postcode": "9861111",
     "prefecture": "宮城県",

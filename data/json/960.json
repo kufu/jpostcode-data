@@ -3684,6 +3684,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0893": {
+    "postcode": "9600893",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "伊達市",
+    "city_kana": "ダテシ",
+    "town": "霊山町掛田",
+    "town_kana": "リョウゼンマチカケダ",
+    "street": "字段居４５（掛田郵便局私書箱第１号）",
+    "office_name": "伊達市役所　霊山総合支所",
+    "office_name_kana": "ダテシヤクシヨ リヨウゼンソウゴウシシヨ"
+  },
   "0901": {
     "postcode": "9600901",
     "prefecture": "福島県",

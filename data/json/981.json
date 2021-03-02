@@ -8932,6 +8932,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "4369": {
+    "postcode": "9814369",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "加美郡加美町",
+    "city_kana": "カミグンカミマチ",
+    "town": "新松田",
+    "town_kana": "シンマツタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "4371": {
     "postcode": "9814371",
     "prefecture": "宮城県",

@@ -3894,19 +3894,6 @@
     "office_name": "昭和町役場",
     "office_name_kana": "シヨウワチヨウヤクバ"
   },
-  "3881": {
-    "postcode": "4093881",
-    "prefecture": "山梨県",
-    "prefecture_kana": "ヤマナシケン",
-    "prefecture_code": 19,
-    "city": "中巨摩郡昭和町",
-    "city_kana": "ナカコマグンショウワチョウ",
-    "town": "築地新居",
-    "town_kana": "ツイジアライ",
-    "street": "２０００（田富郵便局私書箱第２号）",
-    "office_name": "株式会社　キトー",
-    "office_name_kana": "カブシキガイシヤ キト-"
-  },
   "3883": {
     "postcode": "4093883",
     "prefecture": "山梨県",
@@ -3932,19 +3919,6 @@
     "street": "流通団地１−１−１",
     "office_name": "株式会社　渡辺商店",
     "office_name_kana": "カブシキガイシヤ ワタナベシヨウテン"
-  },
-  "3887": {
-    "postcode": "4093887",
-    "prefecture": "山梨県",
-    "prefecture_kana": "ヤマナシケン",
-    "prefecture_code": 19,
-    "city": "中央市",
-    "city_kana": "チュウオウシ",
-    "town": "山之神",
-    "town_kana": "ヤマノカミ",
-    "street": "流通団地北２",
-    "office_name": "（株）　やまひろ",
-    "office_name_kana": "(カブ) ヤマヒロ"
   },
   "3888": {
     "postcode": "4093888",
@@ -3981,9 +3955,9 @@
     "city_kana": "チュウオウシ",
     "town": "臼井阿原",
     "town_kana": "ウスイアワラ",
-    "street": "３０１−１",
-    "office_name": "中央市役所　田富庁舎",
-    "office_name_kana": "チユウオウシヤクシヨ タトミチヨウシヤ"
+    "street": "３０１番地１",
+    "office_name": "中央市役所",
+    "office_name_kana": "チユウオウシヤクシヨ"
   },
   "3893": {
     "postcode": "4093893",
@@ -3994,9 +3968,9 @@
     "city_kana": "チュウオウシ",
     "town": "成島",
     "town_kana": "ナルシマ",
-    "street": "２２６６",
-    "office_name": "中央市役所　玉穂庁舎",
-    "office_name_kana": "チユウオウシヤクシヨ タマホチヨウシヤ"
+    "street": "２２６６番地",
+    "office_name": "中央市役所　玉穂支所",
+    "office_name_kana": "チユウオウシヤクシヨ タマホシシヨ"
   },
   "3894": {
     "postcode": "4093894",

@@ -2274,6 +2274,19 @@
     "office_name": "東京都水道局　千代田営業所",
     "office_name_kana": "トウキヨウトスイドウキヨク チヨダエイギヨウシヨ"
   },
+  "8524": {
+    "postcode": "1018524",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "内神田",
+    "town_kana": "ウチカンダ",
+    "street": "１丁目１２−１２美土代ビル４Ｆ",
+    "office_name": "株式会社　ユニ・プランニング",
+    "office_name_kana": "カブシキガイシヤ ユニ・プランニング"
+  },
   "8525": {
     "postcode": "1018525",
     "prefecture": "東京都",

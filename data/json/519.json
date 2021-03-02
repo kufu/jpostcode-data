@@ -3005,6 +3005,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2170": {
+    "postcode": "5192170",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "prefecture_code": 24,
+    "city": "多気郡多気町",
+    "city_kana": "タキグンタキチョウ",
+    "town": "ヴィソン",
+    "town_kana": "ヴィソン",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2171": {
     "postcode": "5192171",
     "prefecture": "三重県",
