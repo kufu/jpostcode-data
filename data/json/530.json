@@ -1997,7 +1997,7 @@
     "city_kana": "オオサカシキタク",
     "town": "中之島",
     "town_kana": "ナカノシマ",
-    "street": "２丁目３番１８号中之島フェスティバルタワー１６階",
+    "street": "２−３−１８中之島フェスティバルタワー１０階",
     "office_name": "株式会社　アサヒ・ファミリー・ニュース社",
     "office_name_kana": "カブシキガイシヤ アサヒ・フアミリ-・ニユ-スシヤ"
   },
@@ -2196,6 +2196,19 @@
       "street": "１７番１号",
       "office_name": "株式会社　ＭＢＳメディアホールディングス",
       "office_name_kana": "カブシキガイシヤ エムビ-エスメデイアホ-ルデイングス"
+    },
+    {
+      "postcode": "5308304",
+      "prefecture": "大阪府",
+      "prefecture_kana": "オオサカフ",
+      "prefecture_code": 27,
+      "city": "大阪市北区",
+      "city_kana": "オオサカシキタク",
+      "town": "茶屋町",
+      "town_kana": "チャヤマチ",
+      "street": "１７番１号",
+      "office_name": "株式会社　ＭＢＳラジオ",
+      "office_name_kana": "カブシキガイシヤ エムビ-エスラジオ"
     },
     {
       "postcode": "5308304",

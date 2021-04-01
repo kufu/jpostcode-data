@@ -586,6 +586,19 @@
     "office_name": "医療法人　原土井病院",
     "office_name_kana": "イリヨウホウジン ハラドイビヨウイン"
   },
+  "8609": {
+    "postcode": "8138609",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "福岡市東区",
+    "city_kana": "フクオカシヒガシク",
+    "town": "千早",
+    "town_kana": "チハヤ",
+    "street": "６丁目１番１号",
+    "office_name": "福岡東公共職業安定所",
+    "office_name_kana": "フクオカヒガシコウキヨウシヨクギヨウアンテイシヨ"
+  },
   "8623": {
     "postcode": "8138623",
     "prefecture": "福岡県",

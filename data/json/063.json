@@ -1130,6 +1130,19 @@
     "office_name": "潮物産　株式会社",
     "office_name_kana": "ウシオブツサン カブシキガイシヤ"
   },
+  "8555": {
+    "postcode": "0638555",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "札幌市西区",
+    "city_kana": "サッポロシニシク",
+    "town": "二十四軒四条",
+    "town_kana": "ニジュウヨンケン4ジョウ",
+    "street": "１丁目１−３０",
+    "office_name": "凸版印刷　株式会社",
+    "office_name_kana": "トツパンインサツ カブシキガイシヤ"
+  },
   "8558": {
     "postcode": "0638558",
     "prefecture": "北海道",

@@ -1041,6 +1041,19 @@
     "office_name": "アマゾン藤井寺ＦＣ",
     "office_name_kana": "アマゾンフジイデラエフシ-"
   },
+  "8535": {
+    "postcode": "5838535",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "藤井寺市",
+    "city_kana": "フジイデラシ",
+    "town": "津堂",
+    "town_kana": "ツドウ",
+    "street": "４−４３５",
+    "office_name": "アマゾン藤井寺ＦＣ　ＫＩＸ４",
+    "office_name_kana": "アマゾンフジイデラエフシ-キツクスフオ-"
+  },
   "8550": {
     "postcode": "5838550",
     "prefecture": "大阪府",

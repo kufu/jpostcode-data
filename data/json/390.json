@@ -2325,5 +2325,18 @@
     "street": "１丁目１−１",
     "office_name": "石川島芝浦機械　株式会社　松本工場",
     "office_name_kana": "イシカワジマシバウラキカイ カブシキガイシヤ マツモトコウジヨウ"
+  },
+  "8765": {
+    "postcode": "3908765",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "松本市",
+    "city_kana": "マツモトシ",
+    "town": "島立",
+    "town_kana": "シマダチ",
+    "street": "１０２０松本合同庁舎内",
+    "office_name": "松本市保健所",
+    "office_name_kana": "マツモトシホケンジヨ"
   }
 }

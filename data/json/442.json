@@ -2053,6 +2053,19 @@
     "office_name": "株式会社　トヨコン",
     "office_name_kana": "カブシキガイシヤ トヨコン"
   },
+  "8555": {
+    "postcode": "4428555",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "豊川市",
+    "city_kana": "トヨカワシ",
+    "town": "八幡町",
+    "town_kana": "ヤワタチョウ",
+    "street": "東赤土２",
+    "office_name": "コニカミノルタメカトロニクス　株式会社　本社",
+    "office_name_kana": "コニカミノルタメカトロニクス カブシキガイシヤ ホンシヤ"
+  },
   "8558": {
     "postcode": "4428558",
     "prefecture": "愛知県",
@@ -2192,9 +2205,9 @@
     "city_kana": "トヨカワシ",
     "town": "八幡町",
     "town_kana": "ヤワタチョウ",
-    "street": "東赤土２",
-    "office_name": "コニカミノルタ　三河サイト",
-    "office_name_kana": "コニカミノルタ ミカワサイト"
+    "street": "忍地１６８",
+    "office_name": "コニカミノルタ　株式会社　三河サイト",
+    "office_name_kana": "コニカミノルタ カブシキガイシヤ ミカワサイト"
   },
   "8586": {
     "postcode": "4428586",
