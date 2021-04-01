@@ -7525,6 +7525,19 @@
     "office_name": "福島県市町村職員　共済組合",
     "office_name_kana": "フクシマケンシチヨウソンシヨクイン キヨウサイクミアイ"
   },
+  "8516": {
+    "postcode": "9608516",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "福島市",
+    "city_kana": "フクシマシ",
+    "town": "栄町",
+    "town_kana": "サカエマチ",
+    "street": "１０番６号",
+    "office_name": "福島県立医科大学　福島駅前キャンパス",
+    "office_name_kana": "フクシマケンリツイカダイガク フクシマエキマエキヤンパス"
+  },
   "8518": {
     "postcode": "9608518",
     "prefecture": "福島県",

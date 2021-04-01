@@ -1210,6 +1210,19 @@
     "office_name": "九州工業大学大学院　生命体工学研究科",
     "office_name_kana": "キユウシユウコウギヨウダイガクダイガクイン セイメイタイコウガクケンキユウカ"
   },
+  "8501": {
+    "postcode": "8088501",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "北九州市若松区",
+    "city_kana": "キタキュウシュウシワカマツク",
+    "town": "本町",
+    "town_kana": "ホンマチ",
+    "street": "２丁目１７番１号",
+    "office_name": "株式会社　サンリブ",
+    "office_name_kana": "カブシキガイシヤ サンリブ"
+  },
   "8502": {
     "postcode": "8088502",
     "prefecture": "福岡県",

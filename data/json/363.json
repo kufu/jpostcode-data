@@ -350,6 +350,19 @@
     "office_name": "桶川市役所",
     "office_name_kana": "オケガワシヤクシヨ"
   },
+  "8505": {
+    "postcode": "3638505",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "桶川市",
+    "city_kana": "オケガワシ",
+    "town": "加納",
+    "town_kana": "カノウ",
+    "street": "３１０３番地",
+    "office_name": "株式会社　シーエックスカーゴ",
+    "office_name_kana": "カブシキガイシヤ シ-エツクスカ-ゴ"
+  },
   "8509": {
     "postcode": "3638509",
     "prefecture": "埼玉県",

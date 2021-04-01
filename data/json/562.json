@@ -506,19 +506,6 @@
     "office_name": "株式会社　アラミック",
     "office_name_kana": "カブシキガイシヤ アラミツク"
   },
-  "8558": {
-    "postcode": "5628558",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "prefecture_code": 27,
-    "city": "箕面市",
-    "city_kana": "ミノオシ",
-    "town": "粟生間谷東",
-    "town_kana": "アオマダニヒガシ",
-    "street": "八丁目１番１号",
-    "office_name": "国立大学法人　大阪大学言語文化研究科・外国語学部",
-    "office_name_kana": "コクリツダイガクホウジン オオサカダイガクゲンゴブンカケンキユウカ・ガイコクゴガクブ"
-  },
   "8560": {
     "postcode": "5628560",
     "prefecture": "大阪府",
@@ -622,6 +609,19 @@
     "street": "１丁目５−１３ＰＤセンタービル",
     "office_name": "センコー　株式会社　東大阪支店船場ＰＤセンター",
     "office_name_kana": "センコ- カブシキガイシヤ ヒガシオオサカシテンセンバピ-デイ-センタ-"
+  },
+  "8678": {
+    "postcode": "5628678",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "箕面市",
+    "city_kana": "ミノオシ",
+    "town": "船場東",
+    "town_kana": "センバヒガシ",
+    "street": "三丁目５番１０号",
+    "office_name": "国立大学法人　大阪大学　言語文化研究科・外国語学部",
+    "office_name_kana": "コクリツダイガクホウジン オオサカダイガク ゲンゴブンカケンキユウカ・ガイコクゴガクブ"
   },
   "8686": {
     "postcode": "5628686",
