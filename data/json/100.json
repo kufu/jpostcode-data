@@ -7348,6 +7348,19 @@
     "office_name": "丸善　丸の内本店",
     "office_name_kana": "マルゼン マルノウチホンテン"
   },
+  "8205": {
+    "postcode": "1008205",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "丸の内",
+    "town_kana": "マルノウチ",
+    "street": "１−１−１",
+    "office_name": "田辺三菱製薬　株式会社　東京本社",
+    "office_name_kana": "タナベミツビシセイヤク カブシキガイシヤ トウキヨウホンシヤ"
+  },
   "8207": {
     "postcode": "1008207",
     "prefecture": "東京都",

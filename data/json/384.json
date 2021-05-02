@@ -2120,6 +2120,19 @@
     "office_name": "小諸市役所",
     "office_name_kana": "コモロシヤクシヨ"
   },
+  "8511": {
+    "postcode": "3848511",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "小諸市",
+    "city_kana": "コモロシ",
+    "town": "柏木",
+    "town_kana": "カシワギ",
+    "street": "１９０番地",
+    "office_name": "株式会社　小諸村田製作所",
+    "office_name_kana": "カブシキガイシヤ コモロムラタセイサクジヨ"
+  },
   "8558": {
     "postcode": "3848558",
     "prefecture": "長野県",

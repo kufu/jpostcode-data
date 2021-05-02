@@ -545,6 +545,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0107": {
+    "postcode": "3430107",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "北葛飾郡松伏町",
+    "city_kana": "キタカツシカグンマツブシマチ",
+    "town": "田島南",
+    "town_kana": "タジマミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0111": {
     "postcode": "3430111",
     "prefecture": "埼玉県",

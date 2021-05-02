@@ -2391,6 +2391,19 @@
     "office_name": "日本電信電話　株式会社　前橋支店",
     "office_name_kana": "ニホンデンシンデンワ カブシキカイシヤ マエバシシテン"
   },
+  "8587": {
+    "postcode": "3718587",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "prefecture_code": 10,
+    "city": "前橋市",
+    "city_kana": "マエバシシ",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "２丁目３番１号前橋地方合同庁舎（前橋中央郵便局私書箱第３０号）",
+    "office_name": "関東信越国税局業務センター　前橋分室",
+    "office_name_kana": "カントウシンエツコクゼイキヨクギヨウムセンタ- マエバシブンシツ"
+  },
   "8601": {
     "postcode": "3718601",
     "prefecture": "群馬県",

@@ -8830,6 +8830,19 @@
     "office_name": "損害保険ジャパン日本興亜　株式会社",
     "office_name_kana": "ソンガイホケンジヤパンニツポンコウア カブシキガイシヤ"
   },
+  "8529": {
+    "postcode": "9108529",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "prefecture_code": 18,
+    "city": "福井市",
+    "city_kana": "フクイシ",
+    "town": "春山",
+    "town_kana": "ハルヤマ",
+    "street": "１丁目１番５４号福井春山合同庁舎",
+    "office_name": "金沢国税局内　福井業務処理センター",
+    "office_name_kana": "カナザワコクゼイキヨクナイ フクイギヨウムシヨリセンタ-"
+  },
   "8530": {
     "postcode": "9108530",
     "prefecture": "福井県",
@@ -8959,6 +8972,19 @@
     "street": "３丁目４−１福井放送会館",
     "office_name": "全国健康保険協会　福井支部",
     "office_name_kana": "ゼンコクケンコウホケンキヨウカイ フクイシブ"
+  },
+  "8542": {
+    "postcode": "9108542",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "prefecture_code": 18,
+    "city": "福井市",
+    "city_kana": "フクイシ",
+    "town": "開発",
+    "town_kana": "カイホツ",
+    "street": "１丁目１２１番５号",
+    "office_name": "福井労働基準監督署",
+    "office_name_kana": "フクイロウドウキジユンカントクシヨ"
   },
   "8543": {
     "postcode": "9108543",

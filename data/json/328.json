@@ -1236,6 +1236,19 @@
     "office_name": "滝沢ハム　株式会社",
     "office_name_kana": "タキザワハム カブシキガイシヤ"
   },
+  "8587": {
+    "postcode": "3288587",
+    "prefecture": "栃木県",
+    "prefecture_kana": "トチギケン",
+    "prefecture_code": 9,
+    "city": "栃木市",
+    "city_kana": "トチギシ",
+    "town": "河合町",
+    "town_kana": "カワイチョウ",
+    "street": "１番２９号栃木地方合同庁舎",
+    "office_name": "関東信越国税局業務センター　栃木分室",
+    "office_name_kana": "カントウシンエツコクゼイキヨクギヨウムセンタ- トチギブンシツ"
+  },
   "8588": {
     "postcode": "3288588",
     "prefecture": "栃木県",

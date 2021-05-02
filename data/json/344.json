@@ -1208,6 +1208,19 @@
     "office_name": "春日部市立医療センター",
     "office_name_kana": "カスカベシリツイリヨウセンタ-"
   },
+  "8680": {
+    "postcode": "3448680",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "春日部市",
+    "city_kana": "カスカベシ",
+    "town": "大沼",
+    "town_kana": "オオヌマ",
+    "street": "２丁目１２番地１",
+    "office_name": "関東信越国税局　インボイス登録センター",
+    "office_name_kana": "カントウシンエツコクゼイキヨク インボイストウロクセンタ-"
+  },
   "8686": {
     "postcode": "3448686",
     "prefecture": "埼玉県",

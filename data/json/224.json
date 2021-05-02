@@ -740,19 +740,34 @@
     "office_name": "株式会社　ソディック",
     "office_name_kana": "カブシキガイシヤ ソデイツク"
   },
-  "8524": {
-    "postcode": "2248524",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "横浜市都筑区",
-    "city_kana": "ヨコハマシツヅキク",
-    "town": "折本町",
-    "town_kana": "オリモトチョウ",
-    "street": "４７０",
-    "office_name": "亀屋万年堂製菓　株式会社",
-    "office_name_kana": "カメヤマンネンドウセイカ カブシキガイシヤ"
-  },
+  "8524": [
+    {
+      "postcode": "2248524",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "prefecture_code": 14,
+      "city": "横浜市都筑区",
+      "city_kana": "ヨコハマシツヅキク",
+      "town": "折本町",
+      "town_kana": "オリモトチョウ",
+      "street": "４７０",
+      "office_name": "株式会社　亀屋万年堂",
+      "office_name_kana": "カブシキガイシヤ カメヤマンネンドウ"
+    },
+    {
+      "postcode": "2248524",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "prefecture_code": 14,
+      "city": "横浜市都筑区",
+      "city_kana": "ヨコハマシツヅキク",
+      "town": "折本町",
+      "town_kana": "オリモトチョウ",
+      "street": "４７０",
+      "office_name": "亀屋万年堂製菓　株式会社",
+      "office_name_kana": "カメヤマンネンドウセイカ カブシキガイシヤ"
+    }
+  ],
   "8539": {
     "postcode": "2248539",
     "prefecture": "神奈川県",

@@ -11446,6 +11446,19 @@
     "office_name": "京都地域センター",
     "office_name_kana": "キヨウトチイキセンタ-"
   },
+  "8792": {
+    "postcode": "6008792",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "京都市下京区",
+    "city_kana": "キョウトシシモギョウク",
+    "town": "中堂寺粟田町",
+    "town_kana": "チュウドウジアワタチョウ",
+    "street": "９１ＫＲＰ１０号館",
+    "office_name": "京都サービスセンター",
+    "office_name_kana": "キヨウトサ-ビスセンタ-"
+  },
   "8801": {
     "postcode": "6008801",
     "prefecture": "京都府",
