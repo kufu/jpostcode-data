@@ -8543,8 +8543,8 @@
     "town": "中橋町",
     "town_kana": "ナカバシマチ",
     "street": "１１−１８",
-    "office_name": "北陸ゼロックス　株式会社",
-    "office_name_kana": "ホクリクゼロツクス カブシキガイシヤ"
+    "office_name": "富士フイルムビジネスイノベーションジャパン　株式会社",
+    "office_name_kana": "フジフイルムビジネスイノベ-シヨンジヤパン カブシキガイシヤ"
   },
   "8502": {
     "postcode": "9208502",
@@ -8597,19 +8597,6 @@
     "street": "３丁目４−１",
     "office_name": "金沢税務署",
     "office_name_kana": "カナザワゼイムシヨ"
-  },
-  "8506": {
-    "postcode": "9208506",
-    "prefecture": "石川県",
-    "prefecture_kana": "イシカワケン",
-    "prefecture_code": 17,
-    "city": "金沢市",
-    "city_kana": "カナザワシ",
-    "town": "昭和町",
-    "town_kana": "ショウワマチ",
-    "street": "１６番１号",
-    "office_name": "富士ゼロックス　株式会社　北陸営業所",
-    "office_name_kana": "フジゼロツクス カブシキガイシヤ ホクリクエイギヨウシヨ"
   },
   "8507": {
     "postcode": "9208507",

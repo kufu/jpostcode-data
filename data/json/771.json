@@ -1163,6 +1163,19 @@
     "office_name": "株式会社　幸燿",
     "office_name_kana": "カブシキガイシヤ コウヨウ"
   },
+  "0197": {
+    "postcode": "7710197",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "prefecture_code": 36,
+    "city": "徳島市",
+    "city_kana": "トクシマシ",
+    "town": "川内町",
+    "town_kana": "カワウチチョウ",
+    "street": "平石夷野２２４番地２９",
+    "office_name": "四国アルフレッサ　株式会社",
+    "office_name_kana": "シコクアルフレツサ カブシキガイシヤ"
+  },
   "0198": {
     "postcode": "7710198",
     "prefecture": "徳島県",

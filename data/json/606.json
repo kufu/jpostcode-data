@@ -6329,18 +6329,5 @@
     "street": "１３７",
     "office_name": "京都精華大学",
     "office_name_kana": "キヨウトセイカダイガク"
-  },
-  "8792": {
-    "postcode": "6068792",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "京都市左京区",
-    "city_kana": "キョウトシサキョウク",
-    "town": "松ケ崎横縄手町",
-    "town_kana": "マツガサキヨコナワテチョウ",
-    "street": "８",
-    "office_name": "京都サービスセンター",
-    "office_name_kana": "キヨウトサ-ビスセンタ-"
   }
 }

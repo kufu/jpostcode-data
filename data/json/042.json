@@ -506,19 +506,6 @@
     "office_name": "医療法人　富田病院",
     "office_name_kana": "イリヨウホウジン トミタビヨウイン"
   },
-  "8550": {
-    "postcode": "0428550",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "函館市",
-    "city_kana": "ハコダテシ",
-    "town": "駒場町",
-    "town_kana": "コマバチョウ",
-    "street": "２番１３号",
-    "office_name": "北海道森林管理局　函館事務所",
-    "office_name_kana": "ホツカイドウシンリンカンリキヨク ハコダテジムシヨ"
-  },
   "8555": {
     "postcode": "0428555",
     "prefecture": "北海道",

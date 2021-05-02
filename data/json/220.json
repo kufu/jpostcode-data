@@ -2690,6 +2690,19 @@
     "office_name": "神奈川　日産自動車　株式会社",
     "office_name_kana": "カナガワ ニツサンジドウシヤ カブシキガイシヤ"
   },
+  "8530": {
+    "postcode": "2208530",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "北幸",
+    "town_kana": "キタサイワイ",
+    "street": "１−１１−１５横浜ＳＴビル１３階",
+    "office_name": "住友生命保険　相互会社　横浜支社",
+    "office_name_kana": "スミトモセイメイホケン ソウゴガイシヤ ヨコハマシシヤ"
+  },
   "8536": {
     "postcode": "2208536",
     "prefecture": "神奈川県",

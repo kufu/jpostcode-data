@@ -896,6 +896,19 @@
     "office_name": "イオンモール　株式会社",
     "office_name_kana": "イオンモ-ル カブシキガイシヤ"
   },
+  "8541": {
+    "postcode": "2618541",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "千葉市美浜区",
+    "city_kana": "チバシミハマク",
+    "town": "中瀬",
+    "town_kana": "ナカセ",
+    "street": "２−６−１ＷＢＧマリブイースト５Ｆ",
+    "office_name": "イオンコンパス　（株）　オペレーションセンター　ハガキ事務局",
+    "office_name_kana": "イオンコンパス (カ) オペレ-シヨンセンタ- ハガキジムキヨク"
+  },
   "8544": {
     "postcode": "2618544",
     "prefecture": "千葉県",

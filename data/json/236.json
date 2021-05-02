@@ -649,6 +649,19 @@
     "office_name": "三菱重工業　株式会社　横浜製作所",
     "office_name_kana": "ミツビシジユウコウギヨウ カブシキカイシヤ ヨコハマセイサクシヨ"
   },
+  "8540": {
+    "postcode": "2368540",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市金沢区",
+    "city_kana": "ヨコハマシカナザワク",
+    "town": "昭和町",
+    "town_kana": "ショウワマチ",
+    "street": "３１７５番地",
+    "office_name": "日本飛行機　株式会社",
+    "office_name_kana": "ニツポンヒコウキ カブシキガイシヤ"
+  },
   "8550": {
     "postcode": "2368550",
     "prefecture": "神奈川県",

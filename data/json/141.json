@@ -779,6 +779,19 @@
     "office_name": "株式会社　地球の歩き方",
     "office_name_kana": "カブシキガイシヤ チキユウノアルキカタ"
   },
+  "8426": {
+    "postcode": "1418426",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "西五反田",
+    "town_kana": "ニシゴタンダ",
+    "street": "２−１１−８",
+    "office_name": "株式会社　文理",
+    "office_name_kana": "カブシキガイシヤ ブンリ"
+  },
   "8501": {
     "postcode": "1418501",
     "prefecture": "東京都",

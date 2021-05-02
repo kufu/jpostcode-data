@@ -1169,6 +1169,19 @@
     "office_name": "株式会社　世界文化ライフケア",
     "office_name_kana": "カブシキガイシヤ セカイブンカライフケア"
   },
+  "8195": {
+    "postcode": "1028195",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "九段北",
+    "town_kana": "クダンキタ",
+    "street": "４−２−２９",
+    "office_name": "株式会社　世界文化ブックス",
+    "office_name_kana": "カブシキガイシヤ セカイブンカブツクス"
+  },
   "8201": {
     "postcode": "1028201",
     "prefecture": "東京都",
@@ -2975,6 +2988,19 @@
     "street": "４−１",
     "office_name": "株式会社　オータニコーポレーション",
     "office_name_kana": "カブシキガイシヤ オ-タニコ-ポレ-シヨン"
+  },
+  "8566": {
+    "postcode": "1028566",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "紀尾井町",
+    "town_kana": "キオイチョウ",
+    "street": "３番６号",
+    "office_name": "岩田地崎建設　株式会社",
+    "office_name_kana": "イワタチザキケンセツ カブシキガイシヤ"
   },
   "8567": {
     "postcode": "1028567",

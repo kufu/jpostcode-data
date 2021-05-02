@@ -2146,6 +2146,19 @@
     "office_name": "浦和区役所",
     "office_name_kana": "ウラワクヤクシヨ"
   },
+  "9587": {
+    "postcode": "3309587",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市中央区",
+    "city_kana": "サイタマシチュウオウク",
+    "town": "新都心",
+    "town_kana": "シントシン",
+    "street": "１番地１さいたま新都心合同庁舎１号館",
+    "office_name": "関東信越国税局業務センター",
+    "office_name_kana": "カントウシンエツコクゼイキヨクギヨウムセンタ-"
+  },
   "9588": {
     "postcode": "3309588",
     "prefecture": "埼玉県",

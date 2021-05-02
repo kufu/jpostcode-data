@@ -3613,6 +3613,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "6950": {
+    "postcode": "1056950",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "虎ノ門",
+    "town_kana": "トラノモン",
+    "street": "４−１−１神谷町トラストタワー",
+    "office_name": "伊藤忠テクノソリューションズ　株式会社",
+    "office_name_kana": "イトウチユウテクノソリユ-シヨンズ カブシキガイシヤ"
+  },
   "6990": {
     "postcode": "1056990",
     "prefecture": "東京都",

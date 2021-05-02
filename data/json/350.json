@@ -6527,6 +6527,19 @@
     "office_name": "鶴ヶ島市役所",
     "office_name_kana": "ツルガシマシヤクシヨ"
   },
+  "2295": {
+    "postcode": "3502295",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "鶴ヶ島市",
+    "city_kana": "ツルガシマシ",
+    "town": "大字太田ヶ谷",
+    "town_kana": null,
+    "street": "１２００番地",
+    "office_name": "株式会社　ＩＨＩ航空・宇宙・防衛事業領域生産センター鶴ヶ島工場",
+    "office_name_kana": "カブシキカイシヤ アイエイチアイコウクウ・ウチユウ・ボ-ウエイジギヨウリヨウイキセイサンセンタ-ツルガシマコウジヨウ"
+  },
   "8501": {
     "postcode": "3508501",
     "prefecture": "埼玉県",

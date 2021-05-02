@@ -806,5 +806,18 @@
     "street": "７０−１",
     "office_name": "キヤノン　株式会社　川崎事業所",
     "office_name_kana": "キヤノン カブシキカイシヤ カワサキジギヨウシヨ"
+  },
+  "8603": {
+    "postcode": "2128603",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "川崎市幸区",
+    "city_kana": "カワサキシサイワイク",
+    "town": "小向東芝町",
+    "town_kana": "コムカイトウシバチョウ",
+    "street": "１番地",
+    "office_name": "ディー・ティー・ファインエレクトロニクス　株式会社",
+    "office_name_kana": "デイ-・テイ-・フアインエレクトロニクス カブシキガイシヤ"
   }
 }

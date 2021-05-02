@@ -2365,6 +2365,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2192": {
+    "postcode": "3192192",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "那珂市",
+    "city_kana": "ナカシ",
+    "town": "瓜連",
+    "town_kana": "ウリヅラ",
+    "street": "３２１番地",
+    "office_name": "那珂市役所　瓜連支所",
+    "office_name_kana": "ナカシヤクシヨ ウリヅラシシヨ"
+  },
   "2200": {
     "postcode": "3192200",
     "prefecture": "茨城県",

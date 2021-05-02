@@ -698,6 +698,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0216": {
+    "postcode": "5240216",
+    "prefecture": "滋賀県",
+    "prefecture_kana": "シガケン",
+    "prefecture_code": 25,
+    "city": "守山市",
+    "city_kana": "モリヤマシ",
+    "town": "環境学習都市宣言記念公園",
+    "town_kana": "カンキョウガクシュウトシセンゲンキネンコウエン",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0292": {
     "postcode": "5240292",
     "prefecture": "滋賀県",
