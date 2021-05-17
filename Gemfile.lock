@@ -5,7 +5,7 @@ GEM
     diff-lcs (1.4.4)
     method_source (1.0.0)
     mini_portile2 (2.5.1)
-    nokogiri (1.11.3)
+    nokogiri (1.11.4)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     pry (0.14.1)
