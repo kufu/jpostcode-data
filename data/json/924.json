@@ -2065,5 +2065,18 @@
     "street": "２丁目１",
     "office_name": "白山市役所",
     "office_name_kana": "ハクサンシヤクシヨ"
+  },
+  "8777": {
+    "postcode": "9248777",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "白山市",
+    "city_kana": "ハクサンシ",
+    "town": "横江町",
+    "town_kana": "ヨコエマチ",
+    "street": "土地区画整理事業施行地区内１街区",
+    "office_name": "イオンモール白山",
+    "office_name_kana": "イオンモ-ルハクサン"
   }
 }

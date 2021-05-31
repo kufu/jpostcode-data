@@ -1182,6 +1182,19 @@
     "office_name": "豊田通商　株式会社　刈谷支店",
     "office_name_kana": "トヨダツウシヨウ カブシキガイシヤ カリヤシテン"
   },
+  "8511": {
+    "postcode": "4488511",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "刈谷市",
+    "city_kana": "カリヤシ",
+    "town": "野田町",
+    "town_kana": "ノダチョウ",
+    "street": "場割５０",
+    "office_name": "ユケン工業　株式会社",
+    "office_name_kana": "ユケンコウギヨウ カブシキガイシヤ"
+  },
   "8523": {
     "postcode": "4488523",
     "prefecture": "愛知県",

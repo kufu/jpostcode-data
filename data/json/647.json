@@ -116,6 +116,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0010": {
+    "postcode": "6470010",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "prefecture_code": 30,
+    "city": "新宮市",
+    "city_kana": "シングウシ",
+    "town": "丹鶴",
+    "town_kana": "タンカク",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0011": {
     "postcode": "6470011",
     "prefecture": "和歌山県",

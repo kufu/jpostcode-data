@@ -2245,6 +2245,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "6605": {
+    "postcode": "7596605",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
+    "city": "下関市",
+    "city_kana": "シモノセキシ",
+    "town": "安岡",
+    "town_kana": "ヤスオカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "6611": {
     "postcode": "7596611",
     "prefecture": "山口県",
@@ -2293,6 +2306,19 @@
     "city_kana": "シモノセキシ",
     "town": "梶栗町",
     "town_kana": "カジクリチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "6615": {
+    "postcode": "7596615",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
+    "city": "下関市",
+    "city_kana": "シモノセキシ",
+    "town": "冨任",
+    "town_kana": "トミトウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

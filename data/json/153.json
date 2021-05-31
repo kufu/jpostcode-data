@@ -805,6 +805,19 @@
     "office_name": "株式会社　ビギ",
     "office_name_kana": "カブシキガイシヤ ビギ"
   },
+  "8616": {
+    "postcode": "1538616",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "目黒区",
+    "city_kana": "メグロク",
+    "town": "東山",
+    "town_kana": "ヒガシヤマ",
+    "street": "３−８−１東急池尻大橋ビル２Ｆ",
+    "office_name": "株式会社　ジャックス　東京住宅ローンセンター",
+    "office_name_kana": "カブシキガイシヤ ジヤツクス トウキヨウジユウタクロ-ンセンタ-"
+  },
   "8620": {
     "postcode": "1538620",
     "prefecture": "東京都",

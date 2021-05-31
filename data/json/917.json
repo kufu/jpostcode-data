@@ -2319,19 +2319,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0393": {
-    "postcode": "9170393",
-    "prefecture": "福井県",
-    "prefecture_kana": "フクイケン",
-    "prefecture_code": 18,
-    "city": "大飯郡おおい町",
-    "city_kana": "オオイグンオオイチョウ",
-    "town": "名田庄久坂",
-    "town_kana": "ナタショウヒササカ",
-    "street": "３−４１−３",
-    "office_name": "おおい町　名田庄総合事務所",
-    "office_name_kana": "オオイチヨウ ナタシヨウソウゴウジムシヨ"
-  },
   "0398": {
     "postcode": "9170398",
     "prefecture": "福井県",

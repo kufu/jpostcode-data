@@ -3836,6 +3836,19 @@
     "office_name": "株式会社　山梨日々新聞社",
     "office_name_kana": "カブシキガイシヤ ヤマナシニチニチシンブンシヤ"
   },
+  "8520": {
+    "postcode": "4008520",
+    "prefecture": "山梨県",
+    "prefecture_kana": "ヤマナシケン",
+    "prefecture_code": 19,
+    "city": "甲府市",
+    "city_kana": "コウフシ",
+    "town": "丸の内",
+    "town_kana": "マルノウチ",
+    "street": "１丁目１番１８号甲府合同庁舎",
+    "office_name": "甲府地方法務局",
+    "office_name_kana": "コウフチホウホウムキヨク"
+  },
   "8521": {
     "postcode": "4008521",
     "prefecture": "山梨県",
