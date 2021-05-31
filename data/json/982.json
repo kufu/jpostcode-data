@@ -337,6 +337,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0037": {
+    "postcode": "9820037",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "仙台市太白区",
+    "city_kana": "センダイシタイハクク",
+    "town": "富沢西",
+    "town_kana": "トミザワニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0211": {
     "postcode": "9820211",
     "prefecture": "宮城県",

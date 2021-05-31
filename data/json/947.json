@@ -729,6 +729,19 @@
     "office_name": "株式会社　タカハシキカイ",
     "office_name_kana": "カブシキガイシヤ タカハシキカイ"
   },
+  "8540": {
+    "postcode": "9478540",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "小千谷市",
+    "city_kana": "オヂヤシ",
+    "town": "東栄",
+    "town_kana": "トウエイ",
+    "street": "１丁目５−２４",
+    "office_name": "小千谷税務署",
+    "office_name_kana": "オヂヤゼイムシヨ"
+  },
   "8555": {
     "postcode": "9478555",
     "prefecture": "新潟県",

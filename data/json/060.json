@@ -2135,19 +2135,6 @@
     "office_name": "株式会社　東急百貨店　札幌店",
     "office_name_kana": "カブ トウキユウヒヤツカテン サツポロテン"
   },
-  "8620": {
-    "postcode": "0608620",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "札幌市中央区",
-    "city_kana": "サッポロシチュウオウク",
-    "town": "大通西",
-    "town_kana": "オオドオリニシ",
-    "street": "１８丁目１道新西ビル",
-    "office_name": "（株）　道新サービスセンター　オントナ事業部",
-    "office_name_kana": "カブシキガイシヤ ドウシンサ-ビスセンタ- オントナジギヨウブ"
-  },
   "8621": {
     "postcode": "0608621",
     "prefecture": "北海道",
@@ -2851,6 +2838,19 @@
     "street": "３丁目６",
     "office_name": "道新ぶんぶんクラブ「フレーっ！フレーっ！キャンペーン」事務局",
     "office_name_kana": "ドウシンブンブンクラブ<フレ-ツ!フレ-ツ!キヤンペ-ン>ジムキヨク"
+  },
+  "8791": {
+    "postcode": "0608791",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "札幌市中央区",
+    "city_kana": "サッポロシチュウオウク",
+    "town": "北一条西",
+    "town_kana": "キタ1ジョウニシ",
+    "street": "２丁目札幌時計台ビル９階",
+    "office_name": "令和３年度感染防止対策協力支援金事務局",
+    "office_name_kana": "レイワ3ネンドカンセンボウシタイサクキヨウリヨクシエンキンジムキヨク"
   },
   "8795": {
     "postcode": "0608795",

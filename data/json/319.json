@@ -1104,6 +1104,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1182": {
+    "postcode": "3191182",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "那珂郡東海村",
+    "city_kana": "ナカグントウカイムラ",
+    "town": "村松",
+    "town_kana": "ムラマツ",
+    "street": "２１１７",
+    "office_name": "積水メディカル　株式会社　創薬支援センター",
+    "office_name_kana": "セキスイメデイカル カブシキガイシヤ ソウヤクシエンセンタ-"
+  },
   "1184": {
     "postcode": "3191184",
     "prefecture": "茨城県",

@@ -649,6 +649,19 @@
     "office_name": "帝国通信工業　株式会社",
     "office_name_kana": "テイコクツウシンコウギヨウ カブシキガイシヤ"
   },
+  "8533": {
+    "postcode": "2118533",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "川崎市中原区",
+    "city_kana": "カワサキシナカハラク",
+    "town": "小杉町",
+    "town_kana": "コスギマチ",
+    "street": "１−３８３",
+    "office_name": "日本医科大学武蔵小杉病院",
+    "office_name_kana": "ニホンイカダイガクムサシコスギビヨウイン"
+  },
   "8540": {
     "postcode": "2118540",
     "prefecture": "神奈川県",
