@@ -34,6 +34,10 @@ module Jpostcode
             office_name_kana VARCHAR(256)
           );
         SQL
+
+        db.execute <<-SQL
+          CREATE INDEX idx_addresses ON addresses (prefecture, city, town);
+        SQL
       end
 
       def retrieve_and_save
