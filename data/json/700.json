@@ -3556,6 +3556,19 @@
     "office_name": "株式会社　ベネッセコーポレーション　本社",
     "office_name_kana": "カブシキガイシヤ ベネツセコ-ポレ-シヨン ホンシヤ"
   },
+  "8689": {
+    "postcode": "7008689",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "prefecture_code": 33,
+    "city": "岡山市北区",
+    "city_kana": "オカヤマシキタク",
+    "town": "天神町",
+    "town_kana": "テンジンチョウ",
+    "street": "３番２３号岡山東税務署内",
+    "office_name": "広島国税局業務センター岡山東分室",
+    "office_name_kana": "ヒロシマコクゼイキヨクギヨウムセンタ-オカヤマヒガシブンシツ"
+  },
   "8701": {
     "postcode": "7008701",
     "prefecture": "岡山県",

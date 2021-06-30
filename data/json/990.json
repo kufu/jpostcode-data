@@ -5773,6 +5773,19 @@
     "office_name": "全国健康保険協会　山形支部",
     "office_name_kana": "ゼンコクケンコウホケンキヨウカイ ヤマガタシブ"
   },
+  "8601": {
+    "postcode": "9908601",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "prefecture_code": 6,
+    "city": "山形市",
+    "city_kana": "ヤマガタシ",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "１番２３号山形税務署内",
+    "office_name": "仙台国税局業務センター　山形分室",
+    "office_name_kana": "センダイコクゼイキヨクギヨウムセンタ- ヤマガタブンシツ"
+  },
   "8606": {
     "postcode": "9908606",
     "prefecture": "山形県",

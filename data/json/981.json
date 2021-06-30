@@ -9413,19 +9413,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "8501": {
-    "postcode": "9818501",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市青葉区",
-    "city_kana": "センダイシアオバク",
-    "town": "堤町",
-    "town_kana": "ツツミマチ",
-    "street": "三丁目１６番１号",
-    "office_name": "独立行政法人　地域医療機能推進機構　仙台病院",
-    "office_name_kana": "ドクリツギヨウセイホウジン チイキイリヨウキノウスイシンキコウ センダイビヨウイン"
-  },
   "8502": {
     "postcode": "9818502",
     "prefecture": "宮城県",

@@ -794,6 +794,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8501": {
+    "postcode": "1988501",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "青梅市",
+    "city_kana": "オウメシ",
+    "town": "末広町",
+    "town_kana": "スエヒロチョウ",
+    "street": "２−９−１４ランドポート青梅Ⅲ",
+    "office_name": "アマゾン青梅ＦＣ",
+    "office_name_kana": "アマゾンオウメエフシ-"
+  },
   "8510": {
     "postcode": "1988510",
     "prefecture": "東京都",

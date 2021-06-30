@@ -383,11 +383,11 @@
     "prefecture_code": 11,
     "city": "桶川市",
     "city_kana": "オケガワシ",
-    "town": "大字上日出谷",
-    "town_kana": null,
-    "street": "１２３０番地",
-    "office_name": "三菱マテリアル　株式会社　桶川製作所",
-    "office_name_kana": "ミツビシマテリアル カブシキガイシヤ オケガワセイサクシヨ"
+    "town": "上日出谷",
+    "town_kana": "カミヒデヤ",
+    "street": "１２３０",
+    "office_name": "日立金属　株式会社　桶川工場",
+    "office_name_kana": "ヒタチキンゾク カブシキガイシヤ オケガワコウジヨウ"
   },
   "8555": {
     "postcode": "3638555",

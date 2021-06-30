@@ -1397,6 +1397,19 @@
     "office_name": "防衛庁陸上自衛隊　健軍駐屯地",
     "office_name_kana": "ボウエイチヨウリクジヨウジエイタイ ケングンチユウトンチ"
   },
+  "8721": {
+    "postcode": "8628721",
+    "prefecture": "熊本県",
+    "prefecture_kana": "クマモトケン",
+    "prefecture_code": 43,
+    "city": "熊本市東区",
+    "city_kana": "クマモトシヒガシク",
+    "town": "東町",
+    "town_kana": "ヒガシマチ",
+    "street": "３丁目２番５３号熊本東税務署内（熊本東郵便局私書箱第３３号）",
+    "office_name": "熊本国税局業務センター",
+    "office_name_kana": "クマモトコクゼイキヨクギヨウムセンタ-"
+  },
   "8744": {
     "postcode": "8628744",
     "prefecture": "熊本県",

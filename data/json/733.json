@@ -1481,6 +1481,19 @@
     "office_name": "オタフクソース　株式会社　中国支店",
     "office_name_kana": "オタフクソ-ス カブシキガイシヤ チユウゴクシテン"
   },
+  "8689": {
+    "postcode": "7338689",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "広島市西区",
+    "city_kana": "ヒロシマシニシク",
+    "town": "観音新町",
+    "town_kana": "カンオンシンマチ",
+    "street": "１丁目１７番３号広島西税務署内",
+    "office_name": "広島国税局業務センター",
+    "office_name_kana": "ヒロシマコクゼイキヨクギヨウムセンタ-"
+  },
   "8701": {
     "postcode": "7338701",
     "prefecture": "広島県",

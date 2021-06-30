@@ -1443,44 +1443,5 @@
     "street": "３−３２−４２",
     "office_name": "京セラ　株式会社　東京事業所",
     "office_name_kana": "キヨウセラ カブシキガイシヤ トウキヨウジギヨウシヨ"
-  },
-  "8820": {
-    "postcode": "1408820",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "品川区",
-    "city_kana": "シナガワク",
-    "town": "東品川",
-    "town_kana": "ヒガシシナガワ",
-    "street": "３−３２−４２",
-    "office_name": "株式会社　京セラソーラーコーポレーション",
-    "office_name_kana": "カブシキガイシヤ キヨウセラソ-ラ-コ-ポレ-シヨン"
-  },
-  "8840": {
-    "postcode": "1408840",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "品川区",
-    "city_kana": "シナガワク",
-    "town": "東品川",
-    "town_kana": "ヒガシシナガワ",
-    "street": "３−３２−４２",
-    "office_name": "京セラディスプレイ　株式会社　東京営業所",
-    "office_name_kana": "キヨウセラデイスプレイ カブシキガイシヤ トウキヨウエイギヨウシヨ"
-  },
-  "8850": {
-    "postcode": "1408850",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "品川区",
-    "city_kana": "シナガワク",
-    "town": "東品川",
-    "town_kana": "ヒガシシナガワ",
-    "street": "３−３２−４２",
-    "office_name": "京セラクリスタルデバイス　株式会社　東京営業所",
-    "office_name_kana": "キヨウセラクリスタルデバイス カブシキガイシヤ トウキヨウエイギヨウシヨ"
   }
 }

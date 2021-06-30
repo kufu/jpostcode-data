@@ -311,6 +311,19 @@
     "office_name": "東京ディズニーランドホテル",
     "office_name_kana": "トウキヨウデイズニ-ランドホテル"
   },
+  "8506": {
+    "postcode": "2798506",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "浦安市",
+    "city_kana": "ウラヤスシ",
+    "town": "舞浜",
+    "town_kana": "マイハマ",
+    "street": "１−４７",
+    "office_name": "東京ディズニーリゾート・トイ・ストーリーホテル",
+    "office_name_kana": "トウキヨウデイズニ-リゾ-ト・トイ・スト-リ-ホテル"
+  },
   "8511": {
     "postcode": "2798511",
     "prefecture": "千葉県",

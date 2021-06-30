@@ -6837,19 +6837,6 @@
     "office_name": "独立行政法人　農業者年金基金",
     "office_name_kana": "ドクリツギヨウセイホウジン ノウギヨウシヤネンキンキキン"
   },
-  "8011": {
-    "postcode": "1058011",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "海岸",
-    "town_kana": "カイガン",
-    "street": "１丁目２−２０",
-    "office_name": "三井住友カード　株式会社",
-    "office_name_kana": "ミツイスミトモカ-ド カブシキカイシヤ"
-  },
   "8020": {
     "postcode": "1058020",
     "prefecture": "東京都",
@@ -7894,6 +7881,19 @@
     "office_name": "競馬セキュリティサービス　株式会社",
     "office_name_kana": "ケイバセキユリテイサ-ビス カブシキガイシヤ"
   },
+  "8466": {
+    "postcode": "1058466",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "西新橋",
+    "town_kana": "ニシシンバシ",
+    "street": "１丁目１番１号",
+    "office_name": "三井食品　株式会社",
+    "office_name_kana": "ミツイシヨクヒン カブシキガイシヤ"
+  },
   "8468": {
     "postcode": "1058468",
     "prefecture": "東京都",
@@ -8062,19 +8062,6 @@
     "street": "４丁目３番１３号ヒューリック神谷町ビル９階",
     "office_name": "独立行政法人　福祉医療機構",
     "office_name_kana": "ドクリツギヨウセイホウジン フクシイリヨウキコウ"
-  },
-  "8488": {
-    "postcode": "1058488",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "西新橋",
-    "town_kana": "ニシシンバシ",
-    "street": "３−２３−５",
-    "office_name": "岩田地崎建設　株式会社",
-    "office_name_kana": "イワタチザキケンセツ カブシキガイシヤ"
   },
   "8501": {
     "postcode": "1058501",
@@ -9001,6 +8988,19 @@
       "office_name_kana": "ニホンミラクトラン カブシキカイシヤ トウキヨウエイギヨウシヨ"
     }
   ],
+  "8625": {
+    "postcode": "1058625",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "新橋",
+    "town_kana": "シンバシ",
+    "street": "１−８−３ＳＭＢＣ新橋ビル",
+    "office_name": "ＳＭＢＣファイナンスサービス　株式会社　決済ビジネス業務センター",
+    "office_name_kana": "エスエムビ-シ-フアイナンスサ-ビス カブシキガイシヤ ケツサイビジネスギヨウムセンタ-"
+  },
   "8626": {
     "postcode": "1058626",
     "prefecture": "東京都",
