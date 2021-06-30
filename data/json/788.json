@@ -207,6 +207,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0016": {
+    "postcode": "7880016",
+    "prefecture": "高知県",
+    "prefecture_kana": "コウチケン",
+    "prefecture_code": 39,
+    "city": "宿毛市",
+    "city_kana": "スクモシ",
+    "town": "希望ヶ丘",
+    "town_kana": "キボウガオカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "7880021",
     "prefecture": "高知県",

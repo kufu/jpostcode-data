@@ -3062,6 +3062,19 @@
     "office_name": "エフビル",
     "office_name_kana": "エフビル"
   },
+  "8554": {
+    "postcode": "7708554",
+    "prefecture": "徳島県",
+    "prefecture_kana": "トクシマケン",
+    "prefecture_code": 36,
+    "city": "徳島市",
+    "city_kana": "トクシマシ",
+    "town": "上吉野町",
+    "town_kana": "カミヨシノチョウ",
+    "street": "３丁目３５",
+    "office_name": "国土交通省四国地方整備局　徳島河川国道事務所",
+    "office_name_kana": "コクドコウツウシヨウシコクチホウセイビキヨク トクシマカセンコクドウジムシヨ"
+  },
   "8555": {
     "postcode": "7708555",
     "prefecture": "徳島県",

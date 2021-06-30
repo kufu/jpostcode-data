@@ -8071,6 +8071,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "4130": {
+    "postcode": "9694130",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "喜多方市",
+    "city_kana": "キタカタシ",
+    "town": "山都町松ノ前",
+    "town_kana": "ヤマトマチマツノマエ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "4131": {
     "postcode": "9694131",
     "prefecture": "福島県",
@@ -8496,6 +8509,32 @@
     "city_kana": "キタカタシ",
     "town": "山都町大林",
     "town_kana": "ヤマトマチオオバヤシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "4168": {
+    "postcode": "9694168",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "喜多方市",
+    "city_kana": "キタカタシ",
+    "town": "山都町金子沢",
+    "town_kana": "ヤマトマチカネコザワ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "4169": {
+    "postcode": "9694169",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "喜多方市",
+    "city_kana": "キタカタシ",
+    "town": "山都町山中",
+    "town_kana": "ヤマトマチヤマナカ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

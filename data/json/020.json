@@ -4852,6 +4852,19 @@
     "office_name": "ホーマック　株式会社　盛岡事務所",
     "office_name_kana": "ホ-マツク カブシキガイシヤ モリオカジムシヨ"
   },
+  "8504": {
+    "postcode": "0208504",
+    "prefecture": "岩手県",
+    "prefecture_kana": "イワテケン",
+    "prefecture_code": 3,
+    "city": "盛岡市",
+    "city_kana": "モリオカシ",
+    "town": "本町通",
+    "town_kana": "ホンチョウドオリ",
+    "street": "３丁目８−３７盛岡税務署内",
+    "office_name": "仙台国税局業務センター　盛岡分室",
+    "office_name_kana": "センダイコクゼイキヨクギヨウムセンタ- モリオカブンシツ"
+  },
   "8505": {
     "postcode": "0208505",
     "prefecture": "岩手県",

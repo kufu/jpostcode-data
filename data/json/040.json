@@ -714,19 +714,6 @@
     "office_name": "函館市　消防本部",
     "office_name_kana": "ハコダテシ シヨウボウホンブ"
   },
-  "8505": {
-    "postcode": "0408505",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "函館市",
-    "city_kana": "ハコダテシ",
-    "town": "中島町",
-    "town_kana": "ナカジマチョウ",
-    "street": "３７番１号",
-    "office_name": "函館税務署内　申告書等集中処理担当部署",
-    "office_name_kana": "ハコダテゼイムシヨナイ シンコクシヨトウシユウチユウシヨリタントウブシヨ"
-  },
   "8510": {
     "postcode": "0408510",
     "prefecture": "北海道",

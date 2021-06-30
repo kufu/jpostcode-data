@@ -10370,6 +10370,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "6547": {
+    "postcode": "6696547",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "美方郡香美町",
+    "city_kana": "ミカタグンカミチョウ",
+    "town": "香住区山手",
+    "town_kana": "カスミクヤマテ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "6551": {
     "postcode": "6696551",
     "prefecture": "兵庫県",

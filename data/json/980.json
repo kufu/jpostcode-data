@@ -1520,6 +1520,19 @@
     "office_name": "河合塾　仙台校",
     "office_name_kana": "カワイジユク センダイコウ"
   },
+  "8406": {
+    "postcode": "9808406",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "仙台市青葉区",
+    "city_kana": "センダイシアオバク",
+    "town": "上杉",
+    "town_kana": "カミスギ",
+    "street": "１丁目１番１号仙台北税務署内",
+    "office_name": "仙台国税局業務センター",
+    "office_name_kana": "センダイコクゼイキヨクギヨウムセンタ-"
+  },
   "8407": {
     "postcode": "9808407",
     "prefecture": "宮城県",

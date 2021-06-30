@@ -2874,6 +2874,19 @@
     "office_name": "三菱重工九州販売　株式会社",
     "office_name_kana": "ミツビシジユウコウキユウシユウハンバイ カブシキガイシヤ"
   },
+  "8647": {
+    "postcode": "8128647",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "福岡市博多区",
+    "city_kana": "フクオカシハカタク",
+    "town": "南本町",
+    "town_kana": "ミナミホンマチ",
+    "street": "２丁目３番１号",
+    "office_name": "福祉乗車券等郵送受付センター",
+    "office_name_kana": "フクシジヨウシヤケントウユウソウウケツケセンタ-"
+  },
   "8648": {
     "postcode": "8128648",
     "prefecture": "福岡県",

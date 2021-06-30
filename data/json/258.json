@@ -92,6 +92,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0010": {
+    "postcode": "2580010",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "足柄上郡大井町",
+    "city_kana": "アシガラカミグンオオイマチ",
+    "town": "大井中央",
+    "town_kana": "オオイチュウオウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0011": {
     "postcode": "2580011",
     "prefecture": "神奈川県",

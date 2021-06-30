@@ -623,6 +623,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0061": {
+    "postcode": "3420061",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "吉川市",
+    "city_kana": "ヨシカワシ",
+    "town": "中央",
+    "town_kana": "チュウオウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8501": {
     "postcode": "3428501",
     "prefecture": "埼玉県",

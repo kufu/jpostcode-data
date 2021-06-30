@@ -1347,9 +1347,9 @@
     "prefecture_code": 1,
     "city": "砂川市",
     "city_kana": "スナガワシ",
-    "town": "西六条北",
-    "town_kana": "ニシ6ジョウキタ",
-    "street": "３丁目１−１（砂川郵便局私書箱第１０号）",
+    "town": "西七条北",
+    "town_kana": "ニシ7ジョウキタ",
+    "street": "２丁目１−１（砂川郵便局私書箱第１０号）",
     "office_name": "砂川市役所",
     "office_name_kana": "スナガワシヤクシヨ"
   },
@@ -1362,7 +1362,7 @@
     "city_kana": "スナガワシ",
     "town": "西四条北",
     "town_kana": "ニシ4ジョウキタ",
-    "street": "２丁目１−１（砂川郵便局私書箱第１２号）",
+    "street": "３丁目１−１",
     "office_name": "砂川市立病院",
     "office_name_kana": "スナガワシリツビヨウイン"
   },
