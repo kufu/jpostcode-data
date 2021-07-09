@@ -1,0 +1,26 @@
+name: auto-update
+
+on:
+  schedule:
+    - cron:  '0 0 1 * *'
+
+jobs:
+  update-jpostcode-data:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+    - name: update jpostcode data
+      run: bundle exec rake jpostcode:data:update_all
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        base: master
+        branch: update_jpostcode_data
+        branch-suffix: timestamp
+        delete-branch: true
+        title: bundle exec rake jpostcode:data:update_all
+        commit-message: bundle exec rake jpostcode:data:update_all
