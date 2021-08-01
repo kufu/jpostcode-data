@@ -467,6 +467,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0038": {
+    "postcode": "9970038",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "prefecture_code": 6,
+    "city": "鶴岡市",
+    "city_kana": "ツルオカシ",
+    "town": "北茅原町",
+    "town_kana": "キタチワラマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0039": {
+    "postcode": "9970039",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "prefecture_code": 6,
+    "city": "鶴岡市",
+    "city_kana": "ツルオカシ",
+    "town": "西茅原町",
+    "town_kana": "ニシチワラマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0041": {
     "postcode": "9970041",
     "prefecture": "山形県",

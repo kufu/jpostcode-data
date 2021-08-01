@@ -1351,6 +1351,32 @@
     "office_name": "独立行政法人　情報処理推進機構　ＩＴ人材育成センター　国家資格・試験部",
     "office_name_kana": "ドクリツギヨウセイホウジン ジヨウホウシヨリスイシンキコウ アイテイ-ジンザイイクセイセンタ- コツカシカク・シケンブ"
   },
+  "8667": {
+    "postcode": "1138667",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "文京区",
+    "city_kana": "ブンキョウク",
+    "town": "本駒込",
+    "town_kana": "ホンコマゴメ",
+    "street": "６−１８−３",
+    "office_name": "文京学院大学女子高等学校・中学校",
+    "office_name_kana": "ブンキヨウガクインダイガクジヨシコウトウガツコウ・チユウガツコウ"
+  },
+  "8668": {
+    "postcode": "1138668",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "文京区",
+    "city_kana": "ブンキョウク",
+    "town": "向丘",
+    "town_kana": "ムコウガオカ",
+    "street": "１丁目１９番１号",
+    "office_name": "学校法人　文京学園　文京学院大学",
+    "office_name_kana": "ガツコウホウジン ブンキヨウガクエン ブンキヨウガクインダイガク"
+  },
   "8677": {
     "postcode": "1138677",
     "prefecture": "東京都",

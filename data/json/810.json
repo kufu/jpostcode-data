@@ -2118,6 +2118,19 @@
     "office_name": "福岡酒類販売　株式会社",
     "office_name_kana": "フクオカシユルイハンバイ カブシキガイシヤ"
   },
+  "8674": {
+    "postcode": "8108674",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "福岡市中央区",
+    "city_kana": "フクオカシチュウオウク",
+    "town": "天神",
+    "town_kana": "テンジン",
+    "street": "４丁目８番２８号（福岡中央郵便局私書箱第２７号）",
+    "office_name": "福岡国税局業務センター室",
+    "office_name_kana": "フクオカコクゼイキヨクギヨウムセンタ-シツ"
+  },
   "8675": {
     "postcode": "8108675",
     "prefecture": "福岡県",

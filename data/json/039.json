@@ -586,6 +586,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0592": {
+    "postcode": "0390592",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "prefecture_code": 2,
+    "city": "三戸郡南部町",
+    "city_kana": "サンノヘグンナンブチョウ",
+    "town": "大字平",
+    "town_kana": null,
+    "street": "字広場２８番地１",
+    "office_name": "南部町役場　本庁舎",
+    "office_name_kana": "ナンブチヨウヤクバ ホンチヨウシヤ"
+  },
   "0595": {
     "postcode": "0390595",
     "prefecture": "青森県",

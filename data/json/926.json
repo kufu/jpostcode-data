@@ -923,6 +923,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0208": {
+    "postcode": "9260208",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "七尾市",
+    "city_kana": "ナナオシ",
+    "town": "能登島小浦町",
+    "town_kana": "ノトジマオウラマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0211": {
     "postcode": "9260211",
     "prefecture": "石川県",

@@ -870,6 +870,19 @@
     "office_name": "株式会社　ニッセンレンエスコート",
     "office_name_kana": "カブシキカイシヤ ニツセンレンエスコ-ト"
   },
+  "8510": {
+    "postcode": "0608510",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "札幌市中央区",
+    "city_kana": "サッポロシチュウオウク",
+    "town": "大通西",
+    "town_kana": "オオドオリニシ",
+    "street": "１０丁目札幌第２合同庁舎",
+    "office_name": "札幌国税局業務センター",
+    "office_name_kana": "サツポロコクゼイキヨクギヨウムセンタ-"
+  },
   "8511": {
     "postcode": "0608511",
     "prefecture": "北海道",

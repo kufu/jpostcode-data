@@ -5258,6 +5258,19 @@
     "office_name": "農林水産省　北海道農政事務所　旭川地域拠点",
     "office_name_kana": "ノウリンスイサンシヨウ ホツカイドウノウセイジムシヨ アサヒカワチイキキヨテン"
   },
+  "8507": {
+    "postcode": "0788507",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "旭川市",
+    "city_kana": "アサヒカワシ",
+    "town": "宮前一条",
+    "town_kana": "ミヤマエ1ジョウ",
+    "street": "３丁目３番１５号（旭川合同庁舎）",
+    "office_name": "札幌国税局業務センター　旭川分室",
+    "office_name_kana": "サツポロコクゼイキヨクギヨウムセンタ- アサヒカワブンシツ"
+  },
   "8510": {
     "postcode": "0788510",
     "prefecture": "北海道",

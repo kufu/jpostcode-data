@@ -2326,19 +2326,34 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0943": {
-    "postcode": "6700943",
-    "prefecture": "兵庫県",
-    "prefecture_kana": "ヒョウゴケン",
-    "prefecture_code": 28,
-    "city": "姫路市",
-    "city_kana": "ヒメジシ",
-    "town": "市之郷町",
-    "town_kana": "イチノゴウチョウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0943": [
+    {
+      "postcode": "6700943",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "prefecture_code": 28,
+      "city": "姫路市",
+      "city_kana": "ヒメジシ",
+      "town": "市之郷",
+      "town_kana": "イチノゴウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6700943",
+      "prefecture": "兵庫県",
+      "prefecture_kana": "ヒョウゴケン",
+      "prefecture_code": 28,
+      "city": "姫路市",
+      "city_kana": "ヒメジシ",
+      "town": "市之郷町",
+      "town_kana": "イチノゴウチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0944": {
     "postcode": "6700944",
     "prefecture": "兵庫県",
@@ -2867,7 +2882,7 @@
     "city": "姫路市",
     "city_kana": "ヒメジシ",
     "town": "市之郷",
-    "town_kana": null,
+    "town_kana": "イチノゴウ",
     "street": "１２５３番１",
     "office_name": "むつみ　株式会社",
     "office_name_kana": "ムツミ カブシキガイシヤ"

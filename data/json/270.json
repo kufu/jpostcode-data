@@ -1169,6 +1169,19 @@
     "office_name": "流山おおたかの森Ｓ・Ｃ",
     "office_name_kana": "ナガレヤマオオタカノモリシヨツピング・センタ-"
   },
+  "0196": {
+    "postcode": "2700196",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "流山市",
+    "city_kana": "ナガレヤマシ",
+    "town": "西深井",
+    "town_kana": "ニシフカイ",
+    "street": "字早稲田１６０３番地１",
+    "office_name": "アマゾン流山ＦＣ",
+    "office_name_kana": "アマゾンナガレヤマエフシ-"
+  },
   "0197": {
     "postcode": "2700197",
     "prefecture": "千葉県",

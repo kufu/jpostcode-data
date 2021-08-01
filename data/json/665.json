@@ -1643,6 +1643,19 @@
     "office_name": "住友化学工業　（株）　農業化学品研究所",
     "office_name_kana": "スミトモカガクコウギヨウ カブシキガイシヤ ノウギヨウカガクヒンケンキユウシヨ"
   },
+  "8558": {
+    "postcode": "6658558",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "宝塚市",
+    "city_kana": "タカラヅカシ",
+    "town": "栄町",
+    "town_kana": "サカエマチ",
+    "street": "１丁目１−５７",
+    "office_name": "阪急電鉄　（株）　宝塚大劇場",
+    "office_name_kana": "ハンキユウデンテツ カブシキガイシヤ タカラヅカダイゲキジヨウ"
+  },
   "8567": {
     "postcode": "6658567",
     "prefecture": "兵庫県",

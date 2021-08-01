@@ -1832,6 +1832,19 @@
     "office_name": "株式会社　ぱど",
     "office_name_kana": "カブシキガイシヤ パド"
   },
+  "8544": {
+    "postcode": "2318544",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "山下町",
+    "town_kana": "ヤマシタチョウ",
+    "street": "９０番地３",
+    "office_name": "株式会社　ロイヤルホール",
+    "office_name_kana": "カブシキガイシヤ ロイヤルホ-ル"
+  },
   "8549": {
     "postcode": "2318549",
     "prefecture": "神奈川県",
