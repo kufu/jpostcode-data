@@ -2952,32 +2952,17 @@
     "office_name": "政策研究大学院大学",
     "office_name_kana": "セイサクケンキユウダイガクインダイガク"
   },
-  "8797": [
-    {
-      "postcode": "1068797",
-      "prefecture": "東京都",
-      "prefecture_kana": "トウキョウト",
-      "prefecture_code": 13,
-      "city": "港区",
-      "city_kana": "ミナトク",
-      "town": "麻布台",
-      "town_kana": "アザブダイ",
-      "street": "１丁目６−１９",
-      "office_name": "株式会社　かんぽ生命　麻布支店",
-      "office_name_kana": "カブシキガイシヤ カンポセイメイ アザブシテン"
-    },
-    {
-      "postcode": "1068797",
-      "prefecture": "東京都",
-      "prefecture_kana": "トウキョウト",
-      "prefecture_code": 13,
-      "city": "港区",
-      "city_kana": "ミナトク",
-      "town": "麻布台",
-      "town_kana": "アザブダイ",
-      "street": "１丁目６−１９",
-      "office_name": "日本郵便　株式会社　東京支社",
-      "office_name_kana": "ニホンユウビン カブシキガイシヤ トウキヨウシシヤ"
-    }
-  ]
+  "8797": {
+    "postcode": "1068797",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "麻布台",
+    "town_kana": "アザブダイ",
+    "street": "１丁目６−１９",
+    "office_name": "株式会社　かんぽ生命　麻布支店",
+    "office_name_kana": "カブシキガイシヤ カンポセイメイ アザブシテン"
+  }
 }

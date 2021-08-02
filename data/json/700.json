@@ -3017,11 +3017,11 @@
     "prefecture_code": 33,
     "city": "岡山市北区",
     "city_kana": "オカヤマシキタク",
-    "town": "丸の内",
-    "town_kana": "マルノウチ",
-    "street": "２丁目１−３（岡山中央郵便局私書箱第６１号）",
-    "office_name": "山陽放送　株式会社",
-    "office_name_kana": "サンヨウホウソウ カブシキガイシヤ"
+    "town": "天神町",
+    "town_kana": "テンジンチョウ",
+    "street": "９−２４（岡山中央郵便局私書箱第６１号）",
+    "office_name": "ＲＳＫ山陽放送　株式会社",
+    "office_name_kana": "ア-ルエスケイサンヨウホウソウ カブシキガイシヤ"
   },
   "8581": {
     "postcode": "7008581",
@@ -3368,9 +3368,9 @@
     "prefecture_code": 33,
     "city": "岡山市北区",
     "city_kana": "オカヤマシキタク",
-    "town": "学南町",
-    "town_kana": "ガクナンチョウ",
-    "street": "３丁目２−１",
+    "town": "下石井",
+    "town_kana": "シモイシイ",
+    "street": "２−１０−１２",
     "office_name": "岡山放送　株式会社",
     "office_name_kana": "オカヤマホウソウ カブシキガイシヤ"
   },
@@ -3472,11 +3472,11 @@
     "prefecture_code": 33,
     "city": "岡山市北区",
     "city_kana": "オカヤマシキタク",
-    "town": "丸の内",
-    "town_kana": "マルノウチ",
-    "street": "２丁目１番３号",
-    "office_name": "山陽放送　株式会社",
-    "office_name_kana": "サンヨウホウソウ カブシキガイシヤ"
+    "town": "天神町",
+    "town_kana": "テンジンチョウ",
+    "street": "９−２４",
+    "office_name": "ＲＳＫ山陽放送　株式会社",
+    "office_name_kana": "ア-ルエスケイサンヨウホウソウ カブシキガイシヤ"
   },
   "8677": {
     "postcode": "7008677",

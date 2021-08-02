@@ -194,6 +194,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8017": {
+    "postcode": "4598017",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市緑区",
+    "city_kana": "ナゴヤシミドリク",
+    "town": "瀬木南",
+    "town_kana": "セギミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8501": {
     "postcode": "4598501",
     "prefecture": "愛知県",

@@ -2122,6 +2122,19 @@
     "office_name": "陸上自衛隊　北海道補給処",
     "office_name_kana": "リクジヨウジエイタイ ホツカイドウホキユウシヨ"
   },
+  "1394": {
+    "postcode": "0611394",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "恵庭市",
+    "city_kana": "エニワシ",
+    "town": "京町",
+    "town_kana": "キョウマチ",
+    "street": "５６−１ＭＹ恵庭ビル５Ｆ",
+    "office_name": "中央コンピューターサービス　株式会社",
+    "office_name_kana": "チユウオウコンピユ-タ-サ-ビス カブシキガイシヤ"
+  },
   "1395": {
     "postcode": "0611395",
     "prefecture": "北海道",

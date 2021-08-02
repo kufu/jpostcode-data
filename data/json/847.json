@@ -2863,6 +2863,19 @@
     "office_name": "唐津市役所",
     "office_name_kana": "カラツシヤクシヨ"
   },
+  "8555": {
+    "postcode": "8478555",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "prefecture_code": 41,
+    "city": "唐津市",
+    "city_kana": "カラツシ",
+    "town": "鏡",
+    "town_kana": "カガミ",
+    "street": "北牟田４３３７−１",
+    "office_name": "シフトプラス　株式会社　佐賀営業所",
+    "office_name_kana": "シフトプラス カブシキガイシヤ サガエイギヨウシヨ"
+  },
   "8588": {
     "postcode": "8478588",
     "prefecture": "佐賀県",

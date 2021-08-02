@@ -3339,5 +3339,18 @@
     "street": "５丁目１番２２号青山ライズスクエア（赤坂郵便局私書箱第８４号）",
     "office_name": "株式会社　ジェーシービー　青山本社",
     "office_name_kana": "カブシキガイシヤ ジエ-シ-ビ- アオヤマホンシヤ"
+  },
+  "8797": {
+    "postcode": "1078797",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "赤坂",
+    "town_kana": "アカサカ",
+    "street": "１−１４−１４第３５興和ビル",
+    "office_name": "日本郵便　株式会社　東京支社",
+    "office_name_kana": "ニツポンユウビン カブシキガイシヤ トウキヨウシシヤ"
   }
 }

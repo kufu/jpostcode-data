@@ -389,6 +389,32 @@
     "office_name": "住友化学工業　株式会社　千葉工場",
     "office_name_kana": "スミトモカガクコウギヨウ カブシキガイシヤ チバコウジヨウ"
   },
+  "0196": {
+    "postcode": "2990196",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "市原市",
+    "city_kana": "イチハラシ",
+    "town": "千種海岸",
+    "town_kana": "チグサカイガン",
+    "street": "２の１",
+    "office_name": "東レ　株式会社　千葉工場",
+    "office_name_kana": "トウレ カブシキガイシヤ チバコウジヨウ"
+  },
+  "0197": {
+    "postcode": "2990197",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "市原市",
+    "city_kana": "イチハラシ",
+    "town": "姉崎海岸",
+    "town_kana": "アネサキカイガン",
+    "street": "６",
+    "office_name": "日本板硝子　株式会社　千葉工場",
+    "office_name_kana": "ニホンイタガラズ カブシキガイシヤ チバコウジヨウ"
+  },
   "0198": {
     "postcode": "2990198",
     "prefecture": "千葉県",

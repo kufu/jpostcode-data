@@ -1194,5 +1194,18 @@
     "street": "３丁目２−５",
     "office_name": "札幌日産自動車　株式会社　東苗穂店",
     "office_name_kana": "サツポロニツサンジドウシヤ カブシキガイシヤ ヒガシナエボテン"
+  },
+  "8733": {
+    "postcode": "0078733",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "札幌市東区",
+    "city_kana": "サッポロシヒガシク",
+    "town": "伏古八条",
+    "town_kana": "フシコ8ジョウ",
+    "street": "２丁目７−１",
+    "office_name": "北ガスジェネックス　株式会社",
+    "office_name_kana": "キタガスジエネツクス カブシキガイシヤ"
   }
 }

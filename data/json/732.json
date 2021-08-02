@@ -1272,18 +1272,5 @@
     "street": "３丁目４−１",
     "office_name": "ＤＮＴ山陽ケミカル　株式会社",
     "office_name_kana": "デイ-エヌテイ-サンヨウケミカル カブシキガイシヤ"
-  },
-  "8791": {
-    "postcode": "7328791",
-    "prefecture": "広島県",
-    "prefecture_kana": "ヒロシマケン",
-    "prefecture_code": 34,
-    "city": "広島市南区",
-    "city_kana": "ヒロシマシミナミク",
-    "town": "松原町",
-    "town_kana": "マツバラチョウ",
-    "street": "２−６２",
-    "office_name": "広島東共通事務センター",
-    "office_name_kana": "ヒロシマヒガシキヨウツウジムセンタ-"
   }
 }
