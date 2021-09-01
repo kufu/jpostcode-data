@@ -259,6 +259,19 @@
     "office_name": "岩通計測製造　株式会社　久我山工場",
     "office_name_kana": "イワツウケイソクセイゾウ カブシキガイシヤ クガヤマコウジヨウ"
   },
+  "8516": {
+    "postcode": "1688516",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "杉並区",
+    "city_kana": "スギナミク",
+    "town": "和泉",
+    "town_kana": "イズミ",
+    "street": "１丁目２２番１９号",
+    "office_name": "なないろ生命保険　株式会社",
+    "office_name_kana": "ナナイロセイメイホケン カブシキガイシヤ"
+  },
   "8520": {
     "postcode": "1688520",
     "prefecture": "東京都",

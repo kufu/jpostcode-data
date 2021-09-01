@@ -3938,6 +3938,19 @@
     "office_name": "トラスコ中山　株式会社　プラネット大阪",
     "office_name_kana": "トラスコナカヤマ カブシキガイシヤ プラネツトオオサカ"
   },
+  "8576": {
+    "postcode": "5908576",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "堺市堺区",
+    "city_kana": "サカイシサカイク",
+    "town": "海山町",
+    "town_kana": "カイサンチョウ",
+    "street": "６丁２２４番地",
+    "office_name": "堺アルミ　株式会社",
+    "office_name_kana": "サカイアルミ カブシキガイシヤ"
+  },
   "8577": {
     "postcode": "5908577",
     "prefecture": "大阪府",

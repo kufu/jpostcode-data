@@ -1260,6 +1260,19 @@
     "office_name": "株式会社　ミキモト",
     "office_name_kana": "カブシキガイシヤ ミキモト"
   },
+  "8150": {
+    "postcode": "1358150",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "豊洲",
+    "town_kana": "トヨス",
+    "street": "６丁目４番３４号メブクス豊洲",
+    "office_name": "株式会社　中央コンピュータシステム",
+    "office_name_kana": "カブシキガイシヤ チユウオウコンピユ-タシステム"
+  },
   "8180": {
     "postcode": "1358180",
     "prefecture": "東京都",

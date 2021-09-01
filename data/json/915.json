@@ -3091,6 +3091,19 @@
     "office_name": "医療法人　林病院",
     "office_name_kana": "イリヨウホウジン ハヤシビヨウイン"
   },
+  "8515": {
+    "postcode": "9158515",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "prefecture_code": 18,
+    "city": "越前市",
+    "city_kana": "エチゼンシ",
+    "town": "北府",
+    "town_kana": "キタゴ",
+    "street": "２−１−５",
+    "office_name": "信越化学工業　株式会社　武生工場",
+    "office_name_kana": "シンエツカガクコウギヨウ カブシキガイシヤ タケフコウジヨウ"
+  },
   "8520": {
     "postcode": "9158520",
     "prefecture": "福井県",

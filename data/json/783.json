@@ -1000,6 +1000,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0097": {
+    "postcode": "7830097",
+    "prefecture": "高知県",
+    "prefecture_kana": "コウチケン",
+    "prefecture_code": 39,
+    "city": "南国市",
+    "city_kana": "ナンコクシ",
+    "town": "日章あけぼの",
+    "town_kana": "ニッショウアケボノ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8501": {
     "postcode": "7838501",
     "prefecture": "高知県",

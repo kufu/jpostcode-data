@@ -1566,6 +1566,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0808": {
+    "postcode": "9380808",
+    "prefecture": "富山県",
+    "prefecture_kana": "トヤマケン",
+    "prefecture_code": 16,
+    "city": "黒部市",
+    "city_kana": "クロベシ",
+    "town": "新堂",
+    "town_kana": "シンドウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0811": {
     "postcode": "9380811",
     "prefecture": "富山県",

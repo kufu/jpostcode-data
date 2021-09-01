@@ -2135,19 +2135,6 @@
       "prefecture_code": 16,
       "city": "射水市",
       "city_kana": "イミズシ",
-      "town": "一条",
-      "town_kana": "イチジョウ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "9390332",
-      "prefecture": "富山県",
-      "prefecture_kana": "トヤマケン",
-      "prefecture_code": 16,
-      "city": "射水市",
-      "city_kana": "イミズシ",
       "town": "橋下条",
       "town_kana": "ハシゲジョウ",
       "street": null,
@@ -2246,6 +2233,19 @@
       "office_name_kana": null
     }
   ],
+  "0333": {
+    "postcode": "9390333",
+    "prefecture": "富山県",
+    "prefecture_kana": "トヤマケン",
+    "prefecture_code": 16,
+    "city": "射水市",
+    "city_kana": "イミズシ",
+    "town": "一条",
+    "town_kana": "イチジョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0341": [
     {
       "postcode": "9390341",

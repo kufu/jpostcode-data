@@ -493,6 +493,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0840": {
+    "postcode": "7510840",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
+    "city": "下関市",
+    "city_kana": "シモノセキシ",
+    "town": "長州出島",
+    "town_kana": "チョウシュウデジマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0841": {
     "postcode": "7510841",
     "prefecture": "山口県",

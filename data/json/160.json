@@ -1637,6 +1637,19 @@
     "office_name": "持田製薬　（株）",
     "office_name_kana": "モチダセイヤク カブシキガイシヤ"
   },
+  "8516": {
+    "postcode": "1608516",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "四谷",
+    "town_kana": "ヨツヤ",
+    "street": "１−６−１四谷タワー１６階",
+    "office_name": "なないろ生命保険　株式会社",
+    "office_name_kana": "ナナイロセイメイホケン カブシキガイシヤ"
+  },
   "8519": {
     "postcode": "1608519",
     "prefecture": "東京都",

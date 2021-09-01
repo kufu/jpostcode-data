@@ -258,5 +258,18 @@
     "street": "１丁目５−８",
     "office_name": "昭和大学病院",
     "office_name_kana": "シヨウワダイガクビヨウイン"
+  },
+  "8777": {
+    "postcode": "1428777",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "旗の台",
+    "town_kana": "ハタノダイ",
+    "street": "１丁目９番１４号",
+    "office_name": "昭和大学　教育研修棟",
+    "office_name_kana": "シヨウワダイガク キヨウイクケンシユウトウ"
   }
 }

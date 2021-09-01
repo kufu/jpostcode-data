@@ -8728,6 +8728,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3528": {
+    "postcode": "4443528",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "岡崎市",
+    "city_kana": "オカザキシ",
+    "town": "みはらし台",
+    "town_kana": "ミハラシダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3592": {
     "postcode": "4443592",
     "prefecture": "愛知県",

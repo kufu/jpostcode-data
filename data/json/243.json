@@ -1520,6 +1520,19 @@
     "office_name": "海老名市役所",
     "office_name_kana": "エビナシヤクシヨ"
   },
+  "0493": {
+    "postcode": "2430493",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "海老名市",
+    "city_kana": "エビナシ",
+    "town": "大谷北",
+    "town_kana": "オオヤキタ",
+    "street": "１丁目３番２号",
+    "office_name": "アツギ　株式会社",
+    "office_name_kana": "アツギ カブシキガイシヤ"
+  },
   "0494": {
     "postcode": "2430494",
     "prefecture": "神奈川県",

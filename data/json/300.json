@@ -6863,6 +6863,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2408": {
+    "postcode": "3002408",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "つくばみらい市",
+    "city_kana": "ツクバミライシ",
+    "town": "福岡工業団地",
+    "town_kana": "フクオカコウギョウダンチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2411": {
     "postcode": "3002411",
     "prefecture": "茨城県",

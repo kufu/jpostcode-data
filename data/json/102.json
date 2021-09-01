@@ -2274,6 +2274,19 @@
     "office_name": "法政大学　通信教育部",
     "office_name_kana": "ホウセイダイガク ツウシンキヨウイクブ"
   },
+  "8448": {
+    "postcode": "1028448",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "一番町",
+    "town_kana": "イチバンチョウ",
+    "street": "２５番地全国町村議員会館６階",
+    "office_name": "地方職員共済組合団体共済部",
+    "office_name_kana": "チホウシヨクインキヨウサイクミアイダンタイキヨウサイブ"
+  },
   "8450": {
     "postcode": "1028450",
     "prefecture": "東京都",
