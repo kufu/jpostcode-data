@@ -6098,6 +6098,19 @@
     "office_name": "阿部興業　株式会社",
     "office_name_kana": "アベコウギヨウ カブシキガイシヤ"
   },
+  "1386": {
+    "postcode": "3501386",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "狭山市",
+    "city_kana": "サヤマシ",
+    "town": "青柳",
+    "town_kana": "アオヤギ",
+    "street": "９１５−１",
+    "office_name": "アマゾン　狭山ＦＣ　入庫係",
+    "office_name_kana": "アマゾン サヤマエフシ- ニユウコカカリ"
+  },
   "1388": {
     "postcode": "3501388",
     "prefecture": "埼玉県",
@@ -6131,11 +6144,11 @@
     "prefecture_code": 11,
     "city": "狭山市",
     "city_kana": "サヤマシ",
-    "town": "青柳",
-    "town_kana": "アオヤギ",
-    "street": "９１５",
-    "office_name": "アマゾン　狭山ＦＣ　入庫係",
-    "office_name_kana": "アマゾン サヤマエフシ- ニユウコカカリ"
+    "town": "笹井",
+    "town_kana": "ササイ",
+    "street": "５３５",
+    "office_name": "株式会社　鷺宮製作所　狭山事業所",
+    "office_name_kana": "カブシキガイシヤ サギノミヤセイサクシヨ サヤマジギヨウシヨ"
   },
   "1398": {
     "postcode": "3501398",

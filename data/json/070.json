@@ -2221,5 +2221,18 @@
     "street": "１５丁目（旭川中央郵便局私書箱第１３３号）",
     "office_name": "旭陽電機　株式会社",
     "office_name_kana": "キヨクヨウデンキ カブシキガイシヤ"
+  },
+  "8770": {
+    "postcode": "0708770",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "旭川市",
+    "city_kana": "アサヒカワシ",
+    "town": "神居八条",
+    "town_kana": "カムイ8ジョウ",
+    "street": "１丁目１番２７号旭川トヨペット３階",
+    "office_name": "ネッツトヨタたいせつ　株式会社　神居オフィス",
+    "office_name_kana": "ネツツトヨタタイセツ カブシキガイシヤ カムイオフイス"
   }
 }

@@ -1949,6 +1949,19 @@
     "office_name": "大成建設　株式会社　横浜支店",
     "office_name_kana": "タイセイケンセツ カブシキガイシヤ ヨコハマシテン"
   },
+  "8623": {
+    "postcode": "2318623",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "伊勢佐木町",
+    "town_kana": "イセザキチョウ",
+    "street": "１−４−１",
+    "office_name": "株式会社　有隣堂　伊勢佐木町本店",
+    "office_name_kana": "カブシキガイシヤ ユウリンドウ イセザキチヨウホンテン"
+  },
   "8652": {
     "postcode": "2318652",
     "prefecture": "神奈川県",

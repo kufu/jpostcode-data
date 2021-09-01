@@ -5560,9 +5560,9 @@
     "city_kana": "フクイシ",
     "town": "美山町",
     "town_kana": "ミヤマチョウ",
-    "street": "７−１",
-    "office_name": "福井市　美山総合支所",
-    "office_name_kana": "フクイシ ミヤマソウゴウシシヨ"
+    "street": "第７号１番地",
+    "office_name": "福井市　美山連絡所",
+    "office_name_kana": "フクイシ ミヤマレンラクシヨ"
   },
   "2461": {
     "postcode": "9102461",
@@ -7496,19 +7496,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "3592": {
-    "postcode": "9103592",
-    "prefecture": "福井県",
-    "prefecture_kana": "フクイケン",
-    "prefecture_code": 18,
-    "city": "福井市",
-    "city_kana": "フクイシ",
-    "town": "蒲生町",
-    "town_kana": "ガモウチョウ",
-    "street": "１−８８",
-    "office_name": "福井市　越廼総合支所",
-    "office_name_kana": "フクイシ コシノソウゴウシシヨ"
-  },
   "3601": {
     "postcode": "9103601",
     "prefecture": "福井県",
@@ -7921,11 +7908,11 @@
     "prefecture_code": 18,
     "city": "福井市",
     "city_kana": "フクイシ",
-    "town": "小羽町",
-    "town_kana": "オバチョウ",
-    "street": "２７−１",
-    "office_name": "福井市　清水総合支所",
-    "office_name_kana": "フクイシ シミズソウゴウシシヨ"
+    "town": "風巻町",
+    "town_kana": "カザマキチョウ",
+    "street": "２８−８−１",
+    "office_name": "福井市　清水連絡所",
+    "office_name_kana": "フクシイ シミズレンラクシヨ"
   },
   "4102": {
     "postcode": "9104102",

@@ -584,6 +584,19 @@
     "office_name": "法政大学",
     "office_name_kana": "ホウセイダイガク"
   },
+  "8501": {
+    "postcode": "1948501",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "町田市",
+    "city_kana": "マチダシ",
+    "town": "原町田",
+    "town_kana": "ハラマチダ",
+    "street": "６丁目４番１号",
+    "office_name": "町田東急ツインズ",
+    "office_name_kana": "マチダトウキユウツインズ"
+  },
   "8502": {
     "postcode": "1948502",
     "prefecture": "東京都",
