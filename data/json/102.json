@@ -2261,6 +2261,19 @@
     "office_name": "株式会社　サンテック",
     "office_name_kana": "カブシキガイシヤ サンテツク"
   },
+  "8441": {
+    "postcode": "1028441",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "富士見",
+    "town_kana": "フジミ",
+    "street": "１丁目８−１９住友不動産千代田富士見ビル１１階・１２階",
+    "office_name": "丸紅エネルギー　株式会社",
+    "office_name_kana": "マルベニエネルギ- カブシキガイシヤ"
+  },
   "8445": {
     "postcode": "1028445",
     "prefecture": "東京都",

@@ -480,6 +480,19 @@
     "office_name": "城北信用金庫　王子営業部",
     "office_name_kana": "ジヨウホクシンヨウキンコ オウジエイギヨウブ"
   },
+  "8523": {
+    "postcode": "1148523",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "北区",
+    "city_kana": "キタク",
+    "town": "田端",
+    "town_kana": "タバタ",
+    "street": "６−１−２田端ＡＳＵＫＡタワー内",
+    "office_name": "田端文士村記念館",
+    "office_name_kana": "タバタブンシムラキネンカン"
+  },
   "8524": {
     "postcode": "1148524",
     "prefecture": "東京都",

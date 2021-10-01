@@ -493,19 +493,6 @@
     "office_name": "社会福祉法人　日本点字図書館",
     "office_name_kana": "シヤカイフクシホウジン ニホンテンジトシヨカン"
   },
-  "8601": {
-    "postcode": "1698601",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "新宿区",
-    "city_kana": "シンジュクク",
-    "town": "大久保",
-    "town_kana": "オオクボ",
-    "street": "２丁目１２−１ペアーレ新宿４階・５階",
-    "office_name": "新宿社会保険事務所",
-    "office_name_kana": "シンジユクシヤカイホケンジムシヨ"
-  },
   "8605": {
     "postcode": "1698605",
     "prefecture": "東京都",

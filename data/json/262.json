@@ -506,6 +506,19 @@
     "office_name": "千葉県　企業局",
     "office_name_kana": "チバケン キギヨウキヨク"
   },
+  "8514": {
+    "postcode": "2628514",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "千葉市花見川区",
+    "city_kana": "チバシハナミガワク",
+    "town": "武石町",
+    "town_kana": "タケイシチョウ",
+    "street": "１丁目５２０番地３",
+    "office_name": "東京国税局インボイス登録センター",
+    "office_name_kana": "トウキヨウコクゼイキヨクインボイストウロクセンタ-"
+  },
   "8733": {
     "postcode": "2628733",
     "prefecture": "千葉県",

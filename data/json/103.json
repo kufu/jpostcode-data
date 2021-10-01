@@ -2127,11 +2127,11 @@
     "prefecture_code": 13,
     "city": "中央区",
     "city_kana": "チュウオウク",
-    "town": "日本橋室町",
-    "town_kana": "ニホンバシムロマチ",
-    "street": "２丁目１−１",
+    "town": "日本橋兜町",
+    "town_kana": "ニホンバシカブトチョウ",
+    "street": "７番１号",
     "office_name": "株式会社　ＱＵＩＣＫ　本社",
-    "office_name_kana": "カブシキガイシヤ クイツク ホンシヤ"
+    "office_name_kana": "カブシキカイシヤ クイツク ホンシヤ"
   },
   "8318": {
     "postcode": "1038318",
@@ -2571,9 +2571,9 @@
     "city_kana": "チュウオウク",
     "town": "日本橋本町",
     "town_kana": "ニホンバシホンチョウ",
-    "street": "４丁目８−２",
-    "office_name": "イワキ　株式会社",
-    "office_name_kana": "イワキ (カブ)"
+    "street": "４−８−２",
+    "office_name": "アステナホールディングス　株式会社",
+    "office_name_kana": "アステナホ-ルデイングス カブシキカイシヤ"
   },
   "8404": {
     "postcode": "1038404",

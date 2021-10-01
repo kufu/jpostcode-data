@@ -844,6 +844,19 @@
     "office_name": "下野市役所",
     "office_name_kana": "シモツケシヤクシヨ"
   },
+  "0493": {
+    "postcode": "3290493",
+    "prefecture": "栃木県",
+    "prefecture_kana": "トチギケン",
+    "prefecture_code": 9,
+    "city": "下野市",
+    "city_kana": "シモツケシ",
+    "town": "祇園",
+    "town_kana": "ギオン",
+    "street": "１−１７",
+    "office_name": "ケーブルビジョン　株式会社　ラジオ事業部（ＦＭゆうがお）",
+    "office_name_kana": "ケ-ブルビジヨン カブシキガイシヤ ラジオジギヨウブ(エフエムユウガオ)"
+  },
   "0498": {
     "postcode": "3290498",
     "prefecture": "栃木県",

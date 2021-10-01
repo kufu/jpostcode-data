@@ -1585,6 +1585,19 @@
     "office_name": "名古屋北税務署",
     "office_name_kana": "ナゴヤキタゼイムシヨ"
   },
+  "8545": {
+    "postcode": "4628545",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市北区",
+    "city_kana": "ナゴヤシキタク",
+    "town": "名城",
+    "town_kana": "メイジョウ",
+    "street": "２丁目４番１",
+    "office_name": "名古屋造形大学",
+    "office_name_kana": "ナゴヤゾウケイダイガク"
+  },
   "8551": {
     "postcode": "4628551",
     "prefecture": "愛知県",
