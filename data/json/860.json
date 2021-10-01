@@ -1376,6 +1376,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0827": {
+    "postcode": "8600827",
+    "prefecture": "熊本県",
+    "prefecture_kana": "クマモトケン",
+    "prefecture_code": 43,
+    "city": "熊本市中央区",
+    "city_kana": "クマモトシチュウオウク",
+    "town": "世安",
+    "town_kana": "ヨヤス",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0831": [
     {
       "postcode": "8600831",

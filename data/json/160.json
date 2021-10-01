@@ -1964,6 +1964,19 @@
     "office_name": "東鉄工業　株式会社",
     "office_name_kana": "トウテツコウギヨウ (カ"
   },
+  "8601": {
+    "postcode": "1608601",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "新宿",
+    "town_kana": "シンジュク",
+    "street": "５丁目９−２",
+    "office_name": "日本年金機構　新宿年金事務所",
+    "office_name_kana": "ニツポンネンキンキコウ シンジユクネンキンジムシヨ"
+  },
   "8680": {
     "postcode": "1608680",
     "prefecture": "東京都",

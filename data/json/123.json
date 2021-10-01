@@ -428,6 +428,19 @@
     "office_name": "警視庁　西新井警察署",
     "office_name_kana": "ケイシチヨウ ニシアライケイサツシヨ"
   },
+  "8558": {
+    "postcode": "1238558",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "足立区",
+    "city_kana": "アダチク",
+    "town": "江北",
+    "town_kana": "コウホク",
+    "street": "４丁目３３番１号",
+    "office_name": "東京女子医科大学附属足立医療センター",
+    "office_name_kana": "トウキヨウジヨシイカダイガクフゾクアダチイリヨウセンタ-"
+  },
   "8588": {
     "postcode": "1238588",
     "prefecture": "東京都",

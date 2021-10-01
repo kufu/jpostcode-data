@@ -1298,5 +1298,18 @@
     "street": "１３番地３（出雲郵便局私書箱第４号）",
     "office_name": "出雲　税務署",
     "office_name_kana": "イズモ ゼイムシヨ"
+  },
+  "8689": {
+    "postcode": "6938689",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "prefecture_code": 32,
+    "city": "出雲市",
+    "city_kana": "イズモシ",
+    "town": "塩冶善行町",
+    "town_kana": "エンヤゼンコウチョウ",
+    "street": "１３番地３出雲地方合同庁舎",
+    "office_name": "広島国税局業務センター出雲分室",
+    "office_name_kana": "ヒロシマコクゼイキヨクギヨウムセンタ-イズモブンシツ"
   }
 }

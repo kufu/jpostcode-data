@@ -352,6 +352,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0038": {
+    "postcode": "3350038",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "戸田市",
+    "city_kana": "トダシ",
+    "town": "美女木北",
+    "town_kana": "ビジョギキタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8501": {
     "postcode": "3358501",
     "prefecture": "埼玉県",

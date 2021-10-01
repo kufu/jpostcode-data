@@ -4739,6 +4739,19 @@
     "office_name": "加古川市役所",
     "office_name_kana": "カコガワシヤクシヨ"
   },
+  "8505": {
+    "postcode": "6758505",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "加古川市",
+    "city_kana": "カコガワシ",
+    "town": "加古川町篠原町",
+    "town_kana": "カコガワチョウシノハラチョウ",
+    "street": "２１番地の８",
+    "office_name": "株式会社　加古川ヤマトヤシキ",
+    "office_name_kana": "カブシキカイシヤ カコガワヤマトヤシキ"
+  },
   "8510": {
     "postcode": "6758510",
     "prefecture": "兵庫県",

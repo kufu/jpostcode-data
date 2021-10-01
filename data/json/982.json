@@ -1093,6 +1093,19 @@
     "office_name": "仙台市立病院",
     "office_name_kana": "センダイシリツビヨウイン"
   },
+  "8505": {
+    "postcode": "9828505",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "仙台市太白区",
+    "city_kana": "センダイシタイハクク",
+    "town": "あすと長町",
+    "town_kana": "アストナガマチ",
+    "street": "一丁目３番１５号",
+    "office_name": "株式会社　東日本放送",
+    "office_name_kana": "カブシキガイシヤ ヒガシニツポンホウソウ"
+  },
   "8510": {
     "postcode": "9828510",
     "prefecture": "宮城県",

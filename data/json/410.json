@@ -1686,7 +1686,7 @@
     "city": "沼津市",
     "city_kana": "ヌマヅシ",
     "town": "宮町",
-    "town_kana": "ミヤマチ",
+    "town_kana": "ミヤチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -1829,19 +1829,6 @@
       "prefecture_code": 22,
       "city": "沼津市",
       "city_kana": "ヌマヅシ",
-      "town": "下小路町",
-      "town_kana": "シタコウジチョウ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "4100867",
-      "prefecture": "静岡県",
-      "prefecture_kana": "シズオカケン",
-      "prefecture_code": 22,
-      "city": "沼津市",
-      "city_kana": "ヌマヅシ",
       "town": "下中溝",
       "town_kana": "シモナカミゾ",
       "street": null,
@@ -1927,6 +1914,19 @@
       "office_name_kana": null
     }
   ],
+  "0868": {
+    "postcode": "4100868",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "沼津市",
+    "city_kana": "ヌマヅシ",
+    "town": "下小路町",
+    "town_kana": "シタコウジチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0871": {
     "postcode": "4100871",
     "prefecture": "静岡県",

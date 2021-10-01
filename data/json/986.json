@@ -259,6 +259,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0029": {
+    "postcode": "9860029",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "石巻市",
+    "city_kana": "イシノマキシ",
+    "town": "湊西",
+    "town_kana": "ミナトニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0031": {
     "postcode": "9860031",
     "prefecture": "宮城県",
