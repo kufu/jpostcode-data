@@ -10,7 +10,7 @@ module Jpostcode
     class General < Base
       private
 
-      URL_DOMAIN = 'http://zipcloud.ibsnet.co.jp'
+      URL_DOMAIN = 'http://zipcloud.ibsnet.co.jp'.freeze
 
       def to_hash(row)
         {
