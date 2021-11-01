@@ -2313,6 +2313,19 @@
     "office_name": "日出町役場",
     "office_name_kana": "ヒジマチヤクバ"
   },
+  "1593": {
+    "postcode": "8791593",
+    "prefecture": "大分県",
+    "prefecture_kana": "オオイタケン",
+    "prefecture_code": 44,
+    "city": "速見郡日出町",
+    "city_kana": "ハヤミグンヒジマチ",
+    "town": "大字川崎",
+    "town_kana": null,
+    "street": "３９６８",
+    "office_name": "ホンダ太陽　株式会社",
+    "office_name_kana": "ホンダタイヨウ カブシキカイシヤ"
+  },
   "1595": {
     "postcode": "8791595",
     "prefecture": "大分県",

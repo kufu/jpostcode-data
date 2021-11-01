@@ -976,6 +976,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8477": {
+    "postcode": "9838477",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "仙台市宮城野区",
+    "city_kana": "センダイシミヤギノク",
+    "town": "榴岡",
+    "town_kana": "ツツジガオカ",
+    "street": "１丁目１番１号",
+    "office_name": "ＪＲ仙台イーストゲートビル",
+    "office_name_kana": "ジエイア-ルセンダイイ-ストゲ-トビル"
+  },
   "8501": {
     "postcode": "9838501",
     "prefecture": "宮城県",

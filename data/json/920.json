@@ -9874,19 +9874,60 @@
     "office_name": "日動火災海上保険　株式会社　金沢支店",
     "office_name_kana": "ニチドウカサイカイジヨウホケン カブシキガイシヤ カナザワシテン"
   },
-  "8670": {
-    "postcode": "9208670",
-    "prefecture": "石川県",
-    "prefecture_kana": "イシカワケン",
-    "prefecture_code": 17,
-    "city": "金沢市",
-    "city_kana": "カナザワシ",
-    "town": "広岡",
-    "town_kana": "ヒロオカ",
-    "street": "２丁目１２番６号（金沢中央郵便局私書箱第２９号）",
-    "office_name": "株式会社　北國銀行",
-    "office_name_kana": "カブシキガイシヤ ホツコクギンコウ"
-  },
+  "8670": [
+    {
+      "postcode": "9208670",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "prefecture_code": 17,
+      "city": "金沢市",
+      "city_kana": "カナザワシ",
+      "town": "広岡",
+      "town_kana": "ヒロオカ",
+      "street": "２丁目１２番６号（金沢中央郵便局私書箱第２９号）",
+      "office_name": "株式会社　ＦＤアドバイザリー",
+      "office_name_kana": "カブシキガイシヤ エフデイ-アドバイザリ-"
+    },
+    {
+      "postcode": "9208670",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "prefecture_code": 17,
+      "city": "金沢市",
+      "city_kana": "カナザワシ",
+      "town": "広岡",
+      "town_kana": "ヒロオカ",
+      "street": "２丁目１２番６号（金沢中央郵便局私書箱第２９号）",
+      "office_name": "株式会社　ＣＣイノベーション",
+      "office_name_kana": "カブシキガイシヤ シ-シ-イノベ-シヨン"
+    },
+    {
+      "postcode": "9208670",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "prefecture_code": 17,
+      "city": "金沢市",
+      "city_kana": "カナザワシ",
+      "town": "広岡",
+      "town_kana": "ヒロオカ",
+      "street": "２丁目１２番６号（金沢中央郵便局私書箱第２９号）",
+      "office_name": "株式会社　北國銀行",
+      "office_name_kana": "カブシキガイシヤ ホツコクギンコウ"
+    },
+    {
+      "postcode": "9208670",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "prefecture_code": 17,
+      "city": "金沢市",
+      "city_kana": "カナザワシ",
+      "town": "広岡",
+      "town_kana": "ヒロオカ",
+      "street": "２丁目１２番６号（金沢中央郵便局私書箱第２９号）",
+      "office_name": "株式会社　北國フィナンシャルホールディングス",
+      "office_name_kana": "カブシキガイシヤ ホツコクフイナンシヤルホ-ルデイングス"
+    }
+  ],
   "8671": {
     "postcode": "9208671",
     "prefecture": "石川県",

@@ -649,6 +649,19 @@
     "office_name": "シンロイヒ　（株）",
     "office_name_kana": "シンロイヒ (カブ)"
   },
+  "8560": {
+    "postcode": "2478560",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市栄区",
+    "city_kana": "ヨコハマシサカエク",
+    "town": "笠間",
+    "town_kana": "カサマ",
+    "street": "２−５−１",
+    "office_name": "芝浦メカトロニクス　株式会社　横浜事業所",
+    "office_name_kana": "シバウラメカトロニクス カブシキガイシヤ ヨコハマジギヨウシヨ"
+  },
   "8570": {
     "postcode": "2478570",
     "prefecture": "神奈川県",
@@ -675,6 +688,19 @@
     "office_name": "株式会社　ファンケル",
     "office_name_kana": "カブシキガイシヤ フアンケル"
   },
+  "8578": {
+    "postcode": "2478578",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市栄区",
+    "city_kana": "ヨコハマシサカエク",
+    "town": "飯島町",
+    "town_kana": "イイジマチョウ",
+    "street": "１０９−１（大船郵便局私書箱第２７号）",
+    "office_name": "株式会社　ネオエフ",
+    "office_name_kana": "カブシキガイシヤ ネオエフ"
+  },
   "8585": {
     "postcode": "2478585",
     "prefecture": "神奈川県",
@@ -700,6 +726,19 @@
     "street": "５３",
     "office_name": "株式会社　アテニア",
     "office_name_kana": "カブシキガイシヤ アテニア"
+  },
+  "8610": {
+    "postcode": "2478610",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市栄区",
+    "city_kana": "ヨコハマシサカエク",
+    "town": "笠間",
+    "town_kana": "カサマ",
+    "street": "２−５−１",
+    "office_name": "芝浦メカトロニクス　株式会社　本社",
+    "office_name_kana": "シバウラメカトロニクス カブシキガイシヤ ホンシヤ"
   },
   "8630": {
     "postcode": "2478630",

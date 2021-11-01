@@ -6447,6 +6447,19 @@
     "office_name": "株式会社　読売新聞　東京本社",
     "office_name_kana": "カブシキガイシヤ ヨミウリシンブン トウキヨウホンシヤ"
   },
+  "8065": {
+    "postcode": "1008065",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "１−３−７",
+    "office_name": "株式会社　日本経済新聞社",
+    "office_name_kana": "カブシキカイシヤ ニホンケイザイシンブンシヤ"
+  },
   "8066": {
     "postcode": "1008066",
     "prefecture": "東京都",

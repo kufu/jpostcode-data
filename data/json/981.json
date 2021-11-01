@@ -7432,8 +7432,8 @@
     "town": "吉岡",
     "town_kana": "ヨシオカ",
     "street": "字北原西７２",
-    "office_name": "株式会社　エーコープ宮城",
-    "office_name_kana": "カブシキガイシヤ エ-コ-プミヤギ"
+    "office_name": "株式会社　Ａコープ東日本　宮城営業所",
+    "office_name_kana": "カブシキガイシヤ エ-コ-プヒガシニホン ミヤギエイギヨウシヨ"
   },
   "3688": {
     "postcode": "9813688",
@@ -9451,19 +9451,6 @@
     "street": "４番１７号",
     "office_name": "宮城県　仙台北県税事務所",
     "office_name_kana": "ミヤギケン センダイキタケンゼイジムシヨ"
-  },
-  "8511": {
-    "postcode": "9818511",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市青葉区",
-    "city_kana": "センダイシアオバク",
-    "town": "双葉ケ丘",
-    "town_kana": "フタバガオカ",
-    "street": "２丁目９−１",
-    "office_name": "株式会社　東日本放送",
-    "office_name_kana": "カブシキガイシヤ ヒガシニツポンホウソウ"
   },
   "8522": {
     "postcode": "9818522",
