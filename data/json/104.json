@@ -2768,19 +2768,6 @@
     "office_name": "三井住友海上あいおい生命保険　株式会社",
     "office_name_kana": "ミツイスミトモカイジヨウアイオイセイメイホケン カブシキカイシヤ"
   },
-  "8260": {
-    "postcode": "1048260",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "新川",
-    "town_kana": "シンカワ",
-    "street": "２丁目２７−１",
-    "office_name": "住友化学　株式会社",
-    "office_name_kana": "スミトモカガク カブシキガイシヤ"
-  },
   "8262": {
     "postcode": "1048262",
     "prefecture": "東京都",
@@ -3340,19 +3327,6 @@
     "office_name": "株式会社　主婦と生活社",
     "office_name_kana": "カブシキガイシヤ シユフトセイカツシヤ"
   },
-  "8360": {
-    "postcode": "1048360",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "京橋",
-    "town_kana": "キョウバシ",
-    "street": "２丁目３−１９",
-    "office_name": "興銀リース　株式会社",
-    "office_name_kana": "コウギンリ-ス カブシキガイシヤ"
-  },
   "8365": {
     "postcode": "1048365",
     "prefecture": "東京都",
@@ -3378,19 +3352,6 @@
     "street": "２丁目１６番１号",
     "office_name": "清水建設　株式会社",
     "office_name_kana": "シミズケンセツ カブシキガイシヤ"
-  },
-  "8372": {
-    "postcode": "1048372",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "京橋",
-    "town_kana": "キョウバシ",
-    "street": "２丁目６番４号",
-    "office_name": "三菱製紙販売　株式会社",
-    "office_name_kana": "ミツビシセイシハンバイ カブシキガイシヤ"
   },
   "8377": {
     "postcode": "1048377",

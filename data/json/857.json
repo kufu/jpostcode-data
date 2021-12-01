@@ -2196,6 +2196,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1167": {
+    "postcode": "8571167",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "prefecture_code": 42,
+    "city": "佐世保市",
+    "city_kana": "サセボシ",
+    "town": "ひうみ町",
+    "town_kana": "ヒウミマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1171": {
     "postcode": "8571171",
     "prefecture": "長崎県",

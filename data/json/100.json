@@ -7060,6 +7060,19 @@
     "office_name": "三愛石油　株式会社",
     "office_name_kana": "サンアイセキユ カブシキガイシヤ"
   },
+  "8155": {
+    "postcode": "1008155",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "１−２−１",
+    "office_name": "農林中央金庫",
+    "office_name_kana": "ノウリンチユウオウキンコ"
+  },
   "8158": {
     "postcode": "1008158",
     "prefecture": "東京都",
@@ -8170,19 +8183,6 @@
     "street": "１丁目２−２東宝日比谷ビル１０Ｆ〜１２Ｆ",
     "office_name": "東宝　株式会社",
     "office_name_kana": "トウホウ カブシキガイシヤ"
-  },
-  "8420": {
-    "postcode": "1008420",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "有楽町",
-    "town_kana": "ユウラクチョウ",
-    "street": "１丁目１３−２",
-    "office_name": "農林中央金庫",
-    "office_name_kana": "ノウリンチユウオウキンコ"
   },
   "8421": {
     "postcode": "1008421",

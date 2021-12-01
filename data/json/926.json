@@ -226,6 +226,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0017": {
+    "postcode": "9260017",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "七尾市",
+    "city_kana": "ナナオシ",
+    "town": "万行",
+    "town_kana": "マンギョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": [
     {
       "postcode": "9260021",
@@ -2528,8 +2541,8 @@
     "town": "富岡町",
     "town_kana": "トミオカチョウ",
     "street": "９４（七尾郵便局私書箱第３２号）",
-    "office_name": "特定医療法人財団　董仙会　恵寿総合病院",
-    "office_name_kana": "トクテイイリヨウホウジンザイダン トウセンカイ ケイジユソウゴウビヨウイン"
+    "office_name": "社会医療法人財団　董仙会　恵寿総合病院",
+    "office_name_kana": "シヤカイイリヨウホウジンザイダン トウセンカイ ケイジユソウゴウビヨウイン"
   },
   "8609": {
     "postcode": "9268609",
