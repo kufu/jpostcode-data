@@ -402,32 +402,62 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0051": {
-    "postcode": "4430051",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "蒲郡市",
-    "city_kana": "ガマゴオリシ",
-    "town": "新井形町",
-    "town_kana": "アライガタチョウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "0052": {
-    "postcode": "4430052",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "蒲郡市",
-    "city_kana": "ガマゴオリシ",
-    "town": "新井町",
-    "town_kana": "アライチョウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0051": [
+    {
+      "postcode": "4430051",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "蒲郡市",
+      "city_kana": "ガマゴオリシ",
+      "town": "新井形町",
+      "town_kana": "アライガタチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "4430051",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "蒲郡市",
+      "city_kana": "ガマゴオリシ",
+      "town": "新井形町南",
+      "town_kana": "アライガタチョウミナミ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
+  "0052": [
+    {
+      "postcode": "4430052",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "蒲郡市",
+      "city_kana": "ガマゴオリシ",
+      "town": "新井町",
+      "town_kana": "アライチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "4430052",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "蒲郡市",
+      "city_kana": "ガマゴオリシ",
+      "town": "新井町南",
+      "town_kana": "アライチョウミナミ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0053": {
     "postcode": "4430053",
     "prefecture": "愛知県",
@@ -467,19 +497,34 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0056": {
-    "postcode": "4430056",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "蒲郡市",
-    "city_kana": "ガマゴオリシ",
-    "town": "神明町",
-    "town_kana": "シンメイチョウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0056": [
+    {
+      "postcode": "4430056",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "蒲郡市",
+      "city_kana": "ガマゴオリシ",
+      "town": "神明町",
+      "town_kana": "シンメイチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "4430056",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "蒲郡市",
+      "city_kana": "ガマゴオリシ",
+      "town": "神明町東",
+      "town_kana": "シンメイチョウヒガシ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0057": {
     "postcode": "4430057",
     "prefecture": "愛知県",
@@ -506,19 +551,34 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0059": {
-    "postcode": "4430059",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "蒲郡市",
-    "city_kana": "ガマゴオリシ",
-    "town": "本町",
-    "town_kana": "ホンマチ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0059": [
+    {
+      "postcode": "4430059",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "蒲郡市",
+      "city_kana": "ガマゴオリシ",
+      "town": "本町",
+      "town_kana": "ホンマチ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "4430059",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "蒲郡市",
+      "city_kana": "ガマゴオリシ",
+      "town": "本町東",
+      "town_kana": "ホンマチヒガシ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0101": {
     "postcode": "4430101",
     "prefecture": "愛知県",

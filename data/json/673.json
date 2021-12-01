@@ -248,6 +248,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0019": {
+    "postcode": "6730019",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "明石市",
+    "city_kana": "アカシシ",
+    "town": "沢野南町",
+    "town_kana": "サワノミナミマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "6730021",
     "prefecture": "兵庫県",
@@ -3830,5 +3843,18 @@
     "street": "１丁目５−１（明石郵便局私書箱第２０号）",
     "office_name": "明石市役所",
     "office_name_kana": "アカシシヤクシヨ"
+  },
+  "8688": {
+    "postcode": "6738688",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "明石市",
+    "city_kana": "アカシシ",
+    "town": "茶園場町",
+    "town_kana": "サエンバチョウ",
+    "street": "５番２２号",
+    "office_name": "大和製衡　株式会社",
+    "office_name_kana": "ヤマトセイコウ カブシキガイシヤ"
   }
 }

@@ -1286,17 +1286,32 @@
     "office_name": "文化書道学会",
     "office_name_kana": "ブンカシヨドウガツカイ"
   },
-  "8677": {
-    "postcode": "1518677",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "渋谷区",
-    "city_kana": "シブヤク",
-    "town": "富ヶ谷",
-    "town_kana": "トミガヤ",
-    "street": "２丁目２８−４（代々木郵便局私書箱第２２号）",
-    "office_name": "学校法人　東海大学",
-    "office_name_kana": "ガツコウホウジン トウカイダイガク"
-  }
+  "8677": [
+    {
+      "postcode": "1518677",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "渋谷区",
+      "city_kana": "シブヤク",
+      "town": "富ヶ谷",
+      "town_kana": "トミガヤ",
+      "street": "２丁目２８番４号（代々木郵便局私書箱第２２号）",
+      "office_name": "学校法人　東海大学",
+      "office_name_kana": "ガツコウホウジン トウカイダイガク"
+    },
+    {
+      "postcode": "1518677",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "渋谷区",
+      "city_kana": "シブヤク",
+      "town": "富ヶ谷",
+      "town_kana": "トミガヤ",
+      "street": "２丁目１０番２号（代々木郵便局私書箱第２２号）",
+      "office_name": "学校法人　東海大学",
+      "office_name_kana": "ガツコウホウジン トウカイダイガク"
+    }
+  ]
 }

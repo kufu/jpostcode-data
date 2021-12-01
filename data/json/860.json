@@ -1350,19 +1350,6 @@
       "office_name_kana": null
     }
   ],
-  "0825": {
-    "postcode": "8600825",
-    "prefecture": "熊本県",
-    "prefecture_kana": "クマモトケン",
-    "prefecture_code": 43,
-    "city": "熊本市中央区",
-    "city_kana": "クマモトシチュウオウク",
-    "town": "十禅寺町",
-    "town_kana": "ジュウゼンジマチ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "0826": {
     "postcode": "8600826",
     "prefecture": "熊本県",

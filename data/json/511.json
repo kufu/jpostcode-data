@@ -3606,6 +3606,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0868": {
+    "postcode": "5110868",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "prefecture_code": 24,
+    "city": "桑名市",
+    "city_kana": "クワナシ",
+    "town": "さくらの丘",
+    "town_kana": "サクラノオカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0901": {
     "postcode": "5110901",
     "prefecture": "三重県",

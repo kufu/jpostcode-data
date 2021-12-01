@@ -2195,6 +2195,19 @@
     "office_name": "株式会社　ファイネス",
     "office_name_kana": "カブシキガイシヤ フアイネス"
   },
+  "0310": {
+    "postcode": "9200310",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "金沢市",
+    "city_kana": "カナザワシ",
+    "town": "金石相生町",
+    "town_kana": "カナイワアイオイチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0311": {
     "postcode": "9200311",
     "prefecture": "石川県",
@@ -2295,6 +2308,19 @@
     "city_kana": "カナザワシ",
     "town": "金石味噌屋町",
     "town_kana": "カナイワミソヤチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0319": {
+    "postcode": "9200319",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "金沢市",
+    "city_kana": "カナザワシ",
+    "town": "金石上越前町",
+    "town_kana": "カナイワカミエチゼンマチ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

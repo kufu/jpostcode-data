@@ -1030,6 +1030,19 @@
     "office_name": "埼玉県立　深谷高等学校",
     "office_name_kana": "サイタマケンリツ フカヤコウトウガツコウ"
   },
+  "8521": {
+    "postcode": "3668521",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "深谷市",
+    "city_kana": "フカヤシ",
+    "town": "幡羅町",
+    "town_kana": "ハタラチョウ",
+    "street": "１丁目８番５号",
+    "office_name": "日東電工　株式会社　関東事業所",
+    "office_name_kana": "ニツトウデンコウ カブシキカイシヤ カントウジギヨウシヨ"
+  },
   "8567": {
     "postcode": "3668567",
     "prefecture": "埼玉県",

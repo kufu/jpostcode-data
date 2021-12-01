@@ -1325,6 +1325,19 @@
     "office_name": "日本山村硝子　株式会社",
     "office_name_kana": "ニホンヤマムラガラス カブシキガイシヤ"
   },
+  "8582": {
+    "postcode": "6608582",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "尼崎市",
+    "city_kana": "アマガサキシ",
+    "town": "東海岸町",
+    "town_kana": "ヒガシカイガンチョウ",
+    "street": "２０−１",
+    "office_name": "アマゾン尼崎ＦＣ",
+    "office_name_kana": "アマゾンアマガサキエフシ-"
+  },
   "8585": {
     "postcode": "6608585",
     "prefecture": "兵庫県",

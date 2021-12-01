@@ -3184,6 +3184,19 @@
     "office_name": "富士通ネットワークソリューションズ　株式会社",
     "office_name_kana": "フジツウネツトワ-クソリユ-シヨンズ カブシキガイシヤ"
   },
+  "8720": {
+    "postcode": "2208720",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "高島",
+    "town_kana": "タカシマ",
+    "street": "一丁目２番５号",
+    "office_name": "いすゞ自動車　株式会社",
+    "office_name_kana": "イスズジドウシヤ カブシキガイシヤ"
+  },
   "8722": {
     "postcode": "2208722",
     "prefecture": "神奈川県",
