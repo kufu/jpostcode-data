@@ -625,6 +625,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8189": {
+    "postcode": "9718189",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "いわき市",
+    "city_kana": "イワキシ",
+    "town": "泉滝尻",
+    "town_kana": "イズミタキジリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8555": {
     "postcode": "9718555",
     "prefecture": "福島県",

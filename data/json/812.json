@@ -1403,6 +1403,19 @@
     "office_name": "大成建設　株式会社　九州支店",
     "office_name_kana": "タイセイケンセツ カブシキガイシヤ キユウシユウシテン"
   },
+  "8519": {
+    "postcode": "8128519",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "福岡市東区",
+    "city_kana": "フクオカシヒガシク",
+    "town": "馬出",
+    "town_kana": "マイダシ",
+    "street": "二丁目２−５６",
+    "office_name": "一般財団法人　福岡県退職教職員協会",
+    "office_name_kana": "イツパンザイダンホウジン フクオカケンタイシヨクキヨウシヨクインキヨウカイ"
+  },
   "8520": {
     "postcode": "8128520",
     "prefecture": "福岡県",

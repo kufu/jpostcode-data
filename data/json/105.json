@@ -7673,19 +7673,6 @@
     "office_name": "港区芝浦港南地区　総合支所",
     "office_name_kana": "ミナトクシバウラコウナンチク ソウゴウシシヨ"
   },
-  "8517": {
-    "postcode": "1058517",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "芝浦",
-    "town_kana": "シバウラ",
-    "street": "１丁目１３−１６",
-    "office_name": "森永製菓　株式会社　首都圏統括支店",
-    "office_name_kana": "モリナガセイカ カブシキガイシヤ シユトケントウカツシテン"
-  },
   "8518": {
     "postcode": "1058518",
     "prefecture": "東京都",
@@ -8493,6 +8480,19 @@
     "street": "２丁目１−７",
     "office_name": "株式会社　紀文食品",
     "office_name_kana": "カブシキガイシヤ キブンシヨクヒン"
+  },
+  "8627": {
+    "postcode": "1058627",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "新橋",
+    "town_kana": "シンバシ",
+    "street": "１−８−４ＳＭＢＣ新橋ビル",
+    "office_name": "ＳＭＢＣファイナンスサービス　株式会社　東京事務センター",
+    "office_name_kana": "エスエムビ-シ-フアイナンスサ-ビス カブシキガイシヤ トウキヨウジムセンタ-"
   },
   "8630": {
     "postcode": "1058630",

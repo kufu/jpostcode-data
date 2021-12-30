@@ -389,6 +389,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0038": {
+    "postcode": "2840038",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "四街道市",
+    "city_kana": "ヨツカイドウシ",
+    "town": "たかおの杜",
+    "town_kana": "タカオノモリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0041": {
     "postcode": "2840041",
     "prefecture": "千葉県",

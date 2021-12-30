@@ -1262,6 +1262,19 @@
     "office_name": "茨城県社会保険診療報酬支払基金",
     "office_name_kana": "イバラキケンシヤカイホケンシンリヨウホウシユウシハライキキン"
   },
+  "8509": {
+    "postcode": "3108509",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "水戸市",
+    "city_kana": "ミトシ",
+    "town": "水府町",
+    "town_kana": "スイフチョウ",
+    "street": "１５７３−１",
+    "office_name": "水戸公共職業安定所",
+    "office_name_kana": "ミトコウキヨウシヨクギヨウアンテイシヨ"
+  },
   "8511": {
     "postcode": "3108511",
     "prefecture": "茨城県",

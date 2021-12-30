@@ -45,7 +45,7 @@
     "prefecture_code": 40,
     "city": "福岡市東区",
     "city_kana": "フクオカシヒガシク",
-    "town": "香住ケ丘",
+    "town": "香住ヶ丘",
     "town_kana": "カスミガオカ",
     "street": null,
     "office_name": null,
@@ -490,7 +490,7 @@
     "city": "福岡市東区",
     "city_kana": "フクオカシヒガシク",
     "town": "香住ケ丘",
-    "town_kana": "カスミガオカ",
+    "town_kana": null,
     "street": "１丁目１−１",
     "office_name": "福岡女子大学",
     "office_name_kana": "フクオカジヨシダイガク"
