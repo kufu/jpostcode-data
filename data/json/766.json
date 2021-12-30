@@ -27,34 +27,19 @@
       "office_name_kana": null
     }
   ],
-  "0001": [
-    {
-      "postcode": "7660001",
-      "prefecture": "香川県",
-      "prefecture_kana": "カガワケン",
-      "prefecture_code": 37,
-      "city": "仲多度郡琴平町",
-      "city_kana": "ナカタドグンコトヒラチョウ",
-      "town": "琴平町の次に４２７番地以降がくる場合",
-      "town_kana": "コトヒラチョウノツギニ427バンチイコウガクルバアイ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "7660001",
-      "prefecture": "香川県",
-      "prefecture_kana": "カガワケン",
-      "prefecture_code": 37,
-      "city": "仲多度郡琴平町",
-      "city_kana": "ナカタドグンコトヒラチョウ",
-      "town": "琴平町の次に４２７番地以降がくる場合川西",
-      "town_kana": "コトヒラチョウノツギニ427バンチイコウガクルバアイカワニシ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
+  "0001": {
+    "postcode": "7660001",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "prefecture_code": 37,
+    "city": "仲多度郡琴平町",
+    "city_kana": "ナカタドグンコトヒラチョウ",
+    "town": "",
+    "town_kana": "",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0002": {
     "postcode": "7660002",
     "prefecture": "香川県",
@@ -62,8 +47,8 @@
     "prefecture_code": 37,
     "city": "仲多度郡琴平町",
     "city_kana": "ナカタドグンコトヒラチョウ",
-    "town": "琴平町の次に",
-    "town_kana": "コトヒラチョウノツギニ",
+    "town": "",
+    "town_kana": "",
     "street": null,
     "office_name": null,
     "office_name_kana": null

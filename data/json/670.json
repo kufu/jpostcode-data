@@ -2991,6 +2991,19 @@
     "office_name": "姫路税務署",
     "office_name_kana": "ヒメジゼイムシヨ"
   },
+  "8544": {
+    "postcode": "6708544",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "姫路市",
+    "city_kana": "ヒメジシ",
+    "town": "神屋町",
+    "town_kana": "カミヤチョウ",
+    "street": "１４３番地２姫路市文化コンベンションセンター内",
+    "office_name": "公益財団法人　姫路市文化国際交流財団",
+    "office_name_kana": "コウエキザイダンホウジン ヒメジシブンカコクサイコウリユウザイダン"
+  },
   "8550": {
     "postcode": "6708550",
     "prefecture": "兵庫県",

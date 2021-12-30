@@ -1235,5 +1235,18 @@
     "street": "２丁目５−５（守口郵便局私書箱第１号）",
     "office_name": "守口市役所",
     "office_name_kana": "モリグチシヤクシヨ"
+  },
+  "8787": {
+    "postcode": "5708787",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "守口市",
+    "city_kana": "モリグチシ",
+    "town": "松下町",
+    "town_kana": "マツシタチョウ",
+    "street": "１番２８号",
+    "office_name": "大阪国際中学校高等学校",
+    "office_name_kana": "オオサカコクサイチユウガツコウコウトウガツコウ"
   }
 }

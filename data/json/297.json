@@ -844,6 +844,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0079": {
+    "postcode": "2970079",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "茂原市",
+    "city_kana": "モバラシ",
+    "town": "ゆたか",
+    "town_kana": "ユタカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0100": {
     "postcode": "2970100",
     "prefecture": "千葉県",

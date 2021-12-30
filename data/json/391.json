@@ -705,6 +705,19 @@
     "office_name": "茅野商工会議所",
     "office_name_kana": "チノシヨウコウカイギシヨ"
   },
+  "8522": {
+    "postcode": "3918522",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "茅野市",
+    "city_kana": "チノシ",
+    "town": "仲町",
+    "town_kana": "ナカマチ",
+    "street": "２４番４号",
+    "office_name": "信州諏訪農業協同組合",
+    "office_name_kana": "シンシユウスワノウギヨウキヨウドウクミアイ"
+  },
   "8525": {
     "postcode": "3918525",
     "prefecture": "長野県",

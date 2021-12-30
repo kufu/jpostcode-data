@@ -753,19 +753,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "6060": {
-    "postcode": "1036060",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "日本橋",
-    "town_kana": "ニホンバシ",
-    "street": "２−７−１東京日本橋タワー",
-    "office_name": "丸紅　株式会社",
-    "office_name_kana": "マルベニ カブシキガイシヤ"
-  },
   "6090": {
     "postcode": "1036090",
     "prefecture": "東京都",

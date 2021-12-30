@@ -7086,6 +7086,19 @@
     "office_name": "日本紙通商　株式会社",
     "office_name_kana": "ニツポンカミツウシヨウ カブシキガイシヤ"
   },
+  "8159": {
+    "postcode": "1008159",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "１丁目２番１号ＯｔｅｍａｃｈｉＯｎｅタワー",
+    "office_name": "デル・テクノロジーズ　株式会社",
+    "office_name_kana": "デル・テクノロジ-ズ カブシキガイシヤ"
+  },
   "8160": {
     "postcode": "1008160",
     "prefecture": "東京都",

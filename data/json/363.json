@@ -233,6 +233,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0020": {
+    "postcode": "3630020",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "桶川市",
+    "city_kana": "オケガワシ",
+    "town": "上日出谷南",
+    "town_kana": "カミヒデヤミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "3630021",
     "prefecture": "埼玉県",

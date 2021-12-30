@@ -383,11 +383,11 @@
     "prefecture_code": 13,
     "city": "品川区",
     "city_kana": "シナガワク",
-    "town": "東大井",
-    "town_kana": "ヒガシオオイ",
-    "street": "２丁目２−１",
-    "office_name": "光文工業",
-    "office_name_kana": "コウブンコウギヨウ"
+    "town": "南大井",
+    "town_kana": "ミナミオオイ",
+    "street": "６丁目２６−３大森ベルポートＤ館９階",
+    "office_name": "光文工業　株式会社",
+    "office_name_kana": "コウブンコウギヨウ カブシキガイシヤ"
   },
   "8533": {
     "postcode": "1408533",
@@ -1210,6 +1210,19 @@
       "office_name_kana": "ニツポンペイントホ-ルデイングス カブシキガイシヤ"
     }
   ],
+  "8676": {
+    "postcode": "1408676",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "南品川",
+    "town_kana": "ミナミシナガワ",
+    "street": "６−３−１０",
+    "office_name": "扶桑電機工業　株式会社",
+    "office_name_kana": "フソウデンキコウギヨウ カブシキガイシヤ"
+  },
   "8677": {
     "postcode": "1408677",
     "prefecture": "東京都",

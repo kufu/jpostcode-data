@@ -5268,8 +5268,8 @@
     "prefecture_code": 44,
     "city": "大分市",
     "city_kana": "オオイタシ",
-    "town": "ふじが丘西",
-    "town_kana": "フジガオカニシ",
+    "town": "ふじが丘山手",
+    "town_kana": "フジガオカヤマテ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -5281,8 +5281,8 @@
     "prefecture_code": 44,
     "city": "大分市",
     "city_kana": "オオイタシ",
-    "town": "ふじが丘山手",
-    "town_kana": "フジガオカヤマテ",
+    "town": "ふじが丘西",
+    "town_kana": "フジガオカニシ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
