@@ -363,6 +363,45 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0042": {
+    "postcode": "7540042",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
+    "city": "山口市",
+    "city_kana": "ヤマグチシ",
+    "town": "小郡長谷",
+    "town_kana": "オゴオリナガタニ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0043": {
+    "postcode": "7540043",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
+    "city": "山口市",
+    "city_kana": "ヤマグチシ",
+    "town": "小郡明治",
+    "town_kana": "オゴオリメイジ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0044": {
+    "postcode": "7540044",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
+    "city": "山口市",
+    "city_kana": "ヤマグチシ",
+    "town": "小郡大正町",
+    "town_kana": "オゴオリタイショウマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0121": {
     "postcode": "7540121",
     "prefecture": "山口県",

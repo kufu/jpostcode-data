@@ -753,6 +753,32 @@
     "office_name": "アマゾン　大東ＦＣ　入庫係",
     "office_name_kana": "アマゾン ダイトウエフシ- ニユウコガカリ"
   },
+  "8532": {
+    "postcode": "5748532",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大東市",
+    "city_kana": "ダイトウシ",
+    "town": "緑が丘",
+    "town_kana": "ミドリガオカ",
+    "street": "２−１−１",
+    "office_name": "アマゾン大東ＦＣ　小型商品　返送係",
+    "office_name_kana": "アマゾンダイトウエフシ- コガタシヨウヒン ヘンソウガカリ"
+  },
+  "8533": {
+    "postcode": "5748533",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大東市",
+    "city_kana": "ダイトウシ",
+    "town": "緑が丘",
+    "town_kana": "ミドリガオカ",
+    "street": "２−１−１",
+    "office_name": "アマゾン大東ＦＣ　小型商品　返品係",
+    "office_name_kana": "アマゾンダイトウエフシ- コガタシヨウヒン ヘンピンガカリ"
+  },
   "8534": {
     "postcode": "5748534",
     "prefecture": "大阪府",

@@ -2783,6 +2783,19 @@
     "office_name": "麻布税務署",
     "office_name_kana": "アザブゼイムシヨ"
   },
+  "8635": {
+    "postcode": "1068635",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "麻布台",
+    "town_kana": "アザブダイ",
+    "street": "２丁目２−１麻布台ビル",
+    "office_name": "独立行政法人　農畜産業振興機構",
+    "office_name_kana": "ドクリツギヨウセイホウジン ノウチクサンギヨウシンコウキコウ"
+  },
   "8636": {
     "postcode": "1068636",
     "prefecture": "東京都",

@@ -1327,6 +1327,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1148": {
+    "postcode": "2591148",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "伊勢原市",
+    "city_kana": "イセハラシ",
+    "town": "下糟屋東",
+    "town_kana": "シモカスヤヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1185": {
     "postcode": "2591185",
     "prefecture": "神奈川県",

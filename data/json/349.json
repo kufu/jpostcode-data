@@ -1039,6 +1039,45 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1126": {
+    "postcode": "3491126",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "久喜市",
+    "city_kana": "クキシ",
+    "town": "伊坂北",
+    "town_kana": "イサカキタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "1127": {
+    "postcode": "3491127",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "久喜市",
+    "city_kana": "クキシ",
+    "town": "伊坂中央",
+    "town_kana": "イサカチュウオウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "1128": {
+    "postcode": "3491128",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "久喜市",
+    "city_kana": "クキシ",
+    "town": "伊坂南",
+    "town_kana": "イサカミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1131": {
     "postcode": "3491131",
     "prefecture": "埼玉県",

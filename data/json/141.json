@@ -909,19 +909,60 @@
     "office_name": "長田電機工業　株式会社",
     "office_name_kana": "オサダデンキコウギヨウ カブシキガイシヤ"
   },
-  "8519": {
-    "postcode": "1418519",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "品川区",
-    "city_kana": "シナガワク",
-    "town": "西五反田",
-    "town_kana": "ニシゴタンダ",
-    "street": "７丁目２５番１９号",
-    "office_name": "共和化工　株式会社",
-    "office_name_kana": "キヨウワカコウ カブシキカイシヤ"
-  },
+  "8519": [
+    {
+      "postcode": "1418519",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "品川区",
+      "city_kana": "シナガワク",
+      "town": "西五反田",
+      "town_kana": "ニシゴタンダ",
+      "street": "７丁目２５番１９号",
+      "office_name": "株式会社　キョウワエコテック",
+      "office_name_kana": "カブシキガイシヤ キヨウワエコテツク"
+    },
+    {
+      "postcode": "1418519",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "品川区",
+      "city_kana": "シナガワク",
+      "town": "西五反田",
+      "town_kana": "ニシゴタンダ",
+      "street": "７丁目２５番１９号",
+      "office_name": "共和化工　株式会社",
+      "office_name_kana": "キヨウワカコウ カブシキカイシヤ"
+    },
+    {
+      "postcode": "1418519",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "品川区",
+      "city_kana": "シナガワク",
+      "town": "西五反田",
+      "town_kana": "ニシゴタンダ",
+      "street": "７丁目２５番１９号",
+      "office_name": "共和メンテナンス　株式会社",
+      "office_name_kana": "キヨウワメンテナンス カブシキガイシヤ"
+    },
+    {
+      "postcode": "1418519",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "品川区",
+      "city_kana": "シナガワク",
+      "town": "西五反田",
+      "town_kana": "ニシゴタンダ",
+      "street": "７丁目２５番１９号",
+      "office_name": "和饗エコファーム　株式会社",
+      "office_name_kana": "ワキヨウエコフア-ム カブシキガイシヤ"
+    }
+  ],
   "8520": {
     "postcode": "1418520",
     "prefecture": "東京都",

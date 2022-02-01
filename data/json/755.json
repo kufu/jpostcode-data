@@ -805,6 +805,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0069": {
+    "postcode": "7550069",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
+    "city": "宇部市",
+    "city_kana": "ウベシ",
+    "town": "西桃山",
+    "town_kana": "ニシモモヤマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0071": {
     "postcode": "7550071",
     "prefecture": "山口県",

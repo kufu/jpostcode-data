@@ -909,6 +909,19 @@
     "office_name": "全労済愛知県本部",
     "office_name_kana": "ゼンロウサイアイチケンホンブ"
   },
+  "8544": {
+    "postcode": "4568544",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市熱田区",
+    "city_kana": "ナゴヤシアツタク",
+    "town": "桜田町",
+    "town_kana": "サクラダチョウ",
+    "street": "１６番１７号",
+    "office_name": "株式会社　日立産機システム　中部支社",
+    "office_name_kana": "カブシキガイシヤ ヒタチサンキシステム チユウブシシヤ"
+  },
   "8555": {
     "postcode": "4568555",
     "prefecture": "愛知県",
