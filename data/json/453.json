@@ -2302,6 +2302,19 @@
     "office_name": "中部電力パワーグリッド　株式会社　中村営業所",
     "office_name_kana": "チユウブデンリヨクパワ-グリツド カブシキガイシヤ ナカムラエイギヨウシヨ"
   },
+  "8608": {
+    "postcode": "4538608",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市中村区",
+    "city_kana": "ナゴヤシナカムラク",
+    "town": "岩塚町",
+    "town_kana": "イワツカチョウ",
+    "street": "字西枝１番地の１",
+    "office_name": "株式会社　ヤマナカ",
+    "office_name_kana": "カブシキガイシヤ ヤマナカ"
+  },
   "8611": {
     "postcode": "4538611",
     "prefecture": "愛知県",

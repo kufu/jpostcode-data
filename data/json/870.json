@@ -2625,118 +2625,58 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0824": [
-    {
-      "postcode": "8700824",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "城南団地東町",
-      "town_kana": "ジョウナンダンチヒガシマチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8700824",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "城南東",
-      "town_kana": "ジョウナンヒガシ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
-  "0825": [
-    {
-      "postcode": "8700825",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "城南南",
-      "town_kana": "ジョウナンミナミ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8700825",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "城南南町",
-      "town_kana": "ジョウナンミナミマチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
-  "0826": [
-    {
-      "postcode": "8700826",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "城南西",
-      "town_kana": "ジョウナンニシ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8700826",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "城南西町",
-      "town_kana": "ジョウナンニシマチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
-  "0827": [
-    {
-      "postcode": "8700827",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "城南北",
-      "town_kana": "ジョウナンキタ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8700827",
-      "prefecture": "大分県",
-      "prefecture_kana": "オオイタケン",
-      "prefecture_code": 44,
-      "city": "大分市",
-      "city_kana": "オオイタシ",
-      "town": "城南北町",
-      "town_kana": "ジョウナンキタマチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
+  "0824": {
+    "postcode": "8700824",
+    "prefecture": "大分県",
+    "prefecture_kana": "オオイタケン",
+    "prefecture_code": 44,
+    "city": "大分市",
+    "city_kana": "オオイタシ",
+    "town": "城南東",
+    "town_kana": "ジョウナンヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0825": {
+    "postcode": "8700825",
+    "prefecture": "大分県",
+    "prefecture_kana": "オオイタケン",
+    "prefecture_code": 44,
+    "city": "大分市",
+    "city_kana": "オオイタシ",
+    "town": "城南南",
+    "town_kana": "ジョウナンミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0826": {
+    "postcode": "8700826",
+    "prefecture": "大分県",
+    "prefecture_kana": "オオイタケン",
+    "prefecture_code": 44,
+    "city": "大分市",
+    "city_kana": "オオイタシ",
+    "town": "城南西",
+    "town_kana": "ジョウナンニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0827": {
+    "postcode": "8700827",
+    "prefecture": "大分県",
+    "prefecture_kana": "オオイタケン",
+    "prefecture_code": 44,
+    "city": "大分市",
+    "city_kana": "オオイタシ",
+    "town": "城南北",
+    "town_kana": "ジョウナンキタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0828": {
     "postcode": "8700828",
     "prefecture": "大分県",

@@ -1013,19 +1013,6 @@
     "office_name": "株式会社　ＴＮＣ企画",
     "office_name_kana": "カブシキカイシヤ テイ-エヌシ-キカク"
   },
-  "8567": {
-    "postcode": "8148567",
-    "prefecture": "福岡県",
-    "prefecture_kana": "フクオカケン",
-    "prefecture_code": 40,
-    "city": "福岡市早良区",
-    "city_kana": "フクオカシサワラク",
-    "town": "百道浜",
-    "town_kana": "モモチハマ",
-    "street": "２丁目４番１号",
-    "office_name": "ＮＥＣソリューションイノベータ　株式会社　九州支社",
-    "office_name_kana": "エヌイ-シ-ソリユ-シヨンイノベ-タ カブシキカイシヤ キユウシユウシシヤ"
-  },
   "8577": {
     "postcode": "8148577",
     "prefecture": "福岡県",
@@ -1079,19 +1066,6 @@
     "street": "２丁目２−１",
     "office_name": "富士通　九州Ｒ＆Ｄセンター",
     "office_name_kana": "フジツウ キユウシユウア-ルアンドデイ-センタ-"
-  },
-  "8589": {
-    "postcode": "8148589",
-    "prefecture": "福岡県",
-    "prefecture_kana": "フクオカケン",
-    "prefecture_code": 40,
-    "city": "福岡市早良区",
-    "city_kana": "フクオカシサワラク",
-    "town": "百道浜",
-    "town_kana": "モモチハマ",
-    "street": "２丁目２番１号",
-    "office_name": "株式会社　富士通九州システムズ",
-    "office_name_kana": "カブシキガイシヤ フジツウキユウシユウシステムズ"
   },
   "8602": {
     "postcode": "8148602",

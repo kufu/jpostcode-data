@@ -1648,7 +1648,7 @@
     "city_kana": "チュウオウク",
     "town": "日本橋",
     "town_kana": "ニホンバシ",
-    "street": "１−２−５栄大楼ビル",
+    "street": "２丁目７番１号東京日本橋タワー２４階",
     "office_name": "ＮＳＴ日本鉄板　株式会社",
     "office_name_kana": "エヌエステイニホンテツパン カブシキガイシヤ"
   },
@@ -2948,9 +2948,9 @@
     "city_kana": "チュウオウク",
     "town": "日本橋横山町",
     "town_kana": "ニホンバシヨコヤマチョウ",
-    "street": "３−１０",
-    "office_name": "新日本無線　株式会社",
-    "office_name_kana": "シンニホンムセン (カブ)"
+    "street": "３番１０号",
+    "office_name": "日清紡マイクロデバイス　株式会社",
+    "office_name_kana": "ニツシンボウマイクロデバイス カブシキガイシヤ"
   },
   "8460": {
     "postcode": "1038460",
@@ -3757,19 +3757,6 @@
     "street": "２丁目１−１（日本橋郵便局私書箱第４１号）",
     "office_name": "武田薬品工業　株式会社",
     "office_name_kana": "タケダヤクヒンコウギヨウ カブシキガイシヤ"
-  },
-  "8670": {
-    "postcode": "1038670",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "八重洲",
-    "town_kana": "ヤエス",
-    "street": "１丁目２−１（日本橋郵便局私書箱第２３号）",
-    "office_name": "みずほ信託銀行　株式会社",
-    "office_name_kana": "ミズホシンタクギンコウ カブシキガイシヤ"
   },
   "8676": {
     "postcode": "1038676",

@@ -1366,6 +1366,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0809": {
+    "postcode": "7450809",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
+    "city": "周南市",
+    "city_kana": "シュウナンシ",
+    "town": "久米中央",
+    "town_kana": "クメチュウオウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0811": {
     "postcode": "7450811",
     "prefecture": "山口県",
