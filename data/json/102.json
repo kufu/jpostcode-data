@@ -1611,6 +1611,19 @@
     "office_name": "財団法人　東京顕微鏡院",
     "office_name_kana": "ザイダンホウジン トウキヨウケンビキヨウイン"
   },
+  "8301": {
+    "postcode": "1028301",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "九段南",
+    "town_kana": "クダンミナミ",
+    "street": "４丁目６−１九段シルバーパレス７０６号",
+    "office_name": "株式会社　カー・アンド・ドライバー",
+    "office_name_kana": "カブシキガイシヤ カ-・アンド・ドライバ-"
+  },
   "8302": {
     "postcode": "1028302",
     "prefecture": "東京都",
@@ -1839,11 +1852,11 @@
     "prefecture_code": 13,
     "city": "千代田区",
     "city_kana": "チヨダク",
-    "town": "三番町",
-    "town_kana": "サンバンチョウ",
-    "street": "５",
+    "town": "麹町",
+    "town_kana": "コウジマチ",
+    "street": "１丁目６番４号",
     "office_name": "株式会社　日新",
-    "office_name_kana": "カブシキカイシヤ ニツシン"
+    "office_name_kana": "カブシキガイシヤ ニツシン"
   },
   "8353": {
     "postcode": "1028353",

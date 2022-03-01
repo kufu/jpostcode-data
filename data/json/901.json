@@ -233,6 +233,19 @@
     "office_name": "ＭＲＯ　Ｊａｐａｎ　株式会社",
     "office_name_kana": "エムア-ルオ- ジヤパン カブシキガイシヤ"
   },
+  "0197": {
+    "postcode": "9010197",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "prefecture_code": 47,
+    "city": "那覇市",
+    "city_kana": "ナハシ",
+    "town": "赤嶺",
+    "town_kana": "アカミネ",
+    "street": "３２２番地",
+    "office_name": "自衛隊那覇病院",
+    "office_name_kana": "ジエイタイナハビヨウイン"
+  },
   "0200": {
     "postcode": "9010200",
     "prefecture": "沖縄県",
@@ -565,9 +578,9 @@
     "prefecture_code": 47,
     "city": "豊見城市",
     "city_kana": "トミグスクシ",
-    "town": "翁長",
-    "town_kana": "オナガ",
-    "street": "８５４−１",
+    "town": "宜保",
+    "town_kana": "ギボ",
+    "street": "１丁目１番地１",
     "office_name": "豊見城市役所",
     "office_name_kana": "トミグスクシヤクシヨ"
   },

@@ -883,6 +883,19 @@
     "office_name": "目白大学",
     "office_name_kana": "メジロダイガク"
   },
+  "8503": {
+    "postcode": "3398503",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市岩槻区",
+    "city_kana": "サイタマシイワツキク",
+    "town": "浮谷",
+    "town_kana": "ウキヤ",
+    "street": "１５１２−１センコーさいたまＰＤセンター内",
+    "office_name": "アマゾンジャパンＴＰＦＩ",
+    "office_name_kana": "アマゾンジヤパンテイ-ピ-エフアイ"
+  },
   "8510": {
     "postcode": "3398510",
     "prefecture": "埼玉県",

@@ -1169,6 +1169,19 @@
     "office_name": "平塚共済病院",
     "office_name_kana": "ヒラツカキヨウサイビヨウイン"
   },
+  "8503": {
+    "postcode": "2548503",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "平塚市",
+    "city_kana": "ヒラツカシ",
+    "town": "長瀞",
+    "town_kana": "ナガトロ",
+    "street": "１−１０",
+    "office_name": "日本特殊塗料　株式会社　平塚工場",
+    "office_name_kana": "ニホントクシユトリヨウ カブシキガイシヤ ヒラツカコウジヨウ"
+  },
   "8510": {
     "postcode": "2548510",
     "prefecture": "神奈川県",
