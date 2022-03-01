@@ -6068,6 +6068,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3227": {
+    "postcode": "9813227",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "仙台市泉区",
+    "city_kana": "センダイシイズミク",
+    "town": "朝日",
+    "town_kana": "アサヒ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3271": {
     "postcode": "9813271",
     "prefecture": "宮城県",

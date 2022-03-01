@@ -3056,6 +3056,19 @@
     "office_name": "株式会社　ラボ",
     "office_name_kana": "カブシキガイシヤ ラボ"
   },
+  "8560": {
+    "postcode": "6708560",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "姫路市",
+    "city_kana": "ヒメジシ",
+    "town": "神屋町",
+    "town_kana": "カミヤチョウ",
+    "street": "３丁目２６４番地",
+    "office_name": "兵庫県立　はりま姫路総合医療センター",
+    "office_name_kana": "ヒヨウゴケンリツ ハリマヒメジソウゴウイリヨウセンタ-"
+  },
   "8566": {
     "postcode": "6708566",
     "prefecture": "兵庫県",

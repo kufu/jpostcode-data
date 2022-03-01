@@ -1423,9 +1423,9 @@
     "prefecture_code": 14,
     "city": "横浜市中区",
     "city_kana": "ヨコハマシナカク",
-    "town": "尾上町",
-    "town_kana": "オノエチョウ",
-    "street": "１−６住友生命横浜関内ビル６階",
+    "town": "桜木町",
+    "town_kana": "サクラギチョウ",
+    "street": "１丁目１−５６",
     "office_name": "横浜市郵送請求事務センター",
     "office_name_kana": "ヨコハマシユウソウセイキユウジムセンタ-"
   },
@@ -1961,6 +1961,19 @@
     "street": "１−４−１",
     "office_name": "株式会社　有隣堂　伊勢佐木町本店",
     "office_name_kana": "カブシキガイシヤ ユウリンドウ イセザキチヨウホンテン"
+  },
+  "8631": {
+    "postcode": "2318631",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "宮川町",
+    "town_kana": "ミヤガワチョウ",
+    "street": "３−８９",
+    "office_name": "株式会社　ダイイチ",
+    "office_name_kana": "カブシキガイシヤ ダイイチ"
   },
   "8652": {
     "postcode": "2318652",

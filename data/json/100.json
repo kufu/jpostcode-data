@@ -7306,8 +7306,8 @@
     "town": "大手町",
     "town_kana": "オオテマチ",
     "street": "１丁目８−１",
-    "office_name": "国際電信電話　株式会社　営業本部",
-    "office_name_kana": "コクサイデンシンデンワ カブシキカイシヤ エイギヨウホンブ"
+    "office_name": "ＫＤＤＩ　株式会社",
+    "office_name_kana": "ケイデイ-デイ-アイ カブシキカイシヤ"
   },
   "8187": {
     "postcode": "1008187",
@@ -8430,6 +8430,19 @@
     "street": "２丁目２−２",
     "office_name": "富国生命保険　相互会社",
     "office_name_kana": "フコクセイメイホケン ソウゴガイシヤ"
+  },
+  "8521": {
+    "postcode": "1008521",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "内幸町",
+    "town_kana": "ウチサイワイチョウ",
+    "street": "２丁目１番１号飯野ビルディング１２階",
+    "office_name": "ＵＢＥ三菱セメント　株式会社",
+    "office_name_kana": "ユ-ビ-イ-ミツビシセメント カブシキガイシヤ"
   },
   "8522": {
     "postcode": "1008522",

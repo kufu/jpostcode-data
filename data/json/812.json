@@ -2640,6 +2640,19 @@
     "office_name": "日本電気　株式会社　九州支社",
     "office_name_kana": "ニホンデンキ カブシキガイシヤ キユウシユウシシヤ"
   },
+  "8627": {
+    "postcode": "8128627",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "福岡市博多区",
+    "city_kana": "フクオカシハカタク",
+    "town": "那珂",
+    "town_kana": "ナカ",
+    "street": "六丁目２３番１号",
+    "office_name": "三井ショッピングパーク　ららぽーと福岡",
+    "office_name_kana": "ミツイシヨツピングパ-ク ララポ-トフクオカ"
+  },
   "8628": {
     "postcode": "8128628",
     "prefecture": "福岡県",

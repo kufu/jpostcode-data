@@ -1628,6 +1628,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0346": {
+    "postcode": "0800346",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "河東郡音更町",
+    "city_kana": "カトウグンオトフケチョウ",
+    "town": "なつぞら",
+    "town_kana": "ナツゾラ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0351": {
     "postcode": "0800351",
     "prefecture": "北海道",
