@@ -2928,6 +2928,19 @@
     "office_name": "高山理化精機　株式会社",
     "office_name_kana": "タカヤマリカセイキ カブシキガイシヤ"
   },
+  "4577": {
+    "postcode": "3994577",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "伊那市",
+    "city_kana": "イナシ",
+    "town": "西箕輪",
+    "town_kana": "ニシミノワ",
+    "street": "８２７４",
+    "office_name": "長野伊那養護学校",
+    "office_name_kana": "ナガノイナヨウゴガツコウ"
+  },
   "4578": {
     "postcode": "3994578",
     "prefecture": "長野県",

@@ -703,6 +703,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1330": {
+    "postcode": "6691330",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "三田市",
+    "city_kana": "サンダシ",
+    "town": "学園上ケ原",
+    "town_kana": "ガクエンウエガハラ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1331": {
     "postcode": "6691331",
     "prefecture": "兵庫県",

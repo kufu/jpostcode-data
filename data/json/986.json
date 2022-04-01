@@ -155,6 +155,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0020": {
+    "postcode": "9860020",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "石巻市",
+    "city_kana": "イシノマキシ",
+    "town": "湊東",
+    "town_kana": "ミナトヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "9860021",
     "prefecture": "宮城県",
@@ -3828,11 +3841,11 @@
     "prefecture_code": 4,
     "city": "石巻市",
     "city_kana": "イシノマキシ",
-    "town": "築山",
-    "town_kana": "ツキヤマ",
-    "street": "１丁目９番３１号",
-    "office_name": "中村工業　株式会社",
-    "office_name_kana": "ナカムラコウギヨウ カブシキガイシヤ"
+    "town": "南光町",
+    "town_kana": "ナンコウチョウ",
+    "street": "２丁目２番地１１号",
+    "office_name": "日本製紙石巻テクノ　株式会社",
+    "office_name_kana": "ニホンセイシイシノマキテクノ カブシキガイシヤ"
   },
   "8540": {
     "postcode": "9868540",

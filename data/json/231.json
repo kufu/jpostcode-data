@@ -1767,6 +1767,19 @@
     "office_name": "日本国土開発　株式会社　横浜支店",
     "office_name_kana": "ニホンコクドカイハツ カブシキガイシヤ ヨコハマシテン"
   },
+  "8504": {
+    "postcode": "2318504",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "日本大通",
+    "town_kana": "ニホンオオドオリ",
+    "street": "１５",
+    "office_name": "朝日新聞横浜総局",
+    "office_name_kana": "アサヒシンブンヨコハマソウキヨク"
+  },
   "8520": {
     "postcode": "2318520",
     "prefecture": "神奈川県",

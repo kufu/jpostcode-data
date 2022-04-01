@@ -5781,6 +5781,19 @@
     "office_name": "芳賀町役場",
     "office_name_kana": "ハガマチヤクバ"
   },
+  "3393": {
+    "postcode": "3213393",
+    "prefecture": "栃木県",
+    "prefecture_kana": "トチギケン",
+    "prefecture_code": 9,
+    "city": "芳賀郡芳賀町",
+    "city_kana": "ハガグンハガマチ",
+    "town": "大字下高根沢",
+    "town_kana": null,
+    "street": "４６３０",
+    "office_name": "本田技研工業　株式会社",
+    "office_name_kana": "ホンダギケンコウギヨウ カブシキガイシヤ"
+  },
   "3395": {
     "postcode": "3213395",
     "prefecture": "栃木県",

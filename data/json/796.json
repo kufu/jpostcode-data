@@ -1069,6 +1069,19 @@
     "office_name": "西南開発　株式会社",
     "office_name_kana": "セイナンカイハツ カブシキガイシヤ"
   },
+  "0295": {
+    "postcode": "7960295",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "prefecture_code": 38,
+    "city": "八幡浜市",
+    "city_kana": "ヤワタハマシ",
+    "town": "保内町川之石",
+    "town_kana": "ホナイチョウカワノイシ",
+    "street": "１−２３７−５３",
+    "office_name": "株式会社　あわしま堂",
+    "office_name_kana": "カブシキガイシヤ アワシマドウ"
+  },
   "0300": {
     "postcode": "7960300",
     "prefecture": "愛媛県",
