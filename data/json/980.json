@@ -2209,19 +2209,34 @@
     "office_name": "株式会社　東北しんきんカード",
     "office_name_kana": "カブシキガイシヤ トウホクシンキンカ-ド"
   },
-  "8526": {
-    "postcode": "9808526",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市青葉区",
-    "city_kana": "センダイシアオバク",
-    "town": "一番町",
-    "town_kana": "イチバンチョウ",
-    "street": "３丁目３−６星和仙台ビル",
-    "office_name": "サッポロビール　株式会社　東北本部",
-    "office_name_kana": "サツポロビ-ル カブシキガイシヤ トウホクホンブ"
-  },
+  "8526": [
+    {
+      "postcode": "9808526",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "prefecture_code": 4,
+      "city": "仙台市青葉区",
+      "city_kana": "センダイシアオバク",
+      "town": "中央",
+      "town_kana": "チュウオウ",
+      "street": "３丁目２番１号青葉通プラザ３階",
+      "office_name": "サッポロビール　株式会社　東日本本部",
+      "office_name_kana": "サツポロビ-ル カブシキガイシヤ ヒガシニホンホンブ"
+    },
+    {
+      "postcode": "9808526",
+      "prefecture": "宮城県",
+      "prefecture_kana": "ミヤギケン",
+      "prefecture_code": 4,
+      "city": "仙台市青葉区",
+      "city_kana": "センダイシアオバク",
+      "town": "中央",
+      "town_kana": "チュウオウ",
+      "street": "３丁目２番１号青葉通プラザ３階",
+      "office_name": "ポッカサッポロフード＆ビバレッジ　株式会社　東北支社",
+      "office_name_kana": "ポツカサツポロフ-ドアンドビバレツジ カブシキガイシヤ トウホクシシヤ"
+    }
+  ],
   "8529": {
     "postcode": "9808529",
     "prefecture": "宮城県",

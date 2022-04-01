@@ -1053,6 +1053,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1113": {
+    "postcode": "9791113",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "双葉郡富岡町",
+    "city_kana": "フタバグントミオカマチ",
+    "town": "曲田",
+    "town_kana": "マガタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1121": {
     "postcode": "9791121",
     "prefecture": "福島県",
@@ -1075,6 +1088,19 @@
     "city_kana": "フタバグントミオカマチ",
     "town": "毛萱",
     "town_kana": "ケガヤ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "1123": {
+    "postcode": "9791123",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "双葉郡富岡町",
+    "city_kana": "フタバグントミオカマチ",
+    "town": "駅前",
+    "town_kana": "エキマエ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

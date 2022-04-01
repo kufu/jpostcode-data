@@ -1314,6 +1314,19 @@
     "office_name": "さいたま赤十字病院",
     "office_name_kana": "サイタマセキジユウジビヨウイン"
   },
+  "8557": {
+    "postcode": "3308557",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市浦和区",
+    "city_kana": "サイタマシウラワク",
+    "town": "常盤",
+    "town_kana": "トキワ",
+    "street": "４−１２−１３",
+    "office_name": "朝日新聞　さいたま総局",
+    "office_name_kana": "アサヒシンブン サイタマソウキヨク"
+  },
   "8562": {
     "postcode": "3308562",
     "prefecture": "埼玉県",

@@ -2131,6 +2131,19 @@
     "office_name": "ゴルフ場用品　株式会社",
     "office_name_kana": "ゴルフジヨウヨウヒン カブシキガイシヤ"
   },
+  "8565": {
+    "postcode": "5678565",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "茨木市",
+    "city_kana": "イバラキシ",
+    "town": "上中条",
+    "town_kana": "カミチュウジョウ",
+    "street": "１丁目９−２１",
+    "office_name": "茨木税務署",
+    "office_name_kana": "イバラキゼイムシヨ"
+  },
   "8567": {
     "postcode": "5678567",
     "prefecture": "大阪府",

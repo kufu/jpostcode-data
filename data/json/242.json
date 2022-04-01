@@ -337,6 +337,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8502": {
+    "postcode": "2428502",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "大和市",
+    "city_kana": "ヤマトシ",
+    "town": "中央林間",
+    "town_kana": "チュウオウリンカン",
+    "street": "７丁目１２−２ニッセイロジスティクスセンター横浜町田",
+    "office_name": "ＪＰ楽天ロジスティクス　株式会社　楽天フルフィルメントセンター中央林間",
+    "office_name_kana": "ジエイピ-ラクテンロジステイクス カブシキガイシヤ ラクテンフルフイルメントセンタ-チユウオウリンカン"
+  },
   "8507": {
     "postcode": "2428507",
     "prefecture": "神奈川県",

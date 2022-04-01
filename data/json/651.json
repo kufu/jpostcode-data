@@ -2986,19 +2986,6 @@
     "office_name": "神戸市立工業高等専門学校",
     "office_name_kana": "コウベシリツコウギヨウコウトウセンモンガツコウ"
   },
-  "2195": {
-    "postcode": "6512195",
-    "prefecture": "兵庫県",
-    "prefecture_kana": "ヒョウゴケン",
-    "prefecture_code": 28,
-    "city": "神戸市西区",
-    "city_kana": "コウベシニシク",
-    "town": "玉津町小山",
-    "town_kana": "タマツチョウコヤマ",
-    "street": "川端１８０−３",
-    "office_name": "神戸市西区役所",
-    "office_name_kana": "コウベシニシクヤクシヨ"
-  },
   "2196": {
     "postcode": "6512196",
     "prefecture": "兵庫県",
@@ -3765,6 +3752,19 @@
     "street": null,
     "office_name": null,
     "office_name_kana": null
+  },
+  "2295": {
+    "postcode": "6512295",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "神戸市西区",
+    "city_kana": "コウベシニシク",
+    "town": "糀台",
+    "town_kana": "コウジダイ",
+    "street": "５丁目４番地の１",
+    "office_name": "神戸市西区役所",
+    "office_name_kana": "コウベシニシクヤクシヨ"
   },
   "2301": {
     "postcode": "6512301",
