@@ -558,6 +558,19 @@
     "office_name": "下田工業　株式会社　東京支社",
     "office_name_kana": "シモダコウギヨウ カブシキガイシヤ トウキヨウシシヤ"
   },
+  "8554": {
+    "postcode": "1408554",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "東品川",
+    "town_kana": "ヒガシシナガワ",
+    "street": "２−２−４３Ｔ２ビル３Ｆ",
+    "office_name": "株式会社　ＧＳＴＶ",
+    "office_name_kana": "カブシキガイシヤ ジ-エステイ-ブイ"
+  },
   "8558": {
     "postcode": "1408558",
     "prefecture": "東京都",

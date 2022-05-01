@@ -760,11 +760,11 @@
     "prefecture_code": 3,
     "city": "北上市",
     "city_kana": "キタカミシ",
-    "town": "北工業団地",
-    "town_kana": "キタコウギョウダンチ",
-    "street": "５−１１",
-    "office_name": "株式会社　鈴木商館　岩手営業所",
-    "office_name_kana": "カブシキカイシヤ スズキシヨウカン イワテエイギヨウシヨ"
+    "town": "成田",
+    "town_kana": "ナリタ",
+    "street": "１地割３３番地４",
+    "office_name": "株式会社　鈴木商館　岩手事業所",
+    "office_name_kana": "カブシキカイシヤ スズキシヨウカン イワテジギヨウシヨ"
   },
   "0195": {
     "postcode": "0240195",

@@ -1156,6 +1156,19 @@
     "office_name": "西武ライオンズ球場",
     "office_name_kana": "セイブライオンズキユウジヨウ"
   },
+  "1198": {
+    "postcode": "3591198",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "所沢市",
+    "city_kana": "トコロザワシ",
+    "town": "日吉町",
+    "town_kana": "ヒヨシチョウ",
+    "street": "１２−１",
+    "office_name": "株式会社　そごう・西武　西武所沢店",
+    "office_name_kana": "カブシキガイシヤ ソゴウ・セイブ セイブトコロザワテン"
+  },
   "8501": {
     "postcode": "3598501",
     "prefecture": "埼玉県",

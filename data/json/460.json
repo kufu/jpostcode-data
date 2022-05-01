@@ -2044,6 +2044,19 @@
     "office_name": "名古屋市　金山市税事務所",
     "office_name_kana": "ナゴヤシ カナヤマシゼイジムシヨ"
   },
+  "8627": {
+    "postcode": "4608627",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市中区",
+    "city_kana": "ナゴヤシナカク",
+    "town": "錦",
+    "town_kana": "ニシキ",
+    "street": "３−２１−２４三菱ＵＦＪ銀行名古屋ビル",
+    "office_name": "三菱ＵＦＪリサーチ＆コンサルティング　株式会社",
+    "office_name_kana": "ミツビシユ-エフジエイリサ-チアンドコンサルテイング カブシキガイシヤ"
+  },
   "8628": {
     "postcode": "4608628",
     "prefecture": "愛知県",

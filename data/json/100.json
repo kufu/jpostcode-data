@@ -6616,6 +6616,19 @@
     "office_name": "チッソ　株式会社",
     "office_name_kana": "チツソ カブシキガイシヤ"
   },
+  "8107": {
+    "postcode": "1008107",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "１丁目５番１号",
+    "office_name": "東京海上日動火災保険　株式会社",
+    "office_name_kana": "トウキヨウカイジヨウニチドウカサイホケン カブシキガイシヤ"
+  },
   "8108": {
     "postcode": "1008108",
     "prefecture": "東京都",
