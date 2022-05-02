@@ -1574,6 +1574,19 @@
     "office_name": "アクサ損害保険　株式会社",
     "office_name_kana": "アクサソンガイホケン カブシキカイシヤ"
   },
+  "8708": {
+    "postcode": "3308708",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市大宮区",
+    "city_kana": "サイタマシオオミヤク",
+    "town": "大門町",
+    "town_kana": "ダイモンチョウ",
+    "street": "二丁目１１８番地大宮門街ＳＱＵＡＲＥ",
+    "office_name": "全国生活協同組合連合会",
+    "office_name_kana": "ゼンコクセイカツキヨウドウクミアイレンゴウカイ"
+  },
   "8710": {
     "postcode": "3308710",
     "prefecture": "埼玉県",

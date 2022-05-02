@@ -742,6 +742,19 @@
     "office_name": "佐川印刷　株式会社",
     "office_name_kana": "サガワインサツ カブシキガイシヤ"
   },
+  "8617": {
+    "postcode": "6178617",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "長岡京市",
+    "city_kana": "ナガオカキョウシ",
+    "town": "下海印寺",
+    "town_kana": "シモカイインジ",
+    "street": "下内田１０１番地",
+    "office_name": "社会福祉法人　恩賜財団済生会　京都済生会病院",
+    "office_name_kana": "シヤカイフクシホウジン オンシザイダンサイセイカイ キヨウトサイセイカイビヨウイン"
+  },
   "8665": {
     "postcode": "6178665",
     "prefecture": "京都府",

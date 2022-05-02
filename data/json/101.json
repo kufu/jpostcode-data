@@ -922,6 +922,19 @@
     "office_name": "社団法人　東京都医師会",
     "office_name_kana": "シヤダンホウジン トウキヨウトイシカイ"
   },
+  "8329": {
+    "postcode": "1018329",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "神田駿河台",
+    "town_kana": "カンダスルガダイ",
+    "street": "２丁目３番地",
+    "office_name": "日新火災海上保険　株式会社",
+    "office_name_kana": "ニツシンカサイカイジヨウホケン カブシキカイシヤ"
+  },
   "8330": {
     "postcode": "1018330",
     "prefecture": "東京都",

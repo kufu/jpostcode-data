@@ -1130,6 +1130,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0189": {
+    "postcode": "2700189",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "流山市",
+    "city_kana": "ナガレヤマシ",
+    "town": "西深井",
+    "town_kana": "ニシフカイ",
+    "street": "字種井下１３７４−１",
+    "office_name": "ＤＰＬ流山Ⅰ",
+    "office_name_kana": "デイ-ピ-エルナガレヤマワン"
+  },
   "0192": {
     "postcode": "2700192",
     "prefecture": "千葉県",

@@ -12076,6 +12076,19 @@
     "office_name": "ＫＢＳ京都",
     "office_name_kana": "ケ-ビ-エスキヨウト"
   },
+  "8602": {
+    "postcode": "6028602",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "京都市上京区",
+    "city_kana": "キョウトシカミギョウク",
+    "town": "烏丸通丸太町上る",
+    "town_kana": null,
+    "street": "春日町４２７−３",
+    "office_name": "ワタベウェディング　株式会社",
+    "office_name_kana": "ワタベウエデイング カブシキガイシヤ"
+  },
   "8611": {
     "postcode": "6028611",
     "prefecture": "京都府",

@@ -783,11 +783,11 @@
     "prefecture_code": 34,
     "city": "広島市安佐北区",
     "city_kana": "ヒロシマシアサキタク",
-    "town": "可部南",
-    "town_kana": "カベミナミ",
-    "street": "２丁目１−１",
-    "office_name": "広島市立安佐市民病院",
-    "office_name_kana": "ヒロシマシリツアサシミンビヨウイン"
+    "town": "亀山南",
+    "town_kana": "カメヤマミナミ",
+    "street": "一丁目２番１号",
+    "office_name": "広島市立北部医療センター安佐市民病院",
+    "office_name_kana": "ヒロシマシリツホクブイリヨウセンタ-アサシミンビヨウイン"
   },
   "0295": {
     "postcode": "7310295",
