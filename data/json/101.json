@@ -831,6 +831,19 @@
     "office_name": "協同リース　株式会社",
     "office_name_kana": "キヨウドウリ-ス カブシキガイシヤ"
   },
+  "8318": {
+    "postcode": "1018318",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "神田駿河台",
+    "town_kana": "カンダスルガダイ",
+    "street": "２−５−１２ＮＭＦ駿河台ビル２階",
+    "office_name": "ＡＤＥＫＡクリーンエイド　株式会社",
+    "office_name_kana": "アデカクリ-ンエイド カブシキガイシヤ"
+  },
   "8321": {
     "postcode": "1018321",
     "prefecture": "東京都",
@@ -1012,6 +1025,19 @@
     "street": "２丁目１６−１１内神田渋谷ビル９階",
     "office_name": "三菱マテリアル　株式会社",
     "office_name_kana": "ミツビシマテリアル カブシキガイシヤ"
+  },
+  "8343": {
+    "postcode": "1018343",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "神田淡路町",
+    "town_kana": "カンダアワジチョウ",
+    "street": "２丁目１０１番地ワテラスタワー９Ｆ",
+    "office_name": "トヨタ・コニック・プロ　株式会社",
+    "office_name_kana": "トヨタコニツクプロ カブシキガイシヤ"
   },
   "8345": {
     "postcode": "1018345",

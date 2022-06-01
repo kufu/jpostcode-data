@@ -4304,6 +4304,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1179": {
+    "postcode": "9501179",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "新潟市西区",
+    "city_kana": "ニイガタシニシク",
+    "town": "善久",
+    "town_kana": "ゼンク",
+    "street": "７７２−２",
+    "office_name": "株式会社　新潟日報メディアネット",
+    "office_name_kana": "カブシキガイシヤ ニイガタニツポウメデイアネツト"
+  },
   "1181": {
     "postcode": "9501181",
     "prefecture": "新潟県",
@@ -5174,8 +5187,8 @@
     "town": "七軒",
     "town_kana": "シチケン",
     "street": "字前２１１−１",
-    "office_name": "ＪＡ新潟みらい",
-    "office_name_kana": "ジエイエイニイガタミライ"
+    "office_name": "ＪＡ新潟かがやき　営農部・経済部",
+    "office_name_kana": "ジエイエイニイガタカガヤキ エイノウブ・ケイザイブ"
   },
   "1301": {
     "postcode": "9501301",
@@ -6376,8 +6389,8 @@
     "town": "次郎右エ門興野",
     "town_kana": "ジロウウエモンコウヤ",
     "street": "字沼６９７番地",
-    "office_name": "ＪＡ新潟みらい　フルーツフラワーしろね",
-    "office_name_kana": "ジエイエイニイガタミライ フル-ツフラワ-シロネ"
+    "office_name": "ＪＡ新潟かがやき　フルーツフラワーしろね",
+    "office_name_kana": "ジエイエイニイガタカガヤキ フル-ツフラワ-シロネ"
   },
   "2001": {
     "postcode": "9502001",

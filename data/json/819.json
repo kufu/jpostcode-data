@@ -729,6 +729,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0370": {
+    "postcode": "8190370",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "福岡市西区",
+    "city_kana": "フクオカシニシク",
+    "town": "丸川",
+    "town_kana": "マルガワ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0371": {
     "postcode": "8190371",
     "prefecture": "福岡県",
@@ -846,6 +859,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0380": {
+    "postcode": "8190380",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "福岡市西区",
+    "city_kana": "フクオカシニシク",
+    "town": "田尻東",
+    "town_kana": "タジリヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0381": {
     "postcode": "8190381",
     "prefecture": "福岡県",
@@ -946,6 +972,19 @@
     "city_kana": "フクオカシニシク",
     "town": "九大新町",
     "town_kana": "キュウダイシンマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0389": {
+    "postcode": "8190389",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "福岡市西区",
+    "city_kana": "フクオカシニシク",
+    "town": "学園通",
+    "town_kana": "ガクエンドオリ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

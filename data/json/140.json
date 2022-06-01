@@ -766,6 +766,19 @@
     "office_name": "（株）　ニコン大井製作所",
     "office_name_kana": "カブシキガイシヤ ニコンオオイセイサクシヨ"
   },
+  "8602": {
+    "postcode": "1408602",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "東品川",
+    "town_kana": "ヒガシシナガワ",
+    "street": "２丁目３番１１号",
+    "office_name": "ＪＴＢ",
+    "office_name_kana": "ジエイテイビ-"
+  },
   "8611": {
     "postcode": "1408611",
     "prefecture": "東京都",

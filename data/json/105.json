@@ -7904,8 +7904,8 @@
     "town": "芝",
     "town_kana": "シバ",
     "street": "２丁目３−３",
-    "office_name": "三菱アルミニウム　株式会社",
-    "office_name_kana": "ミツビシアルミニウム カブシキガイシヤ"
+    "office_name": "ＭＡアルミニウム　株式会社",
+    "office_name_kana": "エムエ-アルミニウム カブシキガイシヤ"
   },
   "8550": {
     "postcode": "1058550",
@@ -7992,9 +7992,9 @@
     "prefecture_code": 13,
     "city": "港区",
     "city_kana": "ミナトク",
-    "town": "西新橋",
-    "town_kana": "ニシシンバシ",
-    "street": "３丁目５−２西新橋第一法規ビル１階",
+    "town": "虎ノ門",
+    "town_kana": "トラノモン",
+    "street": "４−１−２８虎ノ門タワーズオフィス１９Ｆ",
     "office_name": "株式会社　アドピア",
     "office_name_kana": "カブシキガイシヤ アドピア"
   },

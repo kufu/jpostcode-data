@@ -531,5 +531,31 @@
     "street": "６０１",
     "office_name": "横浜薬科大学",
     "office_name_kana": "ヨコハマヤツカダイガク"
+  },
+  "8650": {
+    "postcode": "2458650",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市泉区",
+    "city_kana": "ヨコハマシイズミク",
+    "town": "緑園",
+    "town_kana": "リョクエン",
+    "street": "４丁目５番３号",
+    "office_name": "フェリス女学院大学",
+    "office_name_kana": "フエリスジヨガクインダイガク"
+  },
+  "8651": {
+    "postcode": "2458651",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市泉区",
+    "city_kana": "ヨコハマシイズミク",
+    "town": "緑園",
+    "town_kana": "リョクエン",
+    "street": "４丁目５番３号",
+    "office_name": "フェリス女学院大学附属図書館",
+    "office_name_kana": "フエリスジヨガクインダイガクフゾクトシヨカン"
   }
 }

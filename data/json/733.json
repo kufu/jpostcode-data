@@ -1273,6 +1273,19 @@
     "office_name": "アルパーク北棟",
     "office_name_kana": "アルパ-クキタトウ"
   },
+  "8627": {
+    "postcode": "7338627",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "広島市西区",
+    "city_kana": "ヒロシマシニシク",
+    "town": "井口明神",
+    "town_kana": "イノクチミョウジン",
+    "street": "１丁目１６番１号",
+    "office_name": "アルパーク西棟",
+    "office_name_kana": "アルパ-クニシトウ"
+  },
   "8630": {
     "postcode": "7338630",
     "prefecture": "広島県",
