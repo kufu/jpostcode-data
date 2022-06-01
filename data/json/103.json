@@ -2081,6 +2081,19 @@
     "office_name": "旭電化工業　株式会社",
     "office_name_kana": "アサヒデンカコウギヨウ (カブ)"
   },
+  "8312": {
+    "postcode": "1038312",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中央区",
+    "city_kana": "チュウオウク",
+    "town": "日本橋室町",
+    "town_kana": "ニホンバシムロマチ",
+    "street": "２−４−３日本橋室町野村ビル",
+    "office_name": "株式会社　アプラス",
+    "office_name_kana": "カブシキガイシヤ アプラス"
+  },
   "8313": {
     "postcode": "1038313",
     "prefecture": "東京都",
@@ -2158,6 +2171,19 @@
     "street": "２丁目１−１日本橋三井タワー１５Ｆ",
     "office_name": "中外製薬　株式会社",
     "office_name_kana": "チユウガイセイヤク カブシキガイシヤ"
+  },
+  "8325": {
+    "postcode": "1038325",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中央区",
+    "city_kana": "チュウオウク",
+    "town": "日本橋室町",
+    "town_kana": "ニホンバシムロマチ",
+    "street": "２−１−１",
+    "office_name": "株式会社　ニッセイコム",
+    "office_name_kana": "カブシキガイシヤ ニツセイコム"
   },
   "8328": {
     "postcode": "1038328",
@@ -2647,11 +2673,11 @@
     "prefecture_code": 13,
     "city": "中央区",
     "city_kana": "チュウオウク",
-    "town": "日本橋本町",
-    "town_kana": "ニホンバシホンチョウ",
-    "street": "２丁目７−１",
+    "town": "日本橋大伝馬町",
+    "town_kana": "ニホンバシオオデンマチョウ",
+    "street": "１番４号",
     "office_name": "伊藤忠紙パルプ　株式会社",
-    "office_name_kana": "イトウチユウカミパルプ (カブ)"
+    "office_name_kana": "イトウチユウカミパルプ カブシキガイシヤ"
   },
   "8416": {
     "postcode": "1038416",
@@ -2686,9 +2712,9 @@
     "prefecture_code": 13,
     "city": "中央区",
     "city_kana": "チュウオウク",
-    "town": "日本橋本町",
-    "town_kana": "ニホンバシホンチョウ",
-    "street": "２丁目７−１",
+    "town": "日本橋大伝馬町",
+    "town_kana": "ニホンバシオオデンマチョウ",
+    "street": "１番４号",
     "office_name": "伊藤忠建材　株式会社",
     "office_name_kana": "イトウチユウケンザイ カブシキガイシヤ"
   },

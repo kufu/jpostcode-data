@@ -1897,6 +1897,19 @@
     "office_name": "長野県松本工業高等学校",
     "office_name_kana": "ナガノケンマツモトコウギヨウコウトウガツコウ"
   },
+  "8528": {
+    "postcode": "3908528",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "松本市",
+    "city_kana": "マツモトシ",
+    "town": "双葉",
+    "town_kana": "フタバ",
+    "street": "５番２０号",
+    "office_name": "イオンリテール　株式会社　北陸信越カンパニー　長野事業部　松本事務所",
+    "office_name_kana": "イオンリテ-ル カブシキガイシヤ ホクリクシンエツカンパニ- ナガノジギヨウブ マツモトジムシヨ"
+  },
   "8530": {
     "postcode": "3908530",
     "prefecture": "長野県",

@@ -1988,6 +1988,19 @@
     "office_name": "株式会社　ダイイチ",
     "office_name_kana": "カブシキガイシヤ ダイイチ"
   },
+  "8651": {
+    "postcode": "2318651",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "山手町",
+    "town_kana": "ヤマテチョウ",
+    "street": "３７",
+    "office_name": "フェリス女学院大学",
+    "office_name_kana": "フエリスジヨガクインダイガク"
+  },
   "8652": {
     "postcode": "2318652",
     "prefecture": "神奈川県",
