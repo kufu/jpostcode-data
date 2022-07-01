@@ -2387,7 +2387,7 @@
     "city_kana": "ミナトク",
     "town": "三田",
     "town_kana": "ミタ",
-    "street": "１−４−２８三田国際ビル１６Ｆ",
+    "street": "１−４−２８三田国際ビル１０Ｆ",
     "office_name": "株式会社　アイスター商事",
     "office_name_kana": "カブシキガイシヤ アイスタ-シヨウジ"
   },
@@ -2465,9 +2465,9 @@
     "city_kana": "ミナトク",
     "town": "三田",
     "town_kana": "ミタ",
-    "street": "１丁目４−２８三田国際ビル１６Ｆ",
+    "street": "１−４−２８三田国際ビル１０Ｆ",
     "office_name": "株式会社　一点",
-    "office_name_kana": "カブシキガイシヤ イテン"
+    "office_name_kana": "カブシキガイシヤ イツテン"
   },
   "8315": {
     "postcode": "1088315",
@@ -3170,19 +3170,6 @@
     "street": "１丁目６−３５",
     "office_name": "大同特殊鋼　株式会社　東京本社",
     "office_name_kana": "ダイドウトクシユコウ カブシキガイシヤ トウキヨウホンシヤ"
-  },
-  "8485": {
-    "postcode": "1088485",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "港南",
-    "town_kana": "コウナン",
-    "street": "４丁目６−４９",
-    "office_name": "株式会社　報知新聞社",
-    "office_name_kana": "カブシキガイシヤ ホウチシンブンシヤ"
   },
   "8501": {
     "postcode": "1088501",

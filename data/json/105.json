@@ -7006,19 +7006,6 @@
     "office_name": "気象庁",
     "office_name_kana": "キシヨウチヨウ"
   },
-  "8432": {
-    "postcode": "1058432",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "芝公園",
-    "town_kana": "シバコウエン",
-    "street": "２丁目４−１",
-    "office_name": "昭光通商　株式会社",
-    "office_name_kana": "シヨウコウツウシヨウ カブシキガイシヤ"
-  },
   "8433": [
     {
       "postcode": "1058433",
@@ -8662,6 +8649,19 @@
     "street": "６丁目１８−５",
     "office_name": "株式会社　ゴルフダイジェスト社",
     "office_name_kana": "カブシキガイシヤ ゴルフダイジエストシヤ"
+  },
+  "8672": {
+    "postcode": "1058672",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "海岸",
+    "town_kana": "カイガン",
+    "street": "１−１６−１ニューピア竹芝サウスタワー１７Ｆ",
+    "office_name": "株式会社　阪急交通社",
+    "office_name_kana": "カブシキガイシヤ ハンキユウコウツウシヤ"
   },
   "8676": {
     "postcode": "1058676",

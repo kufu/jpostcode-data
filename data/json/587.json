@@ -337,6 +337,19 @@
     "office_name": "学校法人　天満学園　太成学院大学",
     "office_name_kana": "ガツコウホウジン テンマガクエン タイセイガクインダイガク"
   },
+  "8577": {
+    "postcode": "5878577",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "堺市美原区",
+    "city_kana": "サカイシミハラク",
+    "town": "黒山",
+    "town_kana": "クロヤマ",
+    "street": "２２番１",
+    "office_name": "三井ショッピングパーク　ららぽーと堺",
+    "office_name_kana": "ミツイシヨツピングパ-ク ララポ-トサカイ"
+  },
   "8585": {
     "postcode": "5878585",
     "prefecture": "大阪府",

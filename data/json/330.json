@@ -1262,6 +1262,19 @@
     "office_name": "株式会社　日本政策金融公庫　さいたま支店　国民生活事業",
     "office_name_kana": "カブシキガイシヤ ニツポンセイサクキンユウコウコ サイタマシテン コクミンセイカツジギヨウ"
   },
+  "8548": {
+    "postcode": "3308548",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市大宮区",
+    "city_kana": "サイタマシオオミヤク",
+    "town": "吉敷町",
+    "town_kana": "キシキチョウ",
+    "street": "２丁目５番地",
+    "office_name": "学校法人　国際学院　国際学院埼玉短期大学",
+    "office_name_kana": "ガツコウホウジン コクサイガクイン コクサイガクインサイタマタンキダイガク"
+  },
   "8550": {
     "postcode": "3308550",
     "prefecture": "埼玉県",

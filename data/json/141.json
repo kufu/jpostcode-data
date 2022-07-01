@@ -833,6 +833,19 @@
     "office_name": "株式会社　文理",
     "office_name_kana": "カブシキガイシヤ ブンリ"
   },
+  "8488": {
+    "postcode": "1418488",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "東五反田",
+    "town_kana": "ヒガシゴタンダ",
+    "street": "２−１０−２東五反田スクエア１１Ｆ",
+    "office_name": "株式会社　くもん出版",
+    "office_name_kana": "カブシキガイシヤ クモンシユツパン"
+  },
   "8501": {
     "postcode": "1418501",
     "prefecture": "東京都",

@@ -326,19 +326,34 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0036": {
-    "postcode": "5980036",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "prefecture_code": 27,
-    "city": "泉佐野市",
-    "city_kana": "イズミサノシ",
-    "town": "南中岡本",
-    "town_kana": "ミナミナカオカモト",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0036": [
+    {
+      "postcode": "5980036",
+      "prefecture": "大阪府",
+      "prefecture_kana": "オオサカフ",
+      "prefecture_code": 27,
+      "city": "泉佐野市",
+      "city_kana": "イズミサノシ",
+      "town": "岡本",
+      "town_kana": "オカモト",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "5980036",
+      "prefecture": "大阪府",
+      "prefecture_kana": "オオサカフ",
+      "prefecture_code": 27,
+      "city": "泉佐野市",
+      "city_kana": "イズミサノシ",
+      "town": "南中岡本",
+      "town_kana": "ミナミナカオカモト",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0037": {
     "postcode": "5980037",
     "prefecture": "大阪府",

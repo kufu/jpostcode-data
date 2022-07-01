@@ -3517,6 +3517,19 @@
     "office_name": "トラスコ中山　株式会社　プラネット山陽",
     "office_name_kana": "トラスコナカヤマ カブシキガイシヤ プラネツトサンヨウ"
   },
+  "8681": {
+    "postcode": "7008681",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "prefecture_code": 33,
+    "city": "岡山市北区",
+    "city_kana": "オカヤマシキタク",
+    "town": "伊福町",
+    "town_kana": "イフクチョウ",
+    "street": "４丁目５番３８号岡山西税務署内",
+    "office_name": "広島国税局業務センター岡山西分室",
+    "office_name_kana": "ヒロシマコクゼイキヨクギヨウムセンタ-オカヤマニシブンシツ"
+  },
   "8686": {
     "postcode": "7008686",
     "prefecture": "岡山県",

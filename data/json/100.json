@@ -7177,19 +7177,6 @@
     "office_name": "新日石プラスト　株式会社",
     "office_name_kana": "シンニツセキプラスト カブシキガイシヤ"
   },
-  "8171": {
-    "postcode": "1008171",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "大手町",
-    "town_kana": "オオテマチ",
-    "street": "２丁目６−１朝日生命大手町ビル１６階",
-    "office_name": "社団法人　日本民営鉄道協会",
-    "office_name_kana": "シヤダンホウジン ニホンミンエイテツドウキヨウカイ"
-  },
   "8172": {
     "postcode": "1008172",
     "prefecture": "東京都",
@@ -9483,6 +9470,19 @@
     "street": "２丁目１−１",
     "office_name": "参議院議員会館",
     "office_name_kana": "サンギインギインカイカン"
+  },
+  "8964": {
+    "postcode": "1008964",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "永田町",
+    "town_kana": "ナガタチョウ",
+    "street": "２丁目１３番１０号",
+    "office_name": "プルデンシャル　ジブラルタ　ファイナンシャル　生命保険　株式会社",
+    "office_name_kana": "プルデンシヤル ジブラルタ フアインナンシヤル セイメイホケン カブシキカイシヤ"
   },
   "8965": {
     "postcode": "1008965",

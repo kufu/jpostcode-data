@@ -792,6 +792,19 @@
     "office_name": "学校法人　創成学園　札幌創成高等学校",
     "office_name_kana": "ガツコウホウジン ソウセイガクエン サツポロソウセイコウトウガツコウ"
   },
+  "8511": {
+    "postcode": "0018511",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "札幌市北区",
+    "city_kana": "サッポロシキタク",
+    "town": "北十条西",
+    "town_kana": "キタ10ジョウニシ",
+    "street": "３丁目２３−１ＴＨＥＰＥＡＫＳＡＰＰＯＲＯ３Ｆ",
+    "office_name": "全国健康保険協会北海道支部",
+    "office_name_kana": "ゼンコクケンコウホケンキヨウカイホツカイドウシブ"
+  },
   "8521": {
     "postcode": "0018521",
     "prefecture": "北海道",

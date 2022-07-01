@@ -651,6 +651,19 @@
     "office_name": "（株）　カナック",
     "office_name_kana": "カブシキガイシヤ カナツク"
   },
+  "0493": {
+    "postcode": "7610493",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "prefecture_code": 37,
+    "city": "高松市",
+    "city_kana": "タカマツシ",
+    "town": "小村町",
+    "town_kana": "オモレチョウ",
+    "street": "３３１",
+    "office_name": "吉野川電線　株式会社",
+    "office_name_kana": "ヨシノガワデンセン カブシキガイシヤ"
+  },
   "0611": {
     "postcode": "7610611",
     "prefecture": "香川県",

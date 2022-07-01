@@ -571,6 +571,19 @@
     "office_name": "ユニー　日吉店",
     "office_name_kana": "ユニ- ヒヨシテン"
   },
+  "8570": {
+    "postcode": "2238570",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市港北区",
+    "city_kana": "ヨコハマシコウホクク",
+    "town": "高田西",
+    "town_kana": "タカタニシ",
+    "street": "１−５−９",
+    "office_name": "株式会社　トーエル　別館",
+    "office_name_kana": "カブシキガイシヤ ト-エル ベツカン"
+  },
   "8572": {
     "postcode": "2238572",
     "prefecture": "神奈川県",
