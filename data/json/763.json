@@ -1156,6 +1156,19 @@
     "office_name": "香川県立　丸亀高等学校",
     "office_name_kana": "カガワケンリツ マルガメコウトウガツコウ"
   },
+  "8513": {
+    "postcode": "7638513",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "prefecture_code": 37,
+    "city": "丸亀市",
+    "city_kana": "マルガメシ",
+    "town": "港町",
+    "town_kana": "ミナトマチ",
+    "street": "３０７番地",
+    "office_name": "香川県立高等技術学校丸亀校",
+    "office_name_kana": "カガワケンリツコウトウギジユツガツコウマルガメコウ"
+  },
   "8516": {
     "postcode": "7638516",
     "prefecture": "香川県",

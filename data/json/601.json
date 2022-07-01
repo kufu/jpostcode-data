@@ -4150,58 +4150,118 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "8131": {
-    "postcode": "6018131",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "京都市南区",
-    "city_kana": "キョウトシミナミク",
-    "town": "上鳥羽鴨田",
-    "town_kana": "カミトバカモンデン",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "8132": {
-    "postcode": "6018132",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "京都市南区",
-    "city_kana": "キョウトシミナミク",
-    "town": "上鳥羽町田",
-    "town_kana": "カミトバチョウダ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "8133": {
-    "postcode": "6018133",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "京都市南区",
-    "city_kana": "キョウトシミナミク",
-    "town": "上鳥羽藁田",
-    "town_kana": "カミトバワランデン",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "8134": {
-    "postcode": "6018134",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "京都市南区",
-    "city_kana": "キョウトシミナミク",
-    "town": "上鳥羽大溝",
-    "town_kana": "カミトバオオミゾ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "8131": [
+    {
+      "postcode": "6018131",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽鴨田",
+      "town_kana": "カミトバカモンデン",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6018131",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽鴨田町",
+      "town_kana": "カミトバカモンデンチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
+  "8132": [
+    {
+      "postcode": "6018132",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽町田",
+      "town_kana": "カミトバチョウダ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6018132",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽町田町",
+      "town_kana": "カミトバチョウダマチ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
+  "8133": [
+    {
+      "postcode": "6018133",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽藁田",
+      "town_kana": "カミトバワランデン",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6018133",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽藁田町",
+      "town_kana": "カミトバワランデンチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
+  "8134": [
+    {
+      "postcode": "6018134",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽大溝",
+      "town_kana": "カミトバオオミゾ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6018134",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽大溝町",
+      "town_kana": "カミトバオオミゾチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "8135": {
     "postcode": "6018135",
     "prefecture": "京都府",
@@ -4241,45 +4301,116 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "8141": {
-    "postcode": "6018141",
+  "8138": {
+    "postcode": "6018138",
     "prefecture": "京都府",
     "prefecture_kana": "キョウトフ",
     "prefecture_code": 26,
     "city": "京都市南区",
     "city_kana": "キョウトシミナミク",
-    "town": "上鳥羽卯ノ花",
-    "town_kana": "カミトバウノハナ",
+    "town": "上鳥羽北岩ノ本町",
+    "town_kana": "カミトバキタイワノモトチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
   },
-  "8142": {
-    "postcode": "6018142",
+  "8139": {
+    "postcode": "6018139",
     "prefecture": "京都府",
     "prefecture_kana": "キョウトフ",
     "prefecture_code": 26,
     "city": "京都市南区",
     "city_kana": "キョウトシミナミク",
-    "town": "上鳥羽中河原",
-    "town_kana": "カミトバナカガワラ",
+    "town": "上鳥羽南岩ノ本町",
+    "town_kana": "カミトバミナミイワノモトチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
   },
-  "8143": {
-    "postcode": "6018143",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "京都市南区",
-    "city_kana": "キョウトシミナミク",
-    "town": "上鳥羽麻ノ本",
-    "town_kana": "カミトバアサノモト",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "8141": [
+    {
+      "postcode": "6018141",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽卯ノ花",
+      "town_kana": "カミトバウノハナ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6018141",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽卯ノ花町",
+      "town_kana": "カミトバウノハナチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
+  "8142": [
+    {
+      "postcode": "6018142",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽中河原",
+      "town_kana": "カミトバナカガワラ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6018142",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽中河原町",
+      "town_kana": "カミトバナカガワラチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
+  "8143": [
+    {
+      "postcode": "6018143",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽麻ノ本",
+      "town_kana": "カミトバアサノモト",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6018143",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽麻ノ本町",
+      "town_kana": "カミトバアサノモトチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "8144": {
     "postcode": "6018144",
     "prefecture": "京都府",
@@ -4527,19 +4658,34 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "8175": {
-    "postcode": "6018175",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "京都市南区",
-    "city_kana": "キョウトシミナミク",
-    "town": "上鳥羽金仏",
-    "town_kana": "カミトバカナボトケ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "8175": [
+    {
+      "postcode": "6018175",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽金仏",
+      "town_kana": "カミトバカナボトケ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6018175",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽金仏町",
+      "town_kana": "カミトバカナボトケチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "8176": {
     "postcode": "6018176",
     "prefecture": "京都府",
@@ -4553,32 +4699,62 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "8177": {
-    "postcode": "6018177",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "京都市南区",
-    "city_kana": "キョウトシミナミク",
-    "town": "上鳥羽馬廻",
-    "town_kana": "カミトバウママワシ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "8178": {
-    "postcode": "6018178",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "京都市南区",
-    "city_kana": "キョウトシミナミク",
-    "town": "上鳥羽戒光",
-    "town_kana": "カミトバカイコウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "8177": [
+    {
+      "postcode": "6018177",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽馬廻",
+      "town_kana": "カミトバウママワシ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6018177",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽馬廻町",
+      "town_kana": "カミトバウママワシチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
+  "8178": [
+    {
+      "postcode": "6018178",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽戒光",
+      "town_kana": "カミトバカイコウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6018178",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "上鳥羽南戒光町",
+      "town_kana": "カミトバミナミカイコウチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "8181": {
     "postcode": "6018181",
     "prefecture": "京都府",
@@ -5515,19 +5691,34 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "8361": {
-    "postcode": "6018361",
-    "prefecture": "京都府",
-    "prefecture_kana": "キョウトフ",
-    "prefecture_code": 26,
-    "city": "京都市南区",
-    "city_kana": "キョウトシミナミク",
-    "town": "吉祥院石原東之口",
-    "town_kana": "キッショウインイシハラヒガシノクチ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "8361": [
+    {
+      "postcode": "6018361",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "吉祥院石原東之口",
+      "town_kana": "キッショウインイシハラヒガシノクチ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "6018361",
+      "prefecture": "京都府",
+      "prefecture_kana": "キョウトフ",
+      "prefecture_code": 26,
+      "city": "京都市南区",
+      "city_kana": "キョウトシミナミク",
+      "town": "吉祥院石原東之口町",
+      "town_kana": "キッショウインイシハラヒガシノクチチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "8362": {
     "postcode": "6018362",
     "prefecture": "京都府",

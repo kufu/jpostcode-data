@@ -1228,11 +1228,11 @@
     "prefecture_code": 34,
     "city": "広島市中区",
     "city_kana": "ヒロシマシナカク",
-    "town": "八丁堀",
-    "town_kana": "ハッチョウボリ",
-    "street": "１５−１０",
-    "office_name": "丸紅　株式会社　エネルギー部門　広島事務所",
-    "office_name_kana": "マルベニ カブシキガイシヤ エネルギ-ブモン ヒロシマジムシヨ"
+    "town": "袋町",
+    "town_kana": "フクロマチ",
+    "street": "５番２５号広島袋町ビルディング１１階",
+    "office_name": "丸紅　株式会社　中国支社",
+    "office_name_kana": "マルベニ カブシキガイシヤ チユウゴクシシヤ"
   },
   "8523": {
     "postcode": "7308523",

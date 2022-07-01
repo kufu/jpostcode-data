@@ -1481,6 +1481,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0408": {
+    "postcode": "3060408",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "猿島郡境町",
+    "city_kana": "サシマグンサカイマチ",
+    "town": "みらい平",
+    "town_kana": "ミライダイラ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0411": {
     "postcode": "3060411",
     "prefecture": "茨城県",
