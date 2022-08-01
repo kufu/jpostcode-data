@@ -922,6 +922,19 @@
     "office_name": "福岡大学西新病院",
     "office_name_kana": "フクオカダイガクニシジンビヨウイン"
   },
+  "8524": {
+    "postcode": "8148524",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "福岡市早良区",
+    "city_kana": "フクオカシサワラク",
+    "town": "祖原",
+    "town_kana": "ソハラ",
+    "street": "１４−１５",
+    "office_name": "福岡法務局　西新出張所",
+    "office_name_kana": "フクオカホウムキヨク ニシジンシユツチヨウシヨ"
+  },
   "8525": {
     "postcode": "8148525",
     "prefecture": "福岡県",

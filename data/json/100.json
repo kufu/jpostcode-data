@@ -7008,6 +7008,19 @@
     "office_name": "株式会社　三菱総合研究所",
     "office_name_kana": "カブシキガイシヤ ミツビシソウゴウケンキユウジヨ"
   },
+  "8142": {
+    "postcode": "1008142",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "大手町",
+    "town_kana": "オオテマチ",
+    "street": "二丁目６番４号常盤橋タワー",
+    "office_name": "長瀬産業　株式会社　東京本社",
+    "office_name_kana": "ナガセサンギヨウ カブシキガイシヤ トウキヨウホンシヤ"
+  },
   "8144": {
     "postcode": "1008144",
     "prefecture": "東京都",

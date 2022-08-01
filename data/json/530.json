@@ -2835,6 +2835,19 @@
     "office_name": "参天製薬　株式会社",
     "office_name_kana": "サンテンセイヤク カブシキガイシヤ"
   },
+  "8553": {
+    "postcode": "5308553",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市北区",
+    "city_kana": "オオサカシキタク",
+    "town": "梅田",
+    "town_kana": "ウメダ",
+    "street": "１丁目１３番１号",
+    "office_name": "交洋貿易　株式会社",
+    "office_name_kana": "コウヨウボウエキ カブシキガイシヤ"
+  },
   "8555": {
     "postcode": "5308555",
     "prefecture": "大阪府",
@@ -3211,6 +3224,19 @@
     "street": "２丁目７−１７（大阪北郵便局私書箱第１０５３号）",
     "office_name": "株式会社　ぎょうせい　関西支社",
     "office_name_kana": "カブシキガイシヤ ギヨウセイ カンサイシシヤ"
+  },
+  "8689": {
+    "postcode": "5308689",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市北区",
+    "city_kana": "オオサカシキタク",
+    "town": "梅田",
+    "town_kana": "ウメダ",
+    "street": "３−３−１０梅田ダイビル１８階（大阪北郵便局私書箱第４号）",
+    "office_name": "双日シェアードサービス　株式会社",
+    "office_name_kana": "ソウジツシエア-ドサ-ビス カブシキガイシヤ"
   },
   "8791": {
     "postcode": "5308791",

@@ -1318,19 +1318,6 @@
       "street": null,
       "office_name": null,
       "office_name_kana": null
-    },
-    {
-      "postcode": "3800906",
-      "prefecture": "長野県",
-      "prefecture_kana": "ナガノケン",
-      "prefecture_code": 20,
-      "city": "長野市",
-      "city_kana": "ナガノシ",
-      "town": "七瀬",
-      "town_kana": "ナナセ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
     }
   ],
   "0907": {
@@ -1459,6 +1446,19 @@
     "city_kana": "ナガノシ",
     "town": "栗田",
     "town_kana": "クリタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0922": {
+    "postcode": "3800922",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "長野市",
+    "city_kana": "ナガノシ",
+    "town": "七瀬",
+    "town_kana": "ナナセ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

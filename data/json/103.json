@@ -1648,9 +1648,9 @@
     "city_kana": "チュウオウク",
     "town": "日本橋",
     "town_kana": "ニホンバシ",
-    "street": "２丁目７番１号東京日本橋タワー２４階",
-    "office_name": "ＮＳＴ日本鉄板　株式会社",
-    "office_name_kana": "エヌエステイニホンテツパン カブシキガイシヤ"
+    "street": "二丁目７番１号",
+    "office_name": "ＮＳ建材薄板　株式会社",
+    "office_name_kana": "エヌエスケンザイウスイタ カブシキガイシヤ"
   },
   "8238": {
     "postcode": "1038238",
@@ -2029,19 +2029,6 @@
     "office_name": "株式会社　新生銀行",
     "office_name_kana": "カブシキガイシヤ シンセイギンコウ"
   },
-  "8306": {
-    "postcode": "1038306",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "日本橋",
-    "town_kana": "ニホンバシ",
-    "street": "３丁目６−２日本橋フロント３階",
-    "office_name": "東京製綱　株式会社",
-    "office_name_kana": "トウキヨウセイコウ (カブ)"
-  },
   "8307": {
     "postcode": "1038307",
     "prefecture": "東京都",
@@ -2106,6 +2093,19 @@
     "street": "１１−７",
     "office_name": "小堺化学工業　株式会社",
     "office_name_kana": "コサカイカガクコウギヨウ (カブ)"
+  },
+  "8314": {
+    "postcode": "1038314",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中央区",
+    "city_kana": "チュウオウク",
+    "town": "日本橋室町",
+    "town_kana": "ニホンバシムロマチ",
+    "street": "２−１−１日本橋三井タワー",
+    "office_name": "株式会社　クマヒラ",
+    "office_name_kana": "カブシキガイシヤ クマヒラ"
   },
   "8317": {
     "postcode": "1038317",
@@ -2855,9 +2855,9 @@
     "prefecture_code": 13,
     "city": "中央区",
     "city_kana": "チュウオウク",
-    "town": "日本橋小網町",
-    "town_kana": "ニホンバシコアミチョウ",
-    "street": "１９−８ＩＷ日本橋ビル",
+    "town": "日本橋本町",
+    "town_kana": "ニホンバシホンチョウ",
+    "street": "４丁目８番２号",
     "office_name": "岩城製薬　株式会社",
     "office_name_kana": "イワキセイヤク カブシキガイシヤ"
   },
