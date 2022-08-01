@@ -1471,11 +1471,11 @@
     "prefecture_code": 17,
     "city": "加賀市",
     "city_kana": "カガシ",
-    "town": "山中温泉湯の出町",
-    "town_kana": "ヤマナカオンセンユノデマチ",
-    "street": "タ３３",
-    "office_name": "加賀市役所　山中温泉支所",
-    "office_name_kana": "カガシヤクシヨ ヤマナカオンセンシシヨ"
+    "town": "山中温泉本町",
+    "town_kana": "ヤマナカオンセンホンマチ",
+    "street": "二丁目ソ２２番地",
+    "office_name": "加賀市　山中温泉支所",
+    "office_name_kana": "カガシ ヤマナカオンセンシシヨ"
   },
   "0193": {
     "postcode": "9220193",

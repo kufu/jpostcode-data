@@ -2731,6 +2731,19 @@
     "office_name": "日本電気　株式会社　関西支社",
     "office_name_kana": "ニホンデンキ カブシキガイシヤ カンサイシシヤ"
   },
+  "8552": {
+    "postcode": "5408552",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市中央区",
+    "city_kana": "オオサカシチュウオウク",
+    "town": "南新町",
+    "town_kana": "ミナミシンマチ",
+    "street": "２−２−１６",
+    "office_name": "吉岡　株式会社　大阪支店",
+    "office_name_kana": "ヨシオカ カブシキガイシヤ オオサカシテン"
+  },
   "8553": {
     "postcode": "5408553",
     "prefecture": "大阪府",

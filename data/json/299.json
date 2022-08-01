@@ -4306,6 +4306,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3238": {
+    "postcode": "2993238",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "大網白里市",
+    "city_kana": "オオアミシラサトシ",
+    "town": "東駒込",
+    "town_kana": "ヒガシコマゴメ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3241": {
     "postcode": "2993241",
     "prefecture": "千葉県",

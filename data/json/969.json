@@ -7225,6 +7225,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3520": {
+    "postcode": "9693520",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "喜多方市",
+    "city_kana": "キタカタシ",
+    "town": "塩川町古戸城",
+    "town_kana": "シオカワマチフルトジョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3521": [
     {
       "postcode": "9693521",
@@ -7411,6 +7424,19 @@
     "city_kana": "キタカタシ",
     "town": "塩川町諏訪北",
     "town_kana": "シオカワマチスワキタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "3529": {
+    "postcode": "9693529",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "喜多方市",
+    "city_kana": "キタカタシ",
+    "town": "塩川町下前田",
+    "town_kana": "シオカワマチシモマエダ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

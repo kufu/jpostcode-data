@@ -3584,6 +3584,19 @@
     "office_name": "株式会社　北海道ホテル",
     "office_name_kana": "カブシキガイシヤ ホツカイドウホテル"
   },
+  "8515": {
+    "postcode": "0808515",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "帯広市",
+    "city_kana": "オビヒロシ",
+    "town": "西五条南",
+    "town_kana": "ニシ5ジョウミナミ",
+    "street": "８丁目（帯広第２地方合同庁舎）",
+    "office_name": "札幌国税局業務センター帯広分室",
+    "office_name_kana": "サツポロコクゼイキヨクギヨウムセンタ-オビヒロブンシツ"
+  },
   "8518": {
     "postcode": "0808518",
     "prefecture": "北海道",

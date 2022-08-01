@@ -7473,6 +7473,19 @@
     "office_name": "福島テレビ",
     "office_name_kana": "フクシマテレビ"
   },
+  "8509": {
+    "postcode": "9608509",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "福島市",
+    "city_kana": "フクシマシ",
+    "town": "森合町",
+    "town_kana": "モリアイチョウ",
+    "street": "１６番６号福島税務署内",
+    "office_name": "仙台国税局業務センター福島分室",
+    "office_name_kana": "センダイコクゼイキヨクギヨウムセンタ-フクシマブンシツ"
+  },
   "8511": {
     "postcode": "9608511",
     "prefecture": "福島県",

@@ -1052,6 +1052,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0807": {
+    "postcode": "6210807",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "亀岡市",
+    "city_kana": "カメオカシ",
+    "town": "亀岡駅北",
+    "town_kana": "カメオカエキキタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0811": {
     "postcode": "6210811",
     "prefecture": "京都府",
