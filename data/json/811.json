@@ -2653,6 +2653,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2321": {
+    "postcode": "8112321",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糟屋郡粕屋町",
+    "city_kana": "カスヤグンカスヤマチ",
+    "town": "内橋西",
+    "town_kana": "ウチハシニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2392": {
     "postcode": "8112392",
     "prefecture": "福岡県",
@@ -2665,6 +2678,19 @@
     "street": "１丁目１番１号",
     "office_name": "粕屋町役場",
     "office_name_kana": "カスヤマチヤクバ"
+  },
+  "2393": {
+    "postcode": "8112393",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糟屋郡粕屋町",
+    "city_kana": "カスヤグンカスヤマチ",
+    "town": "大字上大隈",
+    "town_kana": null,
+    "street": "字部木原７５８ＧＬＰ福岡粕屋",
+    "office_name": "ＪＰ楽天ロジスティクス　株式会社　楽天フルフィルメントセンター福岡",
+    "office_name_kana": "ジエイピ-ラクテンロジステイクス カブシキガイシヤ ラクテンフルフイルメントセンタ-フクオカ"
   },
   "2395": {
     "postcode": "8112395",

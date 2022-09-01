@@ -1334,7 +1334,7 @@
     "city_kana": "チヨダク",
     "town": "九段北",
     "town_kana": "クダンキタ",
-    "street": "４丁目１番３４号九段明善堂ビル",
+    "street": "４−１−３４九段明善堂ビル",
     "office_name": "株式会社　コーエーテクモゲームス",
     "office_name_kana": "カブシキガイシヤ コ-エ-テクモゲ-ムス"
   },
@@ -1935,6 +1935,19 @@
     "street": "６−１１",
     "office_name": "株式会社　伊勢半",
     "office_name_kana": "カブシキカイシヤ イセハン"
+  },
+  "8371": {
+    "postcode": "1028371",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "麹町",
+    "town_kana": "コウジマチ",
+    "street": "５丁目７−２ＭＦＰＲ麹町ビル",
+    "office_name": "株式会社　三省堂",
+    "office_name_kana": "カブシキガイシヤ サンセイドウ"
   },
   "8372": {
     "postcode": "1028372",

@@ -77,34 +77,19 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0008": [
-    {
-      "postcode": "8130008",
-      "prefecture": "福岡県",
-      "prefecture_kana": "フクオカケン",
-      "prefecture_code": 40,
-      "city": "糟屋郡粕屋町",
-      "city_kana": "カスヤグンカスヤマチ",
-      "town": "内橋７９０の１",
-      "town_kana": "ウチハシ790-1",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8130008",
-      "prefecture": "福岡県",
-      "prefecture_kana": "フクオカケン",
-      "prefecture_code": 40,
-      "city": "糟屋郡粕屋町",
-      "city_kana": "カスヤグンカスヤマチ",
-      "town": "内橋７９０の１多ノ津団地",
-      "town_kana": "ウチハシ790-1タノツダンチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
+  "0008": {
+    "postcode": "8130008",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糟屋郡粕屋町",
+    "city_kana": "カスヤグンカスヤマチ",
+    "town": "内橋西",
+    "town_kana": "ウチハシニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0011": {
     "postcode": "8130011",
     "prefecture": "福岡県",
@@ -567,9 +552,9 @@
     "prefecture_code": 40,
     "city": "福岡市東区",
     "city_kana": "フクオカシヒガシク",
-    "town": "香椎浜",
-    "town_kana": "カシイハマ",
-    "street": "３丁目２１−１",
+    "town": "香椎浜ふ頭",
+    "town_kana": "カシイハマフトウ",
+    "street": "１丁目２−１７",
     "office_name": "アビスパ福岡　株式会社",
     "office_name_kana": "アビスパフクオカ カブシキガイシヤ"
   },

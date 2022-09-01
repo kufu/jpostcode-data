@@ -3095,6 +3095,19 @@
     "office_name": "ＧＬＰ　ＡＬＦＡＬＩＮＫ相模原３",
     "office_name_kana": "ジ-エルピ- アルフアリンクサガミハラスリ-"
   },
+  "5220": {
+    "postcode": "2525220",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "相模原市中央区",
+    "city_kana": "サガミハラシチュウオウク",
+    "town": "田名",
+    "town_kana": "タナ",
+    "street": "字白雨台３５３２−１０",
+    "office_name": "アマゾン相模原ＦＣ",
+    "office_name_kana": "アマゾンサガミハラエフシ-"
+  },
   "5221": {
     "postcode": "2525221",
     "prefecture": "神奈川県",

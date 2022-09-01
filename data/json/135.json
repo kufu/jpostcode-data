@@ -1114,34 +1114,8 @@
     "town": "豊洲",
     "town_kana": "トヨス",
     "street": "５丁目６番３６号−１２階",
-    "office_name": "株式会社　ミライト・ホールディングス",
-    "office_name_kana": "カブシキガイシヤ ミライト・ホ-ルデイングス"
-  },
-  "8112": {
-    "postcode": "1358112",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "江東区",
-    "city_kana": "コウトウク",
-    "town": "豊洲",
-    "town_kana": "トヨス",
-    "street": "５丁目６番３６号−７階",
-    "office_name": "株式会社　ミライト",
-    "office_name_kana": "カブシキガイシヤ ミライト"
-  },
-  "8113": {
-    "postcode": "1358113",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "江東区",
-    "city_kana": "コウトウク",
-    "town": "豊洲",
-    "town_kana": "トヨス",
-    "street": "５丁目６番３６号−９階",
-    "office_name": "株式会社　ミライト・テクノロジーズ",
-    "office_name_kana": "カブシキガイシヤ ミライト・テクノロジ-ズ"
+    "office_name": "株式会社　ミライト・ワン",
+    "office_name_kana": "カブシキガイシヤ ミライト・ワン"
   },
   "8114": {
     "postcode": "1358114",
