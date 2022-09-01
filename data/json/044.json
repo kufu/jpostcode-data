@@ -688,6 +688,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0080": {
+    "postcode": "0440080",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "虻田郡倶知安町",
+    "city_kana": "アブタグンクッチャンチョウ",
+    "town": "ニセコひらふ一条",
+    "town_kana": "ニセコヒラフ1ジョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0081": {
     "postcode": "0440081",
     "prefecture": "北海道",
@@ -749,6 +762,58 @@
     "city_kana": "アブタグンクッチャンチョウ",
     "town": "峠下",
     "town_kana": "トウゲシタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0086": {
+    "postcode": "0440086",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "虻田郡倶知安町",
+    "city_kana": "アブタグンクッチャンチョウ",
+    "town": "ニセコひらふ五条",
+    "town_kana": "ニセコヒラフ5ジョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0087": {
+    "postcode": "0440087",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "虻田郡倶知安町",
+    "city_kana": "アブタグンクッチャンチョウ",
+    "town": "ニセコひらふ四条",
+    "town_kana": "ニセコヒラフ4ジョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0088": {
+    "postcode": "0440088",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "虻田郡倶知安町",
+    "city_kana": "アブタグンクッチャンチョウ",
+    "town": "ニセコひらふ三条",
+    "town_kana": "ニセコヒラフ3ジョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0089": {
+    "postcode": "0440089",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "虻田郡倶知安町",
+    "city_kana": "アブタグンクッチャンチョウ",
+    "town": "ニセコひらふ二条",
+    "town_kana": "ニセコヒラフ2ジョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

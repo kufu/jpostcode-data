@@ -1688,5 +1688,18 @@
     "street": "１丁目１９−８",
     "office_name": "日本年金機構　掛川年金事務所",
     "office_name_kana": "ニツポンネンキンキコウ カケガワネンキンジムシヨ"
+  },
+  "8701": {
+    "postcode": "4368701",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "袋井市",
+    "city_kana": "フクロイシ",
+    "town": "豊沢",
+    "town_kana": "トヨサワ",
+    "street": "２２２８−１（掛川郵便局私書箱第１号）",
+    "office_name": "トッパン・フォームズ東海　株式会社",
+    "office_name_kana": "トツパン・フオ-ムズトウカイ カブシキガイシヤ"
   }
 }
