@@ -513,9 +513,9 @@
     "prefecture_code": 14,
     "city": "横浜市戸塚区",
     "city_kana": "ヨコハマシトツカク",
-    "town": "前田町",
-    "town_kana": "マエダチョウ",
-    "street": "１００番地",
+    "town": "品濃町",
+    "town_kana": "シナノチョウ",
+    "street": "５０４−２",
     "office_name": "コイト電工　株式会社",
     "office_name_kana": "コイトデンコウ カブシキガイシヤ"
   },
@@ -583,5 +583,18 @@
     "street": "４１００（戸塚郵便局私書箱第３０号）",
     "office_name": "大和証券　株式会社　戸塚支店",
     "office_name_kana": "ダイワシヨウケン カブシキガイシヤ トツカシテン"
+  },
+  "8602": {
+    "postcode": "2448602",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市戸塚区",
+    "city_kana": "ヨコハマシトツカク",
+    "town": "戸塚町",
+    "town_kana": "トツカチョウ",
+    "street": "２１６",
+    "office_name": "中外製薬　株式会社　中外ライフサイエンスパーク横浜",
+    "office_name_kana": "チユウガイセイヤク カブシキガイシヤ チユウガイライフサイエンスパ-クヨコハマ"
   }
 }

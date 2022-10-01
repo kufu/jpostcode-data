@@ -688,6 +688,19 @@
     "office_name": "財団法人　電気安全環境研究所",
     "office_name_kana": "ザイダンホウジン デンキアンゼンカンキヨウケンキユウジヨ"
   },
+  "8546": {
+    "postcode": "1518546",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "渋谷区",
+    "city_kana": "シブヤク",
+    "town": "千駄ヶ谷",
+    "town_kana": "センダガヤ",
+    "street": "４−３−１５号東京都渋谷合同庁舎４〜７階",
+    "office_name": "東京都渋谷都税事務所",
+    "office_name_kana": "トウキヨウトシブヤトゼイジムシヨ"
+  },
   "8547": {
     "postcode": "1518547",
     "prefecture": "東京都",

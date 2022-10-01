@@ -2218,9 +2218,9 @@
     "prefecture_code": 15,
     "city": "新潟市中央区",
     "city_kana": "ニイガタシチュウオウク",
-    "town": "川岸町",
-    "town_kana": "カワギシチョウ",
-    "street": "１丁目４７番地１",
+    "town": "古町通７番町",
+    "town_kana": null,
+    "street": "１０１０番地",
     "office_name": "新潟県信用保証協会",
     "office_name_kana": "ニイガタケンシンヨウホシヨウキヨウカイ"
   },

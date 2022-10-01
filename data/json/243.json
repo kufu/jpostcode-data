@@ -818,6 +818,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0218": {
+    "postcode": "2430218",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "厚木市",
+    "city_kana": "アツギシ",
+    "town": "飯山南",
+    "town_kana": "イイヤマミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0281": {
     "postcode": "2430281",
     "prefecture": "神奈川県",
