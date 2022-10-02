@@ -3805,6 +3805,19 @@
     "office_name": "関西電力　株式会社　明石営業所",
     "office_name_kana": "カンサイデンリヨク カブシキガイシヤ アカシエイギヨウシヨ"
   },
+  "8522": {
+    "postcode": "6738522",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "明石市",
+    "city_kana": "アカシシ",
+    "town": "本町",
+    "town_kana": "ホンマチ",
+    "street": "１丁目２−２９明石追手ビル７０２号",
+    "office_name": "株式会社　播磨リビング新聞社　明石支社",
+    "office_name_kana": "カブシキガイシヤ ハリマリビングシンブンシヤ アカシシシヤ"
+  },
   "8585": {
     "postcode": "6738585",
     "prefecture": "兵庫県",

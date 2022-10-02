@@ -4631,6 +4631,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2149": {
+    "postcode": "9102149",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "prefecture_code": 18,
+    "city": "福井市",
+    "city_kana": "フクイシ",
+    "town": "東郷美里町",
+    "town_kana": "トウゴウミサトチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2151": {
     "postcode": "9102151",
     "prefecture": "福井県",

@@ -3329,6 +3329,19 @@
     "office_name": "日本年金機構　今市年金事務所",
     "office_name_kana": "ニツポンネンキンキコウ イマイチネンキンジムシヨ"
   },
+  "1298": {
+    "postcode": "3211298",
+    "prefecture": "栃木県",
+    "prefecture_kana": "トチギケン",
+    "prefecture_code": 9,
+    "city": "日光市",
+    "city_kana": "ニッコウシ",
+    "town": "森友",
+    "town_kana": "モリトモ",
+    "street": "１４５番地１",
+    "office_name": "獨協医科大学　日光医療センター",
+    "office_name_kana": "ドツキヨウイカダイガク ニツコウイリヨウセンタ-"
+  },
   "1351": {
     "postcode": "3211351",
     "prefecture": "栃木県",
