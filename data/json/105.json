@@ -6772,19 +6772,6 @@
     "office_name": "アメリカンホーム医療・損害保険　株式会社（アメリカンホーム保険会社）",
     "office_name_kana": "アメリカンホ-ムイリヨウ・ソンガイホケン カブシキガイシヤ(アメリカンホ-ムホケンガイシヤ)"
   },
-  "8405": {
-    "postcode": "1058405",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "虎ノ門",
-    "town_kana": "トラノモン",
-    "street": "２−２−５",
-    "office_name": "株式会社　角川・エス・エス・コミュニケーションズ",
-    "office_name_kana": "カブシキガイシヤ カドカワ・エス・エス・コミユニケ-シヨンズ"
-  },
   "8407": {
     "postcode": "1058407",
     "prefecture": "東京都",
@@ -7425,19 +7412,6 @@
     "street": "１丁目１−１１",
     "office_name": "財団法人　家電製品協会",
     "office_name_kana": "ザイダンホウジン カデンセイヒンキヨウカイ"
-  },
-  "8473": {
-    "postcode": "1058473",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "虎ノ門",
-    "town_kana": "トラノモン",
-    "street": "２−２−５",
-    "office_name": "株式会社　角川マガジンズ",
-    "office_name_kana": "カブシキガイシヤ カドカワマガジンズ"
   },
   "8475": {
     "postcode": "1058475",

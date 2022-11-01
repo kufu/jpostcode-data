@@ -2343,9 +2343,9 @@
     "city_kana": "オカヤマシミナミク",
     "town": "豊成",
     "town_kana": "トヨナリ",
-    "street": "２丁目７−１６",
-    "office_name": "株式会社　両備システムズ",
-    "office_name_kana": "カブシキガイシヤ リヨウビシステムズ"
+    "street": "二丁目７番１６号",
+    "office_name": "株式会社　両備システムズ　豊成事業所",
+    "office_name_kana": "カブシキガイシヤ リヨウビシステムズ トヨナリジギヨウシヨ"
   },
   "8505": {
     "postcode": "7008505",
@@ -2385,6 +2385,19 @@
     "street": "２丁目６−５１",
     "office_name": "中国電力　株式会社　岡山営業所",
     "office_name_kana": "チユウゴクデンリヨク カブシキガイシヤ オカヤマエイギヨウシヨ"
+  },
+  "8508": {
+    "postcode": "7008508",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "prefecture_code": 33,
+    "city": "岡山市北区",
+    "city_kana": "オカヤマシキタク",
+    "town": "下石井",
+    "town_kana": "シモイシイ",
+    "street": "二丁目１０番１２号杜の街グレースオフィススクエア",
+    "office_name": "株式会社　両備システムズ",
+    "office_name_kana": "カブシキガイシヤ リヨウビシステムズ"
   },
   "8510": {
     "postcode": "7008510",

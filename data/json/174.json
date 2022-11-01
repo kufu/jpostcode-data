@@ -324,6 +324,19 @@
     "office_name": "トックベアリング　（株）",
     "office_name_kana": "トツクベアリング カブシキガイシヤ"
   },
+  "8503": {
+    "postcode": "1748503",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "板橋区",
+    "city_kana": "イタバシク",
+    "town": "小豆沢",
+    "town_kana": "アズサワ",
+    "street": "３丁目４番３号",
+    "office_name": "株式会社　ＴＪＭデザイン",
+    "office_name_kana": "カブシキガイシヤ テイ-ジエイエムデザイン"
+  },
   "8505": {
     "postcode": "1748505",
     "prefecture": "東京都",

@@ -233,6 +233,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0018": {
+    "postcode": "4630018",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市守山区",
+    "city_kana": "ナゴヤシモリヤマク",
+    "town": "桜坂",
+    "town_kana": "サクラザカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0019": {
+    "postcode": "4630019",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市守山区",
+    "city_kana": "ナゴヤシモリヤマク",
+    "town": "東禅寺",
+    "town_kana": "トウゼンジ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "4630021",
     "prefecture": "愛知県",
