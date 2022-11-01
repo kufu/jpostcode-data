@@ -311,19 +311,6 @@
     "office_name": "ＳＡＰジャパン　株式会社",
     "office_name_kana": "エスエ-ピ-ジヤパン カブシキガイシヤ"
   },
-  "8024": {
-    "postcode": "1028024",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "富士見",
-    "town_kana": "フジミ",
-    "street": "１丁目８番１９号",
-    "office_name": "株式会社　ＫＡＤＯＫＡＷＡ　営業企画局",
-    "office_name_kana": "カブシキカイシヤ カドカワ エイギヨウキカクキヨク"
-  },
   "8025": {
     "postcode": "1028025",
     "prefecture": "東京都",
@@ -399,19 +386,6 @@
     "town": "五番町",
     "town_kana": "ゴバンチョウ",
     "street": "３−１五番町グランドビル",
-    "office_name": "株式会社　ＫＡＤＯＫＡＷＡ",
-    "office_name_kana": "カブシキカイシヤ カドカワ"
-  },
-  "8078": {
-    "postcode": "1028078",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "富士見",
-    "town_kana": "フジミ",
-    "street": "１丁目８番１９号",
     "office_name": "株式会社　ＫＡＤＯＫＡＷＡ",
     "office_name_kana": "カブシキカイシヤ カドカワ"
   },
@@ -1623,19 +1597,6 @@
     "street": "４丁目６−１九段シルバーパレス７０６号",
     "office_name": "株式会社　カー・アンド・ドライバー",
     "office_name_kana": "カブシキガイシヤ カ-・アンド・ドライバ-"
-  },
-  "8302": {
-    "postcode": "1028302",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "富士見",
-    "town_kana": "フジミ",
-    "street": "１丁目８番１９号",
-    "office_name": "株式会社　ＫＡＤＯＫＡＷＡ　映像事業局",
-    "office_name_kana": "カブシキカイシヤ カドカワ エイゾウジギヨウキヨク"
   },
   "8303": {
     "postcode": "1028303",
@@ -3157,19 +3118,6 @@
     "street": "６−１２紀尾井町福田家ビル",
     "office_name": "株式会社　インフィニトラベルインフォメーション",
     "office_name_kana": "カブシキカイシヤ インフイニトラベルインフオメ-シヨン"
-  },
-  "8584": {
-    "postcode": "1028584",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "富士見",
-    "town_kana": "フジミ",
-    "street": "１丁目８番１９号",
-    "office_name": "株式会社　ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス事業局",
-    "office_name_kana": "カブシキカイシヤ カドカワ アスキ-・メデイアワ-クスジギヨウキヨク"
   },
   "8585": {
     "postcode": "1028585",

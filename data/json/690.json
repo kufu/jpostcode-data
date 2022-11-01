@@ -604,7 +604,7 @@
     "prefecture_code": 32,
     "city": "松江市",
     "city_kana": "マツエシ",
-    "town": "白潟本町",
+    "town": "白瀉本町",
     "town_kana": "シラカタホンマチ",
     "street": null,
     "office_name": null,
@@ -3755,7 +3755,7 @@
     "city": "松江市",
     "city_kana": "マツエシ",
     "town": "白潟本町",
-    "town_kana": "シラカタホンマチ",
+    "town_kana": null,
     "street": "６３番地",
     "office_name": "ごうぎんリース　株式会社",
     "office_name_kana": "ゴウギンリ-ス カブシキガイシヤ"

@@ -2253,6 +2253,19 @@
     "office_name": "ビーシープロダクツ　株式会社",
     "office_name_kana": "ビ-シ-プロダクツ カブシキガイシヤ"
   },
+  "8618": {
+    "postcode": "4648618",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市千種区",
+    "city_kana": "ナゴヤシチクサク",
+    "town": "覚王山通",
+    "town_kana": "カクオウザントオリ",
+    "street": "８丁目３７",
+    "office_name": "千種保健センター",
+    "office_name_kana": "チクサホケンセンタ-"
+  },
   "8631": {
     "postcode": "4648631",
     "prefecture": "愛知県",

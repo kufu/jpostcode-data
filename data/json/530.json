@@ -1839,11 +1839,11 @@
     "prefecture_code": 27,
     "city": "大阪市北区",
     "city_kana": "オオサカシキタク",
-    "town": "梅田",
-    "town_kana": "ウメダ",
-    "street": "三丁目３番２０号明治安田生命大阪梅田ビル",
-    "office_name": "関電システムソリューションズ　株式会社",
-    "office_name_kana": "カンデンシステムソリユ-シヨンズ カブシキガイシヤ"
+    "town": "中之島",
+    "town_kana": "ナカノシマ",
+    "street": "３丁目６番１６号関電ビルディング１３Ｆ",
+    "office_name": "株式会社　関電システムズ",
+    "office_name_kana": "カブシキガイシヤ カンデンシステムズ"
   },
   "8227": {
     "postcode": "5308227",

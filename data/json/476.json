@@ -194,6 +194,19 @@
     "office_name": "協栄興業株式会社、協栄工機株式会社、協栄運輸株式会社、協栄高圧ガス株式会社",
     "office_name_kana": "キヨウエイコウギヨウカブシキガイシヤ.キヨウエイコウキカブシキガイシヤ.キヨウエイウンユカブシキガイシヤ.キヨウエイコウアツガスカブシキガイシヤ"
   },
+  "8522": {
+    "postcode": "4768522",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "東海市",
+    "city_kana": "トウカイシ",
+    "town": "新宝町",
+    "town_kana": "シンポウマチ",
+    "street": "３３−３",
+    "office_name": "トヨフジ海運　株式会社",
+    "office_name_kana": "トヨフジカイウン カブシキガイシヤ"
+  },
   "8533": {
     "postcode": "4768533",
     "prefecture": "愛知県",

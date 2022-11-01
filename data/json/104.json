@@ -2261,6 +2261,19 @@
     "office_name": "株式会社　ミキモト　銀座４丁目本店",
     "office_name_kana": "カブシキガイシヤ ミキモト ギンザヨンチヨウメホンテン"
   },
+  "8150": {
+    "postcode": "1048150",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中央区",
+    "city_kana": "チュウオウク",
+    "town": "銀座",
+    "town_kana": "ギンザ",
+    "street": "７−１６−１２Ｇ−７ビルディング７Ｆ",
+    "office_name": "株式会社　東京ソワール",
+    "office_name_kana": "カブシキガイシヤ トウキヨウソワ-ル"
+  },
   "8151": {
     "postcode": "1048151",
     "prefecture": "東京都",
@@ -2442,19 +2455,6 @@
     "street": "５丁目１５番８号",
     "office_name": "一般社団法人　中央調査社",
     "office_name_kana": "イツパンシヤダンホウジン チユウオウチヨウサシヤ"
-  },
-  "8181": {
-    "postcode": "1048181",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "銀座",
-    "town_kana": "ギンザ",
-    "street": "７丁目２−１７",
-    "office_name": "株式会社　不二家",
-    "office_name_kana": "カブシキガイシヤ フジヤ"
   },
   "8183": {
     "postcode": "1048183",
@@ -4431,19 +4431,6 @@
     "street": "５丁目３−２（晴海郵便局私書箱第１７２・３０２・３０３号）",
     "office_name": "朝日新聞　東京支社（友の会・販売・広告）",
     "office_name_kana": "アサヒシンブン トウキヨウシシヤ(トモノカイ・ハンバイ・コウコク)"
-  },
-  "8670": {
-    "postcode": "1048670",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "銀座",
-    "town_kana": "ギンザ",
-    "street": "７丁目２−１７（晴海郵便局私書箱第２号）",
-    "office_name": "株式会社　不二家",
-    "office_name_kana": "カブシキガイシヤ フジヤ"
   },
   "8678": {
     "postcode": "1048678",
