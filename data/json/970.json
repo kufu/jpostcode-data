@@ -1277,6 +1277,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8410": {
+    "postcode": "9708410",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "いわき市",
+    "city_kana": "イワキシ",
+    "town": "平",
+    "town_kana": "タイラ",
+    "street": "字田町１",
+    "office_name": "ホテルＢ４Ｔ　エスパルいわき",
+    "office_name_kana": "ホテルビ-フオ-テイ- エスパルイワキ"
+  },
   "8501": {
     "postcode": "9708501",
     "prefecture": "福島県",

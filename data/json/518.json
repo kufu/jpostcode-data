@@ -970,7 +970,7 @@
     "city_kana": "イガシ",
     "town": "阿保",
     "town_kana": "アオ",
-    "street": "１４１１",
+    "street": "１５１番地１",
     "office_name": "伊賀市役所　青山支所",
     "office_name_kana": "イガシヤクシヨ アオヤマシシヨ"
   },
@@ -2037,8 +2037,8 @@
     "town": "八幡",
     "town_kana": "ヤバタ",
     "street": "１３００−４５",
-    "office_name": "ニッタ・ムアー（株）　名張工場",
-    "office_name_kana": "ニツタ・ムア-(カ) ナバリコウジヨウ"
+    "office_name": "ニッタ　株式会社　名張工場",
+    "office_name_kana": "ニツタ カブシキガイシヤ ナバリコウジヨウ"
   },
   "0495": {
     "postcode": "5180495",

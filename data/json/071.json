@@ -4955,6 +4955,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8130": {
+    "postcode": "0718130",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "旭川市",
+    "city_kana": "アサヒカワシ",
+    "town": "物流団地１条",
+    "town_kana": "ブツリュウダンチ1ジョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8131": {
     "postcode": "0718131",
     "prefecture": "北海道",
@@ -5055,6 +5068,19 @@
     "city_kana": "アサヒカワシ",
     "town": "末広８条",
     "town_kana": "スエヒロ8ジョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "8139": {
+    "postcode": "0718139",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "旭川市",
+    "city_kana": "アサヒカワシ",
+    "town": "物流団地２条",
+    "town_kana": "ブツリュウダンチ2ジョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

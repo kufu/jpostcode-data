@@ -1182,6 +1182,19 @@
     "office_name": "千葉県東金県税事務所",
     "office_name_kana": "チバケントウガネケンゼイジムシヨ"
   },
+  "8505": {
+    "postcode": "2838505",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "東金市",
+    "city_kana": "トウガネシ",
+    "town": "東岩崎",
+    "town_kana": "ヒガシイワサキ",
+    "street": "１番地１７",
+    "office_name": "山武郡市広域行政組合",
+    "office_name_kana": "サンブグンシコウイキギヨウセイクミアイ"
+  },
   "8511": {
     "postcode": "2838511",
     "prefecture": "千葉県",

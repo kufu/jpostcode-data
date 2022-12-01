@@ -1533,6 +1533,19 @@
     "office_name": "オイシックスステーション",
     "office_name_kana": "オイシツクスステ-シヨン"
   },
+  "0489": {
+    "postcode": "2430489",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "海老名市",
+    "city_kana": "エビナシ",
+    "town": "めぐみ町",
+    "town_kana": "メグミチョウ",
+    "street": "２番２号",
+    "office_name": "小田急電鉄　株式会社",
+    "office_name_kana": "オダキユウデンテツ カブシキガイシヤ"
+  },
   "0492": {
     "postcode": "2430492",
     "prefecture": "神奈川県",

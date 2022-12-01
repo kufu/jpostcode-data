@@ -2536,6 +2536,19 @@
     "office_name": "日本モトローラ　株式会社",
     "office_name_kana": "ニホンモトロ-ラ カブシキガイシヤ"
   },
+  "8575": {
+    "postcode": "1068575",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "南麻布",
+    "town_kana": "ミナミアザブ",
+    "street": "５丁目７−１３",
+    "office_name": "東京都立中央図書館",
+    "office_name_kana": "トウキヨウトリツチユウオウトシヨカン"
+  },
   "8576": {
     "postcode": "1068576",
     "prefecture": "東京都",
