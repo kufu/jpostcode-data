@@ -1572,6 +1572,19 @@
     "office_name": "日本放送協会　横浜放送局",
     "office_name_kana": "ニホンホウソウキヨウカイ ヨコハマホウソウキヨク"
   },
+  "8328": {
+    "postcode": "2318328",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "万代町",
+    "town_kana": "バンダイチョウ",
+    "street": "１丁目１番１",
+    "office_name": "関東学院大学　関内キャンパス",
+    "office_name_kana": "カントウガクインダイガク カンナイキヤンパス"
+  },
   "8330": {
     "postcode": "2318330",
     "prefecture": "神奈川県",

@@ -480,6 +480,19 @@
     "office_name": "日本アルミット　株式会社",
     "office_name_kana": "ニホンアルミツト カブシキガイシヤ"
   },
+  "8677": {
+    "postcode": "1648677",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中野区",
+    "city_kana": "ナカノク",
+    "town": "弥生町",
+    "town_kana": "ヤヨイチョウ",
+    "street": "２−８−１５",
+    "office_name": "株式会社　ヴィアックス",
+    "office_name_kana": "カブシキガイシヤ ヴイアツクス"
+  },
   "8678": {
     "postcode": "1648678",
     "prefecture": "東京都",

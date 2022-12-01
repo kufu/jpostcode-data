@@ -713,5 +713,18 @@
     "street": "３丁目１番地（蟹江郵便局私書箱第１４号）",
     "office_name": "蟹江町役場",
     "office_name_kana": "カニエチヨウヤクバ"
+  },
+  "8602": {
+    "postcode": "4978602",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "あま市",
+    "city_kana": "アマシ",
+    "town": "七宝町沖之島",
+    "town_kana": "シッポウチョウオキノシマ",
+    "street": "深坪１番地",
+    "office_name": "あま市役所",
+    "office_name_kana": "アマシヤクシヨ"
   }
 }

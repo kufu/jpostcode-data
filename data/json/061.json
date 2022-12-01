@@ -1236,6 +1236,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1116": {
+    "postcode": "0611116",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "北広島市",
+    "city_kana": "キタヒロシマシ",
+    "town": "Ｆビレッジ",
+    "town_kana": "エフビレッジ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1121": {
     "postcode": "0611121",
     "prefecture": "北海道",

@@ -3789,24 +3789,11 @@
     "prefecture_code": 13,
     "city": "港区",
     "city_kana": "ミナトク",
-    "town": "三田",
-    "town_kana": "ミタ",
-    "street": "３−１１−２４",
-    "office_name": "テクマトリックス　株式会社",
-    "office_name_kana": "テクマトリツクス カブシキガイシヤ"
-  },
-  "8601": {
-    "postcode": "1088601",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
     "town": "港南",
     "town_kana": "コウナン",
-    "street": "２丁目５番７号港南ビル６Ｆ",
-    "office_name": "日本特殊陶業　株式会社",
-    "office_name_kana": "ニツポントクシユトウギヨウ カブシキガイシヤ"
+    "street": "１−２−７０品川シーズンテラス２４Ｆ",
+    "office_name": "テクマトリックス　株式会社",
+    "office_name_kana": "テクマトリツクス カブシキガイシヤ"
   },
   "8602": {
     "postcode": "1088602",

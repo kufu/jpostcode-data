@@ -1338,6 +1338,19 @@
     "office_name": "岸和田市役所",
     "office_name_kana": "キシワダシヤクシヨ"
   },
+  "8522": {
+    "postcode": "5968522",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "岸和田市",
+    "city_kana": "キシワダシ",
+    "town": "加守町",
+    "town_kana": "カモリチョウ",
+    "street": "４丁目２７−１",
+    "office_name": "医療法人徳洲会　岸和田徳洲会病院",
+    "office_name_kana": "イリヨウホウジントクシユウカイ キシワダトクシユウカイビヨウイン"
+  },
   "8588": {
     "postcode": "5968588",
     "prefecture": "大阪府",

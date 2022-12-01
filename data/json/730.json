@@ -2483,18 +2483,5 @@
       "office_name": "日本郵便　株式会社　中国支社",
       "office_name_kana": "ニホンユウビン カブシキガイシヤ チユウゴクシシヤ"
     }
-  ],
-  "8798": {
-    "postcode": "7308798",
-    "prefecture": "広島県",
-    "prefecture_kana": "ヒロシマケン",
-    "prefecture_code": 34,
-    "city": "広島市中区",
-    "city_kana": "ヒロシマシナカク",
-    "town": "東白島町",
-    "town_kana": "ヒガシハクシマチョウ",
-    "street": "１９−１６",
-    "office_name": "広島逓信病院",
-    "office_name_kana": "ヒロシマテイシンビヨウイン"
-  }
+  ]
 }

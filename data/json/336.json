@@ -253,7 +253,7 @@
     "prefecture_code": 11,
     "city": "さいたま市南区",
     "city_kana": "サイタマシミナミク",
-    "town": "広ケ谷戸",
+    "town": "広ヶ谷戸",
     "town_kana": "ヒロガヤト",
     "street": null,
     "office_name": null,
@@ -450,19 +450,6 @@
     "city_kana": "サイタマシミドリク",
     "town": "松木",
     "town_kana": "マツキ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "0921": {
-    "postcode": "3360921",
-    "prefecture": "埼玉県",
-    "prefecture_kana": "サイタマケン",
-    "prefecture_code": 11,
-    "city": "さいたま市緑区",
-    "city_kana": "サイタマシミドリク",
-    "town": "井沼方",
-    "town_kana": "イヌマカタ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

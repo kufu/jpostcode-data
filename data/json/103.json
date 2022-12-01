@@ -3134,6 +3134,19 @@
     "office_name": "社団法人　日本ボウリング場協会",
     "office_name_kana": "シヤダンホウジン ニホンボウリングジヨウキヨウカイ"
   },
+  "8485": {
+    "postcode": "1038485",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中央区",
+    "city_kana": "チュウオウク",
+    "town": "日本橋浜町",
+    "town_kana": "ニホンバシハマチョウ",
+    "street": "３丁目１６−８",
+    "office_name": "株式会社　化学工業日報社",
+    "office_name_kana": "カブシキガイシヤ カガクコウギヨウニツポウシヤ"
+  },
   "8487": {
     "postcode": "1038487",
     "prefecture": "東京都",

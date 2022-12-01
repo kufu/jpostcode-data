@@ -194,6 +194,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0018": {
+    "postcode": "3140018",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "鹿嶋市",
+    "city_kana": "カシマシ",
+    "town": "平井東",
+    "town_kana": "ヒライヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "3140021",
     "prefecture": "茨城県",

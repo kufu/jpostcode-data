@@ -1000,6 +1000,19 @@
     "office_name": "上尾市役所",
     "office_name_kana": "アゲオシヤクシヨ"
   },
+  "8502": {
+    "postcode": "3628502",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "上尾市",
+    "city_kana": "アゲオシ",
+    "town": "堤崎",
+    "town_kana": "ツツミサキ",
+    "street": "３６２−１Ｌａｎｄｐｏｒｔ上尾Ⅰ",
+    "office_name": "日本ロジテム　株式会社　上尾営業所",
+    "office_name_kana": "ニホンロジテム カブシキガイシヤ アゲオエイギヨウシヨ"
+  },
   "8504": {
     "postcode": "3628504",
     "prefecture": "埼玉県",
