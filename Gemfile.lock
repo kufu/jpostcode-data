@@ -10,7 +10,7 @@ GEM
     pry (0.14.1)
       coderay (~> 1.1)
       method_source (~> 1.0)
-    racc (1.6.1)
+    racc (1.6.2)
     rake (13.0.6)
     rubyzip (2.3.2)
     sqlite3 (1.5.4)
