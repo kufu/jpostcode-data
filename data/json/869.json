@@ -4230,6 +4230,45 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3211": {
+    "postcode": "8693211",
+    "prefecture": "熊本県",
+    "prefecture_kana": "クマモトケン",
+    "prefecture_code": 43,
+    "city": "宇城市",
+    "city_kana": "ウキシ",
+    "town": "三角町大口",
+    "town_kana": "ミスミマチオオクチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "3212": {
+    "postcode": "8693212",
+    "prefecture": "熊本県",
+    "prefecture_kana": "クマモトケン",
+    "prefecture_code": 43,
+    "city": "宇城市",
+    "city_kana": "ウキシ",
+    "town": "三角町手場",
+    "town_kana": "ミスミマチテバ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "3213": {
+    "postcode": "8693213",
+    "prefecture": "熊本県",
+    "prefecture_kana": "クマモトケン",
+    "prefecture_code": 43,
+    "city": "宇城市",
+    "city_kana": "ウキシ",
+    "town": "三角町里浦",
+    "town_kana": "ミスミマチサトノウラ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3296": {
     "postcode": "8693296",
     "prefecture": "熊本県",
@@ -4242,45 +4281,6 @@
     "street": "２１３−１",
     "office_name": "宇城市役所　三角支所",
     "office_name_kana": "ウキシヤクシヨ ミスミシシヨ"
-  },
-  "3411": {
-    "postcode": "8693411",
-    "prefecture": "熊本県",
-    "prefecture_kana": "クマモトケン",
-    "prefecture_code": 43,
-    "city": "宇城市",
-    "city_kana": "ウキシ",
-    "town": "三角町大口",
-    "town_kana": "ミスミマチオオクチ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "3412": {
-    "postcode": "8693412",
-    "prefecture": "熊本県",
-    "prefecture_kana": "クマモトケン",
-    "prefecture_code": 43,
-    "city": "宇城市",
-    "city_kana": "ウキシ",
-    "town": "三角町手場",
-    "town_kana": "ミスミマチテバ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "3413": {
-    "postcode": "8693413",
-    "prefecture": "熊本県",
-    "prefecture_kana": "クマモトケン",
-    "prefecture_code": 43,
-    "city": "宇城市",
-    "city_kana": "ウキシ",
-    "town": "三角町里浦",
-    "town_kana": "ミスミマチサトノウラ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
   },
   "3471": {
     "postcode": "8693471",
@@ -6455,32 +6455,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "6204": {
-    "postcode": "8696204",
-    "prefecture": "熊本県",
-    "prefecture_kana": "クマモトケン",
-    "prefecture_code": 43,
-    "city": "球磨郡球磨村",
-    "city_kana": "クマグンクマムラ",
-    "town": "神瀬",
-    "town_kana": "コウノセ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "6205": {
-    "postcode": "8696205",
-    "prefecture": "熊本県",
-    "prefecture_kana": "クマモトケン",
-    "prefecture_code": 43,
-    "city": "球磨郡球磨村",
-    "city_kana": "クマグンクマムラ",
-    "town": "大瀬",
-    "town_kana": "オオセ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "6211": {
     "postcode": "8696211",
     "prefecture": "熊本県",
@@ -6715,112 +6689,30 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "6404": [
-    {
-      "postcode": "8696404",
-      "prefecture": "熊本県",
-      "prefecture_kana": "クマモトケン",
-      "prefecture_code": 43,
-      "city": "球磨郡球磨村",
-      "city_kana": "クマグンクマムラ",
-      "town": "神瀬",
-      "town_kana": "コウノセ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8696404",
-      "prefecture": "熊本県",
-      "prefecture_kana": "クマモトケン",
-      "prefecture_code": 43,
-      "city": "球磨郡球磨村",
-      "city_kana": "クマグンクマムラ",
-      "town": "神瀬大槻",
-      "town_kana": "コウノセオオツキ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8696404",
-      "prefecture": "熊本県",
-      "prefecture_kana": "クマモトケン",
-      "prefecture_code": 43,
-      "city": "球磨郡球磨村",
-      "city_kana": "クマグンクマムラ",
-      "town": "神瀬蔵谷",
-      "town_kana": "コウノセクラタニ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8696404",
-      "prefecture": "熊本県",
-      "prefecture_kana": "クマモトケン",
-      "prefecture_code": 43,
-      "city": "球磨郡球磨村",
-      "city_kana": "クマグンクマムラ",
-      "town": "神瀬坂口",
-      "town_kana": "コウノセサカグチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8696404",
-      "prefecture": "熊本県",
-      "prefecture_kana": "クマモトケン",
-      "prefecture_code": 43,
-      "city": "球磨郡球磨村",
-      "city_kana": "クマグンクマムラ",
-      "town": "神瀬高沢",
-      "town_kana": "コウノセタカザワ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8696404",
-      "prefecture": "熊本県",
-      "prefecture_kana": "クマモトケン",
-      "prefecture_code": 43,
-      "city": "球磨郡球磨村",
-      "city_kana": "クマグンクマムラ",
-      "town": "神瀬横井",
-      "town_kana": "コウノセヨコイ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
-  "6405": [
-    {
-      "postcode": "8696405",
-      "prefecture": "熊本県",
-      "prefecture_kana": "クマモトケン",
-      "prefecture_code": 43,
-      "city": "球磨郡球磨村",
-      "city_kana": "クマグンクマムラ",
-      "town": "大瀬",
-      "town_kana": "オオセ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8696405",
-      "prefecture": "熊本県",
-      "prefecture_kana": "クマモトケン",
-      "prefecture_code": 43,
-      "city": "球磨郡球磨村",
-      "city_kana": "クマグンクマムラ",
-      "town": "大瀬沢見",
-      "town_kana": "オオセサワミ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ]
+  "6404": {
+    "postcode": "8696404",
+    "prefecture": "熊本県",
+    "prefecture_kana": "クマモトケン",
+    "prefecture_code": 43,
+    "city": "球磨郡球磨村",
+    "city_kana": "クマグンクマムラ",
+    "town": "神瀬",
+    "town_kana": "コウノセ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "6405": {
+    "postcode": "8696405",
+    "prefecture": "熊本県",
+    "prefecture_kana": "クマモトケン",
+    "prefecture_code": 43,
+    "city": "球磨郡球磨村",
+    "city_kana": "クマグンクマムラ",
+    "town": "大瀬",
+    "town_kana": "オオセ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  }
 }

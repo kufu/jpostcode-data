@@ -1426,8 +1426,8 @@
     "town": "大和町",
     "town_kana": "ヤマトマチ",
     "street": "２丁目２９−１",
-    "office_name": "ＮＴＴ東北病院",
-    "office_name_kana": "エヌテイテイトウホクビヨウイン"
+    "office_name": "東北医科薬科大学　若林病院",
+    "office_name_kana": "トウホクイカヤツカダイガク ワカバヤシビヨウイン"
   },
   "8561": {
     "postcode": "9848561",
@@ -1545,6 +1545,19 @@
     "street": "３丁目４−１２",
     "office_name": "日本たばこ産業　株式会社　仙台支店",
     "office_name_kana": "ニホンタバコサンギヨウ カブシキガイシヤ センダイシテン"
+  },
+  "8588": {
+    "postcode": "9848588",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "仙台市若林区",
+    "city_kana": "センダイシワカバヤシク",
+    "town": "清水小路",
+    "town_kana": "シミズコウジ",
+    "street": "３番地１",
+    "office_name": "東北学院大学　五橋キャンパス",
+    "office_name_kana": "トウホクガクインダイガク イツツバシキヤンパス"
   },
   "8601": {
     "postcode": "9848601",

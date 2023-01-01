@@ -1969,9 +1969,9 @@
     "prefecture_code": 23,
     "city": "名古屋市中村区",
     "city_kana": "ナゴヤシナカムラク",
-    "town": "竹橋町",
-    "town_kana": "タケバシチョウ",
-    "street": "３６−３１",
+    "town": "松原町",
+    "town_kana": "マツバラチョウ",
+    "street": "１丁目２３番地１",
     "office_name": "中村区役所",
     "office_name_kana": "ナカムラクヤクシヨ"
   },
@@ -2327,6 +2327,19 @@
     "street": "１丁目２６７番地",
     "office_name": "河田フェザー　株式会社",
     "office_name_kana": "カワダフエザ- カブシキカイシヤ"
+  },
+  "8626": {
+    "postcode": "4538626",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市中村区",
+    "city_kana": "ナゴヤシナカムラク",
+    "town": "松原町",
+    "town_kana": "マツバラチョウ",
+    "street": "１丁目２３番地の１",
+    "office_name": "名古屋市本陣市税事務所",
+    "office_name_kana": "ナゴヤシホンジンシゼイジムシヨ"
   },
   "8662": {
     "postcode": "4538662",

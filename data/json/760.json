@@ -1938,6 +1938,19 @@
     "office_name": "農林中央金庫　高松支店",
     "office_name_kana": "ノウリンチユウオウキンコ タカマツシテン"
   },
+  "8610": {
+    "postcode": "7608610",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "prefecture_code": 37,
+    "city": "高松市",
+    "city_kana": "タカマツシ",
+    "town": "丸の内",
+    "town_kana": "マルノウチ",
+    "street": "２−５（高松中央郵便局私書箱第４２号）",
+    "office_name": "四国電力送配電　株式会社",
+    "office_name_kana": "シコクデンリヨクソウハイデン カブシキガイシヤ"
+  },
   "8614": {
     "postcode": "7608614",
     "prefecture": "香川県",

@@ -1143,6 +1143,19 @@
     "office_name": "学校法人　日本医科大学",
     "office_name_kana": "ガツコウホウジン ニホンイカダイガク"
   },
+  "8606": {
+    "postcode": "1138606",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "文京区",
+    "city_kana": "ブンキョウク",
+    "town": "白山",
+    "town_kana": "ハクサン",
+    "street": "一丁目３７番６号",
+    "office_name": "Ｊ−ＰＯＷＥＲテレコミュニケーションサービス　株式会社",
+    "office_name_kana": "ジエイパワ-テレコミユニケ-シヨンサ-ビス カブシキガイシヤ"
+  },
   "8608": {
     "postcode": "1138608",
     "prefecture": "東京都",

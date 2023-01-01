@@ -4024,6 +4024,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0925": {
+    "postcode": "4440925",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "岡崎市",
+    "city_kana": "オカザキシ",
+    "town": "八丁町",
+    "town_kana": "ハッチョウチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0931": {
     "postcode": "4440931",
     "prefecture": "愛知県",
@@ -8777,8 +8790,8 @@
     "town": "舞木町",
     "town_kana": "マイギチョウ",
     "street": "字城山１−５４",
-    "office_name": "豊田バンモップス　株式会社",
-    "office_name_kana": "トヨタバンモツプス カブシキガイシヤ"
+    "office_name": "株式会社　ジェイテクトグラインディングツール",
+    "office_name_kana": "カブシキガイシヤ ジエイテクトグラインデイングツ-ル"
   },
   "3595": {
     "postcode": "4443595",

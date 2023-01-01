@@ -2132,5 +2132,18 @@
     "street": "２５−３ＺＯＺＯＢＡＳＥつくば２",
     "office_name": "株式会社　ＺＯＺＯ",
     "office_name_kana": "カブシキガイシヤ ゾゾ"
+  },
+  "8702": {
+    "postcode": "3058702",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "つくば市",
+    "city_kana": "ツクバシ",
+    "town": "御幸が丘",
+    "town_kana": "ミユキガオカ",
+    "street": "３４ＺＯＺＯＢＡＳＥつくば３",
+    "office_name": "株式会社　ＺＯＺＯ",
+    "office_name_kana": "カブシキガイシヤ ゾゾ"
   }
 }

@@ -3843,5 +3843,18 @@
     "street": "９４８（高松南郵便局私書箱第７３号）",
     "office_name": "株式会社　幸燿",
     "office_name_kana": "カブシキガイシヤ コウヨウ"
+  },
+  "8777": {
+    "postcode": "7618777",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "prefecture_code": 37,
+    "city": "さぬき市",
+    "city_kana": "サヌキシ",
+    "town": "鴨庄",
+    "town_kana": "カモショウ",
+    "street": "４２５９番地１",
+    "office_name": "株式会社　セシール",
+    "office_name_kana": "カブシキガイシヤ セシ-ル"
   }
 }

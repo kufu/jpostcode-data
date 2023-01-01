@@ -1860,6 +1860,19 @@
     "office_name": "学校法人　佐藤栄学園",
     "office_name_kana": "ガツコウホウジン サトエガクエン"
   },
+  "9520": {
+    "postcode": "3309520",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市大宮区",
+    "city_kana": "サイタマシオオミヤク",
+    "town": "北袋町",
+    "town_kana": "キタブクロチョウ",
+    "street": "１丁目６０２番１号",
+    "office_name": "株式会社　しまむら",
+    "office_name_kana": "カブシキガイシヤ シマムラ"
+  },
   "9525": {
     "postcode": "3309525",
     "prefecture": "埼玉県",
