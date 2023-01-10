@@ -1585,6 +1585,19 @@
     "office_name": "石井食品　株式会社",
     "office_name_kana": "イシイシヨクヒン カブシキガイシヤ"
   },
+  "8610": {
+    "postcode": "2738610",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "船橋市",
+    "city_kana": "フナバシシ",
+    "town": "浜町",
+    "town_kana": "ハマチョウ",
+    "street": "２−４−７ＭＦＬＰⅢ",
+    "office_name": "ショップチャンネル南船橋物流センター",
+    "office_name_kana": "シヨツプチヤンネルミナミフナバシブツリユウセンタ-"
+  },
   "8627": {
     "postcode": "2738627",
     "prefecture": "千葉県",

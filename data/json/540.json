@@ -2623,7 +2623,7 @@
     "city_kana": "オオサカシチュウオウク",
     "town": "大手前",
     "town_kana": "オオテマエ",
-    "street": "４丁目１−６７",
+    "street": "３丁目１番４１号大手前合同庁舎１１階",
     "office_name": "近畿管区行政評価局",
     "office_name_kana": "キンキカンクギヨウセイヒヨウカキヨク"
   },
@@ -2686,9 +2686,9 @@
     "prefecture_code": 27,
     "city": "大阪市中央区",
     "city_kana": "オオサカシチュウオウク",
-    "town": "谷町",
-    "town_kana": "タニマチ",
-    "street": "２丁目１−１７",
+    "town": "大手前",
+    "town_kana": "オオテマエ",
+    "street": "三丁目１番４１号",
     "office_name": "大阪法務局",
     "office_name_kana": "オオサカホウムキヨク"
   },

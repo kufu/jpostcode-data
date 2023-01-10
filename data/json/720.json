@@ -1182,6 +1182,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0830": {
+    "postcode": "7200830",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "福山市",
+    "city_kana": "フクヤマシ",
+    "town": "水呑町三新田",
+    "town_kana": "ミノミチョウサンシンデン",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0831": {
     "postcode": "7200831",
     "prefecture": "広島県",
@@ -2533,6 +2546,19 @@
     "street": "１−７",
     "office_name": "福山労働基準監督署",
     "office_name_kana": "フクヤマロウドウキジユンカントクシヨ"
+  },
+  "8504": {
+    "postcode": "7208504",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "福山市",
+    "city_kana": "フクヤマシ",
+    "town": "千田町千田",
+    "town_kana": "センダチョウセンダ",
+    "street": "４８７−４",
+    "office_name": "盈進学園",
+    "office_name_kana": "エイシンガクエン"
   },
   "8507": {
     "postcode": "7208507",
