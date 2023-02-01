@@ -9222,7 +9222,7 @@
     "city_kana": "ニイガタシチュウオウク",
     "town": "東大通",
     "town_kana": "ヒガシオオドオリ",
-    "street": "一丁目４番１号マルタケビル",
+    "street": "２丁目４番１０号日本生命新潟ビル",
     "office_name": "三菱電機　株式会社　新潟支店",
     "office_name_kana": "ミツビシデンキ カブシキガイシヤ ニイガタシテン"
   },
@@ -9381,19 +9381,6 @@
     "street": "２丁目４−１０",
     "office_name": "ネスレ日本",
     "office_name_kana": "ネスレニホン"
-  },
-  "8528": {
-    "postcode": "9508528",
-    "prefecture": "新潟県",
-    "prefecture_kana": "ニイガタケン",
-    "prefecture_code": 15,
-    "city": "新潟市中央区",
-    "city_kana": "ニイガタシチュウオウク",
-    "town": "東大通",
-    "town_kana": "ヒガシオオドオリ",
-    "street": "２丁目３−２８",
-    "office_name": "大林組　北陸支店",
-    "office_name_kana": "オオバヤシグミ ホクリクシテン"
   },
   "8530": {
     "postcode": "9508530",

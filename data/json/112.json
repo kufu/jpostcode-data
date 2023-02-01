@@ -714,6 +714,19 @@
     "office_name": "学校法人　拓殖大学（文京キャンパス）",
     "office_name_kana": "ガツコウホウジン タクシヨクダイガク(ブンキヨウキヤンパス)"
   },
+  "8586": {
+    "postcode": "1128586",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "文京区",
+    "city_kana": "ブンキョウク",
+    "town": "春日",
+    "town_kana": "カスガ",
+    "street": "一丁目４−１１",
+    "office_name": "中央大学　小石川キャンパス",
+    "office_name_kana": "チユウオウダイガク コイシカワキヤンパス"
+  },
   "8601": {
     "postcode": "1128601",
     "prefecture": "東京都",
@@ -908,6 +921,19 @@
     "street": "１丁目２６−１３",
     "office_name": "貞静学園短期大学",
     "office_name_kana": "テイセイガクエンタンキダイガク"
+  },
+  "8631": {
+    "postcode": "1128631",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "文京区",
+    "city_kana": "ブンキョウク",
+    "town": "大塚",
+    "town_kana": "オオツカ",
+    "street": "一丁目４−１",
+    "office_name": "中央大学　茗荷谷キャンパス",
+    "office_name_kana": "チユウオウダイガク ミヨウガダニキヤンパス"
   },
   "8632": {
     "postcode": "1128632",

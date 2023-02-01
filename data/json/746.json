@@ -454,6 +454,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0039": {
+    "postcode": "7460039",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
+    "city": "周南市",
+    "city_kana": "シュウナンシ",
+    "town": "富田新町",
+    "town_kana": "トンダシンマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0041": {
     "postcode": "7460041",
     "prefecture": "山口県",
