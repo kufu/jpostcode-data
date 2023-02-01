@@ -350,6 +350,19 @@
       "street": null,
       "office_name": null,
       "office_name_kana": null
+    },
+    {
+      "postcode": "5810027",
+      "prefecture": "大阪府",
+      "prefecture_kana": "オオサカフ",
+      "prefecture_code": 27,
+      "city": "八尾市",
+      "city_kana": "ヤオシ",
+      "town": "八尾木大字",
+      "town_kana": "ヨオギオオアザ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
     }
   ],
   "0028": {

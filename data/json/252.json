@@ -3290,6 +3290,19 @@
     "office_name": "株式会社　オハラ",
     "office_name_kana": "カブシキガイシヤ オハラ"
   },
+  "5287": {
+    "postcode": "2525287",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "相模原市中央区",
+    "city_kana": "サガミハラシチュウオウク",
+    "town": "南橋本",
+    "town_kana": "ミナミハシモト",
+    "street": "３丁目２−２５",
+    "office_name": "東プレ　株式会社　相模原事業所",
+    "office_name_kana": "トウプレ カブシキガイシヤ サガミハラジギヨウシヨ"
+  },
   "5288": {
     "postcode": "2525288",
     "prefecture": "神奈川県",

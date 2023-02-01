@@ -597,6 +597,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0085": {
+    "postcode": "0240085",
+    "prefecture": "岩手県",
+    "prefecture_kana": "イワテケン",
+    "prefecture_code": 3,
+    "city": "北上市",
+    "city_kana": "キタカミシ",
+    "town": "しらゆり",
+    "town_kana": "シラユリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0091": {
     "postcode": "0240091",
     "prefecture": "岩手県",

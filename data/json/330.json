@@ -2471,6 +2471,19 @@
     "office_name": "国土交通省関東地方整備局　建政部建設産業第一課",
     "office_name_kana": "コクドコウツウシヨウカントウチホウセイビキヨク ケンセイブケンセツサンギヨウダイイチカ"
   },
+  "9791": {
+    "postcode": "3309791",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市中央区",
+    "city_kana": "サイタマシチュウオウク",
+    "town": "新都心",
+    "town_kana": "シントシン",
+    "street": "３−１日本郵政グループさいたまビル２７階",
+    "office_name": "さいたまＢＰＯセンター",
+    "office_name_kana": "サイタマビ-ピ-オ-センタ-"
+  },
   "9792": {
     "postcode": "3309792",
     "prefecture": "埼玉県",

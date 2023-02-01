@@ -530,19 +530,6 @@
       "town": "堀川町",
       "town_kana": "ホリカワチョウ",
       "street": "５８０番地ソリッドスクエア東館６階",
-      "office_name": "株式会社　横浜シャーウッド",
-      "office_name_kana": "カブシキガイシヤ ヨコハマシヤ-ウツド"
-    },
-    {
-      "postcode": "2128525",
-      "prefecture": "神奈川県",
-      "prefecture_kana": "カナガワケン",
-      "prefecture_code": 14,
-      "city": "川崎市幸区",
-      "city_kana": "カワサキシサイワイク",
-      "town": "堀川町",
-      "town_kana": "ホリカワチョウ",
-      "street": "５８０番地ソリッドスクエア東館６階",
       "office_name": "和幸商事　株式会社",
       "office_name_kana": "ワコウシヨウジ カブシキガイシヤ"
     },
@@ -558,6 +545,19 @@
       "street": "５８０番地ソリッドスクエア東館６階",
       "office_name": "和幸フーズ　株式会社",
       "office_name_kana": "ワコウフ-ズ カブシキガイシヤ"
+    },
+    {
+      "postcode": "2128525",
+      "prefecture": "神奈川県",
+      "prefecture_kana": "カナガワケン",
+      "prefecture_code": 14,
+      "city": "川崎市幸区",
+      "city_kana": "カワサキシサイワイク",
+      "town": "堀川町",
+      "town_kana": "ホリカワチョウ",
+      "street": "５８０番地ソリッドスクエア東館６階",
+      "office_name": "ＷＡＫＯ　ＧＲＯＵＰ　ＨＯＬＤＩＮＧＳ　株式会社",
+      "office_name_kana": "ワコウ グル-プ ホ-ルデイングス カブシキガイシヤ"
     }
   ],
   "8530": {
@@ -806,5 +806,18 @@
     "street": "１番地",
     "office_name": "ディー・ティー・ファインエレクトロニクス　株式会社",
     "office_name_kana": "デイ-・テイ-・フアインエレクトロニクス カブシキガイシヤ"
+  },
+  "8604": {
+    "postcode": "2128604",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "川崎市幸区",
+    "city_kana": "カワサキシサイワイク",
+    "town": "鹿島田",
+    "town_kana": "カシマダ",
+    "street": "１−１−２新川崎三井ビルディングＷ棟２４階",
+    "office_name": "ＴＴヒューマンアセットサービス　株式会社",
+    "office_name_kana": "テイ-テイ-ヒユ-マンアセツトサ-ビス カブシキガイシヤ"
   }
 }

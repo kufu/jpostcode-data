@@ -1819,6 +1819,19 @@
     "office_name": "株式会社　ファンケル",
     "office_name_kana": "カブシキガイシヤ フアンケル"
   },
+  "8530": {
+    "postcode": "2318530",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "山下町",
+    "town_kana": "ヤマシタチョウ",
+    "street": "３３",
+    "office_name": "ウエインズトヨタ神奈川　株式会社",
+    "office_name_kana": "ウエインズトヨタカナガワ カブシキガイシヤ"
+  },
   "8534": {
     "postcode": "2318534",
     "prefecture": "神奈川県",

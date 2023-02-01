@@ -402,6 +402,19 @@
     "office_name": "大阪市中央区役所",
     "office_name_kana": "オオサカシチユウオウクヤクジヨ"
   },
+  "8519": {
+    "postcode": "5418519",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市中央区",
+    "city_kana": "オオサカシチュウオウク",
+    "town": "淡路町",
+    "town_kana": "アワジマチ",
+    "street": "二丁目５番１１号",
+    "office_name": "極東開発工業　株式会社",
+    "office_name_kana": "キヨクトウカイハツコウギヨウ カブシキカイシヤ"
+  },
   "8520": {
     "postcode": "5418520",
     "prefecture": "大阪府",
@@ -663,19 +676,6 @@
     "street": "４丁目１番２号損保ジャパン日本興亜大阪ビル",
     "office_name": "損保ジャパン日本興亜　株式会社",
     "office_name_kana": "ソンポジヤパンニツポンコウア カブシキガイシヤ"
-  },
-  "8546": {
-    "postcode": "5418546",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "prefecture_code": 27,
-    "city": "大阪市中央区",
-    "city_kana": "オオサカシチュウオウク",
-    "town": "南本町",
-    "town_kana": "ミナミホンマチ",
-    "street": "４丁目５−２０",
-    "office_name": "住宅金融公庫　大阪支店",
-    "office_name_kana": "ジユウタクキンユウコウコ オオサカシテン"
   },
   "8547": {
     "postcode": "5418547",
@@ -1029,6 +1029,19 @@
     "street": "１丁目６−６",
     "office_name": "オザックス　株式会社",
     "office_name_kana": "オザツクス カブシキガイシヤ"
+  },
+  "8630": {
+    "postcode": "5418630",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市中央区",
+    "city_kana": "オオサカシチュウオウク",
+    "town": "北浜",
+    "town_kana": "キタハマ",
+    "street": "三丁目５番２９号",
+    "office_name": "株式会社　大林組",
+    "office_name_kana": "カブシキガイシヤ オオバヤシグミ"
   },
   "8765": {
     "postcode": "5418765",
