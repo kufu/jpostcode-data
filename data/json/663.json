@@ -1442,6 +1442,19 @@
     "office_name": "関電システムソリューションズ　株式会社",
     "office_name_kana": "カンデンシステムソリユ-シヨンズ カブシキガイシヤ"
   },
+  "8530": {
+    "postcode": "6638530",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "西宮市",
+    "city_kana": "ニシノミヤシ",
+    "town": "鳴尾浜",
+    "town_kana": "ナルオハマ",
+    "street": "１丁目２０ＧＬＰ鳴尾浜４Ｆ",
+    "office_name": "アマゾン鳴尾浜　ＩＸＤ",
+    "office_name_kana": "アマゾンナルオハマ アイエツクスデイ-"
+  },
   "8545": {
     "postcode": "6638545",
     "prefecture": "兵庫県",

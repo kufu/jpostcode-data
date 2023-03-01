@@ -3314,6 +3314,19 @@
     "office_name": "東京コカコーラボトリング　株式会社",
     "office_name_kana": "トウキヨウコカコ-ラボトリング カブシキガイシヤ"
   },
+  "8515": {
+    "postcode": "1088515",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "三丁目９番１４号",
+    "office_name": "ＮＥＣネッツエスアイ　株式会社",
+    "office_name_kana": "エヌイ-シ-ネツツエスアイ カブシキガイシヤ"
+  },
   "8520": {
     "postcode": "1088520",
     "prefecture": "東京都",

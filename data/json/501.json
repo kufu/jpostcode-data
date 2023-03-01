@@ -2668,6 +2668,19 @@
     "office_name": "西濃建設　株式会社",
     "office_name_kana": "セイノウケンセツ カブシキガイシヤ"
   },
+  "0698": {
+    "postcode": "5010698",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "prefecture_code": 21,
+    "city": "揖斐郡揖斐川町",
+    "city_kana": "イビグンイビガワチョウ",
+    "town": "上南方",
+    "town_kana": "カミミナミガタ",
+    "street": "１５",
+    "office_name": "いび川農業協同組合　揖斐中央支店",
+    "office_name_kana": "イビガワノウギヨウキヨウドウクミアイ イビチユウオウシテン"
+  },
   "0701": {
     "postcode": "5010701",
     "prefecture": "岐阜県",

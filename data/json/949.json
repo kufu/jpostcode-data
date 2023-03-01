@@ -4124,6 +4124,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3430": {
+    "postcode": "9493430",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "上越市",
+    "city_kana": "ジョウエツシ",
+    "town": "吉川区大滝",
+    "town_kana": "ヨシカワクオオタキ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3431": {
     "postcode": "9493431",
     "prefecture": "新潟県",

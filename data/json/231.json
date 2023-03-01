@@ -1910,6 +1910,19 @@
     "office_name": "横浜中税務署",
     "office_name_kana": "ヨコハマナカゼイムシヨ"
   },
+  "8553": {
+    "postcode": "2318553",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "山下町",
+    "town_kana": "ヤマシタチョウ",
+    "street": "２６８番地",
+    "office_name": "独立行政法人　地域医療機能推進機構　横浜中央病院",
+    "office_name_kana": "ドクリツギヨウセイホウジン チイキイリヨウキノウスイシンキコウ ヨコハマチユウオウビヨウイン"
+  },
   "8555": {
     "postcode": "2318555",
     "prefecture": "神奈川県",

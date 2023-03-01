@@ -1938,6 +1938,34 @@
     "office_name": "株式会社　コングレ",
     "office_name_kana": "カブシキガイシヤ コングレ"
   },
+  "8277": [
+    {
+      "postcode": "1038277",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "中央区",
+      "city_kana": "チュウオウク",
+      "town": "日本橋",
+      "town_kana": "ニホンバシ",
+      "street": "２−１−３アーバンネット日本橋二丁目ビル４Ｆ",
+      "office_name": "株式会社　エヌ・ティ・ティ・ロジスコ",
+      "office_name_kana": "カブシキガイシヤ エヌ・テイ・テイ・ロジスコ"
+    },
+    {
+      "postcode": "1038277",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "中央区",
+      "city_kana": "チュウオウク",
+      "town": "日本橋",
+      "town_kana": "ニホンバシ",
+      "street": "２−１−３アーバンネット日本橋二丁目ビル４Ｆ",
+      "office_name": "株式会社　エヌ・ティ・ティ・ロジスコサービス",
+      "office_name_kana": "カブシキガイシヤ エヌ・テイ・テイ・ロジスコサ-ビス"
+    }
+  ],
   "8278": {
     "postcode": "1038278",
     "prefecture": "東京都",

@@ -701,6 +701,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0188": {
+    "postcode": "2720188",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "市川市",
+    "city_kana": "イチカワシ",
+    "town": "塩浜",
+    "town_kana": "シオハマ",
+    "street": "１−１２（三井不動産ロジスティックスパーク市川塩浜Ⅱ内）",
+    "office_name": "日本郵便輸送　株式会社　市川営業所",
+    "office_name_kana": "ニホンユウビンユソウ カブシキカイシヤ イチカワエイギヨウシヨ"
+  },
   "0193": {
     "postcode": "2720193",
     "prefecture": "千葉県",

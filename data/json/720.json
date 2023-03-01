@@ -2313,6 +2313,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2411": {
+    "postcode": "7202411",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "福山市",
+    "city_kana": "フクヤマシ",
+    "town": "北匠町",
+    "town_kana": "ホクショウチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2412": {
     "postcode": "7202412",
     "prefecture": "広島県",

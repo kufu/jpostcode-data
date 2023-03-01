@@ -1611,6 +1611,19 @@
     "office_name": "日本ミシュランタイヤ　株式会社　太田サイト",
     "office_name_kana": "ニホンミシユランタイヤ カブシキガイシヤ オオタサイト"
   },
+  "8680": {
+    "postcode": "3738680",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "prefecture_code": 10,
+    "city": "太田市",
+    "city_kana": "オオタシ",
+    "town": "浜町",
+    "town_kana": "ハマチョウ",
+    "street": "８１",
+    "office_name": "桐生信用金庫",
+    "office_name_kana": "キリユウシンヨウキンコ"
+  },
   "8686": {
     "postcode": "3738686",
     "prefecture": "群馬県",

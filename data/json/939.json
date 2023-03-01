@@ -10136,19 +10136,47 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "1814": {
-    "postcode": "9391814",
-    "prefecture": "富山県",
-    "prefecture_kana": "トヤマケン",
-    "prefecture_code": 16,
-    "city": "南砺市",
-    "city_kana": "ナントシ",
-    "town": "大宮野",
-    "town_kana": "オオミヤノ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "1814": [
+    {
+      "postcode": "9391814",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "prefecture_code": 16,
+      "city": "南砺市",
+      "city_kana": "ナントシ",
+      "town": "大宮野",
+      "town_kana": "オオミヤノ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "9391814",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "prefecture_code": 16,
+      "city": "南砺市",
+      "city_kana": "ナントシ",
+      "town": "城端",
+      "town_kana": "ジョウハナ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "9391814",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "prefecture_code": 16,
+      "city": "南砺市",
+      "city_kana": "ナントシ",
+      "town": "城端大宮野",
+      "town_kana": "ジョウハナオオミヤノ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "1815": [
     {
       "postcode": "9391815",

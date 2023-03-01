@@ -3275,19 +3275,6 @@
     "office_name": "株式会社　アイ・アールジャパン",
     "office_name_kana": "カブシキガイシヤ アイ・ア-ルジヤパン"
   },
-  "8668": {
-    "postcode": "1078668",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "赤坂",
-    "town_kana": "アカサカ",
-    "street": "７丁目６−１（赤坂郵便局私書箱第１５号）",
-    "office_name": "社団法人　農山漁村文化協会",
-    "office_name_kana": "シヤダンホウジン ノウサンギヨソンブンカキヨウカイ"
-  },
   "8674": {
     "postcode": "1078674",
     "prefecture": "東京都",
@@ -3339,6 +3326,19 @@
     "street": "５丁目１番２２号青山ライズスクエア（赤坂郵便局私書箱第８４号）",
     "office_name": "株式会社　ジェーシービー　青山本社",
     "office_name_kana": "カブシキガイシヤ ジエ-シ-ビ- アオヤマホンシヤ"
+  },
+  "8688": {
+    "postcode": "1078688",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "赤坂",
+    "town_kana": "アカサカ",
+    "street": "８−５−２６住友不動産青山ビル西館",
+    "office_name": "ＵＣＣ上島珈琲　株式会社",
+    "office_name_kana": "ユ-シ-シ-ウエシマコ-ヒ- (カ"
   },
   "8797": {
     "postcode": "1078797",
