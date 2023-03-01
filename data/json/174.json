@@ -818,6 +818,19 @@
     "office_name": "理研計器　株式会社",
     "office_name_kana": "リケンケイキ カブシキガイシヤ"
   },
+  "8787": {
+    "postcode": "1748787",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "板橋区",
+    "city_kana": "イタバシク",
+    "town": "小豆沢",
+    "town_kana": "アズサワ",
+    "street": "一丁目１１番６号",
+    "office_name": "警視庁　志村警察署",
+    "office_name_kana": "ケイシチヨウ シムラケイサツシヨ"
+  },
   "8860": {
     "postcode": "1748860",
     "prefecture": "東京都",
