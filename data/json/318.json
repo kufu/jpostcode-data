@@ -337,6 +337,19 @@
     "office_name": "東部大建工業　株式会社",
     "office_name_kana": "トウブダイケンコウギヨウ カブシキガイシヤ"
   },
+  "8505": {
+    "postcode": "3188505",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "高萩市",
+    "city_kana": "タカハギシ",
+    "town": "安良川",
+    "town_kana": "アラカワ",
+    "street": "字下ノ内３６３",
+    "office_name": "日本ケミコン　株式会社　高萩工場",
+    "office_name_kana": "ニツポンケミコン カブシキガイシヤ タカハギコウジヨウ"
+  },
   "8511": {
     "postcode": "3188511",
     "prefecture": "茨城県",

@@ -2300,9 +2300,9 @@
     "city_kana": "チュウオウク",
     "town": "日本橋室町",
     "town_kana": "ニホンバシムロマチ",
-    "street": "２丁目１−１",
-    "office_name": "電気化学工業　株式会社",
-    "office_name_kana": "デンキカガクコウギヨウ (カブ)"
+    "street": "二丁目１番１号",
+    "office_name": "デンカ　株式会社",
+    "office_name_kana": "デンカ カブシキカイシヤ"
   },
   "8339": {
     "postcode": "1038339",
@@ -2467,9 +2467,9 @@
     "prefecture_code": 13,
     "city": "中央区",
     "city_kana": "チュウオウク",
-    "town": "日本橋堀留町",
-    "town_kana": "ニホンバシホリドメチョウ",
-    "street": "２−２−１",
+    "town": "日本橋馬喰町",
+    "town_kana": "ニホンバシバクロチョウ",
+    "street": "１−１２−３",
     "office_name": "曽田香料　株式会社",
     "office_name_kana": "ソダコウリヨウ カブシキガイシヤ"
   },

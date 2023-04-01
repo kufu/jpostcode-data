@@ -6050,6 +6050,19 @@
     "office_name": "ミツワ電機　株式会社　長岡営業所",
     "office_name_kana": "ミツワデンキ カブシキカイシヤ ナガオカエイギヨウシヨ"
   },
+  "8530": {
+    "postcode": "9408530",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "長岡市",
+    "city_kana": "ナガオカシ",
+    "town": "学校町",
+    "town_kana": "ガッコウチョウ",
+    "street": "１丁目１番１号",
+    "office_name": "新潟大学附属学校部長岡附属学校",
+    "office_name_kana": "ニイガタダイガクフゾクガツコウブナガオカフゾクガツコウ"
+  },
   "8532": {
     "postcode": "9408532",
     "prefecture": "新潟県",

@@ -1223,6 +1223,19 @@
     "office_name": "中央大学　市ヶ谷田町キャンパス",
     "office_name_kana": "チユウオウダイガク イチガヤタマチキヤンパス"
   },
+  "8480": {
+    "postcode": "1628480",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "若松町",
+    "town_kana": "ワカマツチョウ",
+    "street": "２−２",
+    "office_name": "早稲田大学　先端生命医科学センター",
+    "office_name_kana": "ワセダダイガク センタンセイメイイカガクセンタ-"
+  },
   "8484": {
     "postcode": "1628484",
     "prefecture": "東京都",

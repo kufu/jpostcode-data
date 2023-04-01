@@ -883,6 +883,19 @@
     "office_name": "摂津水都信用金庫",
     "office_name_kana": "セツツスイトシンヨウキンコ"
   },
+  "8530": {
+    "postcode": "5618530",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "豊中市",
+    "city_kana": "トヨナカシ",
+    "town": "名神口",
+    "town_kana": "メイシングチ",
+    "street": "１丁目１０−１",
+    "office_name": "敷島製パン　株式会社　パスコウエストカンパニー大阪豊中工場",
+    "office_name_kana": "シキシマセイパン カブシキガイシヤ パスコウエストカンパニ-オオサカトヨナカコウジヨウ"
+  },
   "8550": {
     "postcode": "5618550",
     "prefecture": "大阪府",

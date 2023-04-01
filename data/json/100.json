@@ -7922,6 +7922,19 @@
     "office_name": "ＥＬＣジャパン　株式会社",
     "office_name_kana": "イ-エルシ-ジヤパン カブシキガイシヤ"
   },
+  "8335": {
+    "postcode": "1008335",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "丸の内",
+    "town_kana": "マルノウチ",
+    "street": "２−７−３",
+    "office_name": "三菱電機ビルソリューションズ　株式会社",
+    "office_name_kana": "ミツビシデンキビルソリユ-シヨンズ カブシキガイシヤ"
+  },
   "8338": {
     "postcode": "1008338",
     "prefecture": "東京都",

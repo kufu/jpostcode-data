@@ -1988,6 +1988,19 @@
     "office_name": "廣告社　株式会社",
     "office_name_kana": "コウコクシヤ カブシキガイシヤ"
   },
+  "8112": {
+    "postcode": "1048112",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中央区",
+    "city_kana": "チュウオウク",
+    "town": "銀座",
+    "town_kana": "ギンザ",
+    "street": "６−１８−２野村不動産銀座ビル",
+    "office_name": "独立行政法人　日本学生支援機構",
+    "office_name_kana": "ドクリツギヨウセイホウジン ニホンガクセイシエンキコウ"
+  },
   "8114": {
     "postcode": "1048114",
     "prefecture": "東京都",
@@ -2411,9 +2424,9 @@
     "prefecture_code": 13,
     "city": "中央区",
     "city_kana": "チュウオウク",
-    "town": "銀座",
-    "town_kana": "ギンザ",
-    "street": "７丁目１３−８第２丸高ビル",
+    "town": "明石町",
+    "town_kana": "アカシチョウ",
+    "street": "８−１聖路加タワー１階・１６階",
     "office_name": "日本年金機構　中央年金事務所",
     "office_name_kana": "ニツポンネンキンキコウ チユウオウネンキンジムシヨ"
   },
@@ -3843,7 +3856,7 @@
     "city_kana": "チュウオウク",
     "town": "八重洲",
     "town_kana": "ヤエス",
-    "street": "２丁目４番１号",
+    "street": "２丁目１番１号ＹＡＮＭＡＲＴＯＫＹＯ１０階",
     "office_name": "みずほ証券　株式会社",
     "office_name_kana": "ミズホシヨウケン カブシキガイシヤ"
   },
