@@ -2053,6 +2053,19 @@
     "office_name": "株式会社　トヨコン",
     "office_name_kana": "カブシキガイシヤ トヨコン"
   },
+  "8550": {
+    "postcode": "4428550",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "豊川市",
+    "city_kana": "トヨカワシ",
+    "town": "白鳥町",
+    "town_kana": "シロトリチョウ",
+    "street": "兎足１番１６号",
+    "office_name": "イオンモール豊川",
+    "office_name_kana": "イオンモ-ルトヨカワ"
+  },
   "8555": {
     "postcode": "4428555",
     "prefecture": "愛知県",

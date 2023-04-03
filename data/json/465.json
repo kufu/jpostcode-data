@@ -1364,6 +1364,19 @@
     "office_name": "名古屋市　栄市税事務所　上社出張所",
     "office_name_kana": "ナゴヤシ サカエシゼイジムシヨ カミヤシロシユツチヨウジヨ"
   },
+  "8650": {
+    "postcode": "4658650",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市名東区",
+    "city_kana": "ナゴヤシメイトウク",
+    "town": "勢子坊",
+    "town_kana": "セコボウ",
+    "street": "二丁目１５０１番地",
+    "office_name": "公立大学法人　名古屋市立大学　医学部付属　みらい光生病院",
+    "office_name_kana": "コウリツダイガクホウジン ナゴヤシリツダイガク イガクブフゾク ミライコウセイビヨウイン"
+  },
   "8651": {
     "postcode": "4658651",
     "prefecture": "愛知県",

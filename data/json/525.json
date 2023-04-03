@@ -701,6 +701,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0068": {
+    "postcode": "5250068",
+    "prefecture": "滋賀県",
+    "prefecture_kana": "シガケン",
+    "prefecture_code": 25,
+    "city": "草津市",
+    "city_kana": "クサツシ",
+    "town": "南草津プリムタウン",
+    "town_kana": "ミナミクサツプリムタウン",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0071": {
     "postcode": "5250071",
     "prefecture": "滋賀県",

@@ -571,19 +571,6 @@
     "office_name": "千葉大学　園芸学部",
     "office_name_kana": "チバダイガク エンゲイガクブ"
   },
-  "8511": {
-    "postcode": "2718511",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "prefecture_code": 12,
-    "city": "松戸市",
-    "city_kana": "マツドシ",
-    "town": "上本郷",
-    "town_kana": "カミホンゴウ",
-    "street": "４００５",
-    "office_name": "国保松戸市立病院",
-    "office_name_kana": "コクホマツドシリツビヨウイン"
-  },
   "8515": {
     "postcode": "2718515",
     "prefecture": "千葉県",
@@ -648,19 +635,6 @@
     "street": "５３−３",
     "office_name": "松戸税務署",
     "office_name_kana": "マツドゼイムシヨ"
-  },
-  "8550": {
-    "postcode": "2718550",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "prefecture_code": 12,
-    "city": "松戸市",
-    "city_kana": "マツドシ",
-    "town": "松戸",
-    "town_kana": "マツド",
-    "street": "１３０７−１",
-    "office_name": "伊勢丹　松戸店",
-    "office_name_kana": "イセタン マツドテン"
   },
   "8551": {
     "postcode": "2718551",

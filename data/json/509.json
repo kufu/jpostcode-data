@@ -1247,6 +1247,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0289": {
+    "postcode": "5090289",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "prefecture_code": 21,
+    "city": "可児市",
+    "city_kana": "カニシ",
+    "town": "塩河",
+    "town_kana": "シュウガ",
+    "street": "２２３２",
+    "office_name": "株式会社　ベルメゾンロジスコ　可児ディストリビューションセンター",
+    "office_name_kana": "カブシキガイシヤ ベルメゾンロジスコ カニデイストリビユ-シヨンセンタ-"
+  },
   "0292": {
     "postcode": "5090292",
     "prefecture": "岐阜県",

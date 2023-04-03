@@ -2755,6 +2755,19 @@
     "office_name": "旭硝子　株式会社　千葉工場",
     "office_name_kana": "アサヒガラス カブシキガイシヤ チバコウジヨウ"
   },
+  "8567": {
+    "postcode": "2908567",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "市原市",
+    "city_kana": "イチハラシ",
+    "town": "五井南海岸",
+    "town_kana": "ゴイミナミカイガン",
+    "street": "１４",
+    "office_name": "株式会社　レゾナック　五井事業所",
+    "office_name_kana": "カブシキガイシヤ レゾナツク ゴイジギヨウシヨ"
+  },
   "8577": {
     "postcode": "2908577",
     "prefecture": "千葉県",

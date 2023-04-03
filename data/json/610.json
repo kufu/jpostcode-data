@@ -168,6 +168,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0119": {
+    "postcode": "6100119",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "城陽市",
+    "city_kana": "ジョウヨウシ",
+    "town": "令涼つむぎ",
+    "town_kana": "レイリョウツムギ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0121": {
     "postcode": "6100121",
     "prefecture": "京都府",

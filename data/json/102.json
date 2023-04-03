@@ -1793,6 +1793,19 @@
     "office_name": "学校法人　東京家政学院",
     "office_name_kana": "ガツコウホウジン トウキヨウカセイガクイン"
   },
+  "8343": {
+    "postcode": "1028343",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "九段南",
+    "town_kana": "クダンミナミ",
+    "street": "一丁目６番５号",
+    "office_name": "株式会社　ミスミ　カスタマー・サービス・センター",
+    "office_name_kana": "カブシキガイシヤ ミスミ カスタマ-・サ-ビス・センタ-"
+  },
   "8349": {
     "postcode": "1028349",
     "prefecture": "東京都",
@@ -2625,6 +2638,19 @@
     "office_name": "株式会社　日本エディターズ",
     "office_name_kana": "カブシキガイシヤ ニホンエデイタ-ズ"
   },
+  "8513": {
+    "postcode": "1028513",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "九段南",
+    "town_kana": "クダンミナミ",
+    "street": "一丁目６番５号",
+    "office_name": "株式会社　ＤＴダイナミクス",
+    "office_name_kana": "カブシキガイシヤ デイ-テイ-ダイナミクス"
+  },
   "8515": {
     "postcode": "1028515",
     "prefecture": "東京都",
@@ -3118,6 +3144,32 @@
     "street": "６−１２紀尾井町福田家ビル",
     "office_name": "株式会社　インフィニトラベルインフォメーション",
     "office_name_kana": "カブシキカイシヤ インフイニトラベルインフオメ-シヨン"
+  },
+  "8582": {
+    "postcode": "1028582",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "九段南",
+    "town_kana": "クダンミナミ",
+    "street": "一丁目６番５号",
+    "office_name": "株式会社　ミスミ",
+    "office_name_kana": "カブシキガイシヤ ミスミ"
+  },
+  "8583": {
+    "postcode": "1028583",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "九段南",
+    "town_kana": "クダンミナミ",
+    "street": "一丁目６番５号",
+    "office_name": "株式会社　ミスミグループ本社",
+    "office_name_kana": "カブシキガイシヤ ミスミグル-プホンシヤ"
   },
   "8585": {
     "postcode": "1028585",

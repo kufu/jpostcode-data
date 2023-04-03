@@ -1906,11 +1906,11 @@
     "prefecture_code": 12,
     "city": "千葉市中央区",
     "city_kana": "チバシチュウオウク",
-    "town": "市場町",
-    "town_kana": "イチバチョウ",
-    "street": "１１−２",
-    "office_name": "財団法人　千葉県文化振興財団",
-    "office_name_kana": "ザイダンホウジン チバケンブンカシンコウザイダン"
+    "town": "青葉町",
+    "town_kana": "アオバチョウ",
+    "street": "９７７−１青葉の森公園芸術文化ホール内",
+    "office_name": "公益財団法人　千葉県文化振興財団",
+    "office_name_kana": "コウエキザイダンホウジン チバケンブンカシンコウザイダン"
   },
   "8662": {
     "postcode": "2608662",
@@ -2236,19 +2236,6 @@
     "street": "１−１",
     "office_name": "千葉市役所",
     "office_name_kana": "チバシヤクシヨ"
-  },
-  "8730": {
-    "postcode": "2608730",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "prefecture_code": 12,
-    "city": "千葉市中央区",
-    "city_kana": "チバシチュウオウク",
-    "town": "問屋町",
-    "town_kana": "トンヤチョウ",
-    "street": "１−３５千葉サポートサイドタワー１１Ｆ・１２Ｆ（千葉中央郵便局私書箱第８０号）",
-    "office_name": "千葉市教育委員会",
-    "office_name_kana": "チバシキヨウイクイインカイ"
   },
   "8733": {
     "postcode": "2608733",
