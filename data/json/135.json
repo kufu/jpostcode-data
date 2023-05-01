@@ -1247,6 +1247,19 @@
     "office_name": "株式会社　中央コンピュータシステム",
     "office_name_kana": "カブシキガイシヤ チユウオウコンピユ-タシステム"
   },
+  "8165": {
+    "postcode": "1358165",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "豊洲",
+    "town_kana": "トヨス",
+    "street": "５−６−３６豊洲プライムスクエア１１階",
+    "office_name": "株式会社　ＪＴＢパブリッシング",
+    "office_name_kana": "カブシキガイシヤ ジエイテイビ-パブリツシング"
+  },
   "8180": {
     "postcode": "1358180",
     "prefecture": "東京都",

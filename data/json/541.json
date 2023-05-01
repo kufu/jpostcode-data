@@ -500,11 +500,11 @@
     "prefecture_code": 27,
     "city": "大阪市中央区",
     "city_kana": "オオサカシチュウオウク",
-    "town": "高麗橋",
-    "town_kana": "コウライバシ",
-    "street": "４丁目６−２",
+    "town": "瓦町",
+    "town_kana": "カワラマチ",
+    "street": "３−６−５",
     "office_name": "株式会社　日建設計",
-    "office_name_kana": "カブシキガイシヤ ニツケンセツケイ"
+    "office_name_kana": "カブシキカイシヤ ニツケンセツケイ"
   },
   "8529": {
     "postcode": "5418529",
@@ -946,9 +946,9 @@
     "prefecture_code": 27,
     "city": "大阪市中央区",
     "city_kana": "オオサカシチュウオウク",
-    "town": "伏見町",
-    "town_kana": "フシミマチ",
-    "street": "４丁目４−１日生伏見町ビル本館５Ｆ",
+    "town": "今橋",
+    "town_kana": "イマバシ",
+    "street": "２丁目４番１０号淀屋橋北浜センタービル２階",
     "office_name": "株式会社　明成商会",
     "office_name_kana": "カブシキガイシヤ メイセイシヨウカイ"
   },
@@ -1024,9 +1024,9 @@
     "prefecture_code": 27,
     "city": "大阪市中央区",
     "city_kana": "オオサカシチュウオウク",
-    "town": "博労町",
-    "town_kana": "バクロウマチ",
-    "street": "１丁目６−６",
+    "town": "北浜",
+    "town_kana": "キタハマ",
+    "street": "３丁目５番２９号−１３階",
     "office_name": "オザックス　株式会社",
     "office_name_kana": "オザツクス カブシキガイシヤ"
   },

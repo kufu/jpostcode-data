@@ -675,6 +675,19 @@
     "office_name": "株式会社　日立製作所　情報・通信グループ",
     "office_name_kana": "カブシキカイシヤ ヒタチセイサクシヨ ジヨウホウ・ツウシングル-プ"
   },
+  "8574": {
+    "postcode": "1408574",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "南大井",
+    "town_kana": "ミナミオオイ",
+    "street": "六丁目２６−１大森ベルポートＡ館",
+    "office_name": "株式会社　日立製作所デジタルシステム＆サービス統括本部",
+    "office_name_kana": "カブシキカイシヤ ヒタチセイサクシヨデジタルシステムアンドサ-ビストウカツホンブ"
+  },
   "8576": {
     "postcode": "1408576",
     "prefecture": "東京都",

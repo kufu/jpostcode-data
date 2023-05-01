@@ -297,8 +297,8 @@
     "town": "大字沖田面",
     "town_kana": null,
     "street": "字沖中４６",
-    "office_name": "南部町役場　南部分庁舎",
-    "office_name_kana": "ナンブチヨウヤクバ ナンブブンチヨウシヤ"
+    "office_name": "南部支所",
+    "office_name_kana": "ナンブシシヨ"
   },
   "0198": {
     "postcode": "0390198",
@@ -596,21 +596,8 @@
     "town": "大字平",
     "town_kana": null,
     "street": "字広場２８番地１",
-    "office_name": "南部町役場　本庁舎",
-    "office_name_kana": "ナンブチヨウヤクバ ホンチヨウシヤ"
-  },
-  "0595": {
-    "postcode": "0390595",
-    "prefecture": "青森県",
-    "prefecture_kana": "アオモリケン",
-    "prefecture_code": 2,
-    "city": "三戸郡南部町",
-    "city_kana": "サンノヘグンナンブチョウ",
-    "town": "大字平",
-    "town_kana": null,
-    "street": "字広場２２",
-    "office_name": "南部町役場　名川分庁舎",
-    "office_name_kana": "ナンブチヨウヤクバ ナガワブンチヨウシヤ"
+    "office_name": "南部町役場",
+    "office_name_kana": "ナンブチヨウヤクバ"
   },
   "0606": [
     {
@@ -884,8 +871,8 @@
     "town": "大字苫米地",
     "town_kana": null,
     "street": "字下宿２３−１",
-    "office_name": "南部町役場",
-    "office_name_kana": "ナンブチヨウヤクバ"
+    "office_name": "福地支所",
+    "office_name_kana": "フクチシシヨ"
   },
   "1101": {
     "postcode": "0391101",

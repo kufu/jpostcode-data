@@ -584,6 +584,19 @@
     "office_name": "藤岡商工会議所",
     "office_name_kana": "フジオカシヨウコウカイギシヨ"
   },
+  "8507": {
+    "postcode": "3758507",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "prefecture_code": 10,
+    "city": "藤岡市",
+    "city_kana": "フジオカシ",
+    "town": "藤岡",
+    "town_kana": "フジオカ",
+    "street": "１３６０",
+    "office_name": "美里工業　株式会社",
+    "office_name_kana": "ミサトコウギヨウ カブシキカイシヤ"
+  },
   "8601": {
     "postcode": "3758601",
     "prefecture": "群馬県",

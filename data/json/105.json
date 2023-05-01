@@ -7335,6 +7335,19 @@
     "office_name": "三井食品　株式会社",
     "office_name_kana": "ミツイシヨクヒン カブシキガイシヤ"
   },
+  "8467": {
+    "postcode": "1058467",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "虎ノ門",
+    "town_kana": "トラノモン",
+    "street": "４丁目３−１３ヒューリック神谷町ビル５Ｆ",
+    "office_name": "日本国土開発　株式会社",
+    "office_name_kana": "ニホンコクドカイハツ (カ)"
+  },
   "8468": {
     "postcode": "1058468",
     "prefecture": "東京都",
@@ -8753,19 +8766,6 @@
     "street": "３丁目１番１号",
     "office_name": "八洲電機　株式会社",
     "office_name_kana": "ヤシマデンキ カブシキガイシヤ"
-  },
-  "8688": {
-    "postcode": "1058688",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "虎ノ門",
-    "town_kana": "トラノモン",
-    "street": "２丁目１−１（芝郵便局私書箱第５号）",
-    "office_name": "株式会社　商船三井",
-    "office_name_kana": "カブシキガイシヤ シヨウセンミツイ"
   },
   "8689": {
     "postcode": "1058689",

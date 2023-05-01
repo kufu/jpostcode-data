@@ -896,6 +896,19 @@
     "office_name": "有限会社　森野ウレタン社",
     "office_name_kana": "ユウゲンガイシヤ モリノウレタンシヤ"
   },
+  "8313": {
+    "postcode": "1608313",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "西新宿",
+    "town_kana": "ニシシンジュク",
+    "street": "１−２６−１",
+    "office_name": "損害保険ジャパン　株式会社",
+    "office_name_kana": "ソンガイホケンジヤパン カブシキガイシヤ"
+  },
   "8316": {
     "postcode": "1608316",
     "prefecture": "東京都",
@@ -1010,8 +1023,8 @@
     "town": "西新宿",
     "town_kana": "ニシシンジュク",
     "street": "１−２６−１",
-    "office_name": "損害保険ジャパン日本興亜　株式会社",
-    "office_name_kana": "ソンガイホケンジヤパンニツポンコウア カブシキガイシヤ"
+    "office_name": "損害保険ジャパン　株式会社",
+    "office_name_kana": "ソンガイホケンジヤパン カブシキガイシヤ"
   },
   "8341": {
     "postcode": "1608341",
