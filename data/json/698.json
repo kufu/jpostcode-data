@@ -1004,6 +1004,19 @@
     "office_name": "益田サティ",
     "office_name_kana": "マスダサテイ"
   },
+  "8506": {
+    "postcode": "6988506",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "prefecture_code": 32,
+    "city": "益田市",
+    "city_kana": "マスダシ",
+    "town": "駅前町",
+    "town_kana": "エキマエチョウ",
+    "street": "１７−１益田駅前ビルＥＡＧＡ３Ｆ",
+    "office_name": "ソニーネットワークコミュニケーションズ　株式会社",
+    "office_name_kana": "ソニ-ネツトワ-クコミユニケ-シヨンズ カブシキガイシヤ"
+  },
   "8650": {
     "postcode": "6988650",
     "prefecture": "島根県",

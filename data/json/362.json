@@ -1215,11 +1215,11 @@
     "prefecture_code": 11,
     "city": "北足立郡伊奈町",
     "city_kana": "キタアダチグンイナマチ",
-    "town": "大字小室",
-    "town_kana": null,
+    "town": "小室",
+    "town_kana": "コムロ",
     "street": "４４７２−１",
-    "office_name": "大日本インキ化学工業　株式会社　埼玉工場",
-    "office_name_kana": "ダイニツポンインキカガクコウギヨウ カブシキガイシヤ サイタマコウジヨウ"
+    "office_name": "ＤＩＣ　株式会社　埼玉工場",
+    "office_name_kana": "デイ-アイシ- カブシキガイシヤ サイタマコウジヨウ"
   },
   "8585": {
     "postcode": "3628585",

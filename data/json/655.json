@@ -675,6 +675,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0855": {
+    "postcode": "6550855",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "神戸市垂水区",
+    "city_kana": "コウベシタルミク",
+    "town": "みずき台",
+    "town_kana": "ミズキダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0861": {
     "postcode": "6550861",
     "prefecture": "兵庫県",

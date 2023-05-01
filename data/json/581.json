@@ -1730,6 +1730,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8502": {
+    "postcode": "5818502",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "八尾市",
+    "city_kana": "ヤオシ",
+    "town": "郡川",
+    "town_kana": "コオリガワ",
+    "street": "一丁目５５７ＧＬＰ八尾Ⅰ",
+    "office_name": "ＪＰ楽天ロジスティクス　株式会社　楽天フルフィルメントセンター八尾",
+    "office_name_kana": "ジエイピ-ラクテンロジステイクス カブシキガイシヤ ラクテンフルフイルメントセンタ-ヤオ"
+  },
   "8505": {
     "postcode": "5818505",
     "prefecture": "大阪府",

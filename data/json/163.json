@@ -8126,6 +8126,19 @@
     "office_name": "三菱ＵＦＪ信託銀行　株式会社　新宿支店",
     "office_name_kana": "ミツビシユ-エフジエイシンタクギンコウ カブシキガイシヤ シンジユクシテン"
   },
+  "8620": {
+    "postcode": "1638620",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "西新宿",
+    "town_kana": "ニシシンジュク",
+    "street": "１−２６−１",
+    "office_name": "損害保険ジャパン　株式会社",
+    "office_name_kana": "ソンガイホケンジヤパン カブシキガイシヤ"
+  },
   "8626": {
     "postcode": "1638626",
     "prefecture": "東京都",

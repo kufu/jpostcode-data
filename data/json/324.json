@@ -1789,9 +1789,9 @@
     "prefecture_code": 9,
     "city": "大田原市",
     "city_kana": "オオタワラシ",
-    "town": "中央",
-    "town_kana": "チュウオウ",
-    "street": "１丁目９−９",
+    "town": "本町",
+    "town_kana": "ホンチョウ",
+    "street": "２丁目２８２８−４",
     "office_name": "大田原県税事務所",
     "office_name_kana": "オオタワラケンゼイジムシヨ"
   },
@@ -1815,11 +1815,11 @@
     "prefecture_code": 9,
     "city": "大田原市",
     "city_kana": "オオタワラシ",
-    "town": "中央",
-    "town_kana": "チュウオウ",
-    "street": "１丁目９−９",
-    "office_name": "那須福祉事務所",
-    "office_name_kana": "ナスフクシジムシヨ"
+    "town": "本町",
+    "town_kana": "ホンチョウ",
+    "street": "２丁目２８２８−４",
+    "office_name": "栃木県県北健康福祉センター",
+    "office_name_kana": "トチギケンケンポクケンコウフクシセンタ-"
   },
   "8625": {
     "postcode": "3248625",
@@ -1872,5 +1872,18 @@
     "street": "１０８１番地４（大田原郵便局私書箱第１５号）",
     "office_name": "那須赤十字病院",
     "office_name_kana": "ナスセキジユウジビヨウイン"
+  },
+  "8765": {
+    "postcode": "3248765",
+    "prefecture": "栃木県",
+    "prefecture_kana": "トチギケン",
+    "prefecture_code": 9,
+    "city": "大田原市",
+    "city_kana": "オオタワラシ",
+    "town": "本町",
+    "town_kana": "ホンチョウ",
+    "street": "２−２８２８−４",
+    "office_name": "大田原土木事務所",
+    "office_name_kana": "オオタワラドボクジムシヨ"
   }
 }

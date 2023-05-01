@@ -1127,6 +1127,19 @@
       "office_name_kana": null
     }
   ],
+  "0117": {
+    "postcode": "9500117",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "新潟市江南区",
+    "city_kana": "ニイガタシコウナンク",
+    "town": "丸山ノ内善之丞組",
+    "town_kana": "マルヤマノウチゼンノジョウグミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0121": {
     "postcode": "9500121",
     "prefecture": "新潟県",
@@ -9160,19 +9173,6 @@
     "street": null,
     "office_name": null,
     "office_name_kana": null
-  },
-  "3393": {
-    "postcode": "9503393",
-    "prefecture": "新潟県",
-    "prefecture_kana": "ニイガタケン",
-    "prefecture_code": 15,
-    "city": "新潟市北区",
-    "city_kana": "ニイガタシキタク",
-    "town": "葛塚",
-    "town_kana": "クズツカ",
-    "street": "３１９７",
-    "office_name": "新潟市北区役所",
-    "office_name_kana": "ニイガタシキタクヤクシヨ"
   },
   "8501": {
     "postcode": "9508501",

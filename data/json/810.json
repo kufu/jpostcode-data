@@ -1403,19 +1403,34 @@
     "office_name": "西日本鉄道　株式会社",
     "office_name_kana": "ニシニツポンテツドウ カブシキガイシヤ"
   },
-  "8571": {
-    "postcode": "8108571",
-    "prefecture": "福岡県",
-    "prefecture_kana": "フクオカケン",
-    "prefecture_code": 40,
-    "city": "福岡市中央区",
-    "city_kana": "フクオカシチュウオウク",
-    "town": "長浜",
-    "town_kana": "ナガハマ",
-    "street": "１丁目１−１",
-    "office_name": "九州朝日放送　株式会社",
-    "office_name_kana": "キユウシユウアサヒホウソウ カブシキガイシヤ"
-  },
+  "8571": [
+    {
+      "postcode": "8108571",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "prefecture_code": 40,
+      "city": "福岡市中央区",
+      "city_kana": "フクオカシチュウオウク",
+      "town": "長浜",
+      "town_kana": "ナガハマ",
+      "street": "１丁目１−１",
+      "office_name": "九州朝日放送　株式会社",
+      "office_name_kana": "キユウシユウアサヒホウソウ カブシキガイシヤ"
+    },
+    {
+      "postcode": "8108571",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "prefecture_code": 40,
+      "city": "福岡市中央区",
+      "city_kana": "フクオカシチュウオウク",
+      "town": "長浜",
+      "town_kana": "ナガハマ",
+      "street": "１丁目１−１",
+      "office_name": "ＫＢＣグループホールディングス　株式会社",
+      "office_name_kana": "ケ-ビ-シ-グル-プホ-ルデイングス カブシキガイシヤ"
+    }
+  ],
   "8575": {
     "postcode": "8108575",
     "prefecture": "福岡県",

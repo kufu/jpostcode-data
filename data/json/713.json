@@ -259,6 +259,19 @@
     "office_name": "立花容器　株式会社",
     "office_name_kana": "タチバナヨウキ カブシキガイシヤ"
   },
+  "8588": {
+    "postcode": "7138588",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "prefecture_code": 33,
+    "city": "倉敷市",
+    "city_kana": "クラシキシ",
+    "town": "玉島八島",
+    "town_kana": "タマシマヤシマ",
+    "street": "１５４１番１",
+    "office_name": "作陽学園高等学校",
+    "office_name_kana": "サクヨウガクエンコウトウガツコウ"
+  },
   "8601": {
     "postcode": "7138601",
     "prefecture": "岡山県",
