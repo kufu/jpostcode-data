@@ -1904,9 +1904,9 @@
     "prefecture_code": 14,
     "city": "横浜市中区",
     "city_kana": "ヨコハマシナカク",
-    "town": "山下町",
-    "town_kana": "ヤマシタチョウ",
-    "street": "３７−９",
+    "town": "新港",
+    "town_kana": "シンコウ",
+    "street": "一丁目６番１号よこはま新港合同庁舎２階・３階",
     "office_name": "横浜中税務署",
     "office_name_kana": "ヨコハマナカゼイムシヨ"
   },
@@ -2130,6 +2130,19 @@
     "street": "１２",
     "office_name": "三菱重工業　株式会社　横浜製作所　本牧工場",
     "office_name_kana": "ミツビシジユウコウギヨウ カブシキカイシヤ ヨコハマセイサクシヨ ホンモクコウジヨウ"
+  },
+  "8750": {
+    "postcode": "2318750",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "新港",
+    "town_kana": "シンコウ",
+    "street": "一丁目６番１号よこはま新港合同庁舎２階・３階",
+    "office_name": "横浜中税務署",
+    "office_name_kana": "ヨコハマナカゼイムシヨ"
   },
   "8771": {
     "postcode": "2318771",

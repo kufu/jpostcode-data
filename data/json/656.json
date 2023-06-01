@@ -3097,6 +3097,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2133": {
+    "postcode": "6562133",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "淡路市",
+    "city_kana": "アワジシ",
+    "town": "志筑新浜",
+    "town_kana": "シヅキニイハマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2141": {
     "postcode": "6562141",
     "prefecture": "兵庫県",

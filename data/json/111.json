@@ -1000,6 +1000,19 @@
     "office_name": "株式会社　トークツ",
     "office_name_kana": "カブシキガイシヤ ト-クツ"
   },
+  "8644": {
+    "postcode": "1118644",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "台東区",
+    "city_kana": "タイトウク",
+    "town": "蔵前",
+    "town_kana": "クラマエ",
+    "street": "１−３−２８",
+    "office_name": "ライオン　株式会社",
+    "office_name_kana": "ライオン カブシキガイシヤ"
+  },
   "8648": {
     "postcode": "1118648",
     "prefecture": "東京都",

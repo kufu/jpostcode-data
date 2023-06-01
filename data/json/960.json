@@ -6197,6 +6197,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8058": {
+    "postcode": "9608058",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "福島市",
+    "city_kana": "フクシマシ",
+    "town": "下谷地",
+    "town_kana": "シモヤジ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8061": {
     "postcode": "9608061",
     "prefecture": "福島県",

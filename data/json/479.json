@@ -1871,6 +1871,19 @@
     "office_name": "ＩＮＡＸライブミュージアム",
     "office_name_kana": "イナツクスライブミユ-ジアム"
   },
+  "8587": {
+    "postcode": "4798587",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "常滑市",
+    "city_kana": "トコナメシ",
+    "town": "奥栄町",
+    "town_kana": "オクエイチョウ",
+    "street": "１丁目４７番地",
+    "office_name": "株式会社　ＬＩＸＩＬ　常滑東工場",
+    "office_name_kana": "カブシキガイシヤ リクシル トコナメヒガシコウジヨウ"
+  },
   "8588": {
     "postcode": "4798588",
     "prefecture": "愛知県",
@@ -1917,9 +1930,9 @@
     "prefecture_code": 23,
     "city": "常滑市",
     "city_kana": "トコナメシ",
-    "town": "新開町",
-    "town_kana": "シンカイチョウ",
-    "street": "４丁目１（常滑郵便局私書箱第１号）",
+    "town": "飛香台",
+    "town_kana": "アスカダイ",
+    "street": "３丁目３番地の５（常滑郵便局私書箱第１号）",
     "office_name": "常滑市役所",
     "office_name_kana": "トコナメシヤクシヨ"
   },

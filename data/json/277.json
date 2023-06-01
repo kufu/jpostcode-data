@@ -1839,9 +1839,9 @@
     "prefecture_code": 12,
     "city": "柏市",
     "city_kana": "カシワシ",
-    "town": "あけぼの",
-    "town_kana": "アケボノ",
-    "street": "３丁目８−２０",
+    "town": "篠籠田",
+    "town_kana": "シコダ",
+    "street": "６１７番地",
     "office_name": "柏厚生総合病院",
     "office_name_kana": "カシワコウセイソウゴウビヨウイン"
   },
@@ -1906,9 +1906,35 @@
     "city_kana": "カシワシ",
     "town": "柏の葉",
     "town_kana": "カシワノハ",
-    "street": "５丁目１番５号",
-    "office_name": "東京大学大学院　新領域創成科学研究科",
-    "office_name_kana": "トウキヨウダイガクダイガクイン シンリヨウイキソウセイカガクケンキユウカ"
+    "street": "５−１−５",
+    "office_name": "東京大学大学院　新領域創成科学研究科基盤棟",
+    "office_name_kana": "トウキヨウダイガクダイガクイン シンリヨウイキソウセイカガクケンキユウカキバントウ"
+  },
+  "8562": {
+    "postcode": "2778562",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "柏市",
+    "city_kana": "カシワシ",
+    "town": "柏の葉",
+    "town_kana": "カシワノハ",
+    "street": "５−１−５",
+    "office_name": "東京大学大学院　新領域創成科学研究科生命棟",
+    "office_name_kana": "トウキヨウダイガクダイガクイン シンリヨウイキソウセイカガクケンキユウカセイメイトウ"
+  },
+  "8563": {
+    "postcode": "2778563",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "柏市",
+    "city_kana": "カシワシ",
+    "town": "柏の葉",
+    "town_kana": "カシワノハ",
+    "street": "５−１−５",
+    "office_name": "東京大学大学院　新領域創成科学研究科環境棟",
+    "office_name_kana": "トウキヨウダイガクダイガクイン シンリヨウイキソウセイカガクケンキユウカカンキヨウトウ"
   },
   "8564": {
     "postcode": "2778564",

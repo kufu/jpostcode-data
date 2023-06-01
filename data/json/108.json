@@ -2482,6 +2482,19 @@
     "office_name": "港区　みなと保健所",
     "office_name_kana": "ミナトク ミナトホケンジヨ"
   },
+  "8316": {
+    "postcode": "1088316",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "三田",
+    "town_kana": "ミタ",
+    "street": "三丁目５番１９号",
+    "office_name": "京セラ　株式会社　東京事業所",
+    "office_name_kana": "キヨウセラ カブシキガイシヤ トウキヨウジギヨウシヨ"
+  },
   "8322": {
     "postcode": "1088322",
     "prefecture": "東京都",
@@ -2547,19 +2560,6 @@
     "office_name": "国際医療福祉大学附属三田病院",
     "office_name_kana": "コクサイイリヨウフクシダイガクフゾクミタビヨウイン"
   },
-  "8330": {
-    "postcode": "1088330",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "三田",
-    "town_kana": "ミタ",
-    "street": "３丁目９番６号",
-    "office_name": "ミネベアミツミ　株式会社",
-    "office_name_kana": "ミネベアミツミ カブシキガイシヤ"
-  },
   "8333": {
     "postcode": "1088333",
     "prefecture": "東京都",
@@ -2585,19 +2585,6 @@
     "street": "３丁目１−１２",
     "office_name": "立川ブラインド工業　株式会社",
     "office_name_kana": "タチカワブラインドコウギヨウ カブシキガイシヤ"
-  },
-  "8338": {
-    "postcode": "1088338",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "三田",
-    "town_kana": "ミタ",
-    "street": "１丁目４−２８三田国際ビル",
-    "office_name": "ＮＥＣネクサソリューションズ（株）",
-    "office_name_kana": "エヌイ-シ-ネクサソリユ-シヨンズカブシキガイシヤ"
   },
   "8341": {
     "postcode": "1088341",

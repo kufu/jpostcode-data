@@ -1273,19 +1273,6 @@
     "office_name": "株式会社　木曽路",
     "office_name_kana": "カブシキガイシヤ キソジ"
   },
-  "8508": {
-    "postcode": "4668508",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市昭和区",
-    "city_kana": "ナゴヤシショウワク",
-    "town": "高辻町",
-    "town_kana": "タカツジチョウ",
-    "street": "６番８号",
-    "office_name": "トヨタカローラ愛豊　株式会社",
-    "office_name_kana": "トヨタカロ-ラアイホウ カブシキガイシヤ"
-  },
   "8510": {
     "postcode": "4668510",
     "prefecture": "愛知県",
@@ -1546,19 +1533,6 @@
     "office_name": "パイロットインキ　株式会社",
     "office_name_kana": "パイロツトインキ カブシキガイシヤ"
   },
-  "8610": {
-    "postcode": "4668610",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市昭和区",
-    "city_kana": "ナゴヤシショウワク",
-    "town": "高辻町",
-    "town_kana": "タカツジチョウ",
-    "street": "６番８号",
-    "office_name": "ネッツトヨタ愛知　株式会社",
-    "office_name_kana": "ネツツトヨタアイチ カブシキガイシヤ"
-  },
   "8630": {
     "postcode": "4668630",
     "prefecture": "愛知県",
@@ -1712,8 +1686,8 @@
     "town": "高辻町",
     "town_kana": "タカツジチョウ",
     "street": "６番８号",
-    "office_name": "ネッツトヨタ東海　株式会社",
-    "office_name_kana": "ネツツトヨタトウカイ カブシキガイシヤ"
+    "office_name": "愛知トヨタＥＡＳＴ　株式会社",
+    "office_name_kana": "アイチトヨタイ-スト カブシキガイシヤ"
   },
   "8701": {
     "postcode": "4668701",
@@ -1724,9 +1698,9 @@
     "city_kana": "ナゴヤシショウワク",
     "town": "高辻町",
     "town_kana": "タカツジチョウ",
-    "street": "６−８（昭和郵便局私書箱第３９号）",
-    "office_name": "愛知トヨタ自動車　株式会社",
-    "office_name_kana": "アイチトヨタジドウシヤ カブシキガイシヤ"
+    "street": "６番８号",
+    "office_name": "愛知トヨタＷＥＳＴ　株式会社",
+    "office_name_kana": "アイチトヨタウエスト カブシキガイシヤ"
   },
   "8707": {
     "postcode": "4668707",

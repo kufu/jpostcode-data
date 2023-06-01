@@ -1665,6 +1665,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0393": {
+    "postcode": "3670393",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "児玉郡神川町",
+    "city_kana": "コダマグンカミカワマチ",
+    "town": "大字下阿久原",
+    "town_kana": null,
+    "street": "１０８８",
+    "office_name": "神川町神泉総合支所",
+    "office_name_kana": "カミカワマチカミイズミソウゴウシシヨ"
+  },
   "8501": {
     "postcode": "3678501",
     "prefecture": "埼玉県",

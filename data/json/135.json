@@ -1364,6 +1364,19 @@
     "office_name": "東京製綱　株式会社",
     "office_name_kana": "トウキヨウセイコウ カブシキカイシヤ"
   },
+  "8308": {
+    "postcode": "1358308",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "枝川",
+    "town_kana": "エダガワ",
+    "street": "１丁目９番６号住友不動産豊洲ビル",
+    "office_name": "クラブツーリズム　株式会社",
+    "office_name_kana": "クラブツ-リズム カブシキカイシヤ"
+  },
   "8310": {
     "postcode": "1358310",
     "prefecture": "東京都",
@@ -3120,5 +3133,18 @@
     "street": "３丁目２−１６（深川郵便局私書箱第６号）",
     "office_name": "石川島播磨重工業　株式会社　豊洲総合事務所",
     "office_name_kana": "イシカワジマハリマジユウコウギヨウ カブシキガイシヤ トヨスソウゴウジムシヨ"
+  },
+  "8797": {
+    "postcode": "1358797",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "東陽",
+    "town_kana": "トウヨウ",
+    "street": "５−２９−３０ニッテイビル東陽",
+    "office_name": "日本郵便　株式会社　東京支社",
+    "office_name_kana": "ニツポンユウビン カブシキガイシヤ トウキヨウシシヤ"
   }
 }
