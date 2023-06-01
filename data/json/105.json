@@ -6577,6 +6577,19 @@
     "office_name": "川崎重工業　株式会社",
     "office_name_kana": "カワサキジユウコウギヨウ カブシキガイシヤ"
   },
+  "8317": {
+    "postcode": "1058317",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "東新橋",
+    "town_kana": "ヒガシシンバシ",
+    "street": "１−９−３",
+    "office_name": "ミネベアミツミ　株式会社",
+    "office_name_kana": "ミネベアミツミ カブシキガイシヤ"
+  },
   "8318": {
     "postcode": "1058318",
     "prefecture": "東京都",
@@ -8374,19 +8387,6 @@
     "street": "６丁目２１−６",
     "office_name": "片岡物産　株式会社",
     "office_name_kana": "カタオカブツサン カブシキガイシヤ"
-  },
-  "8617": {
-    "postcode": "1058617",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "新橋",
-    "town_kana": "シンバシ",
-    "street": "６−１９−１５",
-    "office_name": "日本郵政　株式会社　宿泊事業部",
-    "office_name_kana": "ニツポンユウセイ カブシキガイシヤ シユクハクジギヨウブ"
   },
   "8620": {
     "postcode": "1058620",

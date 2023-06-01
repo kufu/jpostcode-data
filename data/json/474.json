@@ -779,6 +779,19 @@
     "office_name": "（株）　名機製作所",
     "office_name_kana": "(カブ) メイキセイサクシヨ"
   },
+  "8668": {
+    "postcode": "4748668",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "大府市",
+    "city_kana": "オオブシ",
+    "town": "江端町",
+    "town_kana": "エバタチョウ",
+    "street": "一丁目一番地",
+    "office_name": "株式会社　豊田自動織機　大府工場",
+    "office_name_kana": "カブシキガイシヤ トヨタジドウシヨツキ オオブコウジヨウ"
+  },
   "8686": {
     "postcode": "4748686",
     "prefecture": "愛知県",
