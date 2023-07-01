@@ -857,6 +857,19 @@
     "office_name": "日本アイ・ビー・エム　株式会社　幕張事業所",
     "office_name_kana": "ニホンアイ・ビ-・エム カブシキガイシヤ マクハリジギヨウシヨ"
   },
+  "8528": {
+    "postcode": "2618528",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "千葉市美浜区",
+    "city_kana": "チバシミハマク",
+    "town": "新港",
+    "town_kana": "シンミナト",
+    "street": "６８−１",
+    "office_name": "アマゾン千葉みなとＦＣ",
+    "office_name_kana": "アマゾンチバミナトエフシ-"
+  },
   "8530": {
     "postcode": "2618530",
     "prefecture": "千葉県",

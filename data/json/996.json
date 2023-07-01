@@ -768,6 +768,19 @@
     "office_name": "新庄市役所",
     "office_name_kana": "シンジヨウシヤクシヨ"
   },
+  "8585": {
+    "postcode": "9968585",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "prefecture_code": 6,
+    "city": "新庄市",
+    "city_kana": "シンジョウシ",
+    "town": "金沢",
+    "town_kana": "カナザワ",
+    "street": "７２０番地の１",
+    "office_name": "山形県立　新庄病院",
+    "office_name_kana": "ヤマガタケンリツ シンジヨウビヨウイン"
+  },
   "8602": {
     "postcode": "9968602",
     "prefecture": "山形県",

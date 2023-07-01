@@ -601,6 +601,19 @@
     "office_name": "稚内信用金庫　本店",
     "office_name_kana": "ワツカナイシンヨウキンコ ホンテン"
   },
+  "8678": {
+    "postcode": "0978678",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "稚内市",
+    "city_kana": "ワッカナイシ",
+    "town": "栄",
+    "town_kana": "サカエ",
+    "street": "１丁目４番１号",
+    "office_name": "北海道稚内高等学校",
+    "office_name_kana": "ホツカイドウワツカナイコウトウガツコウ"
+  },
   "8686": {
     "postcode": "0978686",
     "prefecture": "北海道",

@@ -1546,6 +1546,19 @@
     "office_name": "協和発酵工業　株式会社　防府工場",
     "office_name_kana": "キヨウワハツコウコウギヨウ カブシキガイシヤ ホウフコウジヨウ"
   },
+  "8533": {
+    "postcode": "7478533",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": 35,
+    "city": "防府市",
+    "city_kana": "ホウフシ",
+    "town": "寿町",
+    "town_kana": "コトブキチョウ",
+    "street": "６番３９号防府地方合同庁舎",
+    "office_name": "広島国税局業務センター防府分室",
+    "office_name_kana": "ヒロシマコクゼイキヨクギヨウムセンタ-ホウフブンシツ"
+  },
   "8555": {
     "postcode": "7478555",
     "prefecture": "山口県",
