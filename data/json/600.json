@@ -11147,6 +11147,19 @@
     "office_name": "株式会社　高島屋　京都店",
     "office_name_kana": "カブシキカシヤ タカシマヤ キヨウトテン"
   },
+  "8522": {
+    "postcode": "6008522",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "京都市下京区",
+    "city_kana": "キョウトシシモギョウク",
+    "town": "四条通麩屋町西入",
+    "town_kana": null,
+    "street": "立売東町２８−２大和証券京都ビル２階",
+    "office_name": "全国健康保険協会　京都支部",
+    "office_name_kana": "ゼンコクケンコウホケンキヨウカイ キヨウトシブ"
+  },
   "8525": {
     "postcode": "6008525",
     "prefecture": "京都府",

@@ -779,6 +779,58 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0081": {
+    "postcode": "8960081",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "prefecture_code": 46,
+    "city": "いちき串木野市",
+    "city_kana": "イチキクシキノシ",
+    "town": "大薗",
+    "town_kana": "オオゾノ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0082": {
+    "postcode": "8960082",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "prefecture_code": 46,
+    "city": "いちき串木野市",
+    "city_kana": "イチキクシキノシ",
+    "town": "小薗",
+    "town_kana": "コゾノ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0083": {
+    "postcode": "8960083",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "prefecture_code": 46,
+    "city": "いちき串木野市",
+    "city_kana": "イチキクシキノシ",
+    "town": "麓",
+    "town_kana": "フモト",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0084": {
+    "postcode": "8960084",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "prefecture_code": 46,
+    "city": "いちき串木野市",
+    "city_kana": "イチキクシキノシ",
+    "town": "浅山",
+    "town_kana": "アサヤマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1101": {
     "postcode": "8961101",
     "prefecture": "鹿児島県",

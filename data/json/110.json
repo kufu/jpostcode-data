@@ -1104,6 +1104,19 @@
     "office_name": "財団法人　ライフ・エクステンション研究所　附属　永寿総合病院",
     "office_name_kana": "ザイダンホウジン ライフ・エクステンシヨンケンキユウジヨ フゾク エイジユソウゴウビヨウイン"
   },
+  "8646": {
+    "postcode": "1108646",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "台東区",
+    "city_kana": "タイトウク",
+    "town": "東上野",
+    "town_kana": "ヒガシウエノ",
+    "street": "１−７−２",
+    "office_name": "全国印刷工業健康保険組合",
+    "office_name_kana": "ゼンコクインサツコウギヨウケンコウホケンクミアイ"
+  },
   "8653": {
     "postcode": "1108653",
     "prefecture": "東京都",

@@ -3169,6 +3169,19 @@
     "office_name": "オリオン電機　株式会社",
     "office_name_kana": "オリオンデンキ カブシキガイシヤ"
   },
+  "8577": {
+    "postcode": "9158577",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "prefecture_code": 18,
+    "city": "越前市",
+    "city_kana": "エチゼンシ",
+    "town": "妙法寺町",
+    "town_kana": "ミョウホウジチョウ",
+    "street": "２９号２",
+    "office_name": "キョーセー　株式会社",
+    "office_name_kana": "キヨ-セ- カブシキガイシヤ"
+  },
   "8585": {
     "postcode": "9158585",
     "prefecture": "福井県",
