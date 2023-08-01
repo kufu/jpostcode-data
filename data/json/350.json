@@ -6085,6 +6085,19 @@
     "office_name": "狭山市役所",
     "office_name_kana": "サヤマシヤクシヨ"
   },
+  "1383": {
+    "postcode": "3501383",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "狭山市",
+    "city_kana": "サヤマシ",
+    "town": "広瀬台",
+    "town_kana": "ヒロセダイ",
+    "street": "２丁目４−３",
+    "office_name": "アマゾン狭山広瀬台ＦＣ",
+    "office_name_kana": "アマゾンサヤマヒロセダイエフシ-"
+  },
   "1385": {
     "postcode": "3501385",
     "prefecture": "埼玉県",

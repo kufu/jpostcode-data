@@ -2014,6 +2014,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0899": {
+    "postcode": "4890899",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "瀬戸市",
+    "city_kana": "セトシ",
+    "town": "塩草が丘",
+    "town_kana": "シオクサガオカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0901": {
     "postcode": "4890901",
     "prefecture": "愛知県",

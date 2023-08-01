@@ -5324,6 +5324,45 @@
     "office_name": "野洲市役所　本庁舎",
     "office_name_kana": "ヤスシヤクシヨ ホンチヨウシヤ"
   },
+  "2401": {
+    "postcode": "5202401",
+    "prefecture": "滋賀県",
+    "prefecture_kana": "シガケン",
+    "prefecture_code": 25,
+    "city": "野洲市",
+    "city_kana": "ヤスシ",
+    "town": "吉川",
+    "town_kana": "ヨシカワ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "2402": {
+    "postcode": "5202402",
+    "prefecture": "滋賀県",
+    "prefecture_kana": "シガケン",
+    "prefecture_code": 25,
+    "city": "野洲市",
+    "city_kana": "ヤスシ",
+    "town": "菖蒲",
+    "town_kana": "アヤメ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "2403": {
+    "postcode": "5202403",
+    "prefecture": "滋賀県",
+    "prefecture_kana": "シガケン",
+    "prefecture_code": 25,
+    "city": "野洲市",
+    "city_kana": "ヤスシ",
+    "town": "喜合",
+    "town_kana": "キゴウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2411": {
     "postcode": "5202411",
     "prefecture": "滋賀県",

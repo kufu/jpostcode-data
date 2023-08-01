@@ -1707,6 +1707,19 @@
     "office_name": "株式会社　熊本銀行　中央支店",
     "office_name_kana": "カブシキガイシヤ クマモトギンコウ チユウオウシテン"
   },
+  "8502": {
+    "postcode": "8608502",
+    "prefecture": "熊本県",
+    "prefecture_kana": "クマモトケン",
+    "prefecture_code": 43,
+    "city": "熊本市中央区",
+    "city_kana": "クマモトシチュウオウク",
+    "town": "辛島町",
+    "town_kana": "カラシマチョウ",
+    "street": "５−１日本生命熊本ビル１０階",
+    "office_name": "全国健康保険協会　熊本支部",
+    "office_name_kana": "ゼンコクケンコウホケンキヨウカイ クマモトシブ"
+  },
   "8503": {
     "postcode": "8608503",
     "prefecture": "熊本県",

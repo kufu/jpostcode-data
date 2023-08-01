@@ -1728,6 +1728,19 @@
     "office_name": "株式会社　神奈川新聞社",
     "office_name_kana": "カブシキガイシヤ カナガワシンブンシヤ"
   },
+  "8455": {
+    "postcode": "2318455",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "住吉町",
+    "town_kana": "スミヨシチョウ",
+    "street": "４−４２−１",
+    "office_name": "横浜市市民文化会館関内ホール",
+    "office_name_kana": "ヨコハマシシミンブンカカイカンカンナイホ-ル"
+  },
   "8464": {
     "postcode": "2318464",
     "prefecture": "神奈川県",
