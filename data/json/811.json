@@ -2666,6 +2666,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2322": {
+    "postcode": "8112322",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糟屋郡粕屋町",
+    "city_kana": "カスヤグンカスヤマチ",
+    "town": "戸原北",
+    "town_kana": "トバラキタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2392": {
     "postcode": "8112392",
     "prefecture": "福岡県",

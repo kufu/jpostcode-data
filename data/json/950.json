@@ -10370,6 +10370,19 @@
     "office_name": "（株）　ニューズ・ライン",
     "office_name_kana": "カブシキガイシヤ ニユ-ズ・ライン"
   },
+  "8701": {
+    "postcode": "9508701",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "新潟市東区",
+    "city_kana": "ニイガタシヒガシク",
+    "town": "紫竹卸新町",
+    "town_kana": "シチクオロシシンマチ",
+    "street": "１８０８番地２２",
+    "office_name": "クロスウィルメディカル　株式会社",
+    "office_name_kana": "クロスウイルメデイカル カブシキガイシヤ"
+  },
   "8707": {
     "postcode": "9508707",
     "prefecture": "新潟県",

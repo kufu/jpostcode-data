@@ -1156,6 +1156,19 @@
     "office_name": "泉州電業　株式会社　札幌支店",
     "office_name_kana": "センシユウデンギヨウ カブシキカイシヤ サツポロシテン"
   },
+  "8511": {
+    "postcode": "0078511",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "札幌市東区",
+    "city_kana": "サッポロシヒガシク",
+    "town": "丘珠町",
+    "town_kana": "オカダマチョウ",
+    "street": "５７３−２７",
+    "office_name": "サツラク農業協同組合　市乳事業部",
+    "office_name_kana": "サツラクノウギヨウキヨウドウクミアイ シニユウジギヨウブ"
+  },
   "8553": {
     "postcode": "0078553",
     "prefecture": "北海道",

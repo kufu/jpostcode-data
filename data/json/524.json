@@ -594,45 +594,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0201": {
-    "postcode": "5240201",
-    "prefecture": "滋賀県",
-    "prefecture_kana": "シガケン",
-    "prefecture_code": 25,
-    "city": "野洲市",
-    "city_kana": "ヤスシ",
-    "town": "吉川",
-    "town_kana": "ヨシカワ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "0202": {
-    "postcode": "5240202",
-    "prefecture": "滋賀県",
-    "prefecture_kana": "シガケン",
-    "prefecture_code": 25,
-    "city": "野洲市",
-    "city_kana": "ヤスシ",
-    "town": "菖蒲",
-    "town_kana": "アヤメ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "0203": {
-    "postcode": "5240203",
-    "prefecture": "滋賀県",
-    "prefecture_kana": "シガケン",
-    "prefecture_code": 25,
-    "city": "野洲市",
-    "city_kana": "ヤスシ",
-    "town": "喜合",
-    "town_kana": "キゴウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "0211": {
     "postcode": "5240211",
     "prefecture": "滋賀県",

@@ -2586,19 +2586,6 @@
     "office_name": "株式会社　三越　銀座店",
     "office_name_kana": "カブシキガイシヤ ミツコシ ギンザテン"
   },
-  "8215": {
-    "postcode": "1048215",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "晴海",
-    "town_kana": "ハルミ",
-    "street": "２丁目５−２４晴海センタービル３階",
-    "office_name": "株式会社　ピーエス三菱　本社",
-    "office_name_kana": "カブシキガイシヤ ピ-エスミツビシ ホンシヤ"
-  },
   "8218": {
     "postcode": "1048218",
     "prefecture": "東京都",
@@ -4275,19 +4262,6 @@
     "street": "２丁目５−２４晴海センタービル１０階",
     "office_name": "株式会社　サントリー・ショッピング・クラブ",
     "office_name_kana": "カブシキガイシヤ サントリ-・シヨツピング・クラブ"
-  },
-  "8572": {
-    "postcode": "1048572",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "晴海",
-    "town_kana": "ハルミ",
-    "street": "２丁目５−２４晴海センタービル２階",
-    "office_name": "株式会社　ピーエス三菱　東京土木・建築支店",
-    "office_name_kana": "カブシキガイシヤ ピ-エスミツビシ トウキヨウドボク・ケンチクシテン"
   },
   "8580": {
     "postcode": "1048580",

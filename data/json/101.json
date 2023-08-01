@@ -710,7 +710,7 @@
     "city_kana": "チヨダク",
     "town": "神田駿河台",
     "town_kana": "カンダスルガダイ",
-    "street": "４−６御茶ノ水ソラシティ",
+    "street": "４−６",
     "office_name": "杏林製薬　株式会社",
     "office_name_kana": "キヨウリンセイヤク カブシキガイシヤ"
   },
@@ -726,19 +726,6 @@
     "street": "２丁目５−１７",
     "office_name": "学校法人　駿河台学園　駿台予備学校",
     "office_name_kana": "ガツコウホウジン スルガダイガクエン スンダイヨビガツコウ"
-  },
-  "8315": {
-    "postcode": "1018315",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "神田駿河台",
-    "town_kana": "カンダスルガダイ",
-    "street": "２丁目５−１５",
-    "office_name": "労働金庫会館",
-    "office_name_kana": "ロウドウキンコカイカン"
   },
   "8318": {
     "postcode": "1018318",
@@ -1312,6 +1299,19 @@
     "office_name": "日清製粉　株式会社",
     "office_name_kana": "ニツシンセイフン カブシキガイシヤ"
   },
+  "8443": {
+    "postcode": "1018443",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "神田錦町",
+    "town_kana": "カンダニシキチョウ",
+    "street": "２丁目３",
+    "office_name": "みずほリサーチ＆テクノロジーズ　株式会社",
+    "office_name_kana": "ミズホリサ-チアンドテクノロジ-ズ カブシキガイシヤ"
+  },
   "8444": {
     "postcode": "1018444",
     "prefecture": "東京都",
@@ -1506,19 +1506,6 @@
     "street": "２丁目１",
     "office_name": "株式会社　シンコーミュージック・エンタテイメント",
     "office_name_kana": "カブシキガイシヤ シンコ-ミユ-ジツク・エンタテイメント"
-  },
-  "8476": {
-    "postcode": "1018476",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "神田錦町",
-    "town_kana": "カンダニシキチョウ",
-    "street": "３丁目２６一ツ橋ＳＩビル１０階",
-    "office_name": "（株）　キッズステーション",
-    "office_name_kana": "カブシキガイシヤ キツズステ-シヨン"
   },
   "8477": {
     "postcode": "1018477",
@@ -2612,19 +2599,6 @@
     "office_name": "株式会社　日本醫事新報社",
     "office_name_kana": "カブシキガイシヤ ニホンイジシンポウシヤ"
   },
-  "8901": {
-    "postcode": "1018901",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "神田東松下町",
-    "town_kana": "カンダヒガシマツシタチョウ",
-    "street": "４７−１",
-    "office_name": "株式会社　日本マンパワー内かんぽＬＣ事務局",
-    "office_name_kana": "カブシキガイシヤ ニホンマンパワ-ナイ カンポエルシ-ジムキヨク"
-  },
   "8941": {
     "postcode": "1018941",
     "prefecture": "東京都",
@@ -2638,19 +2612,6 @@
     "office_name": "株式会社　日立ビルシステム",
     "office_name_kana": "カブシキガイシヤ ヒタチビルシステム"
   },
-  "8946": {
-    "postcode": "1018946",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "東神田",
-    "town_kana": "ヒガシカンダ",
-    "street": "２丁目１−１１第一坂本ビル",
-    "office_name": "ニッポンレンタカーアーバンネット　株式会社　東京ディビジョン",
-    "office_name_kana": "ニツポンレンタカ-ア-バンネツト カブシキガイシヤ トウキヨウデイビジヨン"
-  },
   "8950": {
     "postcode": "1018950",
     "prefecture": "東京都",
@@ -2663,45 +2624,6 @@
     "street": "３丁目１２−８",
     "office_name": "大建工業　株式会社",
     "office_name_kana": "ダイケンコウギヨウ カブシキガイシヤ"
-  },
-  "8970": {
-    "postcode": "1018970",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "外神田",
-    "town_kana": "ソトカンダ",
-    "street": "４丁目１４−１秋葉原ＵＤＸ",
-    "office_name": "古河スカイ　株式会社",
-    "office_name_kana": "フルカワスカイ カブシキガイシヤ"
-  },
-  "8971": {
-    "postcode": "1018971",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "外神田",
-    "town_kana": "ソトカンダ",
-    "street": "４丁目１４−１秋葉原ＵＤＸ",
-    "office_name": "日立電線　（株）",
-    "office_name_kana": "ヒタチデンセン カブシキガイシヤ"
-  },
-  "8972": {
-    "postcode": "1018972",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "外神田",
-    "town_kana": "ソトカンダ",
-    "street": "４丁目１４−１",
-    "office_name": "株式会社　ミツウロコ",
-    "office_name_kana": "カブシキガイシヤ ミツウロコ"
   },
   "8973": {
     "postcode": "1018973",

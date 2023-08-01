@@ -5634,6 +5634,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2492": {
+    "postcode": "9402492",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "長岡市",
+    "city_kana": "ナガオカシ",
+    "town": "与板町与板",
+    "town_kana": "ヨイタマチヨイタ",
+    "street": "甲１３４番地",
+    "office_name": "長岡市役所与板支所",
+    "office_name_kana": "ナガオカシヤクシヨヨイタシシヨ"
+  },
   "2501": {
     "postcode": "9402501",
     "prefecture": "新潟県",
@@ -5958,6 +5971,19 @@
     "street": null,
     "office_name": null,
     "office_name_kana": null
+  },
+  "2592": {
+    "postcode": "9402592",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "長岡市",
+    "city_kana": "ナガオカシ",
+    "town": "寺泊",
+    "town_kana": "テラドマリ",
+    "street": "鳥帽子平１９７７番地８",
+    "office_name": "長岡市役所寺泊支所",
+    "office_name_kana": "ナガオカシヤクシヨテラドマリシシヨ"
   },
   "2595": {
     "postcode": "9402595",
