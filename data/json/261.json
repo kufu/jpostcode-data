@@ -1026,6 +1026,19 @@
     "office_name": "千葉県警察　千葉運転免許センター",
     "office_name_kana": "チバケンケイサツ チバウンテンメンキヨセンタ-"
   },
+  "8561": {
+    "postcode": "2618561",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "千葉市美浜区",
+    "city_kana": "チバシミハマク",
+    "town": "中瀬",
+    "town_kana": "ナカセ",
+    "street": "１−３幕張テクノガーデン４Ｆ",
+    "office_name": "Ｓａｎｓａｎ　株式会社　Ｂｉｌｌ　Ｏｎｅセンター",
+    "office_name_kana": "サンサン カブシキガイシヤ ビルワンセンタ-"
+  },
   "8566": {
     "postcode": "2618566",
     "prefecture": "千葉県",

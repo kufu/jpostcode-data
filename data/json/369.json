@@ -1442,6 +1442,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1248": {
+    "postcode": "3691248",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "深谷市",
+    "city_kana": "フカヤシ",
+    "town": "花園",
+    "town_kana": "ハナゾノ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1292": {
     "postcode": "3691292",
     "prefecture": "埼玉県",

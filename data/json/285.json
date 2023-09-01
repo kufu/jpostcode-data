@@ -1962,6 +1962,19 @@
     "office_name": "ＤＩＣ　株式会社　総合研究所",
     "office_name_kana": "デイ-アイシ- カブシキガイシヤ ソウゴウケンキユウシヨ"
   },
+  "8741": {
+    "postcode": "2858741",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "佐倉市",
+    "city_kana": "サクラシ",
+    "town": "下志津",
+    "town_kana": "シモシヅ",
+    "street": "５６４−１",
+    "office_name": "東邦大学医療センター佐倉病院",
+    "office_name_kana": "トウホウダイガクイリヨウセンタ-サクラビヨウイン"
+  },
   "8765": {
     "postcode": "2858765",
     "prefecture": "千葉県",

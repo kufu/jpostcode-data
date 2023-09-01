@@ -2328,6 +2328,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0670": {
+    "postcode": "9600670",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "伊達市",
+    "city_kana": "ダテシ",
+    "town": "保原町桑田",
+    "town_kana": "ホバラマチクワタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0671": {
     "postcode": "9600671",
     "prefecture": "福島県",

@@ -2991,6 +2991,19 @@
     "office_name": "商工組合　中央金庫　福山支店",
     "office_name_kana": "シヨウコウクミアイ チユウオウキンコ フクヤマシテン"
   },
+  "8647": {
+    "postcode": "7208647",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "福山市",
+    "city_kana": "フクヤマシ",
+    "town": "緑町",
+    "town_kana": "ミドリマチ",
+    "street": "１−８（福山郵便局私書箱第２６号）",
+    "office_name": "三菱電機　株式会社　福山製作所",
+    "office_name_kana": "ミツビシデンキ カブシキガイシヤ フクヤマセイサクシヨ"
+  },
   "8650": {
     "postcode": "7208650",
     "prefecture": "広島県",
