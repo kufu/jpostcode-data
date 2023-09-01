@@ -2599,6 +2599,45 @@
     "office_name": "国際連合大学高等研究所",
     "office_name_kana": "コクサイレンゴウダイガクコウトウケンキユウジヨ"
   },
+  "8507": {
+    "postcode": "2208507",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "みなとみらい",
+    "town_kana": "ミナトミライ",
+    "street": "６−２−１４",
+    "office_name": "Ｋアリーナ横浜",
+    "office_name_kana": "ケイアリ-ナヨコハマ"
+  },
+  "8508": {
+    "postcode": "2208508",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "みなとみらい",
+    "town_kana": "ミナトミライ",
+    "street": "６−２−１３",
+    "office_name": "ヒルトン横浜",
+    "office_name_kana": "ヒルトンヨコハマ"
+  },
+  "8509": {
+    "postcode": "2208509",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "みなとみらい",
+    "town_kana": "ミナトミライ",
+    "street": "６−２−１２",
+    "office_name": "Ｋタワー横浜",
+    "office_name_kana": "ケイタワ-ヨコハマ"
+  },
   "8510": {
     "postcode": "2208510",
     "prefecture": "神奈川県",

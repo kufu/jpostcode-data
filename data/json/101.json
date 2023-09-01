@@ -688,6 +688,19 @@
     "office_name": "日本大学　理工学部",
     "office_name_kana": "ニホンダイガク リコウガクブ"
   },
+  "8309": {
+    "postcode": "1018309",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "神田駿河台",
+    "town_kana": "カンダスルガダイ",
+    "street": "１−６",
+    "office_name": "日本大学病院",
+    "office_name_kana": "ニホンダイガクビヨウイン"
+  },
   "8310": {
     "postcode": "1018310",
     "prefecture": "東京都",
