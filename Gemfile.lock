@@ -13,7 +13,7 @@ GEM
     racc (1.7.1)
     rake (13.0.6)
     rubyzip (2.3.2)
-    sqlite3 (1.6.5)
+    sqlite3 (1.6.6)
       mini_portile2 (~> 2.8.0)
 
 PLATFORMS
