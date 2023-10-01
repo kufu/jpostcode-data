@@ -1195,6 +1195,19 @@
     "office_name": "市川商工会議所",
     "office_name_kana": "イチカワシヨウコウカイギシヨ"
   },
+  "8530": {
+    "postcode": "2728530",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "市川市",
+    "city_kana": "イチカワシ",
+    "town": "市川",
+    "town_kana": "イチカワ",
+    "street": "１丁目９番２号サンプラザ３５ビル",
+    "office_name": "山崎製パン　株式会社　デイリーヤマザキ事業統括本部",
+    "office_name_kana": "ヤマザキセイパン カブシキガイシヤ デイリ-ヤマザキジギヨウトウカツホンブ"
+  },
   "8533": {
     "postcode": "2728533",
     "prefecture": "千葉県",

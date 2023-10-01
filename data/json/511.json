@@ -1104,6 +1104,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0107": {
+    "postcode": "5110107",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "prefecture_code": 24,
+    "city": "桑名市",
+    "city_kana": "クワナシ",
+    "town": "多度町小山台",
+    "town_kana": "タドチョウオヤマダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0111": {
     "postcode": "5110111",
     "prefecture": "三重県",

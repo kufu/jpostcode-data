@@ -807,6 +807,19 @@
     "office_name": "株式会社　文理",
     "office_name_kana": "カブシキガイシヤ ブンリ"
   },
+  "8487": {
+    "postcode": "1418487",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "西五反田",
+    "town_kana": "ニシゴタンダ",
+    "street": "３丁目５−２０",
+    "office_name": "パナソニック　株式会社",
+    "office_name_kana": "パナソニツク カブシキガイシヤ"
+  },
   "8488": {
     "postcode": "1418488",
     "prefecture": "東京都",

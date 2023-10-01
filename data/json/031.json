@@ -1366,19 +1366,6 @@
     "office_name": "八戸税務署",
     "office_name_kana": "ハチノヘゼイムシヨ"
   },
-  "8612": {
-    "postcode": "0318612",
-    "prefecture": "青森県",
-    "prefecture_kana": "アオモリケン",
-    "prefecture_code": 2,
-    "city": "八戸市",
-    "city_kana": "ハチノヘシ",
-    "town": "大字八日町",
-    "town_kana": null,
-    "street": "１８（八戸郵便局私書箱第２号）",
-    "office_name": "八戸信用金庫",
-    "office_name_kana": "ハチノヘシンヨウキンコ"
-  },
   "8617": {
     "postcode": "0318617",
     "prefecture": "青森県",
@@ -1414,7 +1401,7 @@
     "city_kana": "ハチノヘシ",
     "town": "内丸",
     "town_kana": "ウチマル",
-    "street": "１丁目１−１（八戸郵便局私書箱第２５号）",
+    "street": "１丁目１−１",
     "office_name": "八戸市役所",
     "office_name_kana": "ハチノヘシヤクシヨ"
   }

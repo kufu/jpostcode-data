@@ -1334,7 +1334,7 @@
     "city_kana": "チヨダク",
     "town": "九段南",
     "town_kana": "クダンミナミ",
-    "street": "４丁目７番１６号市ヶ谷ＫＴビルＩ",
+    "street": "３丁目９番１４号ＨＦ九段南ビル",
     "office_name": "株式会社　少年写真新聞社",
     "office_name_kana": "カブシキガイシヤ シヨウネンシヤシンシンブンシヤ"
   },
@@ -3529,9 +3529,9 @@
     "prefecture_code": 13,
     "city": "千代田区",
     "city_kana": "チヨダク",
-    "town": "平河町",
-    "town_kana": "ヒラカワチョウ",
-    "street": "２丁目３−６",
+    "town": "麹町",
+    "town_kana": "コウジマチ",
+    "street": "一丁目１０番麹町広洋ビル２階",
     "office_name": "株式会社　たいよう共済",
     "office_name_kana": "カブシキガイシヤ タイヨウキヨウサイ"
   },

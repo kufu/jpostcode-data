@@ -1806,19 +1806,6 @@
     "office_name": "株式会社　マガジンハウス",
     "office_name_kana": "カブシキガイシヤ マガジンハウス"
   },
-  "8004": {
-    "postcode": "1048004",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "築地",
-    "town_kana": "ツキジ",
-    "street": "５丁目３−３築地浜離宮ビル",
-    "office_name": "株式会社　東京ニュース通信社",
-    "office_name_kana": "カブシキガイシヤ トウキヨウニユ-スツウシンシヤ"
-  },
   "8007": {
     "postcode": "1048007",
     "prefecture": "東京都",
@@ -3469,19 +3456,6 @@
     "street": "２−５−３読売旅行本社ビル２階",
     "office_name": "株式会社　旅行読売出版社",
     "office_name_kana": "カブシキガイシヤ リヨコウヨミウリシユツパンシヤ"
-  },
-  "8415": {
-    "postcode": "1048415",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "銀座",
-    "town_kana": "ギンザ",
-    "street": "７丁目１６番３号日鐵木換ビル",
-    "office_name": "株式会社　東京ニュース　通信社",
-    "office_name_kana": "カブシキガイシヤ トウキヨウニユ-ス ツウシンシヤ"
   },
   "8416": {
     "postcode": "1048416",
