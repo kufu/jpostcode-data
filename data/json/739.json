@@ -695,11 +695,11 @@
     "prefecture_code": 34,
     "city": "東広島市",
     "city_kana": "ヒガシヒロシマシ",
-    "town": "八本松町吉川",
-    "town_kana": "ハチホンマツチョウヨシカワ",
-    "street": "工業団地７−１０",
-    "office_name": "広島エルピーダ　メモリ株式会社",
-    "office_name_kana": "ヒロシマエルビ-ダメモリカブ"
+    "town": "吉川工業団地",
+    "town_kana": "ヨシカワコウギョウダンチ",
+    "street": "７−１０",
+    "office_name": "マイクロンメモリ　ジャパン　株式会社",
+    "office_name_kana": "マイクロンメモリ ジヤパン カブシキガイシヤ"
   },
   "0261": {
     "postcode": "7390261",

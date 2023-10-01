@@ -11381,6 +11381,19 @@
     "office_name": "京都市下京区役所",
     "office_name_kana": "キヨウトシシモギヨウクヤクシヨ"
   },
+  "8601": {
+    "postcode": "6008601",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "京都市下京区",
+    "city_kana": "キョウトシシモギョウク",
+    "town": "下之町",
+    "town_kana": "シモノチョウ",
+    "street": "５７番１",
+    "office_name": "公立大学法人　京都市立芸術大学",
+    "office_name_kana": "コウリツダイガクホウジン キヨウトシリツゲイジユツダイガク"
+  },
   "8652": {
     "postcode": "6008652",
     "prefecture": "京都府",

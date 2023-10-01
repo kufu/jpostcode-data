@@ -12101,5 +12101,18 @@
     "street": "３",
     "office_name": "宮内庁　京都事務所",
     "office_name_kana": "クナイチヨウ キヨウトジムシヨ"
+  },
+  "8959": {
+    "postcode": "6028959",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "京都市上京区",
+    "city_kana": "キョウトシカミギョウク",
+    "town": "下長者町通新町西入",
+    "town_kana": null,
+    "street": "藪之内町８５番４",
+    "office_name": "文化庁",
+    "office_name_kana": "ブンカチヨウ"
   }
 }

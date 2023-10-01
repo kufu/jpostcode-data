@@ -4183,9 +4183,9 @@
     "city_kana": "キノカワシ",
     "town": "桃山町元",
     "town_kana": "モモヤマチョウモト",
-    "street": "３８１",
-    "office_name": "紀の川市　桃山支所",
-    "office_name_kana": "キノカワシ モモヤマシシヨ"
+    "street": "３７６番地",
+    "office_name": "紀の川市役所　桃山支所",
+    "office_name_kana": "キノカワシヤクシヨ モモヤマシシヨ"
   },
   "6200": {
     "postcode": "6496200",
@@ -6304,7 +6304,7 @@
     "city_kana": "キノカワシ",
     "town": "粉河",
     "town_kana": "コカワ",
-    "street": "４１２",
+    "street": "５８０",
     "office_name": "紀の川市役所　粉河支所",
     "office_name_kana": "キノカワシヤクシヨ コカワシシヨ"
   },
@@ -6551,7 +6551,7 @@
     "city_kana": "キノカワシ",
     "town": "名手市場",
     "town_kana": "ナテイチバ",
-    "street": "１４６−４",
+    "street": "１４４−１",
     "office_name": "紀の川市役所　那賀支所",
     "office_name_kana": "キノカワシヤクシヨ ナガシシヨ"
   },

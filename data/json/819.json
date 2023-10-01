@@ -2211,34 +2211,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "1612": [
-    {
-      "postcode": "8191612",
-      "prefecture": "福岡県",
-      "prefecture_kana": "フクオカケン",
-      "prefecture_code": 40,
-      "city": "糸島市",
-      "city_kana": "イトシマシ",
-      "town": "二丈松末",
-      "town_kana": "ニジョウマスエ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8191612",
-      "prefecture": "福岡県",
-      "prefecture_kana": "フクオカケン",
-      "prefecture_code": 40,
-      "city": "糸島市",
-      "city_kana": "イトシマシ",
-      "town": "二丈松末下松末",
-      "town_kana": "ニジョウマスエシモマスエ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
   "1613": {
     "postcode": "8191613",
     "prefecture": "福岡県",
@@ -2287,6 +2259,19 @@
     "city_kana": "イトシマシ",
     "town": "二丈武",
     "town_kana": "ニジョウタケ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "1617": {
+    "postcode": "8191617",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糸島市",
+    "city_kana": "イトシマシ",
+    "town": "二丈松末西",
+    "town_kana": "ニジョウマスエニシ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

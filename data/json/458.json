@@ -1139,6 +1139,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0838": {
+    "postcode": "4580838",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市緑区",
+    "city_kana": "ナゴヤシミドリク",
+    "town": "東陵",
+    "town_kana": "トウリョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0841": [
     {
       "postcode": "4580841",
