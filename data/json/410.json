@@ -1184,19 +1184,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0395": {
-    "postcode": "4100395",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "沼津市",
-    "city_kana": "ヌマヅシ",
-    "town": "西野",
-    "town_kana": "ニシノ",
-    "street": "３１７",
-    "office_name": "東海大学沼津校舎",
-    "office_name_kana": "トウカイダイガクヌマヅコウシヤ"
-  },
   "0396": {
     "postcode": "4100396",
     "prefecture": "静岡県",
@@ -5045,9 +5032,9 @@
     "city_kana": "ヌマヅシ",
     "town": "大岡",
     "town_kana": "オオオカ",
-    "street": "８７７−６",
+    "street": "９８４−１",
     "office_name": "株式会社　イワサキ経営",
-    "office_name_kana": "カブシキカイシヤ イワサキケイエイ"
+    "office_name_kana": "カブシキガイシヤ イワサキケイエイ"
   },
   "8515": {
     "postcode": "4108515",
@@ -5088,19 +5075,6 @@
     "office_name": "東部教育事務所",
     "office_name_kana": "トウブキヨウイクジムシヨ"
   },
-  "8525": {
-    "postcode": "4108525",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "沼津市",
-    "city_kana": "ヌマヅシ",
-    "town": "平町",
-    "town_kana": "ヒラマチ",
-    "street": "６−２",
-    "office_name": "株式会社　すみや電器　沼津営業所",
-    "office_name_kana": "カブシキガイシヤ スミヤデンキ ヌマヅエイギヨウシヨ"
-  },
   "8530": {
     "postcode": "4108530",
     "prefecture": "静岡県",
@@ -5114,19 +5088,6 @@
     "office_name": "米久　株式会社",
     "office_name_kana": "ヨネキユウ カブシキガイシヤ"
   },
-  "8531": {
-    "postcode": "4108531",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "沼津市",
-    "city_kana": "ヌマヅシ",
-    "town": "三枚橋町",
-    "town_kana": "サンマイバシチョウ",
-    "street": "６−１０",
-    "office_name": "三井生命保険　相互会社　沼津支社",
-    "office_name_kana": "ミツイセイメイホケン ソウゴガイシヤ ヌマヅシシヤ"
-  },
   "8533": {
     "postcode": "4108533",
     "prefecture": "静岡県",
@@ -5139,19 +5100,6 @@
     "street": "９−１",
     "office_name": "沼津市立図書館",
     "office_name_kana": "ヌマヅシリツトシヨカン"
-  },
-  "8535": {
-    "postcode": "4108535",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "沼津市",
-    "city_kana": "ヌマヅシ",
-    "town": "大岡",
-    "town_kana": "オオオカ",
-    "street": "３５",
-    "office_name": "富士ロビン　株式会社",
-    "office_name_kana": "フジロビン カブシキガイシヤ"
   },
   "8540": {
     "postcode": "4108540",
@@ -5191,19 +5139,6 @@
     "street": "１−３",
     "office_name": "沼津保健所",
     "office_name_kana": "ヌマヅホケンジヨ"
-  },
-  "8544": {
-    "postcode": "4108544",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "沼津市",
-    "city_kana": "ヌマヅシ",
-    "town": "三芳町",
-    "town_kana": "ミヨシチョウ",
-    "street": "２−１",
-    "office_name": "静岡県農業協同組合中央会　東部支所",
-    "office_name_kana": "シズオカケンノウギヨウキヨウドウクミアイチユウオウカイ トウブシシヨ"
   },
   "8545": {
     "postcode": "4108545",
@@ -5295,19 +5230,6 @@
     "street": "外原３２４４−２",
     "office_name": "国土交通省　中部地方整備局　沼津河川国道事務所",
     "office_name_kana": "コクドコウツウシヨウ チユウブチホウセイビキヨク ヌマヅカセンコクドウジムシヨ"
-  },
-  "8570": {
-    "postcode": "4108570",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "沼津市",
-    "city_kana": "ヌマヅシ",
-    "town": "大手町",
-    "town_kana": "オオテマチ",
-    "street": "３丁目１番１号",
-    "office_name": "株式会社　西武百貨店　沼津店",
-    "office_name_kana": "カブシキガイシヤ セイブヒヤツカテン ヌマヅテン"
   },
   "8575": {
     "postcode": "4108575",

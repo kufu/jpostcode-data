@@ -1598,6 +1598,19 @@
     "office_name": "全国健康保険協会　本部",
     "office_name_kana": "ゼンコクケンコウホケンキヨウカイ ホンブ"
   },
+  "8509": {
+    "postcode": "1608509",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "四谷",
+    "town_kana": "ヨツヤ",
+    "street": "４丁目１６番３号川辺新宿御苑前ビル５階",
+    "office_name": "一般社団法人　輿論科学協会",
+    "office_name_kana": "イツパンシヤダンホウジン ヨロンカガクキヨウカイ"
+  },
   "8510": {
     "postcode": "1608510",
     "prefecture": "東京都",

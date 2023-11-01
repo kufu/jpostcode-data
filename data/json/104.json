@@ -3899,6 +3899,19 @@
     "office_name": "ユニデン　株式会社",
     "office_name_kana": "ユニデン カブシキガイシヤ"
   },
+  "8517": {
+    "postcode": "1048517",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中央区",
+    "city_kana": "チュウオウク",
+    "town": "明石町",
+    "town_kana": "アカシチョウ",
+    "street": "８−１聖路加タワー１０階",
+    "office_name": "三機工業　株式会社　東京支社",
+    "office_name_kana": "サンキコウギヨウ カブシキガイシヤ トウキヨウシシヤ"
+  },
   "8518": {
     "postcode": "1048518",
     "prefecture": "東京都",
