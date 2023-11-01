@@ -1389,5 +1389,18 @@
     "street": "５丁目７−４７（越谷郵便局私書箱第４６号）",
     "office_name": "越谷税務署",
     "office_name_kana": "コシガヤゼイムシヨ"
+  },
+  "8686": {
+    "postcode": "3438686",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "三郷市",
+    "city_kana": "ミサトシ",
+    "town": "新三郷ららシティ",
+    "town_kana": "シンミサトララシティ",
+    "street": "３−２−１ＧＬＰ三郷２（新越谷郵便局留）",
+    "office_name": "ＳＩＧ　Ｓｅｒｖｉｃｅ　株式会社",
+    "office_name_kana": "エスアイジ-サ-ビス カブシキガイシヤ"
   }
 }

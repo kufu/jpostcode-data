@@ -402,6 +402,19 @@
     "office_name": "京成電鉄　株式会社",
     "office_name_kana": "ケイセイデンテツ カブシキガイシヤ"
   },
+  "8558": {
+    "postcode": "1318558",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "墨田区",
+    "city_kana": "スミダク",
+    "town": "堤通",
+    "town_kana": "ツツミドオリ",
+    "street": "１−１９−９リバーサイド隅田セントラルタワー",
+    "office_name": "メルテック・ビジネス　株式会社",
+    "office_name_kana": "メルテツク・ビジネス カブシキガイシヤ"
+  },
   "8565": {
     "postcode": "1318565",
     "prefecture": "東京都",

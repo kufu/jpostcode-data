@@ -1665,6 +1665,19 @@
     "office_name": "株式会社　ミュージアム・タイセイ",
     "office_name_kana": "カブシキガイシヤ ミユ-ジアム・タイセイ"
   },
+  "9110": {
+    "postcode": "3309110",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市大宮区",
+    "city_kana": "サイタマシオオミヤク",
+    "town": "北袋町",
+    "town_kana": "キタブクロチョウ",
+    "street": "１−１９７−７",
+    "office_name": "大宮警察署",
+    "office_name_kana": "オオミヤケイサツシヨ"
+  },
   "9111": {
     "postcode": "3309111",
     "prefecture": "埼玉県",

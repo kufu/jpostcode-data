@@ -2274,19 +2274,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "8501": {
-    "postcode": "4208501",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "静岡市葵区",
-    "city_kana": "シズオカシアオイク",
-    "town": "紺屋町",
-    "town_kana": "コウヤマチ",
-    "street": "３−１０",
-    "office_name": "日本信販　株式会社　静岡統括部",
-    "office_name_kana": "ニホンシンパン カブシキガイシヤ シズオカトウカツブ"
-  },
   "8502": {
     "postcode": "4208502",
     "prefecture": "静岡県",
@@ -2312,19 +2299,6 @@
     "street": "１６番８",
     "office_name": "株式会社　静岡リビング新聞社",
     "office_name_kana": "カブシキガイシヤ シズオカリビングシンブンシヤ"
-  },
-  "8505": {
-    "postcode": "4208505",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "静岡市葵区",
-    "city_kana": "シズオカシアオイク",
-    "town": "伝馬町",
-    "town_kana": "テンマチョウ",
-    "street": "２４−４",
-    "office_name": "三井住友建設　（株）　静岡支店",
-    "office_name_kana": "ミツイスミトモケンセツ (カブ) シズオカシテン"
   },
   "8507": {
     "postcode": "4208507",
@@ -2378,19 +2352,6 @@
     "office_name": "静岡鉄道　株式会社",
     "office_name_kana": "シズオカテツドウ カブシキガイシヤ"
   },
-  "8511": {
-    "postcode": "4208511",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "静岡市葵区",
-    "city_kana": "シズオカシアオイク",
-    "town": "宮前町",
-    "town_kana": "ミヤマエチョウ",
-    "street": "１０１",
-    "office_name": "東海大学短期大学部",
-    "office_name_kana": "トウカイダイガクタンキダイガク"
-  },
   "8512": {
     "postcode": "4208512",
     "prefecture": "静岡県",
@@ -2403,19 +2364,6 @@
     "street": "１−１−２静岡呉服町スクエア１２階",
     "office_name": "全国健康保険協会　静岡支部",
     "office_name_kana": "ゼンコクケンコウホケンキヨウカイ シズオカシブ"
-  },
-  "8515": {
-    "postcode": "4208515",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "静岡市葵区",
-    "city_kana": "シズオカシアオイク",
-    "town": "御幸町",
-    "town_kana": "ミユキチョウ",
-    "street": "５−９",
-    "office_name": "株式会社　日本交通公社　静岡支店",
-    "office_name_kana": "カブシキガイシヤ ニホンコウツウコウシヤ シズオカシテン"
   },
   "8517": {
     "postcode": "4208517",
@@ -2430,19 +2378,6 @@
     "office_name": "株式会社　静岡伊勢丹",
     "office_name_kana": "カブシキガイシヤ シズオカイセタン"
   },
-  "8520": {
-    "postcode": "4208520",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "静岡市葵区",
-    "city_kana": "シズオカシアオイク",
-    "town": "日出町",
-    "town_kana": "ヒノデチョウ",
-    "street": "１０−１５",
-    "office_name": "静岡広告　株式会社",
-    "office_name_kana": "シズオカコウコク カブシキガイシヤ"
-  },
   "8521": {
     "postcode": "4208521",
     "prefecture": "静岡県",
@@ -2456,19 +2391,6 @@
     "office_name": "富士ゼロックス　株式会社　静岡営業所",
     "office_name_kana": "フジゼロツクス カブシキガイシヤ シズオカエイギヨウシヨ"
   },
-  "8522": {
-    "postcode": "4208522",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "静岡市葵区",
-    "city_kana": "シズオカシアオイク",
-    "town": "瀬名川",
-    "town_kana": "セナガワ",
-    "street": "２丁目３９番３７号",
-    "office_name": "株式会社　静岡フジカラー",
-    "office_name_kana": "カブシキガイシヤ シズオカフジカラ-"
-  },
   "8523": {
     "postcode": "4208523",
     "prefecture": "静岡県",
@@ -2481,19 +2403,6 @@
     "street": "１２−３",
     "office_name": "株式会社　青島文化教材社",
     "office_name_kana": "カブシキガイシヤ アオシマブンカキヨウザイシヤ"
-  },
-  "8525": {
-    "postcode": "4208525",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "静岡市葵区",
-    "city_kana": "シズオカシアオイク",
-    "town": "柚木",
-    "town_kana": "ユノキ",
-    "street": "１９１",
-    "office_name": "相川鉄工　株式会社",
-    "office_name_kana": "アイカワテツコウ カブシキガイシヤ"
   },
   "8527": {
     "postcode": "4208527",
@@ -2520,19 +2429,6 @@
     "street": "８−６",
     "office_name": "株式会社　メガネトップ",
     "office_name_kana": " カブシキガイシヤ メガネトツプ"
-  },
-  "8530": {
-    "postcode": "4208530",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "静岡市葵区",
-    "city_kana": "シズオカシアオイク",
-    "town": "常磐町",
-    "town_kana": "トキワチョウ",
-    "street": "１丁目７−５",
-    "office_name": "あいおい損害保険　株式会社",
-    "office_name_kana": "アイオイソンガイホケン カブシキガイシヤ"
   },
   "8536": {
     "postcode": "4208536",
@@ -2713,8 +2609,8 @@
     "town": "水落町",
     "town_kana": "ミズオチチョウ",
     "street": "１−３０",
-    "office_name": "常葉学園中・高等学校",
-    "office_name_kana": "トコハガクエンチユウ・コウトウガツコウ"
+    "office_name": "常葉大学附属常葉中・高等学校",
+    "office_name_kana": "トコハダイガクフゾクトコハチユウ・コウトウガツコウ"
   },
   "8601": {
     "postcode": "4208601",
@@ -2830,8 +2726,8 @@
     "town": "追手町",
     "town_kana": "オウテマチ",
     "street": "２−１２",
-    "office_name": "安藤建設　株式会社　静岡支店",
-    "office_name_kana": "アンドウケンセツ カブシキガイシヤ シズオカシテン"
+    "office_name": "株式会社　安藤・間　静岡支店",
+    "office_name_kana": "カブシキガイシヤ アンドウ・ハザマ シズオカシテン"
   },
   "8616": {
     "postcode": "4208616",
@@ -2879,9 +2775,9 @@
     "prefecture_code": 22,
     "city": "静岡市葵区",
     "city_kana": "シズオカシアオイク",
-    "town": "追手町",
-    "town_kana": "オウテマチ",
-    "street": "９−５０",
+    "town": "伝馬町",
+    "town_kana": "テンマチョウ",
+    "street": "２４−２相川伝馬町ビル",
     "office_name": "静岡労働基準監督署",
     "office_name_kana": "シズオカロウドウキジユンカントクシヨ"
   },
@@ -2963,19 +2859,6 @@
     "office_name": "東海財務局　静岡財務事務所",
     "office_name_kana": "トウカイザイムキヨク シズオカザイムジムシヨ"
   },
-  "8637": {
-    "postcode": "4208637",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "静岡市葵区",
-    "city_kana": "シズオカシアオイク",
-    "town": "北安東",
-    "town_kana": "キタアンドウ",
-    "street": "４丁目２７−２",
-    "office_name": "静岡県　環境衛生科学研究所",
-    "office_name_kana": "シズオカケン カンキヨウエイセイカガクケンキユウジヨ"
-  },
   "8639": {
     "postcode": "4208639",
     "prefecture": "静岡県",
@@ -2988,19 +2871,6 @@
     "street": "９−５０",
     "office_name": "静岡労働基準局",
     "office_name_kana": "シズオカロウドウキジユンキヨク"
-  },
-  "8641": {
-    "postcode": "4208641",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "静岡市葵区",
-    "city_kana": "シズオカシアオイク",
-    "town": "呉服町",
-    "town_kana": "ゴフクチョウ",
-    "street": "１丁目２",
-    "office_name": "株式会社　中日ショッパー　静岡統括部",
-    "office_name_kana": "カブシキガイシヤ チユウニチシヨツパ- シズオカトウカツブ"
   },
   "8644": {
     "postcode": "4208644",
@@ -3027,19 +2897,6 @@
     "street": "９−５０",
     "office_name": "静岡地方法務局",
     "office_name_kana": "シズオカチホウホウムキヨク"
-  },
-  "8655": {
-    "postcode": "4208655",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "静岡市葵区",
-    "city_kana": "シズオカシアオイク",
-    "town": "若松町",
-    "town_kana": "ワカマツチョウ",
-    "street": "４１−１",
-    "office_name": "高田薬局",
-    "office_name_kana": "タカダヤツキヨク"
   },
   "8660": {
     "postcode": "4208660",
@@ -3262,19 +3119,6 @@
     "office_name": "中部電力　株式会社　静岡支店",
     "office_name_kana": "チユウブデンリヨク カブシキガイシヤ シズオカシテン"
   },
-  "8738": {
-    "postcode": "4208738",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "静岡市葵区",
-    "city_kana": "シズオカシアオイク",
-    "town": "梅屋町",
-    "town_kana": "ウメヤチョウ",
-    "street": "３−１２（静岡中央郵便局私書箱第５５号）",
-    "office_name": "株式会社　茜屋",
-    "office_name_kana": "カブシキガイシヤ アカネヤ"
-  },
   "8739": {
     "postcode": "4208739",
     "prefecture": "静岡県",
@@ -3313,5 +3157,18 @@
     "street": "１丁目１０",
     "office_name": "株式会社　静岡銀行　本店",
     "office_name_kana": "カブシキガイシヤ シズオカギンコウ ホンテン"
+  },
+  "8771": {
+    "postcode": "4208771",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "静岡市葵区",
+    "city_kana": "シズオカシアオイク",
+    "town": "伝馬町",
+    "town_kana": "テンマチョウ",
+    "street": "５−４",
+    "office_name": "株式会社　エーツー",
+    "office_name_kana": "カブシキガイシヤ エ-ツ-"
   }
 }
