@@ -649,17 +649,17 @@
     "office_name": "阪神園芸　株式会社　大阪支店　クリエイティブ阪急事業部",
     "office_name_kana": "ハンシンエンゲイ カブシキガイシヤ オオサカシテン クリエイテイブハンキユウジギヨウブ"
   },
-  "8565": {
-    "postcode": "5658565",
+  "8585": {
+    "postcode": "5658585",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
     "prefecture_code": 27,
     "city": "吹田市",
     "city_kana": "スイタシ",
-    "town": "藤白台",
-    "town_kana": "フジシロダイ",
-    "street": "５丁目７−１",
-    "office_name": "国立循環器病センター",
-    "office_name_kana": "コクリツジユンカンキビヨウセンタ-"
+    "town": "山田南",
+    "town_kana": "ヤマダミナミ",
+    "street": "５０−２",
+    "office_name": "関西大学　吹田みらいキャンパス",
+    "office_name_kana": "カンサイダイガク スイタミライキヤンパス"
   }
 }

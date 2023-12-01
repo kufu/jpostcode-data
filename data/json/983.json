@@ -625,6 +625,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0827": {
+    "postcode": "9830827",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "仙台市宮城野区",
+    "city_kana": "センダイシミヤギノク",
+    "town": "神谷沢",
+    "town_kana": "カミヤサワ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0828": {
     "postcode": "9830828",
     "prefecture": "宮城県",

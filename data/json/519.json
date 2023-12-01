@@ -1559,6 +1559,19 @@
     "office_name": "玉城町役場",
     "office_name_kana": "タマキチヨウヤクバ"
   },
+  "0497": {
+    "postcode": "5190497",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "prefecture_code": 24,
+    "city": "度会郡玉城町",
+    "city_kana": "ワタライグンタマキチョウ",
+    "town": "野篠",
+    "town_kana": "ノジノ",
+    "street": "字又兵衛７０４番１９",
+    "office_name": "京セラドキュメントソリューションズ　株式会社　玉城工場",
+    "office_name_kana": "キヨウセラドキユメントソリユ-シヨンズ カブシキガイシヤ タマキコウジヨウ"
+  },
   "0501": {
     "postcode": "5190501",
     "prefecture": "三重県",
