@@ -571,6 +571,19 @@
     "office_name": "株式会社　Ｃーパブリッシングサービス",
     "office_name_kana": "カブシキガイシヤ シ-パブリツシングサ-ビス"
   },
+  "8210": {
+    "postcode": "1418210",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "西五反田",
+    "town_kana": "ニシゴタンダ",
+    "street": "３−５−８ＪＲ目黒ＭＡＲＣビル１２階",
+    "office_name": "株式会社　ポプラ社",
+    "office_name_kana": "カブシキガイシヤ ポプラシヤ"
+  },
   "8214": {
     "postcode": "1418214",
     "prefecture": "東京都",

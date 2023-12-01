@@ -5043,19 +5043,34 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "2156": {
-    "postcode": "2892156",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "prefecture_code": 12,
-    "city": "匝瑳市",
-    "city_kana": "ソウサシ",
-    "town": "長岡",
-    "town_kana": "ナガオカ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "2156": [
+    {
+      "postcode": "2892156",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "prefecture_code": 12,
+      "city": "匝瑳市",
+      "city_kana": "ソウサシ",
+      "town": "長岡",
+      "town_kana": "ナガオカ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "2892156",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "prefecture_code": 12,
+      "city": "匝瑳市",
+      "city_kana": "ソウサシ",
+      "town": "長丘",
+      "town_kana": "ナガオカ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "2157": {
     "postcode": "2892157",
     "prefecture": "千葉県",
@@ -5212,19 +5227,34 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "2173": {
-    "postcode": "2892173",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "prefecture_code": 12,
-    "city": "匝瑳市",
-    "city_kana": "ソウサシ",
-    "town": "飯高",
-    "town_kana": "イイダカ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "2173": [
+    {
+      "postcode": "2892173",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "prefecture_code": 12,
+      "city": "匝瑳市",
+      "city_kana": "ソウサシ",
+      "town": "飯多香",
+      "town_kana": "イイタカ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "2892173",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "prefecture_code": 12,
+      "city": "匝瑳市",
+      "city_kana": "ソウサシ",
+      "town": "飯高",
+      "town_kana": "イイダカ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "2174": {
     "postcode": "2892174",
     "prefecture": "千葉県",
@@ -5238,32 +5268,62 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "2175": {
-    "postcode": "2892175",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "prefecture_code": 12,
-    "city": "匝瑳市",
-    "city_kana": "ソウサシ",
-    "town": "片子",
-    "town_kana": "カタコ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "2176": {
-    "postcode": "2892176",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "prefecture_code": 12,
-    "city": "匝瑳市",
-    "city_kana": "ソウサシ",
-    "town": "大堀",
-    "town_kana": "オオホリ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "2175": [
+    {
+      "postcode": "2892175",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "prefecture_code": 12,
+      "city": "匝瑳市",
+      "city_kana": "ソウサシ",
+      "town": "片子",
+      "town_kana": "カタコ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "2892175",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "prefecture_code": 12,
+      "city": "匝瑳市",
+      "city_kana": "ソウサシ",
+      "town": "加多古",
+      "town_kana": "カタコ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
+  "2176": [
+    {
+      "postcode": "2892176",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "prefecture_code": 12,
+      "city": "匝瑳市",
+      "city_kana": "ソウサシ",
+      "town": "大堀",
+      "town_kana": "オオホリ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "2892176",
+      "prefecture": "千葉県",
+      "prefecture_kana": "チバケン",
+      "prefecture_code": 12,
+      "city": "匝瑳市",
+      "city_kana": "ソウサシ",
+      "town": "大保里",
+      "town_kana": "オオホリ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "2177": {
     "postcode": "2892177",
     "prefecture": "千葉県",

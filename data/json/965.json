@@ -207,6 +207,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0020": {
+    "postcode": "9650020",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "会津若松市",
+    "city_kana": "アイヅワカマツシ",
+    "town": "山見",
+    "town_kana": "ヤマミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "9650021",
     "prefecture": "福島県",
@@ -267,7 +280,7 @@
     "city": "会津若松市",
     "city_kana": "アイヅワカマツシ",
     "town": "扇町",
-    "town_kana": "オオギマチ",
+    "town_kana": "オウギマチ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -294,6 +307,32 @@
     "city_kana": "アイヅワカマツシ",
     "town": "花畑東",
     "town_kana": "ハナバタケヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0028": {
+    "postcode": "9650028",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "会津若松市",
+    "city_kana": "アイヅワカマツシ",
+    "town": "亀賀",
+    "town_kana": "カメガ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0029": {
+    "postcode": "9650029",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "会津若松市",
+    "city_kana": "アイヅワカマツシ",
+    "town": "藤原",
+    "town_kana": "フジワラ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -398,6 +437,19 @@
     "city_kana": "アイヅワカマツシ",
     "town": "昭和町",
     "town_kana": "ショウワマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0039": {
+    "postcode": "9650039",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "会津若松市",
+    "city_kana": "アイヅワカマツシ",
+    "town": "白虎",
+    "town_kana": "ビャッコ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -2425,7 +2477,7 @@
     "city": "会津若松市",
     "city_kana": "アイヅワカマツシ",
     "town": "扇町",
-    "town_kana": "オオギマチ",
+    "town_kana": "オウギマチ",
     "street": "１２８−７",
     "office_name": "三菱伸銅　株式会社　若松製作所",
     "office_name_kana": "ミツビシシンドウ カブシキガイシヤ ワカマツセイサクシヨ"
