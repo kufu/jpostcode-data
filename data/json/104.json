@@ -3769,6 +3769,19 @@
     "office_name": "国際興業　株式会社",
     "office_name_kana": "コクサイコウギヨウ カブシキガイシヤ"
   },
+  "8467": {
+    "postcode": "1048467",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中央区",
+    "city_kana": "チュウオウク",
+    "town": "八重洲",
+    "town_kana": "ヤエス",
+    "street": "２−２−１東京ミッドタウン八重洲八重洲セントラルタワー",
+    "office_name": "東ソー　株式会社",
+    "office_name_kana": "トウソ- カブシキガイシヤ"
+  },
   "8468": {
     "postcode": "1048468",
     "prefecture": "東京都",

@@ -181,6 +181,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0125": {
+    "postcode": "9810125",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "宮城郡利府町",
+    "city_kana": "ミヤギグンリフチョウ",
+    "town": "岩切",
+    "town_kana": "イワキリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0131": {
     "postcode": "9810131",
     "prefecture": "宮城県",

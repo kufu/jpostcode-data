@@ -1325,6 +1325,19 @@
     "office_name": "株式会社　サンメイカ　富士支店",
     "office_name_kana": "カブシキガイシヤ サンメイカ フジシテン"
   },
+  "8515": {
+    "postcode": "4178515",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "富士市",
+    "city_kana": "フジシ",
+    "town": "永田北町",
+    "town_kana": "ナガタキタチョウ",
+    "street": "３−７",
+    "office_name": "富士市立中央図書館",
+    "office_name_kana": "フジシリツチユウオウトシヨカン"
+  },
   "8519": {
     "postcode": "4178519",
     "prefecture": "静岡県",
@@ -1400,8 +1413,8 @@
     "town": "大淵",
     "town_kana": "オオブチ",
     "street": "２４６６−１",
-    "office_name": "川商コイル　株式会社",
-    "office_name_kana": "カワシヨウコイル カブシキガイシヤ"
+    "office_name": "ＪＦＥ商事コイルセンター　株式会社",
+    "office_name_kana": "ジエイエフイ-シヨウジコイルセンタ- カブシキガイシヤ"
   },
   "8533": {
     "postcode": "4178533",

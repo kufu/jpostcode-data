@@ -571,6 +571,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0060": {
+    "postcode": "3230060",
+    "prefecture": "栃木県",
+    "prefecture_kana": "トチギケン",
+    "prefecture_code": 9,
+    "city": "小山市",
+    "city_kana": "オヤマシ",
+    "town": "城西",
+    "town_kana": "ジョウサイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0061": {
     "postcode": "3230061",
     "prefecture": "栃木県",

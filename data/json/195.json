@@ -253,9 +253,9 @@
     "prefecture_code": 13,
     "city": "町田市",
     "city_kana": "マチダシ",
-    "town": "金井町",
-    "town_kana": "カナイマチ",
-    "street": "２１６０番地",
+    "town": "金井ヶ丘",
+    "town_kana": "カナイガオカ",
+    "street": "５丁目１番１号",
     "office_name": "学校法人　和光学園",
     "office_name_kana": "ガツコウホウジン ワコウガクエン"
   },
@@ -266,9 +266,9 @@
     "prefecture_code": 13,
     "city": "町田市",
     "city_kana": "マチダシ",
-    "town": "金井町",
-    "town_kana": "カナイマチ",
-    "street": "２１６０",
+    "town": "金井ヶ丘",
+    "town_kana": "カナイガオカ",
+    "street": "５丁目１番１号",
     "office_name": "和光大学",
     "office_name_kana": "ワコウダイガク"
   }
