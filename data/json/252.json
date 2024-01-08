@@ -3251,6 +3251,19 @@
     "office_name": "株式会社　デュプロ",
     "office_name_kana": "カブシキガイシヤ デユプロ"
   },
+  "5282": {
+    "postcode": "2525282",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "相模原市中央区",
+    "city_kana": "サガミハラシチュウオウク",
+    "town": "田名",
+    "town_kana": "タナ",
+    "street": "字白雨台３５３２−７",
+    "office_name": "アマゾン相模湖ＦＣ",
+    "office_name_kana": "アマゾンサガミコエフシ-"
+  },
   "5285": {
     "postcode": "2525285",
     "prefecture": "神奈川県",

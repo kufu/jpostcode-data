@@ -532,6 +532,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0149": {
+    "postcode": "0180149",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "prefecture_code": 5,
+    "city": "にかほ市",
+    "city_kana": "ニカホシ",
+    "town": "象潟町上谷地",
+    "town_kana": "キサカタマチカミヤチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0151": {
     "postcode": "0180151",
     "prefecture": "秋田県",

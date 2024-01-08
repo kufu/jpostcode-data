@@ -6782,8 +6782,8 @@
     "town": "大手町",
     "town_kana": "オオテマチ",
     "street": "２−１−１",
-    "office_name": "三井生命保険　株式会社",
-    "office_name_kana": "ミツイセイメイホケン カブシキガイシヤ"
+    "office_name": "大樹生命保険　株式会社",
+    "office_name_kana": "タイジユセイメイホケン カブシキガイシヤ"
   },
   "8124": {
     "postcode": "1008124",
@@ -7740,6 +7740,19 @@
     "office_name": "佐藤商事　株式会社",
     "office_name_kana": "サトウシヨウジ カブシキガイシヤ"
   },
+  "8287": {
+    "postcode": "1008287",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "丸の内",
+    "town_kana": "マルノウチ",
+    "street": "１丁目３番２号",
+    "office_name": "三井住友ファイナンス＆リース　株式会社",
+    "office_name_kana": "ミツイスミトモフアイナンスアンドリ-ス カブシキガイシヤ"
+  },
   "8288": {
     "postcode": "1008288",
     "prefecture": "東京都",
@@ -8196,6 +8209,19 @@
     "street": "１丁目７−１",
     "office_name": "財団法人　企業経営通信学院",
     "office_name_kana": "ザイダンホウジン キギヨウケイエイツウシンガクイン"
+  },
+  "8405": {
+    "postcode": "1008405",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "丸の内",
+    "town_kana": "マルノウチ",
+    "street": "一丁目５番１号",
+    "office_name": "ＡＧＣ　株式会社",
+    "office_name_kana": "エイジ-シ- カブシキガイシヤ"
   },
   "8410": {
     "postcode": "1008410",

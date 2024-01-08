@@ -1740,6 +1740,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8219": {
+    "postcode": "9188219",
+    "prefecture": "福井県",
+    "prefecture_kana": "フクイケン",
+    "prefecture_code": 18,
+    "city": "福井市",
+    "city_kana": "フクイシ",
+    "town": "フェア河増",
+    "town_kana": "フェアコウマス",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8221": {
     "postcode": "9188221",
     "prefecture": "福井県",
