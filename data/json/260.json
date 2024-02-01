@@ -1080,6 +1080,19 @@
     "office_name": "株式会社　ＮＴＴドコモ　千葉支店",
     "office_name_kana": "カブシキガイシヤ エヌテイテイドコモ チバシテン"
   },
+  "8517": {
+    "postcode": "2608517",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "千葉市中央区",
+    "city_kana": "チバシチュウオウク",
+    "town": "中央港",
+    "town_kana": "チュウオウコウ",
+    "street": "１−９−５",
+    "office_name": "株式会社　ダイトーコーポレーション　千葉支店",
+    "office_name_kana": "カブシキガイシヤ ダイト-コ-ポレ-シヨン チバシテン"
+  },
   "8518": {
     "postcode": "2608518",
     "prefecture": "千葉県",

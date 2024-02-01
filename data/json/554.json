@@ -220,6 +220,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0044": {
+    "postcode": "5540044",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市此花区",
+    "city_kana": "オオサカシコノハナク",
+    "town": "夢洲中",
+    "town_kana": "ユメシマナカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0051": {
     "postcode": "5540051",
     "prefecture": "大阪府",
