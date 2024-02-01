@@ -1496,6 +1496,19 @@
       "office_name_kana": "アフラツク"
     }
   ],
+  "0471": {
+    "postcode": "1630471",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "西新宿",
+    "town_kana": "ニシシンジュク",
+    "street": "２−１−１新宿三井ビル９階９０５号室（新宿三井ビル内郵便局私書箱第３４７号）",
+    "office_name": "司法書士法人　中央事務所",
+    "office_name_kana": "シホウシヨシホウジン チユウオウジムシヨ"
+  },
   "0478": {
     "postcode": "1630478",
     "prefecture": "東京都",

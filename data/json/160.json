@@ -1585,6 +1585,19 @@
     "office_name": "株式会社　サンミュージックプロダクション",
     "office_name_kana": "カブシキガイシヤ サンミユ-ジツクプロダクシヨン"
   },
+  "8504": {
+    "postcode": "1608504",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "四谷",
+    "town_kana": "ヨツヤ",
+    "street": "３−２−１フロントプレイス四谷",
+    "office_name": "独立行政法人　農業者年金基金",
+    "office_name_kana": "ドクリツギヨウセイホウジン ノウギヨウシヤネンキンキキン"
+  },
   "8507": {
     "postcode": "1608507",
     "prefecture": "東京都",

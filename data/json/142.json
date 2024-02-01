@@ -246,6 +246,19 @@
     "office_name": "株式会社　三英社製作所",
     "office_name_kana": "カブシキガイシヤ サンエイシヤセイサクシヨ"
   },
+  "8622": {
+    "postcode": "1428622",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "西中延",
+    "town_kana": "ニシナカノブ",
+    "street": "１丁目９−１０",
+    "office_name": "東京都水道局　品川営業所",
+    "office_name_kana": "トウキヨウトスイドウキヨク シナガワエイギヨウシヨ"
+  },
   "8666": {
     "postcode": "1428666",
     "prefecture": "東京都",

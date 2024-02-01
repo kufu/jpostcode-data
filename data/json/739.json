@@ -5296,6 +5296,19 @@
       "town": "鏡山",
       "town_kana": "カガミヤマ",
       "street": "１丁目３−１",
+      "office_name": "広島大学　理学部",
+      "office_name_kana": "ヒロシマダイガク リガクブ"
+    },
+    {
+      "postcode": "7398526",
+      "prefecture": "広島県",
+      "prefecture_kana": "ヒロシマケン",
+      "prefecture_code": 34,
+      "city": "東広島市",
+      "city_kana": "ヒガシヒロシマシ",
+      "town": "鏡山",
+      "town_kana": "カガミヤマ",
+      "street": "１丁目３−１",
       "office_name": "広島大学　理学部　（アイソトープ総合センター）",
       "office_name_kana": "ヒロシマダイガク リガクブ (アイソト-プソウゴウセンタ-)"
     },

@@ -376,6 +376,19 @@
     "office_name": "警視庁　池袋通告センター",
     "office_name_kana": "ケイシチヨウ イケブクロツウコクセンタ-"
   },
+  "8524": {
+    "postcode": "1718524",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "豊島区",
+    "city_kana": "トシマク",
+    "town": "西池袋",
+    "town_kana": "ニシイケブクロ",
+    "street": "１丁目７−７東京西池袋ビルディング２階",
+    "office_name": "東京都水道局　豊島営業所",
+    "office_name_kana": "トウキヨウトスイドウキヨク トシマエイギヨウシヨ"
+  },
   "8525": {
     "postcode": "1718525",
     "prefecture": "東京都",

@@ -1259,5 +1259,44 @@
     "street": "３丁目１番１号",
     "office_name": "株式会社　ケーブルネット神戸芦屋　Ｊ：ＣＯＭ神戸・三木",
     "office_name_kana": "カブシキガイシヤ ケ-ブルネツトコウベアシヤ ジエイコムコウベ・ミキ"
+  },
+  "8762": {
+    "postcode": "6538762",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "神戸市長田区",
+    "city_kana": "コウベシナガタク",
+    "town": "二葉町",
+    "town_kana": "フタバチョウ",
+    "street": "５丁目１−３２",
+    "office_name": "神戸市行財政局税務部",
+    "office_name_kana": "コウベシギヨウザイセイキヨクゼイムブ"
+  },
+  "8766": {
+    "postcode": "6538766",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "神戸市長田区",
+    "city_kana": "コウベシナガタク",
+    "town": "二葉町",
+    "town_kana": "フタバチョウ",
+    "street": "５丁目１番３２号",
+    "office_name": "兵庫県神戸県民センター神戸県税事務所",
+    "office_name_kana": "ヒヨウゴケンコウベケンミンセンタ-コウベケンゼイジムシヨ"
+  },
+  "8767": {
+    "postcode": "6538767",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "神戸市長田区",
+    "city_kana": "コウベシナガタク",
+    "town": "二葉町",
+    "town_kana": "フタバチョウ",
+    "street": "５−１−３２新長田合同庁舎７階",
+    "office_name": "兵庫県神戸県民センター県民交流室",
+    "office_name_kana": "ヒヨウゴケンコウベケンミンセンタ-ケンミンコウリユウシツ"
   }
 }

@@ -1548,6 +1548,19 @@
     "office_name": "株式会社　大真空",
     "office_name_kana": "カブシキガイシヤ ダイシンクウ"
   },
+  "0195": {
+    "postcode": "6750195",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "加古川市",
+    "city_kana": "カコガワシ",
+    "town": "平岡町新在家",
+    "town_kana": "ヒラオカチョウシンザイケ",
+    "street": "２３０１",
+    "office_name": "兵庫大学　兵庫大学短期大学部",
+    "office_name_kana": "ヒヨウゴダイガク ヒヨウゴダイガクタンキダイガクブ"
+  },
   "0196": {
     "postcode": "6750196",
     "prefecture": "兵庫県",

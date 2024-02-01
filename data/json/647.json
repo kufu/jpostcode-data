@@ -558,6 +558,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0082": {
+    "postcode": "6470082",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "prefecture_code": 30,
+    "city": "新宮市",
+    "city_kana": "シングウシ",
+    "town": "鴻田",
+    "town_kana": "コウダ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1101": {
     "postcode": "6471101",
     "prefecture": "和歌山県",
