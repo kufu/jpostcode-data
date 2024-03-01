@@ -2790,11 +2790,11 @@
     "prefecture_code": 4,
     "city": "仙台市青葉区",
     "city_kana": "センダイシアオバク",
-    "town": "一番町",
-    "town_kana": "イチバンチョウ",
-    "street": "１丁目３−１",
+    "town": "片平",
+    "town_kana": "カタヒラ",
+    "street": "１丁目２−３２",
     "office_name": "株式会社　安藤・間　東北支店",
-    "office_name_kana": "カブシキガイシヤ アンドウ ハザマ トウホクシテン"
+    "office_name_kana": "カブシキガイシヤ アンドウ・ハザマ トウホクシテン"
   },
   "8650": {
     "postcode": "9808650",
@@ -2886,19 +2886,6 @@
     "street": "２６−１（仙台中央郵便局私書箱第１号）",
     "office_name": "東北放送　株式会社",
     "office_name_kana": "トウホクホウソウ カブシキガイシヤ"
-  },
-  "8670": {
-    "postcode": "9808670",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市青葉区",
-    "city_kana": "センダイシアオバク",
-    "town": "五橋",
-    "town_kana": "イツツバシ",
-    "street": "２丁目１−１０",
-    "office_name": "大正製薬　株式会社　北日本支店",
-    "office_name_kana": "タイシヨウセイヤク カブシキガイシヤ キタニホンシテン"
   },
   "8671": {
     "postcode": "9808671",

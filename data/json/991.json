@@ -354,6 +354,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0040": {
+    "postcode": "9910040",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "prefecture_code": 6,
+    "city": "寒河江市",
+    "city_kana": "サガエシ",
+    "town": "高瀬台",
+    "town_kana": "タカセダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0041": {
     "postcode": "9910041",
     "prefecture": "山形県",

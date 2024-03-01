@@ -2915,6 +2915,32 @@
       "street": null,
       "office_name": null,
       "office_name_kana": null
+    },
+    {
+      "postcode": "9600723",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "prefecture_code": 7,
+      "city": "伊達市",
+      "city_kana": "ダテシ",
+      "town": "梁川町下足駄木",
+      "town_kana": "ヤナガワマチシモアシナギ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "9600723",
+      "prefecture": "福島県",
+      "prefecture_kana": "フクシマケン",
+      "prefecture_code": 7,
+      "city": "伊達市",
+      "city_kana": "ダテシ",
+      "town": "梁川町中足駄木",
+      "town_kana": "ヤナガワマチナカアシナギ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
     }
   ],
   "0724": {

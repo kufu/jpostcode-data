@@ -7108,6 +7108,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8048": {
+    "postcode": "9638048",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "郡山市",
+    "city_kana": "コオリヤマシ",
+    "town": "富田西",
+    "town_kana": "トミタニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8051": {
     "postcode": "9638051",
     "prefecture": "福島県",
