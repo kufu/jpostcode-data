@@ -2677,6 +2677,19 @@
     "office_name": "株式会社　ＴＢＳビジョン",
     "office_name_kana": "カブシキガイシヤ テイ-ビ-エスビジヨン"
   },
+  "8472": {
+    "postcode": "1078472",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "赤坂",
+    "town_kana": "アカサカ",
+    "street": "一丁目８−１赤坂インターシティＡＩＲ",
+    "office_name": "日本マスタートラスト信託銀行　株式会社",
+    "office_name_kana": "ニホンマスタ-トラストシンタクギンコウ カブシキガイシヤ"
+  },
   "8477": {
     "postcode": "1078477",
     "prefecture": "東京都",

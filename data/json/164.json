@@ -116,6 +116,19 @@
     "office_name": "中野区役所",
     "office_name_kana": "ナカノクヤクシヨ"
   },
+  "8502": {
+    "postcode": "1648502",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中野区",
+    "city_kana": "ナカノク",
+    "town": "中野",
+    "town_kana": "ナカノ",
+    "street": "１−５−７",
+    "office_name": "東京都水道局　中野営業所",
+    "office_name_kana": "トウキヨウトスイドウキヨク ナカノエイギヨウシヨ"
+  },
   "8503": {
     "postcode": "1648503",
     "prefecture": "東京都",

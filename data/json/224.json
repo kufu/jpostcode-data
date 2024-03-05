@@ -872,6 +872,19 @@
     "office_name": "株式会社　ＡＯＫＩホールディングス",
     "office_name_kana": "カブシキガイシヤ アオキホ-ルデイングス"
   },
+  "8601": {
+    "postcode": "2248601",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市都筑区",
+    "city_kana": "ヨコハマシツヅキク",
+    "town": "中川中央",
+    "town_kana": "ナカガワチュウオウ",
+    "street": "１−９−３２",
+    "office_name": "ボッシュ　株式会社",
+    "office_name_kana": "ボツシユ カブシキカイシヤ"
+  },
   "8686": {
     "postcode": "2248686",
     "prefecture": "神奈川県",

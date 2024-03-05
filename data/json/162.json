@@ -1366,6 +1366,19 @@
     "office_name": "東京厚生年金病院",
     "office_name_kana": "トウキヨウコウセイネンキンビヨウイン"
   },
+  "8544": {
+    "postcode": "1628544",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "東五軒町",
+    "town_kana": "ヒガシゴケンチョウ",
+    "street": "２−１３",
+    "office_name": "株式会社　河出書房新社",
+    "office_name_kana": "カブシキガイシヤ カワデシヨボウシンシヤ"
+  },
   "8551": {
     "postcode": "1628551",
     "prefecture": "東京都",
