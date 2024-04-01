@@ -168,19 +168,6 @@
     "office_name": "株式会社　日本理化工業所",
     "office_name_kana": "カブシキガイシヤ ニホンリカコウギヨウシヨ"
   },
-  "8505": {
-    "postcode": "1408505",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "品川区",
-    "city_kana": "シナガワク",
-    "town": "大井",
-    "town_kana": "オオイ",
-    "street": "３丁目９−１６",
-    "office_name": "（株）ニコン",
-    "office_name_kana": "カブシキガイシヤ ニコン"
-  },
   "8506": {
     "postcode": "1408506",
     "prefecture": "東京都",
@@ -749,9 +736,9 @@
     "city_kana": "シナガワク",
     "town": "東品川",
     "town_kana": "ヒガシシナガワ",
-    "street": "４丁目１２番４号品川シーサイドパークタワー",
-    "office_name": "富士通コンポーネント　株式会社",
-    "office_name_kana": "フジツウコンポ-ネント カブシキガイシヤ"
+    "street": "四丁目１２番４号品川シーサイドパークタワー",
+    "office_name": "ＦＣＬコンポーネント　株式会社",
+    "office_name_kana": "エフシ-エルコンポ-ネント カブシキガイシヤ"
   },
   "8590": {
     "postcode": "1408590",

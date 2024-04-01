@@ -2599,6 +2599,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0936": {
+    "postcode": "3210936",
+    "prefecture": "栃木県",
+    "prefecture_kana": "トチギケン",
+    "prefecture_code": 9,
+    "city": "宇都宮市",
+    "city_kana": "ウツノミヤシ",
+    "town": "平松",
+    "town_kana": "ヒラマツ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0941": {
     "postcode": "3210941",
     "prefecture": "栃木県",
@@ -2660,6 +2673,19 @@
     "city_kana": "ウツノミヤシ",
     "town": "宿郷",
     "town_kana": "シュクゴウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0946": {
+    "postcode": "3210946",
+    "prefecture": "栃木県",
+    "prefecture_kana": "トチギケン",
+    "prefecture_code": 9,
+    "city": "宇都宮市",
+    "city_kana": "ウツノミヤシ",
+    "town": "東峰",
+    "town_kana": "ヒガシミネ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

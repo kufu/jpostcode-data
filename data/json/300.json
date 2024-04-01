@@ -2183,6 +2183,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0520": {
+    "postcode": "3000520",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "稲敷市",
+    "city_kana": "イナシキシ",
+    "town": "君賀の森",
+    "town_kana": "キミガノモリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0521": {
     "postcode": "3000521",
     "prefecture": "茨城県",
@@ -2320,9 +2333,9 @@
     "prefecture_code": 8,
     "city": "稲敷市",
     "city_kana": "イナシキシ",
-    "town": "江戸崎甲",
-    "town_kana": "エドサキコウ",
-    "street": "３２７７−１",
+    "town": "犬塚",
+    "town_kana": "イヌヅカ",
+    "street": "１５７０−１",
     "office_name": "稲敷市役所",
     "office_name_kana": "イナシキシヤクシヨ"
   },
@@ -2739,8 +2752,8 @@
     "town": "須賀津",
     "town_kana": "スカヅ",
     "street": "２０８",
-    "office_name": "稲敷市役所桜川庁舎",
-    "office_name_kana": "イナシキシヤクシヨ サクラガワチヨウシヤ"
+    "office_name": "稲敷市桜川公民館（桜川地区センター）",
+    "office_name_kana": "イナシキシサクラガワコウミンカン(サクラガワチクセンタ-)"
   },
   "0721": {
     "postcode": "3000721",
@@ -3051,8 +3064,8 @@
     "town": "結佐",
     "town_kana": "ケッサ",
     "street": "１５４５",
-    "office_name": "稲敷市役所　東庁舎",
-    "office_name_kana": "イナシキシヤクシヨ アズマチヨウシヤ"
+    "office_name": "稲敷市役所　東支所",
+    "office_name_kana": "イナシキシヤクシヨ アズマシシヨ"
   },
   "0801": {
     "postcode": "3000801",

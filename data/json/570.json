@@ -480,60 +480,19 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0043": [
-    {
-      "postcode": "5700043",
-      "prefecture": "大阪府",
-      "prefecture_kana": "オオサカフ",
-      "prefecture_code": 27,
-      "city": "守口市",
-      "city_kana": "モリグチシ",
-      "town": "高瀬旧大枝",
-      "town_kana": "タカセキュウオオエダ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "5700043",
-      "prefecture": "大阪府",
-      "prefecture_kana": "オオサカフ",
-      "prefecture_code": 27,
-      "city": "守口市",
-      "city_kana": "モリグチシ",
-      "town": "高瀬旧世木",
-      "town_kana": "タカセキュウセギ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "5700043",
-      "prefecture": "大阪府",
-      "prefecture_kana": "オオサカフ",
-      "prefecture_code": 27,
-      "city": "守口市",
-      "city_kana": "モリグチシ",
-      "town": "高瀬旧馬場",
-      "town_kana": "タカセキュウババ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "5700043",
-      "prefecture": "大阪府",
-      "prefecture_kana": "オオサカフ",
-      "prefecture_code": 27,
-      "city": "守口市",
-      "city_kana": "モリグチシ",
-      "town": "南寺方東通",
-      "town_kana": "ミナミテラカタヒガシドオリ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
+  "0043": {
+    "postcode": "5700043",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "守口市",
+    "city_kana": "モリグチシ",
+    "town": "南寺方東通",
+    "town_kana": "ミナミテラカタヒガシドオリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0044": {
     "postcode": "5700044",
     "prefecture": "大阪府",

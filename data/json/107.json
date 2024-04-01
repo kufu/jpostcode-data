@@ -2560,6 +2560,19 @@
     "office_name": "米国大使館",
     "office_name_kana": "アメリカタイシカン"
   },
+  "8431": {
+    "postcode": "1078431",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "赤坂",
+    "town_kana": "アカサカ",
+    "street": "１−１−１４",
+    "office_name": "日本管財センター　株式会社",
+    "office_name_kana": "ニホンカンザイセンタ- カブシキガイシヤ"
+  },
   "8434": {
     "postcode": "1078434",
     "prefecture": "東京都",
