@@ -792,6 +792,19 @@
     "office_name": "住友重機械ギヤボックス　株式会社",
     "office_name_kana": "スミトモジユウキカイギヤボツクス カブシキガイシヤ"
   },
+  "8577": {
+    "postcode": "5978577",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "貝塚市",
+    "city_kana": "カイヅカシ",
+    "town": "畠中",
+    "town_kana": "ハタケナカ",
+    "street": "１丁目１７−２",
+    "office_name": "大阪府貝塚子ども家庭センター",
+    "office_name_kana": "オオサカフカイヅカコドモカテイセンタ-"
+  },
   "8585": {
     "postcode": "5978585",
     "prefecture": "大阪府",

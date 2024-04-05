@@ -6517,18 +6517,5 @@
     "street": "３丁目２−６（長岡郵便局私書箱第５９号）",
     "office_name": "日本生命保険　相互会社　長岡支社",
     "office_name_kana": "ニホンセイメイホケン ソウゴガイシヤ ナガオカシシヤ"
-  },
-  "8707": {
-    "postcode": "9408707",
-    "prefecture": "新潟県",
-    "prefecture_kana": "ニイガタケン",
-    "prefecture_code": 15,
-    "city": "長岡市",
-    "city_kana": "ナガオカシ",
-    "town": "城内町",
-    "town_kana": "ジョウナイチョウ",
-    "street": "３丁目１−１（長岡郵便局私書箱第９４号）",
-    "office_name": "東北電力　株式会社　長岡営業所",
-    "office_name_kana": "トウホクデンリヨク カブシキカイシヤ ナガオカエイギヨウシヨ"
   }
 }

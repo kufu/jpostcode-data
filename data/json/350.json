@@ -2887,6 +2887,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0418": {
+    "postcode": "3500418",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "入間郡越生町",
+    "city_kana": "イルマグンオゴセマチ",
+    "town": "春日",
+    "town_kana": "カスガ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0421": {
     "postcode": "3500421",
     "prefecture": "埼玉県",

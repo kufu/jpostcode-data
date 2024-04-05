@@ -3353,19 +3353,6 @@
     "office_name": "神鋼商事　株式会社",
     "office_name_kana": "シンコウシヨウジ カブシキカイシヤ"
   },
-  "8401": {
-    "postcode": "1048401",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "八丁堀",
-    "town_kana": "ハッチョウボリ",
-    "street": "２−２４−３",
-    "office_name": "日本管材センター　株式会社",
-    "office_name_kana": "ニホンカンザイセンタ- カブシキガイシヤ"
-  },
   "8402": {
     "postcode": "1048402",
     "prefecture": "東京都",
@@ -3404,19 +3391,6 @@
     "street": "３丁目１５−１築地本願寺内",
     "office_name": "東京教区教務所",
     "office_name_kana": "トウキヨウキヨウクキヨウムシヨ"
-  },
-  "8406": {
-    "postcode": "1048406",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "築地",
-    "town_kana": "ツキジ",
-    "street": "５丁目６−１０",
-    "office_name": "日通商事　株式会社",
-    "office_name_kana": "ニツツウシヨウジ カブシキガイシヤ"
   },
   "8407": {
     "postcode": "1048407",
@@ -3648,9 +3622,9 @@
     "city_kana": "チュウオウク",
     "town": "築地",
     "town_kana": "ツキジ",
-    "street": "５丁目６番４号",
-    "office_name": "三井造船　株式会社",
-    "office_name_kana": "ミツイゾウセン カブシキカイシヤ"
+    "street": "五丁目６番４号",
+    "office_name": "株式会社　三井Ｅ＆Ｓ",
+    "office_name_kana": "カブシキガイシヤ ミツイイ-アンドエス"
   },
   "8440": {
     "postcode": "1048440",
@@ -3729,19 +3703,6 @@
     "street": "２丁目１０番１７号",
     "office_name": "商工組合中央金庫　本店",
     "office_name_kana": "シヨウコウクミアイチユウオウキンコ ホンテン"
-  },
-  "8455": {
-    "postcode": "1048455",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "京橋",
-    "town_kana": "キョウバシ",
-    "street": "２−７−１９京橋イーストビル９階",
-    "office_name": "キグナス石油　株式会社",
-    "office_name_kana": "キグナスセキユ カブシキガイシヤ"
   },
   "8456": {
     "postcode": "1048456",
@@ -3899,19 +3860,6 @@
     "office_name": "株式会社　兼松ＫＧＫ",
     "office_name_kana": "カブシキガイシヤ カネマツ ケ-ジ-ケイ"
   },
-  "8512": {
-    "postcode": "1048512",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "八丁堀",
-    "town_kana": "ハッチョウボリ",
-    "street": "２丁目１２−７",
-    "office_name": "ユニデン　株式会社",
-    "office_name_kana": "ユニデン カブシキガイシヤ"
-  },
   "8517": {
     "postcode": "1048517",
     "prefecture": "東京都",
@@ -4029,45 +3977,6 @@
     "office_name": "月星商事　株式会社",
     "office_name_kana": "ツキボシシヨウジ カブシキガイシヤ"
   },
-  "8536": {
-    "postcode": "1048536",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "八丁堀",
-    "town_kana": "ハッチョウボリ",
-    "street": "４−３−３Ｄａｉｗａ京橋ビル２・３階",
-    "office_name": "株式会社　サッポロライオン",
-    "office_name_kana": "カブシキガイシヤ サツポロライオン"
-  },
-  "8538": {
-    "postcode": "1048538",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "晴海",
-    "town_kana": "ハルミ",
-    "street": "２丁目５−２４",
-    "office_name": "株式会社　サークルＫサンクス",
-    "office_name_kana": "カブシキガイシヤ サ-クルケイサンクス"
-  },
-  "8539": {
-    "postcode": "1048539",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "晴海",
-    "town_kana": "ハルミ",
-    "street": "３丁目１２−１",
-    "office_name": "株式会社　共同紙販ホールディングス",
-    "office_name_kana": "カブシキガイシヤ キヨウドウカミハンホ-ルデイングス"
-  },
   "8543": {
     "postcode": "1048543",
     "prefecture": "東京都",
@@ -4094,19 +4003,6 @@
     "office_name": "株式会社　ワールド",
     "office_name_kana": "カブシキガイシヤ ワ-ルド"
   },
-  "8546": {
-    "postcode": "1048546",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "晴海",
-    "town_kana": "ハルミ",
-    "street": "１丁目８番８号トリトンスクエアオフィスタワーＷ１２・１３階",
-    "office_name": "三井住商建材　株式会社",
-    "office_name_kana": "ミツイスミシヨウケンザイ カブシキガイシヤ"
-  },
   "8547": {
     "postcode": "1048547",
     "prefecture": "東京都",
@@ -4119,19 +4015,6 @@
     "street": "１−８−１０晴海アイランドトリトンスクエアＸ棟１４階",
     "office_name": "スミダコーポレーション　株式会社",
     "office_name_kana": "スミダコ-ポレ-シヨン カブシキガイシヤ"
-  },
-  "8548": {
-    "postcode": "1048548",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "晴海",
-    "town_kana": "ハルミ",
-    "street": "１丁目８−８晴海アイランドトリトンスクエアＷ９Ｆ",
-    "office_name": "住友商事マシネックス　株式会社",
-    "office_name_kana": "スミトモシヨウジマシネツクス カブシキガイシヤ"
   },
   "8550": {
     "postcode": "1048550",
@@ -4262,19 +4145,6 @@
     "street": "２丁目５−２４晴海センタービル１０階",
     "office_name": "株式会社　サントリー・ショッピング・クラブ",
     "office_name_kana": "カブシキガイシヤ サントリ-・シヨツピング・クラブ"
-  },
-  "8580": {
-    "postcode": "1048580",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "勝どき",
-    "town_kana": "カチドキ",
-    "street": "６丁目１−１５勝どきＹＳビル",
-    "office_name": "キヤノンＩＴソリューションズ　株式会社",
-    "office_name_kana": "キヤノンITソリユ-シヨンズ カブシキガイシヤ"
   },
   "8581": {
     "postcode": "1048581",

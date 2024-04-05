@@ -766,6 +766,19 @@
     "office_name": "日東電工　株式会社　亀山事業所",
     "office_name_kana": "ニツトウデンコウ カブシキガイシヤ カメヤマジギヨウシヨ"
   },
+  "0194": {
+    "postcode": "5190194",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "prefecture_code": 24,
+    "city": "亀山市",
+    "city_kana": "カメヤマシ",
+    "town": "白木町",
+    "town_kana": "シラキチョウ",
+    "street": "字押之尾６０番３７",
+    "office_name": "株式会社　スズカ未来　ＴＳＵＮＡＧＵセンター",
+    "office_name_kana": "カブシキガイシヤ スズカミライ ツナグセンタ-"
+  },
   "0195": {
     "postcode": "5190195",
     "prefecture": "三重県",

@@ -5007,8 +5007,8 @@
     "town": "大岡",
     "town_kana": "オオオカ",
     "street": "２０６８−３",
-    "office_name": "東芝機械　株式会社　沼津事業所",
-    "office_name_kana": "トウシバキカイ カブシキガイシヤ ヌマヅジギヨウシヨ"
+    "office_name": "芝浦機械　株式会社　沼津工場",
+    "office_name_kana": "シバウラキカイ カブシキガイシヤ ヌマヅコウジヨウ"
   },
   "8511": {
     "postcode": "4108511",
@@ -5322,19 +5322,6 @@
     "office_name": "沼津信用金庫　本店　本部",
     "office_name_kana": "ヌマヅシンヨウキンコ ホンテン ホンブ"
   },
-  "8654": {
-    "postcode": "4108654",
-    "prefecture": "静岡県",
-    "prefecture_kana": "シズオカケン",
-    "prefecture_code": 22,
-    "city": "沼津市",
-    "city_kana": "ヌマヅシ",
-    "town": "御幸町",
-    "town_kana": "ミユキチョウ",
-    "street": "１７−５（沼津郵便局私書箱第９０号）",
-    "office_name": "商工組合中央金庫　沼津支店",
-    "office_name_kana": "シヨウコウクミアイチユウオウキンコ ヌマヅシテン"
-  },
   "8655": {
     "postcode": "4108655",
     "prefecture": "静岡県",
@@ -5345,8 +5332,8 @@
     "town": "日の出町",
     "town_kana": "ヒノデチョウ",
     "street": "１−４０（沼津郵便局私書箱第７号）",
-    "office_name": "沼津社会保険事務所",
-    "office_name_kana": "ヌマヅシヤカイホケンジムシヨ"
+    "office_name": "日本年金機構　沼津年金事務所",
+    "office_name_kana": "ニツポンネンキンキコウ ヌマヅネンキンジムシヨ"
   },
   "8686": {
     "postcode": "4108686",
