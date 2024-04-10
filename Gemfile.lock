@@ -11,7 +11,7 @@ GEM
       coderay (~> 1.1)
       method_source (~> 1.0)
     racc (1.7.3)
-    rake (13.2.0)
+    rake (13.2.1)
     rubyzip (2.3.2)
     sqlite3 (1.7.3)
       mini_portile2 (~> 2.8.0)
