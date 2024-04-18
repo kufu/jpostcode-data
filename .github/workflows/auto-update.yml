@@ -14,7 +14,9 @@ jobs:
       with:
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: update jpostcode data
-      run: RUBYOPT=-w bundle exec rake jpostcode:data:update_all
+      run: bundle exec rake jpostcode:data:update_all
+      env:
+        RUBYOPT: "-w" 
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v3
       with:
