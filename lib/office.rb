@@ -60,11 +60,11 @@ module Jpostcode
             CSV.parse(a.get_input_stream.read) do |row|
               h = to_hash(row)
 
-              prefecture_kana, prefecture_code, city_kana, town_kana = db.execute(SELECT_SQL, h[:prefecture], h[:city], h[:town]).first
+              prefecture_kana, prefecture_code, city_kana, town_kana = db.execute(SELECT_SQL, [h[:prefecture], h[:city], h[:town]]).first
               if prefecture_code.nil?
-                prefecture_kana, prefecture_code, city_kana, town_kana = db.execute(SELECT_SQL, h[:prefecture], h[:city], convert_to_zen(convert_kansuji(h[:town]))).first
+                prefecture_kana, prefecture_code, city_kana, town_kana = db.execute(SELECT_SQL, [h[:prefecture], h[:city], convert_to_zen(convert_kansuji(h[:town]))]).first
                 if prefecture_code.nil?
-                  prefecture_kana, prefecture_code, city_kana = db.execute(EASY_SELECT_SQL, h[:prefecture], h[:city]).first
+                  prefecture_kana, prefecture_code, city_kana = db.execute(EASY_SELECT_SQL, [h[:prefecture], h[:city]]).first
                 end
               end
 
