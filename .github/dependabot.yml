@@ -11,3 +11,10 @@ updates:
   allow:
   - dependency-type: direct
   - dependency-type: indirect
+- package-ecosystem: github-actions
+  directory: "/"
+  schedule:
+    interval: weekly
+    time: "07:00"
+    timezone: Asia/Tokyo
+  open-pull-requests-limit: 99
