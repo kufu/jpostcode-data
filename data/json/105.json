@@ -7136,6 +7136,19 @@
     "office_name": "株式会社　日経ＢＰ",
     "office_name_kana": "カブシキガイシヤ ニツケイビ-ピ-"
   },
+  "8309": {
+    "postcode": "1058309",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "１丁目１３−１６",
+    "office_name": "森永製菓　株式会社",
+    "office_name_kana": "モリナガセイカ カブシキガイシヤ"
+  },
   "8310": {
     "postcode": "1058310",
     "prefecture": "東京都",
@@ -7643,34 +7656,19 @@
     "office_name": "気象庁",
     "office_name_kana": "キシヨウチヨウ"
   },
-  "8433": [
-    {
-      "postcode": "1058433",
-      "prefecture": "東京都",
-      "prefecture_kana": "トウキョウト",
-      "prefecture_code": 13,
-      "city": "港区",
-      "city_kana": "ミナトク",
-      "town": "西新橋",
-      "town_kana": "ニシシンバシ",
-      "street": "２−３８−５",
-      "office_name": "ＰＨＣ　株式会社",
-      "office_name_kana": "ピ-エイチシ- カブシキガイシヤ"
-    },
-    {
-      "postcode": "1058433",
-      "prefecture": "東京都",
-      "prefecture_kana": "トウキョウト",
-      "prefecture_code": 13,
-      "city": "港区",
-      "city_kana": "ミナトク",
-      "town": "西新橋",
-      "town_kana": "ニシシンバシ",
-      "street": "２−３８−５",
-      "office_name": "ＰＨＣホールディングス　株式会社",
-      "office_name_kana": "ピ-エイチシ-ホ-ルデイングス カブシキガイシヤ"
-    }
-  ],
+  "8433": {
+    "postcode": "1058433",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "西新橋",
+    "town_kana": "ニシシンバシ",
+    "street": "３丁目７−１",
+    "office_name": "ＰＨＣ　株式会社",
+    "office_name_kana": "ピ-エイチシ- カブシキガイシヤ"
+  },
   "8434": {
     "postcode": "1058434",
     "prefecture": "東京都",
@@ -7982,8 +7980,8 @@
     "town": "西新橋",
     "town_kana": "ニシシンバシ",
     "street": "１丁目１番１号",
-    "office_name": "三井食品　株式会社",
-    "office_name_kana": "ミツイシヨクヒン カブシキガイシヤ"
+    "office_name": "三井物産流通グループ　株式会社",
+    "office_name_kana": "ミツイブツサンリユウツウグル-プ カブシキガイシヤ"
   },
   "8467": {
     "postcode": "1058467",

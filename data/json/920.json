@@ -8975,6 +8975,19 @@
     "office_name": "全労済　石川県本部",
     "office_name_kana": "ゼンロウサイ イシカワケンホンブ"
   },
+  "8545": {
+    "postcode": "9208545",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "金沢市",
+    "city_kana": "カナザワシ",
+    "town": "問屋町",
+    "town_kana": "トイヤマチ",
+    "street": "２丁目２０番地",
+    "office_name": "株式会社　丸菱",
+    "office_name_kana": "カブシキガイシヤ マルビシ"
+  },
   "8550": {
     "postcode": "9208550",
     "prefecture": "石川県",

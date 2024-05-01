@@ -1533,6 +1533,19 @@
     "office_name": "株式会社　足利モール",
     "office_name_kana": "カブシキガイシヤ アシカガモ-ル"
   },
+  "8555": {
+    "postcode": "3268555",
+    "prefecture": "栃木県",
+    "prefecture_kana": "トチギケン",
+    "prefecture_code": 9,
+    "city": "足利市",
+    "city_kana": "アシカガシ",
+    "town": "伊勢町",
+    "town_kana": "イセチョウ",
+    "street": "４丁目１９番地",
+    "office_name": "栃木県安足土木事務所",
+    "office_name_kana": "トチギケンアンソクドボクジムシヨ"
+  },
   "8558": {
     "postcode": "3268558",
     "prefecture": "栃木県",

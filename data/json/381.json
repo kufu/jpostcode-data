@@ -2879,11 +2879,11 @@
     "prefecture_code": 20,
     "city": "長野市",
     "city_kana": "ナガノシ",
-    "town": "大字北尾張部",
-    "town_kana": null,
+    "town": "北尾張部",
+    "town_kana": "キタオワリベ",
     "street": "３６",
-    "office_name": "富士通　株式会社　長野工場",
-    "office_name_kana": "フジツウ カブシキガイシヤ ナガノコウジヨウ"
+    "office_name": "ＦＩＣＴ　株式会社",
+    "office_name_kana": "エフアイシ-テイ カブシキガイシヤ"
   },
   "8503": {
     "postcode": "3818503",

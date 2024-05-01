@@ -5316,6 +5316,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3516": {
+    "postcode": "6893516",
+    "prefecture": "鳥取県",
+    "prefecture_kana": "トットリケン",
+    "prefecture_code": 31,
+    "city": "米子市",
+    "city_kana": "ヨナゴシ",
+    "town": "みのり町",
+    "town_kana": "ミノリチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3521": {
     "postcode": "6893521",
     "prefecture": "鳥取県",

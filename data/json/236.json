@@ -688,6 +688,19 @@
     "office_name": "杉田ゴルフ場",
     "office_name_kana": "スギタゴルフジヨウ"
   },
+  "8609": {
+    "postcode": "2368609",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市金沢区",
+    "city_kana": "ヨコハマシカナザワク",
+    "town": "寺前",
+    "town_kana": "テラマエ",
+    "street": "１−９−６",
+    "office_name": "横浜南公共職業安定所",
+    "office_name_kana": "ヨコハマミナミコウキヨウシヨクギヨウアンテイシヨ"
+  },
   "8641": {
     "postcode": "2368641",
     "prefecture": "神奈川県",

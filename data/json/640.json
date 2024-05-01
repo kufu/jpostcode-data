@@ -5758,6 +5758,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8454": {
+    "postcode": "6408454",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "prefecture_code": 30,
+    "city": "和歌山市",
+    "city_kana": "ワカヤマシ",
+    "town": "ふじと台",
+    "town_kana": "フジトダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8461": {
     "postcode": "6408461",
     "prefecture": "和歌山県",
