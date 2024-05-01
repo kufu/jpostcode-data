@@ -81,13 +81,15 @@ module Jpostcode
       def insert(hash)
         db.execute(
           INSERT_SQL,
-          hash[:postcode],
-          hash[:prefecture], hash[:prefecture_kana], hash[:prefecture_code],
-          hash[:city], hash[:city_kana],
-          hash[:town], hash[:town_kana],
-          hash[:street],
-          hash[:office_name],
-          hash[:office_name_kana]
+          [
+            hash[:postcode],
+            hash[:prefecture], hash[:prefecture_kana], hash[:prefecture_code],
+            hash[:city], hash[:city_kana],
+            hash[:town], hash[:town_kana],
+            hash[:street],
+            hash[:office_name],
+            hash[:office_name_kana]
+          ]
         )
       end
     end
