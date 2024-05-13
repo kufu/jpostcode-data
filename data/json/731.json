@@ -3783,62 +3783,32 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "5115": [
-    {
-      "postcode": "7315115",
-      "prefecture": "広島県",
-      "prefecture_kana": "ヒロシマケン",
-      "prefecture_code": 34,
-      "city": "広島市佐伯区",
-      "city_kana": "ヒロシマシサエキク",
-      "town": "五日市町中地",
-      "town_kana": "イツカイチチョウナカジ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "7315115",
-      "prefecture": "広島県",
-      "prefecture_kana": "ヒロシマケン",
-      "prefecture_code": 34,
-      "city": "広島市佐伯区",
-      "city_kana": "ヒロシマシサエキク",
-      "town": "八幡東",
-      "town_kana": "ヤハタヒガシ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
-  "5116": [
-    {
-      "postcode": "7315116",
-      "prefecture": "広島県",
-      "prefecture_kana": "ヒロシマケン",
-      "prefecture_code": 34,
-      "city": "広島市佐伯区",
-      "city_kana": "ヒロシマシサエキク",
-      "town": "五日市町寺田",
-      "town_kana": "イツカイチチョウテラダ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "7315116",
-      "prefecture": "広島県",
-      "prefecture_kana": "ヒロシマケン",
-      "prefecture_code": 34,
-      "city": "広島市佐伯区",
-      "city_kana": "ヒロシマシサエキク",
-      "town": "八幡",
-      "town_kana": "ヤハタ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
+  "5115": {
+    "postcode": "7315115",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "広島市佐伯区",
+    "city_kana": "ヒロシマシサエキク",
+    "town": "八幡東",
+    "town_kana": "ヤハタヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "5116": {
+    "postcode": "7315116",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "広島市佐伯区",
+    "city_kana": "ヒロシマシサエキク",
+    "town": "八幡",
+    "town_kana": "ヤハタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "5117": {
     "postcode": "7315117",
     "prefecture": "広島県",

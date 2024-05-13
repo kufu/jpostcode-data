@@ -2492,6 +2492,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0897": {
+    "postcode": "9660897",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "喜多方市",
+    "city_kana": "キタカタシ",
+    "town": "経壇東",
+    "town_kana": "キョウダンヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0898": {
     "postcode": "9660898",
     "prefecture": "福島県",
@@ -2631,6 +2644,32 @@
     "city_kana": "キタカタシ",
     "town": "大谷地",
     "town_kana": "オオヤチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0916": {
+    "postcode": "9660916",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "喜多方市",
+    "city_kana": "キタカタシ",
+    "town": "千苅道下",
+    "town_kana": "センガリミチシタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0917": {
+    "postcode": "9660917",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "喜多方市",
+    "city_kana": "キタカタシ",
+    "town": "千苅中道上",
+    "town_kana": "センガリナカミチウエ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

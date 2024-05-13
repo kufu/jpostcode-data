@@ -2859,6 +2859,58 @@
     "office_name": "株式会社　エクサ",
     "office_name_kana": "カブシキガイシヤ エクサ"
   },
+  "8561": {
+    "postcode": "2208561",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "みなとみらい",
+    "town_kana": "ミナトミライ",
+    "street": "４丁目６番２号みなとみらいグランドセントラルタワー７階",
+    "office_name": "大陽日酸　株式会社　みなとみらい事業所",
+    "office_name_kana": "タイヨウニツサン カブシキガイシヤ ミナトミライジギヨウシヨ"
+  },
+  "8562": {
+    "postcode": "2208562",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "みなとみらい",
+    "town_kana": "ミナトミライ",
+    "street": "４丁目６番２号みなとみらいグランドセントラルタワー７階",
+    "office_name": "大陽日酸　株式会社　関東支社",
+    "office_name_kana": "タイヨウニツサン カブシキガイシヤ カントウシシヤ"
+  },
+  "8563": {
+    "postcode": "2208563",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "みなとみらい",
+    "town_kana": "ミナトミライ",
+    "street": "４丁目６番２号みなとみらいグランドセントラルタワー７階",
+    "office_name": "大陽日酸エンジニアリング　株式会社",
+    "office_name_kana": "タイヨウニツサンエンジニアリング カブシキガイシヤ"
+  },
+  "8564": {
+    "postcode": "2208564",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "みなとみらい",
+    "town_kana": "ミナトミライ",
+    "street": "４丁目６番２号みなとみらいグランドセントラルタワー７階",
+    "office_name": "大陽日酸エンジニアリング　株式会社　関東支店",
+    "office_name_kana": "タイヨウニツサンエンジニアリング カブシキガイシヤ カントウシテン"
+  },
   "8565": {
     "postcode": "2208565",
     "prefecture": "神奈川県",

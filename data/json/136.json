@@ -911,6 +911,19 @@
     "office_name": "株式会社　鴻池組",
     "office_name_kana": "カブシキガイシヤ コウノイケグミ"
   },
+  "8881": {
+    "postcode": "1368881",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "南砂",
+    "town_kana": "ミナミスナ",
+    "street": "７−１１−２４",
+    "office_name": "株式会社　ミキモト",
+    "office_name_kana": "(カ) ミキモト"
+  },
   "8888": {
     "postcode": "1368888",
     "prefecture": "東京都",

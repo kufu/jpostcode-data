@@ -570,18 +570,5 @@
     "street": "４丁目３４−１（調布郵便局私書箱第２０号）",
     "office_name": "マニュライフ・センチュリー生命保険　株式会社",
     "office_name_kana": "マニユライフ・センチユリ-セイメイホケン カブシキガイシヤ"
-  },
-  "8686": {
-    "postcode": "1828686",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "調布市",
-    "city_kana": "チョウフシ",
-    "town": "柴崎",
-    "town_kana": "シバサキ",
-    "street": "１丁目６７−１（調布郵便局私書箱第１０号）",
-    "office_name": "株式会社　フジカラーサービス　東京事業所",
-    "office_name_kana": "カブシキガイシヤ フジカラ-サ-ビス トウキヨウジギヨウシヨ"
   }
 }

@@ -2274,6 +2274,19 @@
     "office_name": "ＮＴＴ　松本営業支店",
     "office_name_kana": "エヌ・テイ・テイ マツモトエイギヨウシテン"
   },
+  "8704": {
+    "postcode": "3908704",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "松本市",
+    "city_kana": "マツモトシ",
+    "town": "大手",
+    "town_kana": "オオテ",
+    "street": "３丁目１番１号（松本郵便局私書箱第３０号）",
+    "office_name": "株式会社　八十二銀行　松本営業部",
+    "office_name_kana": "カブシキガイシヤ ハチジユウニギンコウ マツモトエイギヨウブ"
+  },
   "8707": {
     "postcode": "3908707",
     "prefecture": "長野県",

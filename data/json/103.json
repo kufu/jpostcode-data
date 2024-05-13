@@ -1860,19 +1860,6 @@
     "office_name": "神鋼商事　株式会社",
     "office_name_kana": "シンコウシヨウジ (カブ)"
   },
-  "8263": {
-    "postcode": "1038263",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "日本橋",
-    "town_kana": "ニホンバシ",
-    "street": "１丁目３−１６",
-    "office_name": "三井造船　株式会社",
-    "office_name_kana": "ミツイゾウセン カブシキガイシヤ"
-  },
   "8265": {
     "postcode": "1038265",
     "prefecture": "東京都",
@@ -3328,8 +3315,8 @@
     "town": "日本橋蛎殻町",
     "town_kana": "ニホンバシカキガラチョウ",
     "street": "２丁目１−１",
-    "office_name": "株式会社　ロイヤルパークホテル",
-    "office_name_kana": "カブシキガイシヤ ロイヤルパ-クホテル"
+    "office_name": "三菱地所ホテルズ＆リゾーツ　株式会社　ロイヤルパークホテル（東京・日本橋）",
+    "office_name_kana": "ミツビシジシヨホテルズアンドリゾ-ツ カブシキガイシヤ ロイヤルパ-クホテル トウキヨウ・ニホンバシ"
   },
   "8521": {
     "postcode": "1038521",

@@ -1195,6 +1195,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1926": {
+    "postcode": "8991926",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "prefecture_code": 46,
+    "city": "薩摩川内市",
+    "city_kana": "サツマセンダイシ",
+    "town": "サーキュラーパーク",
+    "town_kana": "サーキュラーパーク",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2101": {
     "postcode": "8992101",
     "prefecture": "鹿児島県",

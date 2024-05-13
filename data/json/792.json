@@ -1429,19 +1429,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "8501": {
-    "postcode": "7928501",
-    "prefecture": "愛媛県",
-    "prefecture_kana": "エヒメケン",
-    "prefecture_code": 38,
-    "city": "新居浜市",
-    "city_kana": "ニイハマシ",
-    "town": "港町",
-    "town_kana": "ミナトマチ",
-    "street": "２−１０",
-    "office_name": "大和証券　株式会社　新居浜支店",
-    "office_name_kana": "ダイワシヨウケン カブシキガイシヤ ニイハマシテン"
-  },
   "8505": {
     "postcode": "7928505",
     "prefecture": "愛媛県",

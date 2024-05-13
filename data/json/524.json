@@ -672,19 +672,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0292": {
-    "postcode": "5240292",
-    "prefecture": "滋賀県",
-    "prefecture_kana": "シガケン",
-    "prefecture_code": 25,
-    "city": "野洲市",
-    "city_kana": "ヤスシ",
-    "town": "吉川",
-    "town_kana": "ヨシカワ",
-    "street": "４１８７番地",
-    "office_name": "株式会社　鮎家",
-    "office_name_kana": "カブシキガイシヤ アユヤ"
-  },
   "8501": {
     "postcode": "5248501",
     "prefecture": "滋賀県",

@@ -2560,6 +2560,19 @@
     "office_name": "国際医療福祉大学三田病院",
     "office_name_kana": "コクサイイリヨウフクシダイガクミタビヨウイン"
   },
+  "8331": {
+    "postcode": "1088331",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "３−１−１ｍｓｂＴａｍａｃｈｉステーションタワーＮ４１Ｆ",
+    "office_name": "ＴＤ　ＳＹＮＮＥＸ　株式会社",
+    "office_name_kana": "テイ-デイ-シネツクス カブシキガイシヤ"
+  },
   "8333": {
     "postcode": "1088333",
     "prefecture": "東京都",
