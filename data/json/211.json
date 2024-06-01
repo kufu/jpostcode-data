@@ -610,19 +610,6 @@
     "office_name": "第一メール　株式会社",
     "office_name_kana": "ダイイチメ-ル カブシキガイシヤ"
   },
-  "8520": {
-    "postcode": "2118520",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "川崎市中原区",
-    "city_kana": "カワサキシナカハラク",
-    "town": "下小田中",
-    "town_kana": "シモコダナカ",
-    "street": "２丁目２０−５中原ビル",
-    "office_name": "富士通　ＦＩＰ",
-    "office_name_kana": "フジツウ エフ・アイ・ピ-"
-  },
   "8522": {
     "postcode": "2118522",
     "prefecture": "神奈川県",
@@ -661,19 +648,6 @@
     "street": "１−３８３",
     "office_name": "日本医科大学武蔵小杉病院",
     "office_name_kana": "ニホンイカダイガクムサシコスギビヨウイン"
-  },
-  "8540": {
-    "postcode": "2118540",
-    "prefecture": "神奈川県",
-    "prefecture_kana": "カナガワケン",
-    "prefecture_code": 14,
-    "city": "川崎市中原区",
-    "city_kana": "カワサキシナカハラク",
-    "town": "新城中町",
-    "town_kana": "シンジョウナカチョウ",
-    "street": "１１−８",
-    "office_name": "富士通エフ・アイ・ピー　株式会社",
-    "office_name_kana": "フジツウエフアイピ- カブシキガイシヤ"
   },
   "8550": {
     "postcode": "2118550",
@@ -763,8 +737,8 @@
     "town": "上小田中",
     "town_kana": "カミコダナカ",
     "street": "４丁目１−１",
-    "office_name": "富士通　株式会社　川崎工場",
-    "office_name_kana": "フジツウ カブシキガイシヤ カワサキコウジヨウ"
+    "office_name": "富士通　（株）　Ｆｕｊｉｔｓｕ　Ｔｅｃｈｎｏｌｏｇｙ　Ｐａｒｋ",
+    "office_name_kana": "フジツウ カブシキカイシヤ フジツウテクノロジ-パ-ク"
   },
   "8601": {
     "postcode": "2118601",

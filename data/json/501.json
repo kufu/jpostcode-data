@@ -1706,32 +1706,6 @@
     "office_name": "北方町役場",
     "office_name_kana": "キタガタチヨウヤクバ"
   },
-  "0493": {
-    "postcode": "5010493",
-    "prefecture": "岐阜県",
-    "prefecture_kana": "ギフケン",
-    "prefecture_code": 21,
-    "city": "本巣市",
-    "city_kana": "モトスシ",
-    "town": "三橋",
-    "town_kana": "ミツハシ",
-    "street": "１１０１番地６",
-    "office_name": "本巣市役所　糸貫分庁舎",
-    "office_name_kana": "モトスシヤクシヨ イトヌキブンチヨウシヤ"
-  },
-  "0494": {
-    "postcode": "5010494",
-    "prefecture": "岐阜県",
-    "prefecture_kana": "ギフケン",
-    "prefecture_code": 21,
-    "city": "本巣市",
-    "city_kana": "モトスシ",
-    "town": "下真桑",
-    "town_kana": "シモマクワ",
-    "street": "１０００番地",
-    "office_name": "本巣市役所　真正分庁舎",
-    "office_name_kana": "モトスシヤクシヨ シンセイブンチヨウシヤ"
-  },
   "0495": {
     "postcode": "5010495",
     "prefecture": "岐阜県",
@@ -4197,19 +4171,6 @@
       "office_name_kana": null
     }
   ],
-  "1292": {
-    "postcode": "5011292",
-    "prefecture": "岐阜県",
-    "prefecture_kana": "ギフケン",
-    "prefecture_code": 21,
-    "city": "本巣市",
-    "city_kana": "モトスシ",
-    "town": "文殊",
-    "town_kana": "モンジュ",
-    "street": "３２４番地",
-    "office_name": "本巣市役所",
-    "office_name_kana": "モトスシヤクシヨ"
-  },
   "1301": {
     "postcode": "5011301",
     "prefecture": "岐阜県",
@@ -10197,8 +10158,8 @@
     "prefecture_code": 21,
     "city": "関市",
     "city_kana": "セキシ",
-    "town": "希望ケ丘",
-    "town_kana": "キボウガオカ",
+    "town": "希望ケ丘町",
+    "town_kana": "キボウガオカチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

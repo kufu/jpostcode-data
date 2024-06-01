@@ -285,6 +285,19 @@
     "office_name": "緑県税事務所",
     "office_name_kana": "ミドリケンゼイジムシヨ"
   },
+  "8522": {
+    "postcode": "2258522",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市青葉区",
+    "city_kana": "ヨコハマシアオバク",
+    "town": "あざみ野",
+    "town_kana": "アザミノ",
+    "street": "１丁目４番地１３",
+    "office_name": "株式会社　タカラ　東京本社",
+    "office_name_kana": "カブシキガイシヤ タカラ トウキヨウホンシヤ"
+  },
   "8525": {
     "postcode": "2258525",
     "prefecture": "神奈川県",

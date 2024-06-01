@@ -825,11 +825,11 @@
     "prefecture_code": 1,
     "city": "札幌市中央区",
     "city_kana": "サッポロシチュウオウク",
-    "town": "北２条西",
-    "town_kana": null,
+    "town": "北二条西",
+    "town_kana": "キタ2ジョウニシ",
     "street": "４丁目１番地札幌三井ＪＰビルディング",
-    "office_name": "富士通　株式会社　北海道支社",
-    "office_name_kana": "フジツウ カブシキガイシヤ ホツカイドウシシヤ"
+    "office_name": "富士通　株式会社　Ｓａｐｐｏｒｏ　Ｈｕｂ",
+    "office_name_kana": "フジツウ カブシキガイシヤ サツポロハブ"
   },
   "8505": {
     "postcode": "0608505",

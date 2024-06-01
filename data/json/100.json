@@ -8197,6 +8197,34 @@
     "office_name": "財団法人　企業経営通信学院",
     "office_name_kana": "ザイダンホウジン キギヨウケイエイツウシンガクイン"
   },
+  "8403": [
+    {
+      "postcode": "1008403",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "千代田区",
+      "city_kana": "チヨダク",
+      "town": "有楽町",
+      "town_kana": "ユウラクチョウ",
+      "street": "一丁目１３番２号第一生命日比谷ファースト１５階",
+      "office_name": "ＰＨＣ　株式会社",
+      "office_name_kana": "ピ-エイチシ- カブシキカイシヤ"
+    },
+    {
+      "postcode": "1008403",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "千代田区",
+      "city_kana": "チヨダク",
+      "town": "有楽町",
+      "town_kana": "ユウラクチョウ",
+      "street": "一丁目１３番２号第一生命日比谷ファースト１５階",
+      "office_name": "ＰＨＣホールディングス　株式会社",
+      "office_name_kana": "ピ-エイチシ-ホ-ルデイングス カブシキカイシヤ"
+    }
+  ],
   "8405": {
     "postcode": "1008405",
     "prefecture": "東京都",

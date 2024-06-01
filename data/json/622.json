@@ -1156,6 +1156,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8501": {
+    "postcode": "6228501",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "南丹市",
+    "city_kana": "ナンタンシ",
+    "town": "園部町小山東町",
+    "town_kana": "ソノベチョウオヤマヒガシマチ",
+    "street": "平成台１号１１",
+    "office_name": "園部税務署",
+    "office_name_kana": "ソノベゼイムシヨ"
+  },
   "8651": {
     "postcode": "6228651",
     "prefecture": "京都府",

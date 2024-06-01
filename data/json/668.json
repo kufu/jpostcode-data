@@ -2625,6 +2625,19 @@
     "office_name": "公立豊岡病院組合立豊岡病院",
     "office_name_kana": "コウリツトヨオカビヨウインクミアイリツトヨオカビヨウイン"
   },
+  "8562": {
+    "postcode": "6688562",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "豊岡市",
+    "city_kana": "トヨオカシ",
+    "town": "上陰",
+    "town_kana": "カミカゲ",
+    "street": "字ウチダ２１６番地",
+    "office_name": "豊岡税務署",
+    "office_name_kana": "トヨオカゼイムシヨ"
+  },
   "8650": {
     "postcode": "6688650",
     "prefecture": "兵庫県",

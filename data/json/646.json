@@ -1416,6 +1416,19 @@
     "office_name": "紀伊田辺簡易保険保養センター",
     "office_name_kana": "キイタナベカンイホケンホヨウセンタ-"
   },
+  "8510": {
+    "postcode": "6468510",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "prefecture_code": 30,
+    "city": "田辺市",
+    "city_kana": "タナベシ",
+    "town": "上屋敷",
+    "town_kana": "カミヤシキ",
+    "street": "２丁目１０番４６号",
+    "office_name": "田辺税務署",
+    "office_name_kana": "タナベゼイムシヨ"
+  },
   "8511": {
     "postcode": "6468511",
     "prefecture": "和歌山県",

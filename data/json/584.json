@@ -1026,6 +1026,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8501": {
+    "postcode": "5848501",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "富田林市",
+    "city_kana": "トンダバヤシシ",
+    "town": "若松町西",
+    "town_kana": "ワカマツチョウニシ",
+    "street": "２丁目１６９７番地１",
+    "office_name": "富田林税務署",
+    "office_name_kana": "トンダバヤシゼイムシヨ"
+  },
   "8511": {
     "postcode": "5848511",
     "prefecture": "大阪府",

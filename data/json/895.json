@@ -965,19 +965,6 @@
     "office_name": "薩摩川内市　入来支所",
     "office_name_kana": "サツマセンダイシ イリキシシヨ"
   },
-  "1493": {
-    "postcode": "8951493",
-    "prefecture": "鹿児島県",
-    "prefecture_kana": "カゴシマケン",
-    "prefecture_code": 46,
-    "city": "薩摩川内市",
-    "city_kana": "サツマセンダイシ",
-    "town": "入来町副田",
-    "town_kana": "イリキチョウソエダ",
-    "street": "５９５０",
-    "office_name": "富士通インテグレーテッドマイクロテクノロジ",
-    "office_name_kana": "フジツウインテグレ-テツドマイクロテクノロジ"
-  },
   "1501": {
     "postcode": "8951501",
     "prefecture": "鹿児島県",
@@ -2077,9 +2064,9 @@
     "prefecture_code": 46,
     "city": "薩摩川内市",
     "city_kana": "サツマセンダイシ",
-    "town": "西向田町",
-    "town_kana": "ニシムコウダチョウ",
-    "street": "６−２６（川内郵便局私書箱第１９号）",
+    "town": "若松町",
+    "town_kana": "ワカマツチョウ",
+    "street": "３番３３号",
     "office_name": "九州電力　株式会社　川内営業所",
     "office_name_kana": "キユウシユウデンリヨク カブシキガイシヤ センダイエイギヨウシヨ"
   }

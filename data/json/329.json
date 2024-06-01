@@ -2261,6 +2261,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1317": {
+    "postcode": "3291317",
+    "prefecture": "栃木県",
+    "prefecture_kana": "トチギケン",
+    "prefecture_code": 9,
+    "city": "さくら市",
+    "city_kana": "サクラシ",
+    "town": "きぬの里",
+    "town_kana": "キヌノサト",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1321": {
     "postcode": "3291321",
     "prefecture": "栃木県",

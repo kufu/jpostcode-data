@@ -2755,6 +2755,19 @@
     "office_name": "鹿島建設　株式会社　ＫＩビル",
     "office_name_kana": "カシマケンセツ カブシキガイシヤ ケ-アイビル"
   },
+  "8503": {
+    "postcode": "1078503",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "赤坂",
+    "town_kana": "アカサカ",
+    "street": "７丁目３−３８",
+    "office_name": "カナダ大使館",
+    "office_name_kana": "カナダタイシカン"
+  },
   "8505": {
     "postcode": "1078505",
     "prefecture": "東京都",

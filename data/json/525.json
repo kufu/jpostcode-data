@@ -779,6 +779,19 @@
     "office_name": "滋賀県　赤十字血液センター",
     "office_name_kana": "シガケン セキジユウジケツエキセンタ-"
   },
+  "8510": {
+    "postcode": "5258510",
+    "prefecture": "滋賀県",
+    "prefecture_kana": "シガケン",
+    "prefecture_code": 25,
+    "city": "草津市",
+    "city_kana": "クサツシ",
+    "town": "大路",
+    "town_kana": "オオジ",
+    "street": "２丁目３番４５号",
+    "office_name": "草津税務署",
+    "office_name_kana": "クサツゼイムシヨ"
+  },
   "8511": {
     "postcode": "5258511",
     "prefecture": "滋賀県",

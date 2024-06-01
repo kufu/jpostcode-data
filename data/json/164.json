@@ -259,6 +259,19 @@
     "office_name": "三井情報　株式会社",
     "office_name_kana": "ミツイジヨウホウ カブシキガイシヤ"
   },
+  "8566": {
+    "postcode": "1648566",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中野区",
+    "city_kana": "ナカノク",
+    "town": "中野",
+    "town_kana": "ナカノ",
+    "street": "２丁目２４番１１号住友不動産中野駅前ビル６階",
+    "office_name": "中野税務署",
+    "office_name_kana": "ナカノゼイムシヨ"
+  },
   "8567": {
     "postcode": "1648567",
     "prefecture": "東京都",

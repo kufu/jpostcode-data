@@ -558,6 +558,19 @@
     "office_name": "大正富山医薬品　株式会社　関西支店",
     "office_name_kana": "タイシヨウトヤマイヤクヒン カブシキガイシヤ カンサイシテン"
   },
+  "8513": {
+    "postcode": "5608513",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "豊中市",
+    "city_kana": "トヨナカシ",
+    "town": "少路",
+    "town_kana": "ショウジ",
+    "street": "１丁目１０番１号",
+    "office_name": "三菱食品　株式会社　関西支社",
+    "office_name_kana": "ミツビシシヨクヒン カブシキガイシヤ カンサイシシヤ"
+  },
   "8531": {
     "postcode": "5608531",
     "prefecture": "大阪府",
