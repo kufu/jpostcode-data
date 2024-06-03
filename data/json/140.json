@@ -142,6 +142,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8450": {
+    "postcode": "1408450",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "品川区",
+    "city_kana": "シナガワク",
+    "town": "南大井",
+    "town_kana": "ミナミオオイ",
+    "street": "六丁目２７番１８号日立大森第二別館",
+    "office_name": "株式会社　イトーヨーカ堂",
+    "office_name_kana": "カブシキガイシヤ イト-ヨ-カド-"
+  },
   "8502": {
     "postcode": "1408502",
     "prefecture": "東京都",
@@ -193,19 +206,6 @@
     "street": "１丁目２２−１３",
     "office_name": "米山紙商事　株式会社",
     "office_name_kana": "ヨネヤマシシヨウジ カブシキガイシヤ"
-  },
-  "8508": {
-    "postcode": "1408508",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "品川区",
-    "city_kana": "シナガワク",
-    "town": "大井",
-    "town_kana": "オオイ",
-    "street": "１丁目２０−１０",
-    "office_name": "富士通　（株）　大井町ビル",
-    "office_name_kana": "フジツウ (カ) オオイマチビル"
   },
   "8509": {
     "postcode": "1408509",
@@ -869,19 +869,6 @@
     "street": "一丁目５番１３号グランロジテラス品川",
     "office_name": "ネットワンシステムズ　株式会社",
     "office_name_kana": "ネツトワンシステムズ カブシキガイシヤ"
-  },
-  "8623": {
-    "postcode": "1408623",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "品川区",
-    "city_kana": "シナガワク",
-    "town": "東品川",
-    "town_kana": "ヒガシシナガワ",
-    "street": "２丁目２−４",
-    "office_name": "富士通　株式会社　（東京ＭＩビル）",
-    "office_name_kana": "フジツウ カブシキガイシヤ (トウキヨウエムアイビル)"
   },
   "8625": {
     "postcode": "1408625",

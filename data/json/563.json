@@ -1339,5 +1339,18 @@
     "street": "１丁目１番１号",
     "office_name": "大阪府　豊能府税事務所",
     "office_name_kana": "オオサカフ トヨノフゼイジムシヨ"
+  },
+  "8688": {
+    "postcode": "5638688",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "池田市",
+    "city_kana": "イケダシ",
+    "town": "城南",
+    "town_kana": "ジョウナン",
+    "street": "２丁目１番８号（池田郵便局私書箱第９号）",
+    "office_name": "豊能税務署",
+    "office_name_kana": "トヨノゼイムシヨ"
   }
 }

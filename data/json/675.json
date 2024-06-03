@@ -4869,6 +4869,19 @@
     "office_name": "兵庫県　加古川県税事務所",
     "office_name_kana": "ヒヨウゴケン カコガワケンゼイジムシヨ"
   },
+  "8567": {
+    "postcode": "6758567",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "加古川市",
+    "city_kana": "カコガワシ",
+    "town": "加古川町木村",
+    "town_kana": "カコガワチョウキムラ",
+    "street": "字木寺５の２",
+    "office_name": "加古川税務署",
+    "office_name_kana": "カコガワゼイムシヨ"
+  },
   "8577": {
     "postcode": "6758577",
     "prefecture": "兵庫県",

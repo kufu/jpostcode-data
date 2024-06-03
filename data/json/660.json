@@ -1182,6 +1182,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8001": {
+    "postcode": "6608001",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "尼崎市",
+    "city_kana": "アマガサキシ",
+    "town": "扇町",
+    "town_kana": "オウギマチ",
+    "street": "２０ロジポート尼崎内６Ｆ１３区画",
+    "office_name": "ＫＩＴＴＥ大阪保管センター",
+    "office_name_kana": "キツテオオサカホカンセンタ-"
+  },
   "8501": {
     "postcode": "6608501",
     "prefecture": "兵庫県",

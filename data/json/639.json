@@ -4747,6 +4747,19 @@
     "office_name": "吉野町役場",
     "office_name_kana": "ヨシノチヨウヤクバ"
   },
+  "3194": {
+    "postcode": "6393194",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "prefecture_code": 29,
+    "city": "吉野郡吉野町",
+    "city_kana": "ヨシノグンヨシノチョウ",
+    "town": "丹治",
+    "town_kana": "タンジ",
+    "street": "２００番１",
+    "office_name": "吉野税務署",
+    "office_name_kana": "ヨシノゼイムシヨ"
+  },
   "3321": {
     "postcode": "6393321",
     "prefecture": "奈良県",

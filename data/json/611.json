@@ -376,6 +376,19 @@
     "office_name": "松下電子部品　株式会社　コンデンサ事業部",
     "office_name_kana": "マツシタデンシブヒン カブシキガイシヤ コンデンサジギヨウブ"
   },
+  "8588": {
+    "postcode": "6118588",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "宇治市",
+    "city_kana": "ウジシ",
+    "town": "大久保町",
+    "town_kana": "オオクボチョウ",
+    "street": "井ノ尻６０−３",
+    "office_name": "宇治税務署",
+    "office_name_kana": "ウジゼイムシヨ"
+  },
   "8660": {
     "postcode": "6118660",
     "prefecture": "京都府",

@@ -3740,6 +3740,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1492": {
+    "postcode": "6731492",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "加東市",
+    "city_kana": "カトウシ",
+    "town": "社",
+    "town_kana": "ヤシロ",
+    "street": "５１番３",
+    "office_name": "社税務署",
+    "office_name_kana": "ヤシロゼイムシヨ"
+  },
   "1493": {
     "postcode": "6731493",
     "prefecture": "兵庫県",
@@ -3817,6 +3830,19 @@
     "street": "１丁目２−２９明石追手ビル７０２号",
     "office_name": "株式会社　播磨リビング新聞社　明石支社",
     "office_name_kana": "カブシキガイシヤ ハリマリビングシンブンシヤ アカシシシヤ"
+  },
+  "8555": {
+    "postcode": "6738555",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "明石市",
+    "city_kana": "アカシシ",
+    "town": "田町",
+    "town_kana": "タマチ",
+    "street": "１丁目１２番１号",
+    "office_name": "明石税務署",
+    "office_name_kana": "アカシゼイムシヨ"
   },
   "8585": {
     "postcode": "6738585",

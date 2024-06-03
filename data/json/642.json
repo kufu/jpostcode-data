@@ -375,5 +375,18 @@
     "street": "１１",
     "office_name": "海南市役所",
     "office_name_kana": "カイナンシヤクシヨ"
+  },
+  "8555": {
+    "postcode": "6428555",
+    "prefecture": "和歌山県",
+    "prefecture_kana": "ワカヤマケン",
+    "prefecture_code": 30,
+    "city": "海南市",
+    "city_kana": "カイナンシ",
+    "town": "名高",
+    "town_kana": "ナタカ",
+    "street": "２５５番４",
+    "office_name": "海南税務署",
+    "office_name_kana": "カイナンゼイムシヨ"
   }
 }

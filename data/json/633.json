@@ -3314,6 +3314,19 @@
     "office_name": "大神神社",
     "office_name_kana": "オオミワジンジヤ"
   },
+  "8555": {
+    "postcode": "6338555",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "prefecture_code": 29,
+    "city": "桜井市",
+    "city_kana": "サクライシ",
+    "town": "粟殿",
+    "town_kana": "オオドノ",
+    "street": "１８５番地４",
+    "office_name": "桜井税務署",
+    "office_name_kana": "サクライゼイムシヨ"
+  },
   "8585": {
     "postcode": "6338585",
     "prefecture": "奈良県",

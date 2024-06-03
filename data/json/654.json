@@ -1208,6 +1208,19 @@
     "office_name": "（株）　フェリシモ",
     "office_name_kana": "カブシキガイシヤ フエリシモ"
   },
+  "8511": {
+    "postcode": "6548511",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "神戸市須磨区",
+    "city_kana": "コウベシスマク",
+    "town": "衣掛町",
+    "town_kana": "キヌガケチョウ",
+    "street": "５丁目２番１８号",
+    "office_name": "須磨税務署",
+    "office_name_kana": "スマゼイムシヨ"
+  },
   "8570": {
     "postcode": "6548570",
     "prefecture": "兵庫県",

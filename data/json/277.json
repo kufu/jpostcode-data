@@ -2216,11 +2216,11 @@
     "prefecture_code": 12,
     "city": "柏市",
     "city_kana": "カシワシ",
-    "town": "藤ケ谷",
-    "town_kana": "フジガヤ",
-    "street": "（柏郵便局私書箱第２８号）",
-    "office_name": "下総航空基地",
-    "office_name_kana": "シモフサコウクウキチ"
+    "town": "藤ヶ谷",
+    "town_kana": null,
+    "street": "１６１４−１",
+    "office_name": "海上自衛隊　下総航空基地",
+    "office_name_kana": "カイジヨウジエイタイ シモフサコウクウキチ"
   },
   "8666": {
     "postcode": "2778666",

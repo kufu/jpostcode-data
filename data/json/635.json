@@ -1606,6 +1606,19 @@
     "office_name": "奈良地方裁判所葛城支部・奈良家庭裁判所葛城支部・葛城簡易裁判所・葛城検察審査会",
     "office_name_kana": "ナラチホウサイバンシヨカツラギシブ・ナラカテイサイバンシヨカツラギシブ・カツラギカンイサイバンシヨ・カツラギケンサツシンサカイ"
   },
+  "8503": {
+    "postcode": "6358503",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "prefecture_code": 29,
+    "city": "大和高田市",
+    "city_kana": "ヤマトタカダシ",
+    "town": "西町",
+    "town_kana": "ニシマチ",
+    "street": "１番１５号",
+    "office_name": "葛城税務署",
+    "office_name_kana": "カツラギゼイムシヨ"
+  },
   "8511": {
     "postcode": "6358511",
     "prefecture": "奈良県",

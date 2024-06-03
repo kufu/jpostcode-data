@@ -1764,8 +1764,8 @@
     "town": "中央",
     "town_kana": "チュウオウ",
     "street": "３−２−２３野村不動産仙台青葉通ビル",
-    "office_name": "富士通　株式会社　東北支社",
-    "office_name_kana": "フジツウ カブシキカイシヤ トウホクシシヤ"
+    "office_name": "富士通　（株）　Ｓｅｎｄａｉ　Ｈｕｂ",
+    "office_name_kana": "フジツウ カブシキカイシヤ センダイハブ"
   },
   "8442": {
     "postcode": "9808442",
@@ -2157,19 +2157,6 @@
     "office_name": "株式会社　エヌ・ティ・ティ・ドコモ東北",
     "office_name_kana": "カブシキガイシヤ エヌ・テイ・テイ・ドコモトウホク"
   },
-  "8520": {
-    "postcode": "9808520",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市青葉区",
-    "city_kana": "センダイシアオバク",
-    "town": "一番町",
-    "town_kana": "イチバンチョウ",
-    "street": "３丁目７−２３明治安田生命仙台一番町ビル３階",
-    "office_name": "株式会社　ＪＴＢ東北",
-    "office_name_kana": "カブシキガイシヤ ジエ-テイ-ビ-トウホク"
-  },
   "8521": {
     "postcode": "9808521",
     "prefecture": "宮城県",
@@ -2374,9 +2361,9 @@
     "prefecture_code": 4,
     "city": "仙台市青葉区",
     "city_kana": "センダイシアオバク",
-    "town": "国分町",
-    "town_kana": "コクブンチョウ",
-    "street": "３丁目６−１仙台パークビル",
+    "town": "中央",
+    "town_kana": "チュウオウ",
+    "street": "４−４−１９アーバンネット仙台中央ビル１４階",
     "office_name": "全国健康保険協会　宮城支部",
     "office_name_kana": "ゼンコクケンコウホケンキヨウカイ ミヤギシブ"
   },

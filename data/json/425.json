@@ -376,6 +376,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0037": {
+    "postcode": "4250037",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "焼津市",
+    "city_kana": "ヤイヅシ",
+    "town": "南小川",
+    "town_kana": "ミナミコガワ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0038": {
+    "postcode": "4250038",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "焼津市",
+    "city_kana": "ヤイヅシ",
+    "town": "黒石",
+    "town_kana": "クロイシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0041": {
     "postcode": "4250041",
     "prefecture": "静岡県",
@@ -450,6 +476,32 @@
     "city_kana": "ヤイヅシ",
     "town": "三右衛門新田",
     "town_kana": "サンウエモンシンデン",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0047": {
+    "postcode": "4250047",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "焼津市",
+    "city_kana": "ヤイヅシ",
+    "town": "東祢宜島",
+    "town_kana": "ヒガシネギシマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0048": {
+    "postcode": "4250048",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "焼津市",
+    "city_kana": "ヤイヅシ",
+    "town": "東道原",
+    "town_kana": "ヒガシドウバラ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -554,6 +606,19 @@
     "city_kana": "ヤイヅシ",
     "town": "北新田",
     "town_kana": "キタシンデン",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0059": {
+    "postcode": "4250059",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "焼津市",
+    "city_kana": "ヤイヅシ",
+    "town": "下小田上町",
+    "town_kana": "シモオダカミマチ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
