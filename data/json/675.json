@@ -4921,6 +4921,19 @@
     "office_name": "加古川中央市民病院",
     "office_name_kana": "カコガワチユウオウシミンビヨウイン"
   },
+  "8675": {
+    "postcode": "6758675",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "加古川市",
+    "city_kana": "カコガワシ",
+    "town": "野口町古大内",
+    "town_kana": "ノグチチョウフルオウチ",
+    "street": "９００番地",
+    "office_name": "オークラ輸送機　株式会社",
+    "office_name_kana": "オ-クラユソウキ カブシキガイシヤ"
+  },
   "8686": {
     "postcode": "6758686",
     "prefecture": "兵庫県",

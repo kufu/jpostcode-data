@@ -1289,5 +1289,18 @@
     "street": "３丁目１−３",
     "office_name": "帝塚山短期大学",
     "office_name_kana": "テヅカヤマタンキダイガク"
+  },
+  "8586": {
+    "postcode": "6318586",
+    "prefecture": "奈良県",
+    "prefecture_kana": "ナラケン",
+    "prefecture_code": 29,
+    "city": "奈良市",
+    "city_kana": "ナラシ",
+    "town": "西大寺南町",
+    "town_kana": "サイダイジミナミマチ",
+    "street": "８番３３号",
+    "office_name": "奈良商工会議所",
+    "office_name_kana": "ナラシヨウコウカイギシヨ"
   }
 }

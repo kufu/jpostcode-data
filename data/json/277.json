@@ -1780,6 +1780,19 @@
     "office_name": "柏税務署",
     "office_name_kana": "カシワゼイムシヨ"
   },
+  "8525": {
+    "postcode": "2778525",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "柏市",
+    "city_kana": "カシワシ",
+    "town": "高田",
+    "town_kana": "タカタ",
+    "street": "１２０１−１１",
+    "office_name": "株式会社　シンク・ラボラトリー",
+    "office_name_kana": "カブシキガイシヤ シンク・ラボラトリ-"
+  },
   "8531": {
     "postcode": "2778531",
     "prefecture": "千葉県",

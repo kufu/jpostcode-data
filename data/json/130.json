@@ -1052,6 +1052,19 @@
     "office_name": "ＡＩＧエジソン生命保険　株式会社",
     "office_name_kana": "エイアイジ-エジソンセイメイホケン カブシキガイシヤ"
   },
+  "8628": {
+    "postcode": "1308628",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "墨田区",
+    "city_kana": "スミダク",
+    "town": "横川",
+    "town_kana": "ヨコカワ",
+    "street": "５−７−４",
+    "office_name": "すみだ保健子育て総合センター",
+    "office_name_kana": "スミダホケンコソダテソウゴウセンタ-"
+  },
   "8633": {
     "postcode": "1308633",
     "prefecture": "東京都",

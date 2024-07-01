@@ -519,6 +519,19 @@
     "office_name": "三木産業　株式会社　大阪支店",
     "office_name_kana": "ミキサンギヨウ カブシキガイシヤ オオサカシテン"
   },
+  "8586": {
+    "postcode": "5508586",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市西区",
+    "city_kana": "オオサカシニシク",
+    "town": "川口",
+    "town_kana": "カワグチ",
+    "street": "２丁目７番９号",
+    "office_name": "西税務署",
+    "office_name_kana": "ニシゼイムシヨ"
+  },
   "8587": {
     "postcode": "5508587",
     "prefecture": "大阪府",

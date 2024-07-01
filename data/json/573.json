@@ -2963,6 +2963,19 @@
     "office_name": "大阪法務局　枚方出張所",
     "office_name_kana": "オオサカホウムキヨク ヒラカタシユツチヨウシヨ"
   },
+  "8654": {
+    "postcode": "5738654",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "枚方市",
+    "city_kana": "ヒラカタシ",
+    "town": "大垣内町",
+    "town_kana": "オオガイトチョウ",
+    "street": "２丁目９番９号（枚方郵便局私書箱第２５号）",
+    "office_name": "枚方税務署",
+    "office_name_kana": "ヒラカタゼイムシヨ"
+  },
   "8666": {
     "postcode": "5738666",
     "prefecture": "大阪府",
