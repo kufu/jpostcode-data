@@ -155,19 +155,6 @@
     "office_name": "キヤノン健康保険組合",
     "office_name_kana": "キヤノンケンコウホケンクミアイ"
   },
-  "8505": {
-    "postcode": "1468505",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "大田区",
-    "city_kana": "オオタク",
-    "town": "矢口",
-    "town_kana": "ヤグチ",
-    "street": "２丁目３３−６",
-    "office_name": "旭計器　株式会社",
-    "office_name_kana": "アサヒケイキ カブシキガイシヤ"
-  },
   "8510": {
     "postcode": "1468510",
     "prefecture": "東京都",
@@ -180,19 +167,6 @@
     "street": "２丁目３４−１６",
     "office_name": "ユシロ化学工業　株式会社",
     "office_name_kana": "ユシロカガクコウギヨウ カブシキガイシヤ"
-  },
-  "8511": {
-    "postcode": "1468511",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "大田区",
-    "city_kana": "オオタク",
-    "town": "矢口",
-    "town_kana": "ヤグチ",
-    "street": "１丁目２７−４",
-    "office_name": "株式会社　小野測器",
-    "office_name_kana": "カブシキガイシヤ オノソツキ"
   },
   "8512": {
     "postcode": "1468512",
@@ -285,19 +259,6 @@
     "office_name": "宗教法人　日蓮宗宗務院",
     "office_name_kana": "シユウキヨウホウジン ニチレンシユウシユウムイン"
   },
-  "8551": {
-    "postcode": "1468551",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "大田区",
-    "city_kana": "オオタク",
-    "town": "下丸子",
-    "town_kana": "シモマルコ",
-    "street": "２丁目２７−１",
-    "office_name": "日本電熱計器　株式会社",
-    "office_name_kana": "ニホンデンネツケイキ カブシキガイシヤ"
-  },
   "8555": {
     "postcode": "1468555",
     "prefecture": "東京都",
@@ -310,19 +271,6 @@
     "street": "２丁目９−４",
     "office_name": "日東工器　株式会社",
     "office_name_kana": "ニツトウコウキ カブシキガイシヤ"
-  },
-  "8558": {
-    "postcode": "1468558",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "大田区",
-    "city_kana": "オオタク",
-    "town": "下丸子",
-    "town_kana": "シモマルコ",
-    "street": "２丁目１３−１",
-    "office_name": "三井精機工業　株式会社",
-    "office_name_kana": "ミツイセイキコウギヨウ カブシキガイシヤ"
   },
   "8567": {
     "postcode": "1468567",
@@ -479,32 +427,6 @@
     "street": "１丁目５−１２",
     "office_name": "日本プリメックス　（株）",
     "office_name_kana": "ニホンプリメツクス (カブ)"
-  },
-  "8655": {
-    "postcode": "1468655",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "大田区",
-    "city_kana": "オオタク",
-    "town": "矢口",
-    "town_kana": "ヤグチ",
-    "street": "２丁目１−２１",
-    "office_name": "株式会社　バンダイナムコゲームス",
-    "office_name_kana": "カブシキガイシヤ バンダイナムコゲ-ムス"
-  },
-  "8656": {
-    "postcode": "1468656",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "大田区",
-    "city_kana": "オオタク",
-    "town": "多摩川",
-    "town_kana": "タマガワ",
-    "street": "２丁目８−５",
-    "office_name": "株式会社　ナムコ",
-    "office_name_kana": "カブシキガイシヤ ナムコ"
   },
   "8666": {
     "postcode": "1468666",

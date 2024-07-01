@@ -1480,5 +1480,18 @@
     "street": "１−１２",
     "office_name": "井上定　株式会社",
     "office_name_kana": "イノウエサダ カブシキガイシヤ"
+  },
+  "8666": {
+    "postcode": "5778666",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "東大阪市",
+    "city_kana": "ヒガシオオサカシ",
+    "town": "永和",
+    "town_kana": "エイワ",
+    "street": "２丁目３番８号（布施郵便局私書箱第１号）",
+    "office_name": "東大阪税務署",
+    "office_name_kana": "ヒガシオオサカゼイムシヨ"
   }
 }

@@ -1301,19 +1301,6 @@
     "office_name": "コカ・コーラ　ボトラーズジャパン　株式会社",
     "office_name_kana": "コカ・コ-ラ ボトラ-ズジヤパン カブシキガイシヤ"
   },
-  "8570": {
-    "postcode": "9838570",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市宮城野区",
-    "city_kana": "センダイシミヤギノク",
-    "town": "日の出町",
-    "town_kana": "ヒノデマチ",
-    "street": "２丁目３−７",
-    "office_name": "宮城トヨタ自動車　株式会社",
-    "office_name_kana": "ミヤギトヨタジドウシヤ カブシキガイシヤ"
-  },
   "8585": {
     "postcode": "9838585",
     "prefecture": "宮城県",
@@ -1352,18 +1339,5 @@
     "street": "４丁目１−１（仙台東郵便局私書箱第３５号）",
     "office_name": "株式会社　ユアテック",
     "office_name_kana": "カブシキガイシヤ ユアテツク"
-  },
-  "8639": {
-    "postcode": "9838639",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市宮城野区",
-    "city_kana": "センダイシミヤギノク",
-    "town": "苦竹",
-    "town_kana": "ニガタケ",
-    "street": "２丁目６−１０",
-    "office_name": "トヨタカローラ宮城　株式会社",
-    "office_name_kana": "トヨタカロ-ラミヤギ カブシキガイシヤ"
   }
 }

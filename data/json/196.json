@@ -64,6 +64,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0005": {
+    "postcode": "1960005",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "昭島市",
+    "city_kana": "アキシマシ",
+    "town": "代官山",
+    "town_kana": "ダイカンヤマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0011": {
     "postcode": "1960011",
     "prefecture": "東京都",

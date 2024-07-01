@@ -1572,6 +1572,19 @@
     "office_name": "アツギ　株式会社",
     "office_name_kana": "アツギ カブシキガイシヤ"
   },
+  "0494": {
+    "postcode": "2430494",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "海老名市",
+    "city_kana": "エビナシ",
+    "town": "本郷",
+    "town_kana": "ホンゴウ",
+    "street": "２２７４番地",
+    "office_name": "富士フィルムビジネスイノベーション　株式会社　海老名事業所",
+    "office_name_kana": "フジフイルムビジネスイノベ-シヨン カブシキカイシヤ エビナジギヨウシヨ"
+  },
   "0496": {
     "postcode": "2430496",
     "prefecture": "神奈川県",
