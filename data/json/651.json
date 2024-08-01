@@ -1223,6 +1223,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1224": {
+    "postcode": "6511224",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "神戸市北区",
+    "city_kana": "コウベシキタク",
+    "town": "山の街",
+    "town_kana": "ヤマノマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1231": {
     "postcode": "6511231",
     "prefecture": "兵庫県",

@@ -1561,6 +1561,19 @@
     "office_name": "株式会社　南日本新聞社",
     "office_name_kana": "カブシキガイシヤ ミナミニホンシンブンシヤ"
   },
+  "8604": {
+    "postcode": "8908604",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "prefecture_code": 46,
+    "city": "鹿児島市",
+    "city_kana": "カゴシマシ",
+    "town": "荒田",
+    "town_kana": "アラタ",
+    "street": "１丁目２４番４号",
+    "office_name": "熊本国税局業務センター　鹿児島事務室",
+    "office_name_kana": "クマモトコクゼイキヨクギヨウムセンタ- カゴシマジムシツ"
+  },
   "8610": {
     "postcode": "8908610",
     "prefecture": "鹿児島県",

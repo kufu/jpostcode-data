@@ -558,6 +558,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0127": {
+    "postcode": "2430127",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "厚木市",
+    "city_kana": "アツギシ",
+    "town": "森の里紅葉台",
+    "town_kana": "モリノサトモミジダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0192": {
     "postcode": "2430192",
     "prefecture": "神奈川県",
@@ -1608,8 +1621,8 @@
     "town": "本郷",
     "town_kana": "ホンゴウ",
     "street": "２２７４番地",
-    "office_name": "富士ゼロックスマニュファクチュアリング　株式会社　海老名（本社）",
-    "office_name_kana": "フジゼロツクスマニユフアクチユアリング カブシキガイシヤ エビナ(ホンシヤ)"
+    "office_name": "富士フイルムマニュファクチャリング　株式会社　海老名（本社）",
+    "office_name_kana": "フジフイルムマニユフアクチヤリング カブシキガイシヤ エビナ(ホンシヤ)"
   },
   "0801": {
     "postcode": "2430801",

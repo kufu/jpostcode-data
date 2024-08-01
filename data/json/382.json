@@ -1260,6 +1260,19 @@
     "office_name": "オリオン機械　株式会社",
     "office_name_kana": "オリオンキカイ カブシキガイシヤ"
   },
+  "8503": {
+    "postcode": "3828503",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "須坂市",
+    "city_kana": "スザカシ",
+    "town": "大字井上",
+    "town_kana": null,
+    "street": "１３００番地",
+    "office_name": "オリオン機械　株式会社　須坂インター工場",
+    "office_name_kana": "オリオンキカイ カブシキガイシヤ スザカインタ-コウジヨウ"
+  },
   "8505": {
     "postcode": "3828505",
     "prefecture": "長野県",

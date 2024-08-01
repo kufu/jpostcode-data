@@ -233,6 +233,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0019": {
+    "postcode": "2450019",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市泉区",
+    "city_kana": "ヨコハマシイズミク",
+    "town": "ゆめが丘",
+    "town_kana": "ユメガオカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "2450021",
     "prefecture": "神奈川県",

@@ -2066,6 +2066,19 @@
     "office_name": "株式会社　豊田自動織機製作所　碧南工場",
     "office_name_kana": "カブシキガイシヤ トヨダジドウシヨツキセイサクシヨ ヘキナンコウジヨウ"
   },
+  "8508": {
+    "postcode": "4478508",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "碧南市",
+    "city_kana": "ヘキナンシ",
+    "town": "港南町",
+    "town_kana": "コウナンマチ",
+    "street": "２丁目８番地１２",
+    "office_name": "アイシン辰栄　株式会社",
+    "office_name_kana": "アイシンシンエイ カブシキガイシヤ"
+  },
   "8510": {
     "postcode": "4478510",
     "prefecture": "愛知県",
@@ -2102,8 +2115,8 @@
     "town": "白沢町",
     "town_kana": "シロサワマチ",
     "street": "１丁目３８",
-    "office_name": "丸栄陶業　株式会社",
-    "office_name_kana": "マルエイトウギヨウ カブシキガイシヤ"
+    "office_name": "栄四郎瓦　株式会社",
+    "office_name_kana": "エイシロウガワラ カブシキガイシヤ"
   },
   "8601": {
     "postcode": "4478601",

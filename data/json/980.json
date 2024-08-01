@@ -2887,6 +2887,19 @@
     "office_name": "仙台市役所",
     "office_name_kana": "センダイシヤクシヨ"
   },
+  "8675": {
+    "postcode": "9808675",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "仙台市青葉区",
+    "city_kana": "センダイシアオバク",
+    "town": "国分町",
+    "town_kana": "コクブンチョウ",
+    "street": "３丁目７番１号",
+    "office_name": "仙台市役所　仙台市郵送事務センター",
+    "office_name_kana": "センダイシヤクシヨ センダイシユウソウジムセンタ-"
+  },
   "8677": {
     "postcode": "9808677",
     "prefecture": "宮城県",

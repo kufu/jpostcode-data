@@ -2887,6 +2887,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2419": {
+    "postcode": "8112419",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糟屋郡篠栗町",
+    "city_kana": "カスヤグンササグリマチ",
+    "town": "庄",
+    "town_kana": "ショウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2492": {
     "postcode": "8112492",
     "prefecture": "福岡県",

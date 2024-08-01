@@ -2040,6 +2040,32 @@
     "office_name": "大阪府　三島府税事務所",
     "office_name_kana": "オオサカフ ミシマフゼイジムシヨ"
   },
+  "8517": {
+    "postcode": "5678517",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "茨木市",
+    "city_kana": "イバラキシ",
+    "town": "東野々宮町",
+    "town_kana": "ヒガシノノミヤチョウ",
+    "street": "１番４０号",
+    "office_name": "ＧＬＰ　ＡＬＦＡＬＩＮＫ　茨木１",
+    "office_name_kana": "ジ-エルピ- アルフアリンク イバラギイチ"
+  },
+  "8518": {
+    "postcode": "5678518",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "茨木市",
+    "city_kana": "イバラキシ",
+    "town": "南目垣",
+    "town_kana": "ミナミメガキ",
+    "street": "三丁目３番３号",
+    "office_name": "ＧＬＰ　ＡＬＦＡＬＩＮＫ　茨木２",
+    "office_name_kana": "ジ-エルピ- アルフアリンク イバラギニ"
+  },
   "8520": {
     "postcode": "5678520",
     "prefecture": "大阪府",

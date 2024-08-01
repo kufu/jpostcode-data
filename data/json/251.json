@@ -740,6 +740,19 @@
     "office_name": "学校法人　湘南工科大学",
     "office_name_kana": "ガツコウホウジン シヨウナンコウカダイガク"
   },
+  "8512": {
+    "postcode": "2518512",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "藤沢市",
+    "city_kana": "フジサワシ",
+    "town": "辻堂西海岸",
+    "town_kana": "ツジドウニシカイガン",
+    "street": "１丁目１番２５号",
+    "office_name": "湘南工科大学附属高等学校",
+    "office_name_kana": "シヨウナンコウカダイガクフゾクコウトウガツコウ"
+  },
   "8513": {
     "postcode": "2518513",
     "prefecture": "神奈川県",
