@@ -350,6 +350,19 @@
     "office_name": "宇治市役所",
     "office_name_kana": "ウジシヤクシヨ"
   },
+  "8521": {
+    "postcode": "6118521",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "宇治市",
+    "city_kana": "ウジシ",
+    "town": "宇治",
+    "town_kana": "ウジ",
+    "street": "折居１８番地",
+    "office_name": "城南衛生管理組合",
+    "office_name_kana": "ジヨウナンエイセイカンリクミアイ"
+  },
   "8555": {
     "postcode": "6118555",
     "prefecture": "京都府",

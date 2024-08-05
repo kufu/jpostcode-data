@@ -4146,6 +4146,19 @@
     "office_name": "株式会社　サントリー・ショッピング・クラブ",
     "office_name_kana": "カブシキガイシヤ サントリ-・シヨツピング・クラブ"
   },
+  "8577": {
+    "postcode": "1048577",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中央区",
+    "city_kana": "チュウオウク",
+    "town": "晴海",
+    "town_kana": "ハルミ",
+    "street": "３丁目２番４号",
+    "office_name": "みずほリサーチ＆テクノロジーズ　株式会社",
+    "office_name_kana": "ミズホリサ-チアンドテクノロジ-ズ カブシキガイシヤ"
+  },
   "8581": {
     "postcode": "1048581",
     "prefecture": "東京都",

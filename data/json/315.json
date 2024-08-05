@@ -1652,6 +1652,19 @@
     "office_name": "湖北水道企業団",
     "office_name_kana": "コホクスイドウキギヨウダン"
   },
+  "8523": {
+    "postcode": "3158523",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "かすみがうら市",
+    "city_kana": "カスミガウラシ",
+    "town": "上稲吉",
+    "town_kana": "カミイナヨシ",
+    "street": "字向原１７５８番地１",
+    "office_name": "神鋼ノース　株式会社",
+    "office_name_kana": "シンコウノ-ス カブシキガイシヤ"
+  },
   "8525": {
     "postcode": "3158525",
     "prefecture": "茨城県",

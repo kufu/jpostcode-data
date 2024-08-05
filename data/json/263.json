@@ -480,6 +480,19 @@
     "office_name": "国立研究開発法人　量子科学技術研究開発機構　放射線医学総合研究所",
     "office_name_kana": "コクリツケンキユウカイハツホウジン リヨウシカガクギジユツケンキユウカイハツキコウ ホウシヤセンイガクソウゴウケンキユウシヨ"
   },
+  "8560": {
+    "postcode": "2638560",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "千葉市稲毛区",
+    "city_kana": "チバシイナゲク",
+    "town": "穴川",
+    "town_kana": "アナガワ",
+    "street": "４丁目１２番１号",
+    "office_name": "千葉市区政事務センター",
+    "office_name_kana": "チバシクセイジムセンタ-"
+  },
   "8566": {
     "postcode": "2638566",
     "prefecture": "千葉県",

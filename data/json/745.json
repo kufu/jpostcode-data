@@ -2244,11 +2244,11 @@
     "prefecture_code": 35,
     "city": "周南市",
     "city_kana": "シュウナンシ",
-    "town": "大字久米",
+    "town": "学園台",
     "town_kana": null,
-    "street": "栗ヶ迫８４３−４−２",
-    "office_name": "徳山大学",
-    "office_name_kana": "トクヤマダイガク"
+    "street": "８４３−４−２",
+    "office_name": "周南公立大学",
+    "office_name_kana": "シユウナンコウリツダイガク"
   },
   "8567": {
     "postcode": "7458567",

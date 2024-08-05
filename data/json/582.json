@@ -440,5 +440,18 @@
     "street": "５丁目９９３番地",
     "office_name": "東大阪大学柏原高等学校",
     "office_name_kana": "ヒガシオオサカダイガクカシワラコウトウガツコウ"
+  },
+  "8588": {
+    "postcode": "5828588",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "柏原市",
+    "city_kana": "カシワラシ",
+    "town": "国分東条町",
+    "town_kana": "コクブヒガンジョウチョウ",
+    "street": "２４番１号",
+    "office_name": "株式会社　ジェイテクト　国分工場",
+    "office_name_kana": "カブシキガイシヤ ジエイテクト コクブコウジヨウ"
   }
 }

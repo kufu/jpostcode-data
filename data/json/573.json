@@ -2898,6 +2898,19 @@
     "office_name": "星ヶ丘厚生年金病院",
     "office_name_kana": "ホシガオカコウセイネンキンビヨウイン"
   },
+  "8512": {
+    "postcode": "5738512",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "枚方市",
+    "city_kana": "ヒラカタシ",
+    "town": "東田宮",
+    "town_kana": "ヒガシタミヤ",
+    "street": "１−６−８",
+    "office_name": "北大阪労働基準監督署",
+    "office_name_kana": "キタオオサカロウドウキジユンカントクシヨ"
+  },
   "8534": {
     "postcode": "5738534",
     "prefecture": "大阪府",

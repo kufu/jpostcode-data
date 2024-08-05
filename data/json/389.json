@@ -2152,6 +2152,19 @@
     "office_name": "飯山市役所",
     "office_name_kana": "イイヤマシヤクシヨ"
   },
+  "2298": {
+    "postcode": "3892298",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "飯山市",
+    "city_kana": "イイヤマシ",
+    "town": "大字野坂田",
+    "town_kana": null,
+    "street": "９３５番地",
+    "office_name": "長野ＦＣＬコンポーネント　株式会社",
+    "office_name_kana": "ナガノエフシ-エルコンポ-ネント カブシキガイシヤ"
+  },
   "2300": {
     "postcode": "3892300",
     "prefecture": "長野県",
@@ -2242,6 +2255,19 @@
     "street": null,
     "office_name": null,
     "office_name_kana": null
+  },
+  "2392": {
+    "postcode": "3892392",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "下高井郡木島平村",
+    "city_kana": "シモタカイグンキジマダイラムラ",
+    "town": "大字往郷",
+    "town_kana": null,
+    "street": "９１４番地６",
+    "office_name": "木島平役場",
+    "office_name_kana": "キジマダイラヤクバ"
   },
   "2411": {
     "postcode": "3892411",
