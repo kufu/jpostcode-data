@@ -1429,6 +1429,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3192": {
+    "postcode": "8533192",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "prefecture_code": 42,
+    "city": "南松浦郡新上五島町",
+    "city_kana": "ミナミマツウラグンシンカミゴトウチョウ",
+    "town": "奈良尾郷",
+    "town_kana": "ナラオゴウ",
+    "street": "３８０番地１",
+    "office_name": "新上五島町役場　奈良尾支所",
+    "office_name_kana": "シンカミゴトウチヨウヤクバ ナラオシシヨ"
+  },
   "3321": {
     "postcode": "8533321",
     "prefecture": "長崎県",

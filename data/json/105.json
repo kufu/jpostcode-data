@@ -5875,6 +5875,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "7360": {
+    "postcode": "1057360",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "東新橋",
+    "town_kana": "ヒガシシンバシ",
+    "street": "１丁目９番１号",
+    "office_name": "株式会社　安藤・間",
+    "office_name_kana": "カブシキガイシヤ アンドウハザマ"
+  },
   "7365": {
     "postcode": "1057365",
     "prefecture": "東京都",
@@ -7445,8 +7458,8 @@
     "town": "西新橋",
     "town_kana": "ニシシンバシ",
     "street": "１丁目７−１３虎ノ門イーストビルディング",
-    "office_name": "日本技術貿易　株式会社",
-    "office_name_kana": "ニホンギジユツボウエキ カブシキガイシヤ"
+    "office_name": "ＮＧＢ　株式会社",
+    "office_name_kana": "エヌジ-ビ- カブシキカイシヤ"
   },
   "8410": {
     "postcode": "1058410",

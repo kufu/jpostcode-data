@@ -1142,5 +1142,18 @@
     "street": "４１２（島田郵便局私書箱第１５号）",
     "office_name": "島田信用金庫　事務集中部",
     "office_name_kana": "シマダシンヨウキンコ ジムシユウチユウブ"
+  },
+  "8711": {
+    "postcode": "4278711",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "島田市",
+    "city_kana": "シマダシ",
+    "town": "御請",
+    "town_kana": "オウケ",
+    "street": "４５−１",
+    "office_name": "株式会社　白井産業",
+    "office_name_kana": "カブシキガイシヤ シライサンギヨウ"
   }
 }

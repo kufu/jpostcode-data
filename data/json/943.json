@@ -3834,6 +3834,19 @@
     "office_name": "一般社団法人　上越医師会",
     "office_name_kana": "イツパンシヤダンホウジン ジヨウエツイシカイ"
   },
+  "8558": {
+    "postcode": "9438558",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "上越市",
+    "city_kana": "ジョウエツシ",
+    "town": "藤野新田",
+    "town_kana": "フジノシンデン",
+    "street": "１１７２番地",
+    "office_name": "上越警察署",
+    "office_name_kana": "ジヨウエツケイサツシヨ"
+  },
   "8561": {
     "postcode": "9438561",
     "prefecture": "新潟県",

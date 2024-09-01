@@ -441,6 +441,19 @@
     "office_name": "大阪府　咲洲庁舎",
     "office_name_kana": "オオサカフ サキシマチヨウシヤ"
   },
+  "8556": {
+    "postcode": "5598556",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市住之江区",
+    "city_kana": "オオサカシスミノエク",
+    "town": "南港中",
+    "town_kana": "ナンコウナカ",
+    "street": "１−４−１３０ロジポート大阪ベイ４階Ｅ２",
+    "office_name": "銘東　株式会社　南港営業所",
+    "office_name_kana": "メイトウ カブシキガイシヤ ナンコウエイギヨウシヨ"
+  },
   "8558": {
     "postcode": "5598558",
     "prefecture": "大阪府",

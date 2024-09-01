@@ -6639,6 +6639,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2029": {
+    "postcode": "9502029",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "新潟市西区",
+    "city_kana": "ニイガタシニシク",
+    "town": "小新流通東",
+    "town_kana": "コシンリュウツウヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2031": {
     "postcode": "9502031",
     "prefecture": "新潟県",
