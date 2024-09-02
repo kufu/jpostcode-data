@@ -662,6 +662,19 @@
     "office_name": "株式会社　デザインファクトリー",
     "office_name_kana": "カブシキガイシヤ デザインフアクトリ-"
   },
+  "8584": {
+    "postcode": "2798584",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "浦安市",
+    "city_kana": "ウラヤスシ",
+    "town": "美浜",
+    "town_kana": "ミハマ",
+    "street": "１丁目８番１号",
+    "office_name": "一般財団法人　オリエンタルランド子どものハピネス財団",
+    "office_name_kana": "イツパンザイダンホウジン オリエンタルランドコドモノハピネスザイダン"
+  },
   "8585": {
     "postcode": "2798585",
     "prefecture": "千葉県",

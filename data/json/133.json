@@ -350,6 +350,19 @@
     "office_name": "学校法人　愛国学園",
     "office_name_kana": "ガツコウホウジン アイコクガクエン"
   },
+  "8588": {
+    "postcode": "1338588",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江戸川区",
+    "city_kana": "エドガワク",
+    "town": "南篠崎町",
+    "town_kana": "ミナミシノザキマチ",
+    "street": "２−５１−８",
+    "office_name": "株式会社　楽一番　瑞江第一倉庫",
+    "office_name_kana": "カブシキガイシヤ ラクイチバン ミズエダイイチソウコ"
+  },
   "8704": {
     "postcode": "1338704",
     "prefecture": "東京都",

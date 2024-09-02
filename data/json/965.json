@@ -1910,6 +1910,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0840": {
+    "postcode": "9650840",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "会津若松市",
+    "city_kana": "アイヅワカマツシ",
+    "town": "飯寺南",
+    "town_kana": "ニイデラミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0841": {
     "postcode": "9650841",
     "prefecture": "福島県",
