@@ -7263,6 +7263,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "4317": {
+    "postcode": "3214317",
+    "prefecture": "栃木県",
+    "prefecture_kana": "トチギケン",
+    "prefecture_code": 9,
+    "city": "真岡市",
+    "city_kana": "モオカシ",
+    "town": "中萩",
+    "town_kana": "ナカハギ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "4321": {
     "postcode": "3214321",
     "prefecture": "栃木県",

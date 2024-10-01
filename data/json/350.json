@@ -5227,6 +5227,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1216": {
+    "postcode": "3501216",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "日高市",
+    "city_kana": "ヒダカシ",
+    "town": "武蔵高萩",
+    "town_kana": "ムサシタカハギ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1221": {
     "postcode": "3501221",
     "prefecture": "埼玉県",

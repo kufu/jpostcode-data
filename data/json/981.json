@@ -7240,6 +7240,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "3620": {
+    "postcode": "9813620",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "黒川郡大和町",
+    "city_kana": "クロカワグンタイワチョウ",
+    "town": "しあわせの杜",
+    "town_kana": "シアワセノモリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3621": {
     "postcode": "9813621",
     "prefecture": "宮城県",

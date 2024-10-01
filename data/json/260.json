@@ -2081,6 +2081,19 @@
     "office_name": "千葉大学医学部附属病院",
     "office_name_kana": "チバダイガクイガクブフゾクビヨウイン"
   },
+  "8681": {
+    "postcode": "2608681",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "千葉市中央区",
+    "city_kana": "チバシチュウオウク",
+    "town": "浜野町",
+    "town_kana": "ハマノチョウ",
+    "street": "１０２５−２３８",
+    "office_name": "千葉鋼材　株式会社",
+    "office_name_kana": "チバコウザイ カブシキガイシヤ"
+  },
   "8682": {
     "postcode": "2608682",
     "prefecture": "千葉県",

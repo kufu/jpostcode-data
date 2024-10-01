@@ -2926,19 +2926,6 @@
     "office_name": "池田糖化工業　株式会社",
     "office_name_kana": "イケダトウカコウギヨウ カブシキガイシヤ"
   },
-  "8639": {
-    "postcode": "7208639",
-    "prefecture": "広島県",
-    "prefecture_kana": "ヒロシマケン",
-    "prefecture_code": 34,
-    "city": "福山市",
-    "city_kana": "フクヤマシ",
-    "town": "霞町",
-    "town_kana": "カスミチョウ",
-    "street": "１丁目１−１（福山郵便局私書箱第３５号）",
-    "office_name": "株式会社　広島銀行　福山営業本部",
-    "office_name_kana": "カブシキガイシヤ ヒロシマギンコウ フクヤマエイギヨウホンブ"
-  },
   "8640": {
     "postcode": "7208640",
     "prefecture": "広島県",
@@ -2961,8 +2948,8 @@
     "city_kana": "フクヤマシ",
     "town": "延広町",
     "town_kana": "ノブヒロチョウ",
-    "street": "１−１（福山郵便局私書箱第９０号）",
-    "office_name": "大和證券　株式会社　福山支店",
+    "street": "１−１",
+    "office_name": "大和証券　株式会社　福山支店",
     "office_name_kana": "ダイワシヨウケン カブシキガイシヤ フクヤマシテン"
   },
   "8643": {
@@ -3016,5 +3003,18 @@
     "street": "３丁目１２番２０号（福山郵便局私書箱第６１号）",
     "office_name": "ホーコス　株式会社",
     "office_name_kana": "ホ-コス カブシキガイシヤ"
+  },
+  "8652": {
+    "postcode": "7208652",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "福山市",
+    "city_kana": "フクヤマシ",
+    "town": "三吉町",
+    "town_kana": "ミヨシチョウ",
+    "street": "４丁目４番８号",
+    "office_name": "福山税務署",
+    "office_name_kana": "フクヤマゼイムシヨ"
   }
 }

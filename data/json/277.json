@@ -1988,6 +1988,19 @@
     "office_name": "読売旅行　柏営業所",
     "office_name_kana": "ヨミウリリヨコウ カシワエイギヨウシヨ"
   },
+  "8568": {
+    "postcode": "2778568",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "柏市",
+    "city_kana": "カシワシ",
+    "town": "柏の葉",
+    "town_kana": "カシワノハ",
+    "street": "５−１−５",
+    "office_name": "東京大学柏地区総合研究棟",
+    "office_name_kana": "トウキヨウダイガクカシワチクソウゴウケンキユウトウ"
+  },
   "8569": {
     "postcode": "2778569",
     "prefecture": "千葉県",

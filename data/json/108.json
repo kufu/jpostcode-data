@@ -1832,6 +1832,19 @@
     "office_name": "キヤノンマーケティングジャパン　株式会社",
     "office_name_kana": "キヤノンマ-ケテイングジヤパン カブシキガイシヤ"
   },
+  "8015": {
+    "postcode": "1088015",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝",
+    "town_kana": "シバ",
+    "street": "五丁目３３番１１号",
+    "office_name": "三菱重工業　株式会社",
+    "office_name_kana": "ミツビシジユウコウギヨウ カブシキガイシヤ"
+  },
   "8020": {
     "postcode": "1088020",
     "prefecture": "東京都",
@@ -2039,19 +2052,6 @@
     "street": "１−６−４１品川クリスタルスクエア８Ｆ",
     "office_name": "ＦＤＫ　株式会社",
     "office_name_kana": "エフ・デイ-・ケイ カブシキカイシヤ"
-  },
-  "8215": {
-    "postcode": "1088215",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "港南",
-    "town_kana": "コウナン",
-    "street": "２丁目１６番５号",
-    "office_name": "三菱重工業　株式会社",
-    "office_name_kana": "ミツビシジユウコウギヨウ カブシキガイシヤ"
   },
   "8216": {
     "postcode": "1088216",

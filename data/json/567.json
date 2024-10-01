@@ -2040,6 +2040,19 @@
     "office_name": "大阪府　三島府税事務所",
     "office_name_kana": "オオサカフ ミシマフゼイジムシヨ"
   },
+  "8516": {
+    "postcode": "5678516",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "茨木市",
+    "city_kana": "イバラキシ",
+    "town": "丑寅",
+    "town_kana": "ウシトラ",
+    "street": "１丁目１−１ＤＰＬ茨木",
+    "office_name": "ＪＰ楽天ロジスティクス　株式会社　楽天フルフィルメントセンター茨木",
+    "office_name_kana": "ジエイピ-ラクテンロジステイクス カブシキガイシヤ ラクテンフルフイルメントセンタ-イバラキ"
+  },
   "8517": {
     "postcode": "5678517",
     "prefecture": "大阪府",
