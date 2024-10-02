@@ -2131,6 +2131,19 @@
     "office_name": "（株）　共立メンテナンス",
     "office_name_kana": "キヨウリツメンテナンス"
   },
+  "8622": {
+    "postcode": "1018622",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "外神田",
+    "town_kana": "ソトカンダ",
+    "street": "４−１４−１秋葉原ＵＤＸ南ウイング１８Ｆ",
+    "office_name": "株式会社　ホンダトレーディング",
+    "office_name_kana": "カブシキガイシヤ ホンダトレ-デイング"
+  },
   "8624": {
     "postcode": "1018624",
     "prefecture": "東京都",

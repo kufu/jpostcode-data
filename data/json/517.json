@@ -859,6 +859,19 @@
     "office_name": "株式会社　賢島宝生苑",
     "office_name_kana": "カブシキガイシヤ カシコジマホウジヨウエン"
   },
+  "0595": {
+    "postcode": "5170595",
+    "prefecture": "三重県",
+    "prefecture_kana": "ミエケン",
+    "prefecture_code": 24,
+    "city": "志摩市",
+    "city_kana": "シマシ",
+    "town": "阿児町鵜方",
+    "town_kana": "アゴチョウウガタ",
+    "street": "１２５７番地",
+    "office_name": "公益社団法人　地域医療振興協会　三重県立志摩病院",
+    "office_name_kana": "コウエキシヤダンホウジン チイキイリヨウシンコウキヨウカイ ミエケンリツシマビヨウイン"
+  },
   "0601": {
     "postcode": "5170601",
     "prefecture": "三重県",

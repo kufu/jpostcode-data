@@ -2406,6 +2406,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1643": {
+    "postcode": "8191643",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糸島市",
+    "city_kana": "イトシマシ",
+    "town": "福吉",
+    "town_kana": "フクヨシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1692": {
     "postcode": "8191692",
     "prefecture": "福岡県",

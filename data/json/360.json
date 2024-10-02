@@ -2092,6 +2092,19 @@
     "office_name": "埼玉縣信用金庫",
     "office_name_kana": "サイタマケンシンヨウキンコ"
   },
+  "8616": {
+    "postcode": "3608616",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "熊谷市",
+    "city_kana": "クマガヤシ",
+    "town": "久下",
+    "town_kana": "クゲ",
+    "street": "四丁目１４１番地（熊谷郵便局私書箱第１６号）",
+    "office_name": "埼玉縣信用金庫　業務サポート部",
+    "office_name_kana": "サイタマケンシンヨウキンコ ギヨウムサポ-トブ"
+  },
   "8620": {
     "postcode": "3608620",
     "prefecture": "埼玉県",

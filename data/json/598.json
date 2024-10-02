@@ -692,6 +692,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0076": {
+    "postcode": "5980076",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "泉佐野市",
+    "city_kana": "イズミサノシ",
+    "town": "貝田町",
+    "town_kana": "カイタチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0091": {
     "postcode": "5980091",
     "prefecture": "大阪府",

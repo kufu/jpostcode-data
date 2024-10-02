@@ -727,6 +727,19 @@
     "office_name": "いであ　株式会社",
     "office_name_kana": "イデア カブシキガイシヤ"
   },
+  "8589": {
+    "postcode": "1548589",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "世田谷区",
+    "city_kana": "セタガヤク",
+    "town": "世田谷",
+    "town_kana": "セタガヤ",
+    "street": "４丁目１９番１０号",
+    "office_name": "世田谷区　住民票集中管理・住居表示",
+    "office_name_kana": "セタガヤク ジユウミンヒヨウシユウチユウカンリ・ジユウキヨヒヨウジ"
+  },
   "8703": {
     "postcode": "1548703",
     "prefecture": "東京都",

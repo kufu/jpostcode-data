@@ -1169,6 +1169,45 @@
     "office_name": "富士通　株式会社",
     "office_name_kana": "フジツウ カブシキガイシヤ"
   },
+  "8601": {
+    "postcode": "2618601",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "千葉市美浜区",
+    "city_kana": "チバシミハマク",
+    "town": "中瀬",
+    "town_kana": "ナカセ",
+    "street": "一丁目１番地幕張テクニカルセンターＤ棟６Ｆ",
+    "office_name": "東洋エンジニアリング　株式会社",
+    "office_name_kana": "トウヨウエンジニアリング カブシキガイシヤ"
+  },
+  "8602": {
+    "postcode": "2618602",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "千葉市美浜区",
+    "city_kana": "チバシミハマク",
+    "town": "中瀬",
+    "town_kana": "ナカセ",
+    "street": "一丁目１番地幕張テクニカルセンターＥ棟５Ｆ",
+    "office_name": "テックプロジェクトサービス　株式会社",
+    "office_name_kana": "テツクプロジエクトサ-ビス カブシキガイシヤ"
+  },
+  "8603": {
+    "postcode": "2618603",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "千葉市美浜区",
+    "city_kana": "チバシミハマク",
+    "town": "中瀬",
+    "town_kana": "ナカセ",
+    "street": "一丁目１番地幕張テクニカルセンターＤ棟５Ｆ",
+    "office_name": "テックビジネスサービス　株式会社",
+    "office_name_kana": "テツクビジネスサ-ビス カブシキガイシヤ"
+  },
   "8609": {
     "postcode": "2618609",
     "prefecture": "千葉県",

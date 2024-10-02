@@ -1535,19 +1535,6 @@
     "office_name": "昭和住宅　株式会社",
     "office_name_kana": "シヨウワジユウタク カブシキガイシヤ"
   },
-  "0194": {
-    "postcode": "6750194",
-    "prefecture": "兵庫県",
-    "prefecture_kana": "ヒョウゴケン",
-    "prefecture_code": 28,
-    "city": "加古川市",
-    "city_kana": "カコガワシ",
-    "town": "平岡町新在家",
-    "town_kana": "ヒラオカチョウシンザイケ",
-    "street": "１３８９番地",
-    "office_name": "株式会社　大真空",
-    "office_name_kana": "カブシキガイシヤ ダイシンクウ"
-  },
   "0195": {
     "postcode": "6750195",
     "prefecture": "兵庫県",
@@ -4855,6 +4842,19 @@
     "street": "５１０",
     "office_name": "加古川プラスチックス　株式会社",
     "office_name_kana": "カコガワプラスチツクス カブシキガイシヤ"
+  },
+  "8565": {
+    "postcode": "6758565",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "加古川市",
+    "city_kana": "カコガワシ",
+    "town": "野口町水足",
+    "town_kana": "ノグチチョウミズアシ",
+    "street": "１７９番地の６",
+    "office_name": "株式会社　大真空",
+    "office_name_kana": "カブシキガイシヤ ダイシンクウ"
   },
   "8566": {
     "postcode": "6758566",

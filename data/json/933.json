@@ -4735,6 +4735,19 @@
     "office_name": "高岡市農業協同組合",
     "office_name_kana": "タカオカシノウギヨウキヨウドウクミアイ"
   },
+  "8505": {
+    "postcode": "9338505",
+    "prefecture": "富山県",
+    "prefecture_kana": "トヤマケン",
+    "prefecture_code": 16,
+    "city": "高岡市",
+    "city_kana": "タカオカシ",
+    "town": "吉久",
+    "town_kana": "ヨシヒサ",
+    "street": "一丁目１番１４５号",
+    "office_name": "日本重化学工業　株式会社　高岡事業所",
+    "office_name_kana": "ニホンジユウカガクコウギヨウ カブシキガイシヤ タカオカジギヨウシヨ"
+  },
   "8506": {
     "postcode": "9338506",
     "prefecture": "富山県",

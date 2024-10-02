@@ -1530,8 +1530,8 @@
     "town": "大行寺",
     "town_kana": "ダイギョウジ",
     "street": "１１１７",
-    "office_name": "白鴎大学",
-    "office_name_kana": "ハクオウダイガク"
+    "office_name": "白鴎大学　大行寺キャンパス",
+    "office_name_kana": "ハクオウダイガク ダイギヨウジキヤンパス"
   },
   "8586": {
     "postcode": "3238586",
@@ -1543,8 +1543,8 @@
     "town": "駅東通り",
     "town_kana": "エキヒガシドオリ",
     "street": "２丁目２−２",
-    "office_name": "白鴎大学　駅東キャンパス",
-    "office_name_kana": "ハクオウダイガク エキヒガシキヤンパス"
+    "office_name": "白鴎大学　本キャンパス",
+    "office_name_kana": "ハクオウダイガク ホンキヤンパス"
   },
   "8601": {
     "postcode": "3238601",

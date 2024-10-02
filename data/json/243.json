@@ -1026,6 +1026,19 @@
     "office_name": "愛川町役場",
     "office_name_kana": "アイカワマチヤクバ"
   },
+  "0393": {
+    "postcode": "2430393",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "愛甲郡愛川町",
+    "city_kana": "アイコウグンアイカワマチ",
+    "town": "中津",
+    "town_kana": "ナカツ",
+    "street": "４０２５−１厚木Ⅲロジスティクスセンター５ＦＯｕｔｂｏｕｎｄ１〜１０番バースＩｎｂｏｕｎｄ１１〜１９番バース",
+    "office_name": "アマゾン厚木ＴＣ　ＸＪＥ２",
+    "office_name_kana": "アマゾンアツギテイ-シ- エツクスジエイイ-ツ-"
+  },
   "0400": {
     "postcode": "2430400",
     "prefecture": "神奈川県",
@@ -1545,6 +1558,19 @@
     "street": "３−２６−１１",
     "office_name": "オイシックスステーション",
     "office_name_kana": "オイシツクスステ-シヨン"
+  },
+  "0488": {
+    "postcode": "2430488",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "海老名市",
+    "city_kana": "エビナシ",
+    "town": "中新田",
+    "town_kana": "ナカシンデン",
+    "street": "３２９０−３８ＭＦＬＰ海老名Ｉ２Ｆ",
+    "office_name": "アマゾン海老名中新田ＴＣ　ＸＪＥ１",
+    "office_name_kana": "アマゾンエビナナカシンデンテイ-シ- エツクスジエイイ-ワン"
   },
   "0489": {
     "postcode": "2430489",
