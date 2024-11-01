@@ -3236,11 +3236,11 @@
     "prefecture": "岡山県",
     "prefecture_kana": "オカヤマケン",
     "prefecture_code": 33,
-    "city": "岡山市北区",
-    "city_kana": "オカヤマシキタク",
-    "town": "十日市中町",
-    "town_kana": "トウカイチナカマチ",
-    "street": "１５番５６号",
+    "city": "岡山市南区",
+    "city_kana": "オカヤマシミナミク",
+    "town": "米倉",
+    "town_kana": "ヨネグラ",
+    "street": "３７番地３",
     "office_name": "スミクラ　株式会社",
     "office_name_kana": "スミクラ カブシキガイシヤ"
   },
@@ -3503,19 +3503,6 @@
     "street": "２丁目１番１号",
     "office_name": "テレビせとうち　株式会社",
     "office_name_kana": "テレビセトウチ カブシキカイシヤ"
-  },
-  "8678": {
-    "postcode": "7008678",
-    "prefecture": "岡山県",
-    "prefecture_kana": "オカヤマケン",
-    "prefecture_code": 33,
-    "city": "岡山市北区",
-    "city_kana": "オカヤマシキタク",
-    "town": "石関町",
-    "town_kana": "イシゼキチョウ",
-    "street": "２−１",
-    "office_name": "岡山教育事務所",
-    "office_name_kana": "オカヤマキヨウイクジムシヨ"
   },
   "8680": {
     "postcode": "7008680",

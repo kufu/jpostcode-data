@@ -1572,6 +1572,19 @@
     "office_name": "長岡市役所　中之島支所",
     "office_name_kana": "ナガオカシヤクシヨ ナカノシマシシヨ"
   },
+  "0193": {
+    "postcode": "9540193",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "長岡市",
+    "city_kana": "ナガオカシ",
+    "town": "中之島",
+    "town_kana": "ナカノシマ",
+    "street": "１９９３番地１７",
+    "office_name": "アクシアルリテイリング　株式会社",
+    "office_name_kana": "アクシアルリテイリング カブシキガイシヤ"
+  },
   "0195": {
     "postcode": "9540195",
     "prefecture": "新潟県",

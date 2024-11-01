@@ -2625,45 +2625,6 @@
     "office_name": "トーヨーマテリア　株式会社",
     "office_name_kana": "ト-ヨ-マテリア カブシキガイシヤ"
   },
-  "8323": {
-    "postcode": "1078323",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "赤坂",
-    "town_kana": "アカサカ",
-    "street": "９丁目７−２",
-    "office_name": "コナミ　株式会社",
-    "office_name_kana": "コナミ カブシキガイシヤ"
-  },
-  "8324": {
-    "postcode": "1078324",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "赤坂",
-    "town_kana": "アカサカ",
-    "street": "９丁目７−２",
-    "office_name": "株式会社　コナミデジタルエンタテインメント",
-    "office_name_kana": "カブシキガイシヤ コナミデジタルエンタテインメント"
-  },
-  "8326": {
-    "postcode": "1078326",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "赤坂",
-    "town_kana": "アカサカ",
-    "street": "９丁目７−２",
-    "office_name": "コナミリアルエステート　株式会社",
-    "office_name_kana": "コナミリアルエステ-ト カブシキガイシヤ"
-  },
   "8330": {
     "postcode": "1078330",
     "prefecture": "東京都",
@@ -2923,19 +2884,6 @@
     "street": "１丁目２−２",
     "office_name": "日本財団",
     "office_name_kana": "ニホンザイダン"
-  },
-  "8410": {
-    "postcode": "1078410",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "赤坂",
-    "town_kana": "アカサカ",
-    "street": "１丁目９−１３三会堂ビル",
-    "office_name": "株式会社　山と渓谷社",
-    "office_name_kana": "カブシキガイシヤ ヤマトケイコクシヤ"
   },
   "8411": {
     "postcode": "1078411",
