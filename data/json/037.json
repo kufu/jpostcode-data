@@ -1481,6 +1481,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0515": {
+    "postcode": "0370515",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "prefecture_code": 2,
+    "city": "北津軽郡中泊町",
+    "city_kana": "キタツガルグンナカドマリマチ",
+    "town": "小泊築上",
+    "town_kana": "コドマリツキアゲ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0516": {
+    "postcode": "0370516",
+    "prefecture": "青森県",
+    "prefecture_kana": "アオモリケン",
+    "prefecture_code": 2,
+    "city": "北津軽郡中泊町",
+    "city_kana": "キタツガルグンナカドマリマチ",
+    "town": "小泊山崎",
+    "town_kana": "コドマリヤマザキ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0521": {
     "postcode": "0370521",
     "prefecture": "青森県",

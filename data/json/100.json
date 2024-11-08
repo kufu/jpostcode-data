@@ -9538,6 +9538,19 @@
     "office_name": "参議院議員会館",
     "office_name_kana": "サンギインギインカイカン"
   },
+  "8963": {
+    "postcode": "1008963",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "霞が関",
+    "town_kana": "カスミガセキ",
+    "street": "三丁目７−３損保ジャパン霞が関ビル",
+    "office_name": "ＳＯＭＰＯひまわり生命保険　株式会社",
+    "office_name_kana": "ソンポヒマワリセイメイホケン カブシキガイシヤ"
+  },
   "8964": {
     "postcode": "1008964",
     "prefecture": "東京都",

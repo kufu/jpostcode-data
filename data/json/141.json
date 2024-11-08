@@ -664,32 +664,6 @@
     "office_name": "株式会社　学研エデュケーショナル",
     "office_name_kana": "カブシキガイシヤ ガツケンエデユケ-シヨナル"
   },
-  "8412": {
-    "postcode": "1418412",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "品川区",
-    "city_kana": "シナガワク",
-    "town": "西五反田",
-    "town_kana": "ニシゴタンダ",
-    "street": "２−１１−８",
-    "office_name": "株式会社　学研パブリッシング",
-    "office_name_kana": "カブシキガイシヤ ガツケンパブリツシング"
-  },
-  "8413": {
-    "postcode": "1418413",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "品川区",
-    "city_kana": "シナガワク",
-    "town": "西五反田",
-    "town_kana": "ニシゴタンダ",
-    "street": "２−１１−８",
-    "office_name": "株式会社　学研教育出版",
-    "office_name_kana": "カブシキガイシヤ ガツケンキヨウイクシユツパン"
-  },
   "8416": {
     "postcode": "1418416",
     "prefecture": "東京都",
@@ -742,19 +716,6 @@
     "office_name": "株式会社　学研ロジスティクス",
     "office_name_kana": "カブシキガイシヤ ガツケンロジステイクス"
   },
-  "8422": {
-    "postcode": "1418422",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "品川区",
-    "city_kana": "シナガワク",
-    "town": "西五反田",
-    "town_kana": "ニシゴタンダ",
-    "street": "８−１−１３タケウチビル４Ｆ",
-    "office_name": "株式会社　学研アソシエ",
-    "office_name_kana": "カブシキガイシヤ ガツケンアソシエ"
-  },
   "8423": {
     "postcode": "1418423",
     "prefecture": "東京都",
@@ -767,19 +728,6 @@
     "street": "２−１１−８−１２階",
     "office_name": "銀座アスター食品　株式会社",
     "office_name_kana": "ギンザアスタ-シヨクヒン カブシキガイシヤ"
-  },
-  "8424": {
-    "postcode": "1418424",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "品川区",
-    "city_kana": "シナガワク",
-    "town": "西五反田",
-    "town_kana": "ニシゴタンダ",
-    "street": "２−１１−８",
-    "office_name": "株式会社　学研教育アイ・シー・ティー",
-    "office_name_kana": "カブシキガイシヤ ガツケンキヨウイクアイ・シ-・テイ-"
   },
   "8425": {
     "postcode": "1418425",

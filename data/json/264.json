@@ -461,9 +461,9 @@
     "prefecture_code": 12,
     "city": "千葉市若葉区",
     "city_kana": "チバシワカバク",
-    "town": "貝塚町",
-    "town_kana": "カイヅカチョウ",
-    "street": "１２５８番地２０",
+    "town": "貝塚",
+    "town_kana": "カイヅカ",
+    "street": "２丁目１９−１",
     "office_name": "千葉市若葉保健福祉センター",
     "office_name_kana": "チバシワカバホケンフクシセンタ-"
   },
@@ -526,9 +526,9 @@
     "prefecture_code": 12,
     "city": "千葉市若葉区",
     "city_kana": "チバシワカバク",
-    "town": "桜木町",
-    "town_kana": null,
-    "street": "５６７−１",
+    "town": "桜木北",
+    "town_kana": "サクラギキタ",
+    "street": "２丁目１−１",
     "office_name": "若葉区役所",
     "office_name_kana": "ワカバクヤクシヨ"
   }
