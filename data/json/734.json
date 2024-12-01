@@ -831,6 +831,19 @@
     "office_name": "山根木材　株式会社",
     "office_name_kana": "ヤマネモクザイ カブシキガイシヤ"
   },
+  "8585": {
+    "postcode": "7348585",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "広島市南区",
+    "city_kana": "ヒロシマシミナミク",
+    "town": "出汐",
+    "town_kana": "デシオ",
+    "street": "二丁目３番１９号",
+    "office_name": "株式会社　テレビ新広島",
+    "office_name_kana": "カブシキガイシヤ テレビシンヒロシマ"
+  },
   "8798": {
     "postcode": "7348798",
     "prefecture": "広島県",

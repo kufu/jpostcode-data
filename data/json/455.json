@@ -1780,6 +1780,19 @@
     "office_name": "名古屋市国際展示場（ポートメッセなごや）",
     "office_name_kana": "ナゴヤシコクサイテンジジヨウ ポ-トメツセナゴヤ"
   },
+  "8577": {
+    "postcode": "4558577",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市港区",
+    "city_kana": "ナゴヤシミナトク",
+    "town": "土古町",
+    "town_kana": "ドンゴチョウ",
+    "street": "四丁目１番地",
+    "office_name": "株式会社　キラックス",
+    "office_name_kana": "カブシキガイシヤ キラツクス"
+  },
   "8585": {
     "postcode": "4558585",
     "prefecture": "愛知県",

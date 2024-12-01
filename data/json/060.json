@@ -2768,11 +2768,11 @@
     "prefecture_code": 1,
     "city": "札幌市中央区",
     "city_kana": "サッポロシチュウオウク",
-    "town": "大通西",
-    "town_kana": "オオドオリニシ",
-    "street": "３丁目６（札幌中央郵便局私書箱第３号）",
-    "office_name": "株式会社　北海道新聞社",
-    "office_name_kana": "カブシキガイシヤ ホツカイドウシンブンシヤ"
+    "town": "大通東",
+    "town_kana": "オオドオリヒガシ",
+    "street": "４丁目１（札幌中央郵便局私書箱第３号）",
+    "office_name": "北海道新聞社",
+    "office_name_kana": "ホツカイドウシンブンシヤ"
   },
   "8721": {
     "postcode": "0608721",
@@ -2812,6 +2812,19 @@
     "street": "６丁目２番５号",
     "office_name": "ＫＤＤＩ　株式会社",
     "office_name_kana": "ケイデイデイアイ カブシキガイシヤ"
+  },
+  "8771": {
+    "postcode": "0608771",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "札幌市中央区",
+    "city_kana": "サッポロシチュウオウク",
+    "town": "大通東",
+    "town_kana": "オオドオリヒガシ",
+    "street": "４丁目１北海道新聞社ビル",
+    "office_name": "北海道新聞社道新ぶんぶんクラブ事務局",
+    "office_name_kana": "ホツカイドウシンブンシヤドウシンブンブンクラブジムキヨク"
   },
   "8774": {
     "postcode": "0608774",
