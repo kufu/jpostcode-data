@@ -4564,11 +4564,11 @@
     "prefecture_code": 24,
     "city": "桑名市",
     "city_kana": "クワナシ",
-    "town": "大字大福",
-    "town_kana": null,
-    "street": "２",
-    "office_name": "日立金属　株式会社　桑名工場",
-    "office_name_kana": "ヒタチキンゾク カブシキガイシヤ クワナコウジヨウ"
+    "town": "大福",
+    "town_kana": "ダイフク",
+    "street": "二番地",
+    "office_name": "桑名金属工業　株式会社",
+    "office_name_kana": "クワナキンゾクコウギヨウ カブシキカイシヤ"
   },
   "8533": {
     "postcode": "5118533",

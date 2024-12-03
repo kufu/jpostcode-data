@@ -285,6 +285,19 @@
     "office_name": "株式会社　イー・ロジット　東京フルフィルメントセンター",
     "office_name_kana": "カブシキガイシヤ イ-・ロジツト トウキヨウフルフイルメントセンタ-"
   },
+  "8530": {
+    "postcode": "1328530",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江戸川区",
+    "city_kana": "エドガワク",
+    "town": "平井",
+    "town_kana": "ヒライ",
+    "street": "４−７−７",
+    "office_name": "三和紙業　株式会社",
+    "office_name_kana": "サンワシギヨウ カブシキカイシヤ"
+  },
   "8533": {
     "postcode": "1328533",
     "prefecture": "東京都",
