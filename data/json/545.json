@@ -1217,9 +1217,9 @@
     "city_kana": "オオサカシアベノク",
     "town": "旭町",
     "town_kana": "アサヒマチ",
-    "street": "１丁目４−５４",
-    "office_name": "大阪市立大学　医学部",
-    "office_name_kana": "オオサカシリツダイガク イガクブ"
+    "street": "１丁目４番３号",
+    "office_name": "大阪公立大学　阿倍野キャンパス",
+    "office_name_kana": "オオサカコウリツダイガク アベノキヤンパス"
   },
   "8586": {
     "postcode": "5458586",
@@ -1230,8 +1230,8 @@
     "city_kana": "オオサカシアベノク",
     "town": "旭町",
     "town_kana": "アサヒマチ",
-    "street": "１丁目５−７",
-    "office_name": "大阪市立大学　医学部付属病院",
-    "office_name_kana": "オオサカシリツダイガク イガクブフゾクビヨウイン"
+    "street": "１丁目５番７号",
+    "office_name": "大阪公立大学　医学部附属病院",
+    "office_name_kana": "オオサカコウリツダイガク イガクブフゾクビヨウイン"
   }
 }

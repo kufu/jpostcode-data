@@ -1975,6 +1975,19 @@
     "office_name": "オンキョー　株式会社",
     "office_name_kana": "オンキヨ- カブシキガイシヤ"
   },
+  "8544": {
+    "postcode": "5728544",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "寝屋川市",
+    "city_kana": "ネヤガワシ",
+    "town": "早子町",
+    "town_kana": "ハヤコチョウ",
+    "street": "１２番１６号",
+    "office_name": "寝屋川市サービスゲート",
+    "office_name_kana": "ネヤガワシサ-ビスゲ-ト"
+  },
   "8550": {
     "postcode": "5728550",
     "prefecture": "大阪府",
@@ -2075,9 +2088,9 @@
     "city_kana": "ネヤガワシ",
     "town": "幸町",
     "town_kana": "サイワイチョウ",
-    "street": "２６−１２",
-    "office_name": "大阪府立大学工業高等専門学校",
-    "office_name_kana": "オオサカフリツダイガクコウギヨウコウトウセンモンガツコウ"
+    "street": "２６番１２号",
+    "office_name": "大阪公立大学工業高等専門学校",
+    "office_name_kana": "オオサカコウリツダイガクコウギヨウコウトウセンモンガツコウ"
   },
   "8580": {
     "postcode": "5728580",
