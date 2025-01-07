@@ -1052,6 +1052,19 @@
     "office_name": "国民生活金融公庫",
     "office_name_kana": "コクミンセイカツキンユウコウコ"
   },
+  "8629": {
+    "postcode": "8928629",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "prefecture_code": 46,
+    "city": "鹿児島市",
+    "city_kana": "カゴシマシ",
+    "town": "平之町",
+    "town_kana": "ヒラノチョウ",
+    "street": "１０−２（鹿児島東郵便局私書箱第８９号）",
+    "office_name": "株式会社　健康家族",
+    "office_name_kana": "カブシキガイシヤ ケンコウカゾク"
+  },
   "8633": {
     "postcode": "8928633",
     "prefecture": "鹿児島県",

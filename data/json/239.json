@@ -545,6 +545,19 @@
     "office_name": "株式会社　ニフコ　本社",
     "office_name_kana": "カブシキガイシヤ ニフコ ホンシヤ"
   },
+  "8567": {
+    "postcode": "2398567",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横須賀市",
+    "city_kana": "ヨコスカシ",
+    "town": "神明町",
+    "town_kana": "シンメイチョウ",
+    "street": "１番地８",
+    "office_name": "横須賀市立　総合医療センター",
+    "office_name_kana": "ヨコスカシリツ ソウゴウイリヨウセンタ-"
+  },
   "8585": {
     "postcode": "2398585",
     "prefecture": "神奈川県",

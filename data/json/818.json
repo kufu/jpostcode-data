@@ -1192,8 +1192,8 @@
     "town": "大字吉木",
     "town_kana": null,
     "street": "５８７",
-    "office_name": "福岡県　農業総合試験場",
-    "office_name_kana": "フクオカケン ノウギヨウソウゴウシケンジヨウ"
+    "office_name": "福岡県　農林業総合試験場",
+    "office_name_kana": "フクオカケン ノウリンギヨウソウゴウシケンジヨウ"
   },
   "8555": {
     "postcode": "8188555",
@@ -1308,7 +1308,7 @@
     "city_kana": "チクシノシ",
     "town": "針摺西",
     "town_kana": "ハリスリニシ",
-    "street": "１丁目１−８（筑紫野郵便局私書箱第５号）",
+    "street": "１丁目１−８",
     "office_name": "筑紫税務署",
     "office_name_kana": "チクシゼイムシヨ"
   },

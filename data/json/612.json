@@ -6616,6 +6616,19 @@
     "office_name": "伏見区役所　深草支所",
     "office_name_kana": "フシミクヤクシヨ フカクサシシヨ"
   },
+  "8518": {
+    "postcode": "6128518",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "京都市伏見区",
+    "city_kana": "キョウトシフシミク",
+    "town": "鷹匠町",
+    "town_kana": "タカジョウチョウ",
+    "street": "３９番地の２",
+    "office_name": "京都市国保・後期医療給付事務センター",
+    "office_name_kana": "キヨウトシコクホ・コウキイリヨウキユウフジムセンタ-"
+  },
   "8522": {
     "postcode": "6128522",
     "prefecture": "京都府",
@@ -6755,9 +6768,9 @@
     "city_kana": "キョウトシフシミク",
     "town": "竹田向代町",
     "town_kana": "タケダムカイシロチョウ",
-    "street": "５１−７",
-    "office_name": "京都府自動車税管理事務所",
-    "office_name_kana": "キヨウトフジドウシヤゼイカンリジムシヨ"
+    "street": "４９−４京都府自動車整備商工組合教育センター３階",
+    "office_name": "京都府府税事務所自動車税管理事務所",
+    "office_name_kana": "キヨウトフフゼイジムシヨジドウシヤゼイカンリジムシヨ"
   },
   "8686": {
     "postcode": "6128686",
