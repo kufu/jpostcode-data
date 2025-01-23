@@ -12748,6 +12748,19 @@
       "office_name_kana": null
     }
   ],
+  "6269": {
+    "postcode": "9696269",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "大沼郡会津美里町",
+    "city_kana": "オオヌマグンアイヅミサトマチ",
+    "town": "新布才地",
+    "town_kana": "シンフサイチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "6271": [
     {
       "postcode": "9696271",

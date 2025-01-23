@@ -1585,6 +1585,19 @@
     "office_name": "株式会社　サンリブサンリブシティ　小倉",
     "office_name_kana": "カブシキガイシヤ サンリブサンリブシテイ コクラ"
   },
+  "0292": {
+    "postcode": "8000292",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "北九州市小倉南区",
+    "city_kana": "キタキュウシュウシコクラミナミク",
+    "town": "下曽根新町",
+    "town_kana": "シモソネシンマチ",
+    "street": "１３−１",
+    "office_name": "株式会社　アステム",
+    "office_name_kana": "カブシキガイシヤ アステム"
+  },
   "0293": {
     "postcode": "8000293",
     "prefecture": "福岡県",

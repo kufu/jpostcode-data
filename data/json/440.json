@@ -369,19 +369,47 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0032": {
-    "postcode": "4400032",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "豊橋市",
-    "city_kana": "トヨハシシ",
-    "town": "岩田町居村、北郷中",
-    "town_kana": "イワタチョウイムラ、キタゴウナカ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0032": [
+    {
+      "postcode": "4400032",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "豊橋市",
+      "city_kana": "トヨハシシ",
+      "town": "岩田町",
+      "town_kana": "イワタチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "4400032",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "豊橋市",
+      "city_kana": "トヨハシシ",
+      "town": "岩田町居村",
+      "town_kana": "イワタチョウイムラ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "4400032",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "豊橋市",
+      "city_kana": "トヨハシシ",
+      "town": "岩田町北郷中",
+      "town_kana": "イワタチョウキタゴウナカ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0033": {
     "postcode": "4400033",
     "prefecture": "愛知県",
@@ -460,19 +488,47 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0041": {
-    "postcode": "4400041",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "豊橋市",
-    "city_kana": "トヨハシシ",
-    "town": "岩田町宮下、道合",
-    "town_kana": "イワタチョウミヤシタ、ミチアイ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0041": [
+    {
+      "postcode": "4400041",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "豊橋市",
+      "city_kana": "トヨハシシ",
+      "town": "岩田町",
+      "town_kana": "イワタチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "4400041",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "豊橋市",
+      "city_kana": "トヨハシシ",
+      "town": "岩田町宮下",
+      "town_kana": "イワタチョウミヤシタ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "4400041",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "豊橋市",
+      "city_kana": "トヨハシシ",
+      "town": "岩田町道合",
+      "town_kana": "イワタチョウミチアイ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0042": {
     "postcode": "4400042",
     "prefecture": "愛知県",
@@ -1642,19 +1698,47 @@
       "office_name_kana": null
     }
   ],
-  "0833": {
-    "postcode": "4400833",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "豊橋市",
-    "city_kana": "トヨハシシ",
-    "town": "飯村町西山、高山",
-    "town_kana": "イムレチョウニシヤマ、タカヤマ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0833": [
+    {
+      "postcode": "4400833",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "豊橋市",
+      "city_kana": "トヨハシシ",
+      "town": "飯村町",
+      "town_kana": "イムレチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "4400833",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "豊橋市",
+      "city_kana": "トヨハシシ",
+      "town": "飯村町西山",
+      "town_kana": "イムレチョウニシヤマ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "4400833",
+      "prefecture": "愛知県",
+      "prefecture_kana": "アイチケン",
+      "prefecture_code": 23,
+      "city": "豊橋市",
+      "city_kana": "トヨハシシ",
+      "town": "飯村町高山",
+      "town_kana": "イムレチョウタカヤマ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0834": {
     "postcode": "4400834",
     "prefecture": "愛知県",
