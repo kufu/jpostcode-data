@@ -6319,6 +6319,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2207": {
+    "postcode": "3502207",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "鶴ヶ島市",
+    "city_kana": "ツルガシマシ",
+    "town": "若葉",
+    "town_kana": "ワカバ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2211": {
     "postcode": "3502211",
     "prefecture": "埼玉県",

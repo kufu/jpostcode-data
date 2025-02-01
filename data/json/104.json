@@ -2261,6 +2261,32 @@
     "office_name": "株式会社　ミキモト　銀座４丁目本店",
     "office_name_kana": "カブシキガイシヤ ミキモト ギンザヨンチヨウメホンテン"
   },
+  "8147": {
+    "postcode": "1048147",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中央区",
+    "city_kana": "チュウオウク",
+    "town": "銀座",
+    "town_kana": "ギンザ",
+    "street": "２丁目１２番１６号",
+    "office_name": "ヤマト運輸　株式会社　ヤマト本社ビルＡ棟",
+    "office_name_kana": "ヤマトウンユ (カ ヤマトホンシヤビルエ-トウ"
+  },
+  "8148": {
+    "postcode": "1048148",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中央区",
+    "city_kana": "チュウオウク",
+    "town": "銀座",
+    "town_kana": "ギンザ",
+    "street": "２丁目１２番１８号",
+    "office_name": "ヤマト運輸　株式会社　ヤマト本社ビルＢ棟",
+    "office_name_kana": "ヤマトウンユ (カ ヤマトホンシヤビルビ-トウ"
+  },
   "8150": {
     "postcode": "1048150",
     "prefecture": "東京都",

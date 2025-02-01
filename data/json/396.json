@@ -779,6 +779,32 @@
     "office_name": "長野県　伊那北高等学校",
     "office_name_kana": "ナガノケン イナキタコウトウガツコウ"
   },
+  "8577": {
+    "postcode": "3968577",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "伊那市",
+    "city_kana": "イナシ",
+    "town": "大字西箕輪",
+    "town_kana": null,
+    "street": "８２７４番地",
+    "office_name": "長野伊那養護学校",
+    "office_name_kana": "ナガノイナヨウゴガツコウ"
+  },
+  "8581": {
+    "postcode": "3968581",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "伊那市",
+    "city_kana": "イナシ",
+    "town": "大字西箕輪",
+    "town_kana": null,
+    "street": "２６４０番地１０号",
+    "office_name": "ＢＯＣエドワーズ　株式会社",
+    "office_name_kana": "ビ-オ-シ-エドワ-ズ カブシキガイシヤ"
+  },
   "8585": {
     "postcode": "3968585",
     "prefecture": "長野県",
@@ -791,6 +817,19 @@
     "street": "３６７２",
     "office_name": "ＫＯＡ　株式会社",
     "office_name_kana": "コ-ア カブシキガイシヤ"
+  },
+  "8593": {
+    "postcode": "3968593",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "伊那市",
+    "city_kana": "イナシ",
+    "town": "大字西箕輪",
+    "town_kana": null,
+    "street": "１９３８番地１号",
+    "office_name": "ルビコン　株式会社",
+    "office_name_kana": "ルビコン カブシキガイシヤ"
   },
   "8609": {
     "postcode": "3968609",

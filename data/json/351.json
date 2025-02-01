@@ -493,6 +493,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0180": {
+    "postcode": "3510180",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "和光市",
+    "city_kana": "ワコウシ",
+    "town": "南",
+    "town_kana": "ミナミ",
+    "street": "二丁目３番５号最高裁判所和光庁舎・司法研修所別館研修棟",
+    "office_name": "最高裁判所事務総局経理局厚生課",
+    "office_name_kana": "サイコウサイバンシヨジムソウキヨクケイリキヨクコウセイカ"
+  },
   "0188": {
     "postcode": "3510188",
     "prefecture": "埼玉県",

@@ -866,8 +866,8 @@
     "prefecture_code": 44,
     "city": "別府市",
     "city_kana": "ベップシ",
-    "town": "小倉",
-    "town_kana": "オグラ",
+    "town": "小倉町",
+    "town_kana": "オグラチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -1113,8 +1113,8 @@
     "prefecture_code": 44,
     "city": "別府市",
     "city_kana": "ベップシ",
-    "town": "南須賀",
-    "town_kana": "ミナミスカ",
+    "town": "南須賀町",
+    "town_kana": "ミナミスカマチ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -1126,8 +1126,8 @@
     "prefecture_code": 44,
     "city": "別府市",
     "city_kana": "ベップシ",
-    "town": "春木",
-    "town_kana": "ハルキ",
+    "town": "春木町",
+    "town_kana": "ハルキマチ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
