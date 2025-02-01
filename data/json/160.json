@@ -935,19 +935,6 @@
     "office_name": "株式会社　京王百貨店",
     "office_name_kana": "カブシキガイシヤ ケイオウヒヤツカテン"
   },
-  "8327": {
-    "postcode": "1608327",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "新宿区",
-    "city_kana": "シンジュクク",
-    "town": "西新宿",
-    "town_kana": "ニシシンジュク",
-    "street": "７丁目５番２５号西新宿木村屋ビルディング",
-    "office_name": "中央職業能力開発協会",
-    "office_name_kana": "チユウオウシヨクギヨウノウリヨクカイハツキヨウカイ"
-  },
   "8330": {
     "postcode": "1608330",
     "prefecture": "東京都",
@@ -1077,6 +1064,19 @@
     "street": "７丁目７番３０小田急西新宿Ｏ−ＰＬＡＣＥ",
     "office_name": "（公財）　東京都防災・建築まちづくりセンター",
     "office_name_kana": "(コウザイ) トウキヨウトボウサイ・ケンチクマチヅクリセンタ-"
+  },
+  "8354": {
+    "postcode": "1608354",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "西新宿",
+    "town_kana": "ニシシンジュク",
+    "street": "１−２２−２新宿サンエービル５階",
+    "office_name": "株式会社　Ｂｏｈｎｅｓ",
+    "office_name_kana": "カブシキガイシヤ ボ-ネス"
   },
   "8358": {
     "postcode": "1608358",

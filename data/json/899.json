@@ -5127,6 +5127,19 @@
     "office_name": "大隅税務署",
     "office_name_kana": "オオスミゼイムシヨ"
   },
+  "8193": {
+    "postcode": "8998193",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "prefecture_code": 46,
+    "city": "曽於市",
+    "city_kana": "ソオシ",
+    "town": "大隅町岩川",
+    "town_kana": "オオスミチョウイワガワ",
+    "street": "５６２９番地",
+    "office_name": "曽於市役所　大隅支所",
+    "office_name_kana": "ソオシヤクシヨ オオスミシシヨ"
+  },
   "8211": [
     {
       "postcode": "8998211",

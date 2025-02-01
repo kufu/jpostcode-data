@@ -1652,6 +1652,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1228": {
+    "postcode": "9811228",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "名取市",
+    "city_kana": "ナトリシ",
+    "town": "飯野坂東",
+    "town_kana": "イイノザカヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1230": {
     "postcode": "9811230",
     "prefecture": "宮城県",

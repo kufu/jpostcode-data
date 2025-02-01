@@ -2653,6 +2653,19 @@
     "office_name": "関西電力　株式会社",
     "office_name_kana": "カンサイデンリヨク カブシキガイシヤ"
   },
+  "8507": {
+    "postcode": "5308507",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市北区",
+    "city_kana": "オオサカシキタク",
+    "town": "梅田",
+    "town_kana": "ウメダ",
+    "street": "三丁目２番２号ＪＰタワー大阪１３階",
+    "office_name": "全国健康保険協会　大阪支部",
+    "office_name_kana": "ゼンコクケンコウホケンキヨウカイ オオサカシブ"
+  },
   "8511": {
     "postcode": "5308511",
     "prefecture": "大阪府",
@@ -2949,8 +2962,8 @@
     "town": "大深町",
     "town_kana": "オオフカチョウ",
     "street": "３番１号グランフロント大阪タワーＢ",
-    "office_name": "ＦＷＤ富士生命保険　株式会社",
-    "office_name_kana": "エフダブリユ-デイ-フジセイメイホケン カブシキガイシヤ"
+    "office_name": "ＦＷＤ生命保険　株式会社",
+    "office_name_kana": "エフダブリユ-デイ-セイメイホケン カブシキガイシヤ"
   },
   "8574": {
     "postcode": "5308574",
