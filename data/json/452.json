@@ -2722,6 +2722,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0964": {
+    "postcode": "4520964",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "清須市",
+    "city_kana": "キヨスシ",
+    "town": "春日さくら",
+    "town_kana": "ハルヒサクラ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8501": {
     "postcode": "4528501",
     "prefecture": "愛知県",

@@ -4068,6 +4068,32 @@
     "office_name": "宜野湾市役所",
     "office_name_kana": "ギノワンシヤクシヨ"
   },
+  "2720": {
+    "postcode": "9012720",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "prefecture_code": 47,
+    "city": "宜野湾市",
+    "city_kana": "ギノワンシ",
+    "town": "字喜友名",
+    "town_kana": null,
+    "street": "１０７６番地",
+    "office_name": "国立大学法人　琉球大学　医学部",
+    "office_name_kana": "コクリツダイガクホウジン リユウキユウダイガク イガクブ"
+  },
+  "2725": {
+    "postcode": "9012725",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "prefecture_code": 47,
+    "city": "宜野湾市",
+    "city_kana": "ギノワンシ",
+    "town": "字喜友名",
+    "town_kana": null,
+    "street": "１０７６番地",
+    "office_name": "琉球大学病院",
+    "office_name_kana": "リユウキユウダイガクビヨウイン"
+  },
   "2733": {
     "postcode": "9012733",
     "prefecture": "沖縄県",

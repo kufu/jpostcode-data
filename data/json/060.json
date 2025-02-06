@@ -2148,34 +2148,6 @@
     "office_name": "株式会社　日本経済新聞社　札幌支社",
     "office_name_kana": "(カブ) ニホンケイザイシンブンシヤ サツポロシシヤ"
   },
-  "8622": [
-    {
-      "postcode": "0608622",
-      "prefecture": "北海道",
-      "prefecture_kana": "ホッカイドウ",
-      "prefecture_code": 1,
-      "city": "札幌市中央区",
-      "city_kana": "サッポロシチュウオウク",
-      "town": "大通西",
-      "town_kana": "オオドオリニシ",
-      "street": "８丁目１番地８",
-      "office_name": "第一三共　株式会社　札幌支店",
-      "office_name_kana": "ダイイチサンキヨウ カブシキガイシヤ サツポロシテン"
-    },
-    {
-      "postcode": "0608622",
-      "prefecture": "北海道",
-      "prefecture_kana": "ホッカイドウ",
-      "prefecture_code": 1,
-      "city": "札幌市中央区",
-      "city_kana": "サッポロシチュウオウク",
-      "town": "大通西",
-      "town_kana": "オオドオリニシ",
-      "street": "８丁目１番地８",
-      "office_name": "第一三共ヘルスケア　株式会社　東日本支店　札幌オフィス",
-      "office_name_kana": "ダイイチサンキヨウヘルスケア カブシキガイシヤ ヒガシニホンシテン サツポロオフイス"
-    }
-  ],
   "8623": {
     "postcode": "0608623",
     "prefecture": "北海道",

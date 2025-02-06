@@ -2785,32 +2785,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "4564": {
-    "postcode": "3994564",
-    "prefecture": "長野県",
-    "prefecture_kana": "ナガノケン",
-    "prefecture_code": 20,
-    "city": "伊那市",
-    "city_kana": "イナシ",
-    "town": "大字西箕輪",
-    "town_kana": null,
-    "street": "３９００−１３８",
-    "office_name": "西箕輪小学校",
-    "office_name_kana": "ニシミノワシヨウガツコウ"
-  },
-  "4565": {
-    "postcode": "3994565",
-    "prefecture": "長野県",
-    "prefecture_kana": "ナガノケン",
-    "prefecture_code": 20,
-    "city": "伊那市",
-    "city_kana": "イナシ",
-    "town": "大字西箕輪",
-    "town_kana": null,
-    "street": "６５６９−１",
-    "office_name": "西箕輪中学校",
-    "office_name_kana": "ニシミノワチユウガツコウ"
-  },
   "4566": {
     "postcode": "3994566",
     "prefecture": "長野県",
@@ -2889,32 +2863,6 @@
     "office_name": "上野興業　株式会社",
     "office_name_kana": "ウエノコウギヨウ カブシキガイシヤ"
   },
-  "4573": {
-    "postcode": "3994573",
-    "prefecture": "長野県",
-    "prefecture_kana": "ナガノケン",
-    "prefecture_code": 20,
-    "city": "伊那市",
-    "city_kana": "イナシ",
-    "town": "大字西箕輪",
-    "town_kana": null,
-    "street": "２６４０−６",
-    "office_name": "ジャパンエアガシズ",
-    "office_name_kana": "ジヤパンエアガシズ"
-  },
-  "4575": {
-    "postcode": "3994575",
-    "prefecture": "長野県",
-    "prefecture_kana": "ナガノケン",
-    "prefecture_code": 20,
-    "city": "伊那市",
-    "city_kana": "イナシ",
-    "town": "大字西箕輪",
-    "town_kana": null,
-    "street": "８０８６−１",
-    "office_name": "エルコム",
-    "office_name_kana": "エルコム"
-  },
   "4576": {
     "postcode": "3994576",
     "prefecture": "長野県",
@@ -2928,19 +2876,6 @@
     "office_name": "高山理化精機　株式会社",
     "office_name_kana": "タカヤマリカセイキ カブシキガイシヤ"
   },
-  "4577": {
-    "postcode": "3994577",
-    "prefecture": "長野県",
-    "prefecture_kana": "ナガノケン",
-    "prefecture_code": 20,
-    "city": "伊那市",
-    "city_kana": "イナシ",
-    "town": "西箕輪",
-    "town_kana": "ニシミノワ",
-    "street": "８２７４",
-    "office_name": "長野伊那養護学校",
-    "office_name_kana": "ナガノイナヨウゴガツコウ"
-  },
   "4578": {
     "postcode": "3994578",
     "prefecture": "長野県",
@@ -2953,19 +2888,6 @@
     "street": "９８１７−１",
     "office_name": "ミツワマシンサービス",
     "office_name_kana": "ミツワマシンサ-ビス"
-  },
-  "4581": {
-    "postcode": "3994581",
-    "prefecture": "長野県",
-    "prefecture_kana": "ナガノケン",
-    "prefecture_code": 20,
-    "city": "伊那市",
-    "city_kana": "イナシ",
-    "town": "大字西箕輪",
-    "town_kana": null,
-    "street": "２６４０−１０",
-    "office_name": "ＢＯＣエドワーズ　株式会社",
-    "office_name_kana": "ビ-オ-シ-エドワ-ズ カブシキガイシヤ"
   },
   "4583": {
     "postcode": "3994583",
@@ -3070,19 +2992,6 @@
     "street": "４８２５−１",
     "office_name": "南箕輪村役場",
     "office_name_kana": "ミナミミノワムラヤクバ"
-  },
-  "4593": {
-    "postcode": "3994593",
-    "prefecture": "長野県",
-    "prefecture_kana": "ナガノケン",
-    "prefecture_code": 20,
-    "city": "伊那市",
-    "city_kana": "イナシ",
-    "town": "大字西箕輪",
-    "town_kana": null,
-    "street": "１９３８−１",
-    "office_name": "ルビコン　株式会社",
-    "office_name_kana": "ルビコン カブシキガイシヤ"
   },
   "4594": {
     "postcode": "3994594",

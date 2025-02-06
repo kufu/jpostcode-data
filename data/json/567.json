@@ -2248,6 +2248,19 @@
     "office_name": "茨木商工会議所",
     "office_name_kana": "イバラキシヨウコウカイギシヨ"
   },
+  "8620": {
+    "postcode": "5678620",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "茨木市",
+    "city_kana": "イバラキシ",
+    "town": "太田東芝町",
+    "town_kana": "オオダトウシバチョウ",
+    "street": "１番１号",
+    "office_name": "追手門学院大学　茨木総持寺キャンパス",
+    "office_name_kana": "オウテモンガクインダイガク イバラキソウジジキヤンパス"
+  },
   "8651": {
     "postcode": "5678651",
     "prefecture": "大阪府",
