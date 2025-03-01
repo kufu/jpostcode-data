@@ -3009,11 +3009,11 @@
     "prefecture_code": 23,
     "city": "瀬戸市",
     "city_kana": "セトシ",
-    "town": "仲切町",
-    "town_kana": "ナカギリチョウ",
-    "street": "２２番地",
-    "office_name": "（株）　尾張東部放送",
-    "office_name_kana": "(カブ) オワリトウブホウソウ"
+    "town": "栄町",
+    "town_kana": "サカエマチ",
+    "street": "４５パルティせと１Ｆ",
+    "office_name": "株式会社　尾張東部放送",
+    "office_name_kana": "カブシキガイシヤ オワリトウブホウソウ"
   },
   "8510": {
     "postcode": "4898510",
@@ -3183,18 +3183,5 @@
     "street": "６４−１（瀬戸郵便局私書箱第８３号）",
     "office_name": "瀬戸市役所",
     "office_name_kana": "セトシヤクシヨ"
-  },
-  "8777": {
-    "postcode": "4898777",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "瀬戸市",
-    "city_kana": "セトシ",
-    "town": "西原町",
-    "town_kana": "ニシハラチョウ",
-    "street": "１丁目７６番地",
-    "office_name": "ロック・セールス社",
-    "office_name_kana": "ロツク・セ-ルスシヤ"
   }
 }

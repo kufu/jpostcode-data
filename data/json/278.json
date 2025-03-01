@@ -610,19 +610,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "8501": {
-    "postcode": "2788501",
-    "prefecture": "千葉県",
-    "prefecture_kana": "チバケン",
-    "prefecture_code": 12,
-    "city": "野田市",
-    "city_kana": "ノダシ",
-    "town": "横内",
-    "town_kana": "ヨコウチ",
-    "street": "２９−１",
-    "office_name": "小張総合病院",
-    "office_name_kana": "コバリソウゴウビヨウイン"
-  },
   "8510": {
     "postcode": "2788510",
     "prefecture": "千葉県",

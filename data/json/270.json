@@ -441,6 +441,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0104": {
+    "postcode": "2700104",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "流山市",
+    "city_kana": "ナガレヤマシ",
+    "town": "森のロジスティクスパーク",
+    "town_kana": "モリノロジスティクスパーク",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0105": {
     "postcode": "2700105",
     "prefecture": "千葉県",

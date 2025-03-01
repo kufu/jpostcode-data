@@ -4351,6 +4351,19 @@
     "office_name": "石狩市役所　厚田支所",
     "office_name_kana": "イシカリシヤクシヨ アツタシシヨ"
   },
+  "3770": {
+    "postcode": "0613770",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "石狩郡当別町",
+    "city_kana": "イシカリグントウベツチョウ",
+    "town": "ロイズタウン",
+    "town_kana": "ロイズタウン",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "3771": {
     "postcode": "0613771",
     "prefecture": "北海道",

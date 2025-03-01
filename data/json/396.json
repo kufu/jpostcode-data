@@ -376,6 +376,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0041": {
+    "postcode": "3960041",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "伊那市",
+    "city_kana": "イナシ",
+    "town": "西箕輪",
+    "town_kana": "ニシミノワ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0111": {
     "postcode": "3960111",
     "prefecture": "長野県",

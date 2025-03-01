@@ -545,45 +545,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0261": {
-    "postcode": "9820261",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市青葉区",
-    "city_kana": "センダイシアオバク",
-    "town": "折立",
-    "town_kana": "オリタテ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "0262": {
-    "postcode": "9820262",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市青葉区",
-    "city_kana": "センダイシアオバク",
-    "town": "西花苑",
-    "town_kana": "セイカエン",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "0263": {
-    "postcode": "9820263",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "仙台市青葉区",
-    "city_kana": "センダイシアオバク",
-    "town": "茂庭",
-    "town_kana": "モニワ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "0801": {
     "postcode": "9820801",
     "prefecture": "宮城県",

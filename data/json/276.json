@@ -411,7 +411,7 @@
       "city": "八千代市",
       "city_kana": "ヤチヨシ",
       "town": "大和田新田高津団地",
-      "town_kana": "オオワダシンデンタカヅダンチ",
+      "town_kana": "オオワダシンデンタカツダンチ",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -424,7 +424,7 @@
       "city": "八千代市",
       "city_kana": "ヤチヨシ",
       "town": "高津",
-      "town_kana": "タカヅ",
+      "town_kana": "タカツ",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -438,7 +438,7 @@
     "city": "八千代市",
     "city_kana": "ヤチヨシ",
     "town": "高津",
-    "town_kana": "タカヅ",
+    "town_kana": "タカツ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -451,7 +451,7 @@
     "city": "八千代市",
     "city_kana": "ヤチヨシ",
     "town": "高津東",
-    "town_kana": "タカヅヒガシ",
+    "town_kana": "タカツヒガシ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

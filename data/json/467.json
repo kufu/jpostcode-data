@@ -1903,6 +1903,19 @@
     "office_name": "名古屋市立大学　薬学部",
     "office_name_kana": "ナゴヤシリツダイガク ヤクガクブ"
   },
+  "8604": {
+    "postcode": "4678604",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市瑞穂区",
+    "city_kana": "ナゴヤシミズホク",
+    "town": "彌富町",
+    "town_kana": null,
+    "street": "字密柑山１−２",
+    "office_name": "名古屋市立大学医学部附属リハビリテーション病院",
+    "office_name_kana": "ナゴヤシリツダイガクイガクブフゾクリハビリテ-シヨンビヨウイン"
+  },
   "8610": {
     "postcode": "4678610",
     "prefecture": "愛知県",

@@ -1756,6 +1756,19 @@
     "office_name": "国立大学法人　筑波技術大学　春日キャンパス",
     "office_name_kana": "コクリツダイガクホウジン ツクバギジユツダイガク カスガキヤンパス"
   },
+  "8530": {
+    "postcode": "3058530",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "つくば市",
+    "city_kana": "ツクバシ",
+    "town": "吾妻",
+    "town_kana": "アヅマ",
+    "street": "１丁目１２−１（筑波合同庁舎）",
+    "office_name": "関東信越国税局　業務センターつくば分室",
+    "office_name_kana": "カントウシンエツコクゼイキヨク ギヨウムセンタ-ツクバブンシツ"
+  },
   "8550": {
     "postcode": "3058550",
     "prefecture": "茨城県",

@@ -1455,19 +1455,6 @@
     "office_name": "名古屋市立西部医療センター",
     "office_name_kana": "ナゴヤシリツセイブイリヨウセンタ-"
   },
-  "8509": {
-    "postcode": "4628509",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市北区",
-    "city_kana": "ナゴヤシキタク",
-    "town": "柳原",
-    "town_kana": "ヤナギハラ",
-    "street": "３丁目６−４５",
-    "office_name": "東急鯱バス　株式会社",
-    "office_name_kana": "トウキヨウシヤチバス カブシキガイシヤ"
-  },
   "8511": {
     "postcode": "4628511",
     "prefecture": "愛知県",
@@ -1493,19 +1480,6 @@
     "street": "１丁目１",
     "office_name": "親和電機　株式会社",
     "office_name_kana": "シンワデンキ カブシキガイシヤ"
-  },
-  "8519": {
-    "postcode": "4628519",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市北区",
-    "city_kana": "ナゴヤシキタク",
-    "town": "柳原",
-    "town_kana": "ヤナギハラ",
-    "street": "３丁目６−４５",
-    "office_name": "株式会社　東急サービス",
-    "office_name_kana": "カブシキガイシヤ トウキユウサ-ビス"
   },
   "8522": {
     "postcode": "4628522",
@@ -1545,19 +1519,6 @@
     "street": "４丁目３−１９",
     "office_name": "中京スポーツ",
     "office_name_kana": "チユウキヨウスポ-ツ"
-  },
-  "8535": {
-    "postcode": "4628535",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市北区",
-    "city_kana": "ナゴヤシキタク",
-    "town": "浪打町",
-    "town_kana": "ナミウチチョウ",
-    "street": "１丁目５２",
-    "office_name": "株式会社　名古屋三越　ＯＳセンター",
-    "office_name_kana": "カブシキガイシヤ ナゴヤミツコシ オ-エスセンタ-"
   },
   "8540": {
     "postcode": "4628540",
@@ -1610,19 +1571,6 @@
     "street": "３丁目６０",
     "office_name": "アサダ　株式会社",
     "office_name_kana": "アサダ カブシキガイシヤ"
-  },
-  "8555": {
-    "postcode": "4628555",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市北区",
-    "city_kana": "ナゴヤシキタク",
-    "town": "辻本通",
-    "town_kana": "ツジホンドオリ",
-    "street": "２丁目３４",
-    "office_name": "ヤマハ中部　株式会社",
-    "office_name_kana": "ヤマハチユウブ カブシキガイシヤ"
   },
   "8558": {
     "postcode": "4628558",
@@ -1712,8 +1660,8 @@
     "town": "清水",
     "town_kana": "シミズ",
     "street": "５丁目６−２５（名古屋北郵便局私書箱第２５号）",
-    "office_name": "名古屋北社会保険事務所",
-    "office_name_kana": "ナゴヤキタシヤカイホケンジムシヨ"
+    "office_name": "名古屋北年金事務所",
+    "office_name_kana": "ナゴヤキタネンキンジムシヨ"
   },
   "8739": {
     "postcode": "4628739",
