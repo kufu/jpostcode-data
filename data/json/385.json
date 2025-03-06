@@ -727,6 +727,19 @@
     "office_name": "佐久税務署",
     "office_name_kana": "サクゼイムシヨ"
   },
+  "8622": {
+    "postcode": "3858622",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "佐久市",
+    "city_kana": "サクシ",
+    "town": "岩村田",
+    "town_kana": "イワムラダ",
+    "street": "１２０１−２",
+    "office_name": "関東信越国税局　業務センター佐久分室",
+    "office_name_kana": "カントウシンエツコクゼイキヨク ギヨウムセンタ-サクブンシツ"
+  },
   "8686": {
     "postcode": "3858686",
     "prefecture": "長野県",

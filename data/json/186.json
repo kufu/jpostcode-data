@@ -331,11 +331,11 @@
     "prefecture_code": 13,
     "city": "国立市",
     "city_kana": "クニタチシ",
-    "town": "中",
-    "town_kana": "ナカ",
-    "street": "１丁目９−５２（国立郵便局私書箱第１号）",
-    "office_name": "多摩中央信用金庫　国立支店",
-    "office_name_kana": "タマチユウオウシンヨウキンコ クニタチシテン"
+    "town": "東",
+    "town_kana": "ヒガシ",
+    "street": "１丁目４−１５（国立郵便局私書箱第１号）",
+    "office_name": "多摩信用金庫　国立支店",
+    "office_name_kana": "タマシンヨウキンコ クニタチシテン"
   },
   "8688": {
     "postcode": "1868688",

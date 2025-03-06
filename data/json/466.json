@@ -1325,19 +1325,6 @@
     "office_name": "安藤　株式会社",
     "office_name_kana": "アンドウ カブシキガイシヤ"
   },
-  "8522": {
-    "postcode": "4668522",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市昭和区",
-    "city_kana": "ナゴヤシショウワク",
-    "town": "白金",
-    "town_kana": "シラカネ",
-    "street": "３丁目１８−２６",
-    "office_name": "日本ペイント販売　株式会社　中部支社",
-    "office_name_kana": "ニツポンペイントハンバイ カブシキガイシヤ チユウブシテン"
-  },
   "8525": {
     "postcode": "4668525",
     "prefecture": "愛知県",
@@ -1387,8 +1374,8 @@
     "town": "白金",
     "town_kana": "シラカネ",
     "street": "１丁目５−８",
-    "office_name": "株式会社　ホンダベルノ愛知",
-    "office_name_kana": "カブシキガイシヤ ホンダベルノアイチ"
+    "office_name": "株式会社　ホンダモビリティ中部　ＨｏｎｄａＣａｒｓ愛知東郊通店",
+    "office_name_kana": "カブシキガイシヤ ホンダモビリテイチユウブ ホンダカ-ズアイチトウコウドオリテン"
   },
   "8550": {
     "postcode": "4668550",
@@ -1559,19 +1546,6 @@
     "office_name": "聖霊病院",
     "office_name_kana": "セイレイビヨウイン"
   },
-  "8635": {
-    "postcode": "4668635",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市昭和区",
-    "city_kana": "ナゴヤシショウワク",
-    "town": "高峯町",
-    "town_kana": "タカミネチョウ",
-    "street": "１５４",
-    "office_name": "中京テレビ放送　株式会社",
-    "office_name_kana": "チユウキヨウテレビホウソウ カブシキガイシヤ"
-  },
   "8636": {
     "postcode": "4668636",
     "prefecture": "愛知県",
@@ -1611,19 +1585,6 @@
     "office_name": "愛知県保険医協会",
     "office_name_kana": "アイチケンホケンイキヨウカイ"
   },
-  "8656": {
-    "postcode": "4668656",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市昭和区",
-    "city_kana": "ナゴヤシショウワク",
-    "town": "山手通",
-    "town_kana": "ヤマノテトオリ",
-    "street": "３丁目２１",
-    "office_name": "矢崎総業　株式会社　名古屋支店",
-    "office_name_kana": "ヤザキソウギヨウ カブシキガイシヤ ナゴヤシテン"
-  },
   "8657": {
     "postcode": "4668657",
     "prefecture": "愛知県",
@@ -1636,19 +1597,6 @@
     "street": "２丁目１６−１",
     "office_name": "大学生協　東海会館",
     "office_name_kana": "ダイガクセイキヨウ トウカイカイカン"
-  },
-  "8660": {
-    "postcode": "4668660",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市昭和区",
-    "city_kana": "ナゴヤシショウワク",
-    "town": "山手通",
-    "town_kana": "ヤマノテトオリ",
-    "street": "３丁目２１ワイワイプラザ",
-    "office_name": "（株）　ジョットインターナショナル　名古屋支店",
-    "office_name_kana": "(カブ) ジヨツトインタ-ナシヨナル ナゴヤシテン"
   },
   "8666": {
     "postcode": "4668666",
@@ -1701,19 +1649,6 @@
     "street": "６番８号",
     "office_name": "愛知トヨタＷＥＳＴ　株式会社",
     "office_name_kana": "アイチトヨタウエスト カブシキガイシヤ"
-  },
-  "8707": {
-    "postcode": "4668707",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市昭和区",
-    "city_kana": "ナゴヤシショウワク",
-    "town": "高峯町",
-    "town_kana": "タカミネチョウ",
-    "street": "１５４（昭和郵便局私書箱第１２３号）",
-    "office_name": "中京テレビ放送　株式会社",
-    "office_name_kana": "チユウキヨウテレビホウソウ カブシキガイシヤ"
   },
   "8711": {
     "postcode": "4668711",

@@ -259,6 +259,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8089": {
+    "postcode": "5548089",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市此花区",
+    "city_kana": "オオサカシコノハナク",
+    "town": "夢洲中",
+    "town_kana": "ユメシマナカ",
+    "street": "一丁目地先",
+    "office_name": "２０２５年日本国際博覧会　大阪・関西万博（郵便物）",
+    "office_name_kana": "2025ネンニツポンコクサイハクランカイ オオサカ・カンサイバンパク(ユウビンブツ)"
+  },
   "8501": {
     "postcode": "5548501",
     "prefecture": "大阪府",

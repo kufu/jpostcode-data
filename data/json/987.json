@@ -339,6 +339,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0039": {
+    "postcode": "9870039",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "遠田郡美里町",
+    "city_kana": "トオダグンミサトマチ",
+    "town": "新峯山",
+    "town_kana": "シンミネヤマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0041": {
     "postcode": "9870041",
     "prefecture": "宮城県",

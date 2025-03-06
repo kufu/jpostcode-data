@@ -155,6 +155,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0017": {
+    "postcode": "7070017",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "prefecture_code": 33,
+    "city": "美作市",
+    "city_kana": "ミマサカシ",
+    "town": "美来",
+    "town_kana": "ミライ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "7070021",
     "prefecture": "岡山県",

@@ -766,19 +766,6 @@
     "office_name": "サンエイ糖化　株式会社",
     "office_name_kana": "サンエイトウカ カブシキガイシヤ"
   },
-  "8504": {
-    "postcode": "4788504",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "知多市",
-    "city_kana": "チタシ",
-    "town": "北浜町",
-    "town_kana": "キタハママチ",
-    "street": "２５番地",
-    "office_name": "ＪＸ日鉱日石エネルギー　株式会社　知多製造所",
-    "office_name_kana": "ジエイエツクスニツコウニツセキエネルギ- カブシキガイシヤ チタセイゾウシヨ"
-  },
   "8505": {
     "postcode": "4788505",
     "prefecture": "愛知県",
@@ -817,19 +804,6 @@
     "street": "１",
     "office_name": "知多市役所",
     "office_name_kana": "チタシヤクシヨ"
-  },
-  "8640": {
-    "postcode": "4788640",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "知多市",
-    "city_kana": "チタシ",
-    "town": "新知",
-    "town_kana": "シンチ",
-    "street": "字永井２−１",
-    "office_name": "知多市民病院",
-    "office_name_kana": "チタシミンビヨウイン"
   },
   "8641": {
     "postcode": "4788641",

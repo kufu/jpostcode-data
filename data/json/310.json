@@ -1269,9 +1269,9 @@
     "prefecture_code": 8,
     "city": "水戸市",
     "city_kana": "ミトシ",
-    "town": "南町",
-    "town_kana": "ミナミマチ",
-    "street": "３丁目４−５７水戸セントラルビル",
+    "town": "宮町",
+    "town_kana": "ミヤマチ",
+    "street": "１−２−４マイムビル９階",
     "office_name": "全国健康保険協会　茨城支部",
     "office_name_kana": "ゼンコクケンコウホケンキヨウカイ イバラキシブ"
   },
@@ -1690,5 +1690,18 @@
     "street": "９７８−２５茨城県開発公社ビル",
     "office_name": "株式会社　茨城新聞社",
     "office_name_kana": "カブシキカイシヤ イバラキシンブンシヤ"
+  },
+  "8717": {
+    "postcode": "3108717",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "水戸市",
+    "city_kana": "ミトシ",
+    "town": "北見町",
+    "town_kana": "キタミチョウ",
+    "street": "１番１７号",
+    "office_name": "関東信越国税局　業務センターつくば分室　水戸事務室",
+    "office_name_kana": "カントウシンエツコクゼイキヨク ギヨウムセンタ-ツクバブンシツ ミトジムシツ"
   }
 }
