@@ -363,6 +363,19 @@
     "office_name": "扶桑薬品工業　株式会社",
     "office_name_kana": "フソウヤクヒンコウギヨウ カブシキガイシヤ"
   },
+  "8525": {
+    "postcode": "5368525",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市城東区",
+    "city_kana": "オオサカシジョウトウク",
+    "town": "森之宮",
+    "town_kana": "モリノミヤ",
+    "street": "２丁目１番１３２号",
+    "office_name": "大阪公立大学　森之宮キャンパス",
+    "office_name_kana": "オオサカコウリツダイガク モリノミヤキヤンパス"
+  },
   "8527": {
     "postcode": "5368527",
     "prefecture": "大阪府",

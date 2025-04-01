@@ -2342,7 +2342,7 @@
       "city": "京都市上京区",
       "city_kana": "キョウトシカミギョウク",
       "town": "亀屋町荒神口通河原町東入",
-      "town_kana": "カメヤチョウコウジングチドオリカワハラチョウヒガシイル",
+      "town_kana": "カメヤチョウコウジングチドオリカワラマチヒガシイル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -3687,8 +3687,8 @@
       "prefecture_code": 26,
       "city": "京都市上京区",
       "city_kana": "キョウトシカミギョウク",
-      "town": "鷹司町下長者町通鳥丸西入",
-      "town_kana": "タカツカサチョウシモチョウジャマチドオリカラスニシイル",
+      "town": "鷹司町下長者町通烏丸西入",
+      "town_kana": "タカツカサチョウシモチョウジャマチドオリカラスマニシイル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -6513,7 +6513,7 @@
       "city": "京都市上京区",
       "city_kana": "キョウトシカミギョウク",
       "town": "中之町猪熊通竹屋町上る",
-      "town_kana": "ナカノチョウイノクマドオリタケヤチョウアガル",
+      "town_kana": "ナカノチョウイノクマドオリタケヤマチアガル",
       "street": null,
       "office_name": null,
       "office_name_kana": null

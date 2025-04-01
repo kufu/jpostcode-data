@@ -2038,9 +2038,9 @@
     "prefecture_code": 1,
     "city": "札幌市中央区",
     "city_kana": "サッポロシチュウオウク",
-    "town": "大通西",
-    "town_kana": "オオドオリニシ",
-    "street": "２丁目９",
+    "town": "南三条西",
+    "town_kana": "ミナミ3ジョウニシ",
+    "street": "１１丁目",
     "office_name": "札幌市中央区役所",
     "office_name_kana": "サツポロシチユウオウクヤクシヨ"
   },
@@ -2408,19 +2408,6 @@
     "office_name": "北海道旅客鉄道　株式会社",
     "office_name_kana": "ホツカイドウリヨキヤクテツドウ カブシキガイシヤ"
   },
-  "8646": {
-    "postcode": "0608646",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "札幌市中央区",
-    "city_kana": "サッポロシチュウオウク",
-    "town": "大通西",
-    "town_kana": "オオドオリニシ",
-    "street": "５丁目１１番地１",
-    "office_name": "株式会社　ロイズコンフェクト",
-    "office_name_kana": "カブシキガイシヤ ロイズコンフエクト"
-  },
   "8647": {
     "postcode": "0608647",
     "prefecture": "北海道",
@@ -2771,6 +2758,19 @@
     "street": "５丁目３−１０（札幌中央郵便局私書箱第２２５号）",
     "office_name": "北海道労働金庫　本部",
     "office_name_kana": "ホツカイドウロウドウキンコ ホンブ"
+  },
+  "8766": {
+    "postcode": "0608766",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "札幌市中央区",
+    "city_kana": "サッポロシチュウオウク",
+    "town": "南三条西",
+    "town_kana": "ミナミ3ジョウニシ",
+    "street": "１１丁目",
+    "office_name": "札幌市中央区役所",
+    "office_name_kana": "サツポロシチユウオウクヤクシヨ"
   },
   "8767": {
     "postcode": "0608767",

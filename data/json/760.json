@@ -1405,6 +1405,19 @@
     "office_name": "富士火災海上保険　株式会社",
     "office_name_kana": "フジカサイカイジヨウホケン カブシキガイシヤ"
   },
+  "8542": {
+    "postcode": "7608542",
+    "prefecture": "香川県",
+    "prefecture_kana": "カガワケン",
+    "prefecture_code": 37,
+    "city": "高松市",
+    "city_kana": "タカマツシ",
+    "town": "浜ノ町",
+    "town_kana": "ハマノチョウ",
+    "street": "８番５３号",
+    "office_name": "徳島文理大学　高松駅キャンパス",
+    "office_name_kana": "トクシマブンリダイガク タカマツエキキヤンパス"
+  },
   "8545": {
     "postcode": "7608545",
     "prefecture": "香川県",

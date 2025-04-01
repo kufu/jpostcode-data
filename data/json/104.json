@@ -3249,6 +3249,19 @@
     "office_name": "日本冶金工業　株式会社",
     "office_name_kana": "ニツポンヤキンコウギヨウ カブシキガイシヤ"
   },
+  "8366": {
+    "postcode": "1048366",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中央区",
+    "city_kana": "チュウオウク",
+    "town": "京橋",
+    "town_kana": "キョウバシ",
+    "street": "２丁目２−１京橋エドグラン",
+    "office_name": "株式会社　ミキモト",
+    "office_name_kana": "カブシキガイシヤ ミキモト"
+  },
   "8370": {
     "postcode": "1048370",
     "prefecture": "東京都",
