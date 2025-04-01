@@ -365,6 +365,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8543": {
+    "postcode": "5928543",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "堺市西区",
+    "city_kana": "サカイシニシク",
+    "town": "築港新町",
+    "town_kana": "チッコウシンマチ",
+    "street": "３丁１番地",
+    "office_name": "ＵＢＥ　株式会社　堺工場",
+    "office_name_kana": "ユ-ビ-イ- カブシキガイシヤ サカイコウジヨウ"
+  },
   "8550": {
     "postcode": "5928550",
     "prefecture": "大阪府",

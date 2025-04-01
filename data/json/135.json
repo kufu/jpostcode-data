@@ -1039,19 +1039,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "8074": {
-    "postcode": "1358074",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "台場",
-    "town_kana": "ダイバ",
-    "street": "２丁目３番２号台場フロンティアビル",
-    "office_name": "昭和シェル石油　株式会社",
-    "office_name_kana": "シヨウワシエルセキユ カブシキカイシヤ"
-  },
   "8080": {
     "postcode": "1358080",
     "prefecture": "東京都",
@@ -2455,19 +2442,6 @@
     "street": "５丁目１−３８",
     "office_name": "昭和大学江東豊洲病院",
     "office_name_kana": "シヨウワダイガクコウトウトヨスビヨウイン"
-  },
-  "8578": {
-    "postcode": "1358578",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "台場",
-    "town_kana": "ダイバ",
-    "street": "２丁目３−５台場ガーデンシティビル",
-    "office_name": "太平洋セメント　株式会社",
-    "office_name_kana": "タイヘイヨウセメント カブシキガイシヤ"
   },
   "8579": {
     "postcode": "1358579",

@@ -346,9 +346,9 @@
     "city_kana": "シブカワシ",
     "town": "伊香保町伊香保",
     "town_kana": "イカホマチイカホ",
-    "street": "１１６−１",
-    "office_name": "渋川市　伊香保総合支所",
-    "office_name_kana": "シブカワシ イカホソウゴウシシヨ"
+    "street": "１６２番地１",
+    "office_name": "渋川市　伊香保行政センター",
+    "office_name_kana": "シブカワシ イカホギヨウセイセンタ-"
   },
   "0193": {
     "postcode": "3770193",
@@ -476,9 +476,9 @@
     "city_kana": "シブカワシ",
     "town": "吹屋",
     "town_kana": "フキヤ",
-    "street": "３８４",
-    "office_name": "渋川市　子持総合支所",
-    "office_name_kana": "シブカワシ コモチソウゴウシシヨ"
+    "street": "３８４番地",
+    "office_name": "渋川市　子持行政センター",
+    "office_name_kana": "シブカワシ コモチギヨウセイセンタ-"
   },
   "0293": {
     "postcode": "3770293",
@@ -606,9 +606,9 @@
     "city_kana": "シブカワシ",
     "town": "村上",
     "town_kana": "ムラカミ",
-    "street": "３７５６−３",
-    "office_name": "渋川市　小野上総合支所",
-    "office_name_kana": "シブカワシ オノガミソウゴウシシヨ"
+    "street": "３７５６番地３",
+    "office_name": "渋川市　小野上行政センター",
+    "office_name_kana": "シブカワシ オノガミギヨウセイセンタ-"
   },
   "0395": {
     "postcode": "3770395",
@@ -2333,9 +2333,9 @@
     "city_kana": "シブカワシ",
     "town": "北橘町真壁",
     "town_kana": "ホッキツマチマカベ",
-    "street": "２３７２−１",
-    "office_name": "渋川市　北橘総合支所",
-    "office_name_kana": "シブカワシ ホツキツソウゴウシシヨ"
+    "street": "２３７２番地１",
+    "office_name": "渋川市　北橘行政センター",
+    "office_name_kana": "シブカワシ ホツキツギヨウセイセンタ-"
   },
   "8503": {
     "postcode": "3778503",
@@ -2375,19 +2375,6 @@
     "street": "７８６",
     "office_name": "株式会社　小笠原",
     "office_name_kana": "カブシキガイシヤ オガサワラ"
-  },
-  "8511": {
-    "postcode": "3778511",
-    "prefecture": "群馬県",
-    "prefecture_kana": "グンマケン",
-    "prefecture_code": 10,
-    "city": "渋川市",
-    "city_kana": "シブカワシ",
-    "town": "金井",
-    "town_kana": "カナイ",
-    "street": "２８５４",
-    "office_name": "独立行政法人　国立病院機構　西群馬病院",
-    "office_name_kana": "ドクリツギヨウセイホウジン コクリツビヨウインキコウ ニシグンマビヨウイン"
   },
   "8513": {
     "postcode": "3778513",

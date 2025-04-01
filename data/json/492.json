@@ -4681,19 +4681,6 @@
     "office_name": "丸徳産業　株式会社",
     "office_name_kana": "マルトクサンギヨウ カブシキガイシヤ"
   },
-  "8513": {
-    "postcode": "4928513",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "稲沢市",
-    "city_kana": "イナザワシ",
-    "town": "小池",
-    "town_kana": "コイケ",
-    "street": "１丁目８−５",
-    "office_name": "日軽産業　株式会社",
-    "office_name_kana": "ニツケイサンギヨウ カブシキガイシヤ"
-  },
   "8520": {
     "postcode": "4928520",
     "prefecture": "愛知県",
@@ -4784,19 +4771,6 @@
     "street": "西の町３０",
     "office_name": "豊田合成　株式会社　技術センター",
     "office_name_kana": "トヨダゴウセイ カブシキガイシヤ ギジユツセンタ-"
-  },
-  "8541": {
-    "postcode": "4928541",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "稲沢市",
-    "city_kana": "イナザワシ",
-    "town": "北島町",
-    "town_kana": "キタジマチョウ",
-    "street": "西の町１０",
-    "office_name": "豊田合成　株式会社　北島物流センター",
-    "office_name_kana": "トヨダゴウセイ カブシキガイシヤ キタジマブツリユウセンタ-"
   },
   "8542": {
     "postcode": "4928542",
