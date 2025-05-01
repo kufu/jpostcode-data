@@ -1150,11 +1150,11 @@
     "prefecture_code": 12,
     "city": "流山市",
     "city_kana": "ナガレヤマシ",
-    "town": "西深井",
-    "town_kana": "ニシフカイ",
-    "street": "字種井下１３７４−１",
-    "office_name": "ＤＰＬ流山Ⅰ",
-    "office_name_kana": "デイ-ピ-エルナガレヤマワン"
+    "town": "森のロジスティクスパーク",
+    "town_kana": "モリノロジスティクスパーク",
+    "street": "１−１２８２−２",
+    "office_name": "ＤＰＬ流山　Ｉ",
+    "office_name_kana": "デイ-ピ-エルナガレヤマ ワン"
   },
   "0192": {
     "postcode": "2700192",
@@ -1202,9 +1202,9 @@
     "prefecture_code": 12,
     "city": "流山市",
     "city_kana": "ナガレヤマシ",
-    "town": "西深井",
-    "town_kana": "ニシフカイ",
-    "street": "字早稲田１６０３番地１",
+    "town": "森のロジスティクスパーク",
+    "town_kana": "モリノロジスティクスパーク",
+    "street": "１−１６０３−１",
     "office_name": "アマゾン流山ＦＣ",
     "office_name_kana": "アマゾンナガレヤマエフシ-"
   },
@@ -1215,9 +1215,9 @@
     "prefecture_code": 12,
     "city": "流山市",
     "city_kana": "ナガレヤマシ",
-    "town": "南",
-    "town_kana": "ミナミ",
-    "street": "２６１番地ＧＬＰＡＬＰＨＡＬＩＮＫ流山３",
+    "town": "森のロジスティクスパーク",
+    "town_kana": "モリノロジスティクスパーク",
+    "street": "３−２６１",
     "office_name": "ＪＰ楽天ロジスティクス　株式会社　楽天フルフィルメントセンター流山",
     "office_name_kana": "ジエイピ-ラクテンロジステイクス カブシキガイシヤ ラクテンフルフイルメントセンタ-ナガレヤマ"
   },

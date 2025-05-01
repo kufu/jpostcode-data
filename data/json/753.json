@@ -1946,19 +1946,34 @@
     "office_name": "山口県　山口健康福祉センター",
     "office_name_kana": "ヤマグチケン ヤマグチケンコウフクシセンタ-"
   },
-  "8650": {
-    "postcode": "7538650",
-    "prefecture": "山口県",
-    "prefecture_kana": "ヤマグチケン",
-    "prefecture_code": 35,
-    "city": "山口市",
-    "city_kana": "ヤマグチシ",
-    "town": "亀山町",
-    "town_kana": "カメヤマチョウ",
-    "street": "２−１（山口中央郵便局私書箱第７４号）",
-    "office_name": "山口市役所",
-    "office_name_kana": "ヤマグチシヤクシヨ"
-  },
+  "8650": [
+    {
+      "postcode": "7538650",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "prefecture_code": 35,
+      "city": "山口市",
+      "city_kana": "ヤマグチシ",
+      "town": "亀山町",
+      "town_kana": "カメヤマチョウ",
+      "street": "２−１（山口中央郵便局私書箱第７４号）",
+      "office_name": "山口市消防本部",
+      "office_name_kana": "ヤマグチシシヨウボウホンブ"
+    },
+    {
+      "postcode": "7538650",
+      "prefecture": "山口県",
+      "prefecture_kana": "ヤマグチケン",
+      "prefecture_code": 35,
+      "city": "山口市",
+      "city_kana": "ヤマグチシ",
+      "town": "亀山町",
+      "town_kana": "カメヤマチョウ",
+      "street": "２−１（山口中央郵便局私書箱第７４号）",
+      "office_name": "山口市役所",
+      "office_name_kana": "ヤマグチシヤクシヨ"
+    }
+  ],
   "8653": {
     "postcode": "7538653",
     "prefecture": "山口県",

@@ -5118,7 +5118,7 @@
       "city": "京都市上京区",
       "city_kana": "キョウトシカミギョウク",
       "town": "東橋詰町中立売通堀川東入",
-      "town_kana": "ヒガシハシヅメチョウナカタチウリドオリホリカワヒガシイル",
+      "town_kana": "ヒガシハシヅメチョウナカダチウリドオリホリカワヒガシイル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -5503,7 +5503,7 @@
       "city": "京都市上京区",
       "city_kana": "キョウトシカミギョウク",
       "town": "一町目松屋町通出水下る",
-      "town_kana": "イッチョウメマツヤチョウドオリデミズサガル",
+      "town_kana": "イッチョウメマツヤマチドオリデミズサガル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -5516,7 +5516,7 @@
       "city": "京都市上京区",
       "city_kana": "キョウトシカミギョウク",
       "town": "一町目松屋町通下立売上る",
-      "town_kana": "イッチョウメマツヤチョウドオリシモダチウリアガル",
+      "town_kana": "イッチョウメマツヤマチドオリシモダチウリアガル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -6219,7 +6219,7 @@
       "city": "京都市上京区",
       "city_kana": "キョウトシカミギョウク",
       "town": "二町目松屋町通下立売下る",
-      "town_kana": "ニチョウメマツヤマチドオリシモタテウリサガル",
+      "town_kana": "ニチョウメマツヤマチドオリシモダチウリサガル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -6353,7 +6353,7 @@
       "city": "京都市上京区",
       "city_kana": "キョウトシカミギョウク",
       "town": "三町目松屋町通椹木町下る",
-      "town_kana": "サンチョウメマツヤマチドオリサワラギマチサガル",
+      "town_kana": "サンチョウメマツヤマチドオリサワラギチョウサガル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -6420,7 +6420,7 @@
       "city": "京都市上京区",
       "city_kana": "キョウトシカミギョウク",
       "town": "大黒町猪熊通下立売下る",
-      "town_kana": "ダイコクチョウイノクマドオリシモタチウリサガル",
+      "town_kana": "ダイコクチョウイノクマドオリシモダチウリサガル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -8284,7 +8284,7 @@
       "city": "京都市上京区",
       "city_kana": "キョウトシカミギョウク",
       "town": "玉屋町千本通中立売上る",
-      "town_kana": "タマヤチョウセンボンドオリナカタチウリアガル",
+      "town_kana": "タマヤチョウセンボンドオリナカダチウリアガル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -8297,7 +8297,7 @@
       "city": "京都市上京区",
       "city_kana": "キョウトシカミギョウク",
       "town": "玉屋町中立売通千本東入",
-      "town_kana": "タマヤチョウナカタチウリドオリセンボンヒガシイル",
+      "town_kana": "タマヤチョウナカダチウリドオリセンボンヒガシイル",
       "street": null,
       "office_name": null,
       "office_name_kana": null

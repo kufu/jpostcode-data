@@ -1351,6 +1351,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0197": {
+    "postcode": "5900197",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "堺市南区",
+    "city_kana": "サカイシミナミク",
+    "town": "三原台",
+    "town_kana": "ミハラダイ",
+    "street": "１丁１４番１号",
+    "office_name": "近畿大学医学部・看護学部・近畿大学病院",
+    "office_name_kana": "キンキダイガクイガクブ・カンゴガクブ・キンキダイガクビヨウイン"
+  },
   "0400": {
     "postcode": "5900400",
     "prefecture": "大阪府",

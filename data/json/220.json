@@ -2820,6 +2820,19 @@
     "office_name": "株式会社　クイーンズイースト",
     "office_name_kana": "カブシキガイシヤ クイ-ンズイ-スト"
   },
+  "8543": {
+    "postcode": "2208543",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市西区",
+    "city_kana": "ヨコハマシニシク",
+    "town": "みなとみらい",
+    "town_kana": "ミナトミライ",
+    "street": "２−３−７",
+    "office_name": "横浜ベイホテル東急",
+    "office_name_kana": "ヨコハマベイホテルトウキユウ"
+  },
   "8558": {
     "postcode": "2208558",
     "prefecture": "神奈川県",
