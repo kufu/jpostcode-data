@@ -854,7 +854,7 @@
       "city": "京都市下京区",
       "city_kana": "キョウトシシモギョウク",
       "town": "丸屋町御幸町通仏光寺上る",
-      "town_kana": "マルヤチョウゴコマチドオリブツコウジアガル",
+      "town_kana": "マルヤチョウゴコマチドオリブッコウジアガル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -947,7 +947,7 @@
       "city": "京都市下京区",
       "city_kana": "キョウトシシモギョウク",
       "town": "俵屋町麩屋町通仏光寺上る",
-      "town_kana": "タワラヤチョウフヤチョウドオリブツコウジアガル",
+      "town_kana": "タワラヤチョウフヤチョウドオリブッコウジアガル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -1217,7 +1217,7 @@
       "city": "京都市下京区",
       "city_kana": "キョウトシシモギョウク",
       "town": "堅田町万寿寺通富小路東入",
-      "town_kana": "カタダチョウマンシュウジドオリトミノコウジヒガシイル",
+      "town_kana": "カタダチョウマンジュウジドオリトミノコウジヒガシイル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -1230,7 +1230,7 @@
       "city": "京都市下京区",
       "city_kana": "キョウトシシモギョウク",
       "town": "堅田町万寿寺通麩屋町西入",
-      "town_kana": "カタダチョウマンシュウジドオリフヤチョウニシイル",
+      "town_kana": "カタダチョウマンジュウジドオリフヤチョウニシイル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -1390,7 +1390,7 @@
       "city": "京都市下京区",
       "city_kana": "キョウトシシモギョウク",
       "town": "塗師屋町富小路通仏光寺上る",
-      "town_kana": "ヌシヤチョウトミノコウジドオリブツコウジアガル",
+      "town_kana": "ヌシヤチョウトミノコウジドオリブッコウジアガル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -1591,7 +1591,7 @@
       "city": "京都市下京区",
       "city_kana": "キョウトシシモギョウク",
       "town": "雁金町高辻通柳馬場東入",
-      "town_kana": "カリガネチョウタカツジドオリヤナギババヒガシイル",
+      "town_kana": "カリガネチョウタカツジドオリヤナギノバンバヒガシイル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -2227,7 +2227,7 @@
       "city": "京都市下京区",
       "city_kana": "キョウトシシモギョウク",
       "town": "堅田町万寿寺通堺町西入",
-      "town_kana": "カタダチョウマンシュウジドオリサカイマチニシイル",
+      "town_kana": "カタダチョウマンジュウジドオリサカイマチニシイル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -5382,7 +5382,7 @@
       "city": "京都市下京区",
       "city_kana": "キョウトシシモギョウク",
       "town": "骨屋町六条通柳馬場西入",
-      "town_kana": "ホネヤチョウロクジョウドオリヤナギババニシイル",
+      "town_kana": "ホネヤチョウロクジョウドオリヤナギノバンバニシイル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -6326,7 +6326,7 @@
       "city": "京都市下京区",
       "city_kana": "キョウトシシモギョウク",
       "town": "川端町木津屋橋通堀川西入",
-      "town_kana": "カワバタチョウキズヤバシドオリホリカワニシイル",
+      "town_kana": "カワバタチョウキヅヤバシドオリホリカワニシイル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -6339,7 +6339,7 @@
       "city": "京都市下京区",
       "city_kana": "キョウトシシモギョウク",
       "town": "川端町堀川通木津屋橋上る",
-      "town_kana": "カワバタチョウホリカワドオリキズヤバシアガル",
+      "town_kana": "カワバタチョウホリカワドオリキヅヤバシアガル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -8706,7 +8706,7 @@
       "city": "京都市下京区",
       "city_kana": "キョウトシシモギョウク",
       "town": "塩屋町黒門通仏光寺上る",
-      "town_kana": "シオヤチョウクロモンドオリブツコウジアガル",
+      "town_kana": "シオヤチョウクロモンドオリブッコウジアガル",
       "street": null,
       "office_name": null,
       "office_name_kana": null
@@ -8918,7 +8918,7 @@
       "city": "京都市下京区",
       "city_kana": "キョウトシシモギョウク",
       "town": "雁金町岩上通仏光寺上る",
-      "town_kana": "カリガネチョウイワガミドオリブツコウジアガル",
+      "town_kana": "カリガネチョウイワガミドオリブッコウジアガル",
       "street": null,
       "office_name": null,
       "office_name_kana": null

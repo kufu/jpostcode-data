@@ -2002,5 +2002,18 @@
     "street": null,
     "office_name": null,
     "office_name_kana": null
+  },
+  "1392": {
+    "postcode": "2591392",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "秦野市",
+    "city_kana": "ハダノシ",
+    "town": "堀山下",
+    "town_kana": "ホリヤマシタ",
+    "street": "１",
+    "office_name": "日立ヴァンタラ　株式会社",
+    "office_name_kana": "ヒタチヴアンダラ カブシキカイシヤ"
   }
 }

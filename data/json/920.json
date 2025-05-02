@@ -3039,6 +3039,19 @@
       "office_name_kana": "ホクリヨウデンコウ カブシキガイシヤ"
     }
   ],
+  "0382": {
+    "postcode": "9200382",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "金沢市",
+    "city_kana": "カナザワシ",
+    "town": "古府町",
+    "town_kana": "コブマチ",
+    "street": "南４５９",
+    "office_name": "アップティー　株式会社",
+    "office_name_kana": "アツプテイ- カブシキガイシヤ"
+  },
   "0383": {
     "postcode": "9200383",
     "prefecture": "石川県",

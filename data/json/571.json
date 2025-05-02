@@ -896,6 +896,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8501": {
+    "postcode": "5718501",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "門真市",
+    "city_kana": "カドマシ",
+    "town": "大字門真",
+    "town_kana": null,
+    "street": "１００６番地",
+    "office_name": "パナソニックホールディングス　株式会社",
+    "office_name_kana": "パナソニツクホ-ルデイングス カブシキガイシヤ"
+  },
   "8502": {
     "postcode": "5718502",
     "prefecture": "大阪府",
@@ -935,6 +948,19 @@
     "office_name": "パナソニック　（株）　ＡＶＣネットワークス社",
     "office_name_kana": "パナソニツク カブシキガイシヤ エ-ブイシ-ネツトワ-クスシヤ"
   },
+  "8506": {
+    "postcode": "5718506",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "門真市",
+    "city_kana": "カドマシ",
+    "town": "大字門真",
+    "town_kana": null,
+    "street": "１００６番地",
+    "office_name": "パナソニックインダストリー　株式会社",
+    "office_name_kana": "パナソニツクインダストリ- カブシキガイシヤ"
+  },
   "8507": {
     "postcode": "5718507",
     "prefecture": "大阪府",
@@ -947,6 +973,19 @@
     "street": "１−６",
     "office_name": "松下産業機器　株式会社　配電器事業部",
     "office_name_kana": "マツシタサンギヨウキキ カブシキガイシヤ ハイデンキジギヨウブ"
+  },
+  "8508": {
+    "postcode": "5718508",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "門真市",
+    "city_kana": "カドマシ",
+    "town": "大字門真",
+    "town_kana": null,
+    "street": "１００６番地",
+    "office_name": "パナソニックホールディングス　西門真地区",
+    "office_name_kana": "パナソニツクホ-ルデイングス ニシカドマチク"
   },
   "8533": {
     "postcode": "5718533",

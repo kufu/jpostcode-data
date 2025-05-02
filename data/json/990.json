@@ -4655,6 +4655,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2379": {
+    "postcode": "9902379",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "prefecture_code": 6,
+    "city": "山形市",
+    "city_kana": "ヤマガタシ",
+    "town": "替所",
+    "town_kana": "カエショ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2381": {
     "postcode": "9902381",
     "prefecture": "山形県",

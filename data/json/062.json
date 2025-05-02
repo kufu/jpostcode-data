@@ -857,19 +857,6 @@
     "office_name": "独立行政法人　農業・食品産業技術総合研究機構　北海道農業研究センター",
     "office_name_kana": "ドクリツギヨウセイホウジン ノウギヨウ・シヨクヒンサンギヨウギジユツソウゴウケンキユウキコウ ホツカイドウノウギヨウケンキユウセンタ-"
   },
-  "8558": {
-    "postcode": "0628558",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "札幌市豊平区",
-    "city_kana": "サッポロシトヨヒラク",
-    "town": "美園三条",
-    "town_kana": "ミソノ3ジョウ",
-    "street": "６丁目３番１０号",
-    "office_name": "札幌トヨペット　株式会社",
-    "office_name_kana": "サツポロトヨペツト カブシキカイシヤ"
-  },
   "8570": {
     "postcode": "0628570",
     "prefecture": "北海道",
@@ -1152,9 +1139,9 @@
     "city_kana": "サッポロシトヨヒラク",
     "town": "美園三条",
     "town_kana": "ミソノ3ジョウ",
-    "street": "６丁目３番１号",
-    "office_name": "トヨタカローラ札幌　（株）",
-    "office_name_kana": "トヨタカロ-ラサツポロ カブ"
+    "street": "６丁目３番１０号",
+    "office_name": "ＡＧＨトヨタ札幌　株式会社",
+    "office_name_kana": "エ-ジ-エイチトヨタサツポロ カブシキカイシヤ"
   },
   "8668": {
     "postcode": "0628668",

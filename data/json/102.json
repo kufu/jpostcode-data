@@ -2131,6 +2131,19 @@
     "office_name": "公益社団法人　全国農業共済協会",
     "office_name_kana": "コウエキシヤダンホウジン ゼンコクノウギヨウキヨウサイキヨウカイ"
   },
+  "8412": {
+    "postcode": "1028412",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "平河町",
+    "town_kana": "ヒラカワチョウ",
+    "street": "１−２−１０平河町第一生命ビルディング５階",
+    "office_name": "第一生命カードサービス　株式会社",
+    "office_name_kana": "ダイイチセイメイカ-ドサ-ビス カブシキガイシヤ"
+  },
   "8414": {
     "postcode": "1028414",
     "prefecture": "東京都",

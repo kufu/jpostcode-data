@@ -324,6 +324,19 @@
     "office_name": "中日本高速道路　（株）　横浜支社",
     "office_name_kana": "ナカニホンコウソクドウロ (カブ) ヨコハマシシヤ"
   },
+  "8510": {
+    "postcode": "2228510",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市港北区",
+    "city_kana": "ヨコハマシコウホクク",
+    "town": "新横浜",
+    "town_kana": "シンヨコハマ",
+    "street": "２丁目１１番地１",
+    "office_name": "一般社団法人　神奈川県トラック協会",
+    "office_name_kana": "イツパンシヤダンホウジン カナガワケントラツクキヨウカイ"
+  },
   "8511": {
     "postcode": "2228511",
     "prefecture": "神奈川県",

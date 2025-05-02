@@ -1455,6 +1455,19 @@
     "office_name": "株式会社　イヨベ工芸社",
     "office_name_kana": "カブシキガイシヤ イヨベコウゲイシヤ"
   },
+  "8340": {
+    "postcode": "1358340",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "佐賀",
+    "town_kana": "サガ",
+    "street": "２−８−２０ＭＳＣ深川ビル１号館７階",
+    "office_name": "株式会社　三井住友銀行　債権ビジネス事務センター",
+    "office_name_kana": "カブシキガイシヤ ミツイスミトモギンコウ サイケンビジネスジムセンタ-"
+  },
   "8350": {
     "postcode": "1358350",
     "prefecture": "東京都",
@@ -2118,19 +2131,6 @@
     "office_name": "株式会社　ＯＣＳ",
     "office_name_kana": "カブシキカイシヤ オ-シ-エス"
   },
-  "8528": {
-    "postcode": "1358528",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "江東区",
-    "city_kana": "コウトウク",
-    "town": "東雲",
-    "town_kana": "シノノメ",
-    "street": "１丁目７−１２ＫＤＸ豊洲グランスクエア４階",
-    "office_name": "昭和リース　株式会社",
-    "office_name_kana": "シヨウワリ-ス カブシキガイシヤ"
-  },
   "8530": {
     "postcode": "1358530",
     "prefecture": "東京都",
@@ -2443,19 +2443,6 @@
     "office_name": "昭和大学江東豊洲病院",
     "office_name_kana": "シヨウワダイガクコウトウトヨスビヨウイン"
   },
-  "8579": {
-    "postcode": "1358579",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "江東区",
-    "city_kana": "コウトウク",
-    "town": "東雲",
-    "town_kana": "シノノメ",
-    "street": "１丁目５−１７",
-    "office_name": "株式会社　ナカノ　東京支店",
-    "office_name_kana": "カブシキガイシヤ ナカノ トウキヨウシテン"
-  },
   "8581": {
     "postcode": "1358581",
     "prefecture": "東京都",
@@ -2546,19 +2533,6 @@
     "street": "２−４−３",
     "office_name": "セイコータイムクリエーション　株式会社",
     "office_name_kana": "セイコ-タイムクリエ-シヨン カブシキガイシヤ"
-  },
-  "8611": {
-    "postcode": "1358611",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "江東区",
-    "city_kana": "コウトウク",
-    "town": "有明",
-    "town_kana": "アリアケ",
-    "street": "３丁目１−２５",
-    "office_name": "アクサ損害保険　株式会社",
-    "office_name_kana": "アクサソンガイホケン カブシキガイシヤ"
   },
   "8614": {
     "postcode": "1358614",
@@ -2770,19 +2744,6 @@
     "office_name": "ソフトバンクテレコム　株式会社",
     "office_name_kana": "ソフトバンクテレコム カブシキカイシヤ"
   },
-  "8655": {
-    "postcode": "1358655",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "台場",
-    "town_kana": "ダイバ",
-    "street": "２丁目３番地１号",
-    "office_name": "日商岩井　株式会社",
-    "office_name_kana": "ニツシヨウイワイ カブシキガイシヤ"
-  },
   "8659": {
     "postcode": "1358659",
     "prefecture": "東京都",
@@ -2795,32 +2756,6 @@
     "street": "１丁目８−１１三井生命新大橋ビル",
     "office_name": "株式会社　コックス",
     "office_name_kana": "カブシキガイシヤ コツクス"
-  },
-  "8661": {
-    "postcode": "1358661",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "台場",
-    "town_kana": "ダイバ",
-    "street": "２丁目３−１",
-    "office_name": "日本テレコムＩＤＣ　株式会社",
-    "office_name_kana": "ニツポンテレコムアイデイシ- カブシキガイシヤ"
-  },
-  "8666": {
-    "postcode": "1358666",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "江東区",
-    "city_kana": "コウトウク",
-    "town": "有明",
-    "town_kana": "アリアケ",
-    "street": "１丁目５−３５",
-    "office_name": "日本ベニア　株式会社　東京営業所",
-    "office_name_kana": "ニホンベニア カブシキガイシヤ トウキヨウエイギヨウシヨ"
   },
   "8668": {
     "postcode": "1358668",
@@ -2873,19 +2808,6 @@
     "street": "３−３−９豊洲センタービルアネックス",
     "office_name": "株式会社　ＮＴＴデータＳＭＳ",
     "office_name_kana": "カブシキガイシヤ エヌテイテイデ-タエスエムエス"
-  },
-  "8686": {
-    "postcode": "1358686",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "江東区",
-    "city_kana": "コウトウク",
-    "town": "青海",
-    "town_kana": "アオミ",
-    "street": "２丁目４番３２号タイム２４ビル",
-    "office_name": "富士通エフ・アイ・ピー　株式会社",
-    "office_name_kana": "フジツウエフ・アイ・ピ- カブシキガイシヤ"
   },
   "8701": {
     "postcode": "1358701",
