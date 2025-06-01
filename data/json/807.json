@@ -2276,19 +2276,34 @@
     "office_name": "九州女子大学・九州女子短期大学",
     "office_name_kana": "キユウシユウジヨシダイガク・キユウシユウジヨシタンキダイガク"
   },
-  "8587": {
-    "postcode": "8078587",
-    "prefecture": "福岡県",
-    "prefecture_kana": "フクオカケン",
-    "prefecture_code": 40,
-    "city": "北九州市八幡西区",
-    "city_kana": "キタキュウシュウシヤハタニシク",
-    "town": "中須",
-    "town_kana": "ナカス",
-    "street": "一丁目１番７号",
-    "office_name": "株式会社　ゆめマート北九州",
-    "office_name_kana": "カブシキガイシヤ ユメマ-トキタキユウシユウ"
-  },
+  "8587": [
+    {
+      "postcode": "8078587",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "prefecture_code": 40,
+      "city": "北九州市八幡西区",
+      "city_kana": "キタキュウシュウシヤハタニシク",
+      "town": "中須",
+      "town_kana": "ナカス",
+      "street": "一丁目１番７号",
+      "office_name": "イズミグループ事務センター",
+      "office_name_kana": "イズミグル-プジムセンタ-"
+    },
+    {
+      "postcode": "8078587",
+      "prefecture": "福岡県",
+      "prefecture_kana": "フクオカケン",
+      "prefecture_code": 40,
+      "city": "北九州市八幡西区",
+      "city_kana": "キタキュウシュウシヤハタニシク",
+      "town": "中須",
+      "town_kana": "ナカス",
+      "street": "一丁目１番７号",
+      "office_name": "株式会社　ゆめマート北九州",
+      "office_name_kana": "カブシキガイシヤ ユメマ-トキタキユウシユウ"
+    }
+  ],
   "8588": {
     "postcode": "8078588",
     "prefecture": "福岡県",

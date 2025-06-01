@@ -363,6 +363,19 @@
     "office_name": "公立昭和病院",
     "office_name_kana": "コウリツシヨウワビヨウイン"
   },
+  "8511": {
+    "postcode": "1878511",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "小平市",
+    "city_kana": "コダイラシ",
+    "town": "御幸町",
+    "town_kana": "ミユキチョウ",
+    "street": "３２",
+    "office_name": "株式会社　国際電気",
+    "office_name_kana": "カブシキガイシヤ コクサイデンキ"
+  },
   "8512": {
     "postcode": "1878512",
     "prefecture": "東京都",

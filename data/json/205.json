@@ -285,6 +285,19 @@
     "office_name": "株式会社　カイジョー",
     "office_name_kana": "カブシキガイシヤ カイジヨ-"
   },
+  "8611": {
+    "postcode": "2058611",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "羽村市",
+    "city_kana": "ハムラシ",
+    "town": "羽東",
+    "town_kana": "ハネヒガシ",
+    "street": "１丁目７−１０東光ビル２階",
+    "office_name": "にしたま司法書士事務所",
+    "office_name_kana": "ニシタマシホウシヨシジムシヨ"
+  },
   "8660": {
     "postcode": "2058660",
     "prefecture": "東京都",

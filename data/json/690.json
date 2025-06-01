@@ -2157,19 +2157,60 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "1492": {
-    "postcode": "6901492",
-    "prefecture": "島根県",
-    "prefecture_kana": "シマネケン",
-    "prefecture_code": 32,
-    "city": "松江市",
-    "city_kana": "マツエシ",
-    "town": "八束町波入",
-    "town_kana": "ヤツカチョウハニュウ",
-    "street": "１２６０−２",
-    "office_name": "有限会社　日本庭園　由志園",
-    "office_name_kana": "ユウゲンガイシヤ ニホンテイエン ユシエン"
-  },
+  "1492": [
+    {
+      "postcode": "6901492",
+      "prefecture": "島根県",
+      "prefecture_kana": "シマネケン",
+      "prefecture_code": 32,
+      "city": "松江市",
+      "city_kana": "マツエシ",
+      "town": "八束町波入",
+      "town_kana": "ヤツカチョウハニュウ",
+      "street": "１２６０−２",
+      "office_name": "日本庭園由志園　株式会社",
+      "office_name_kana": "ニホンテイエンユウシエン カブシキガイシヤ"
+    },
+    {
+      "postcode": "6901492",
+      "prefecture": "島根県",
+      "prefecture_kana": "シマネケン",
+      "prefecture_code": 32,
+      "city": "松江市",
+      "city_kana": "マツエシ",
+      "town": "八束町波入",
+      "town_kana": "ヤツカチョウハニュウ",
+      "street": "１２６０−２",
+      "office_name": "由志園アグリファーム　株式会社",
+      "office_name_kana": "ユウシエンアグリフア-ム カブシキガイシヤ"
+    },
+    {
+      "postcode": "6901492",
+      "prefecture": "島根県",
+      "prefecture_kana": "シマネケン",
+      "prefecture_code": 32,
+      "city": "松江市",
+      "city_kana": "マツエシ",
+      "town": "八束町波入",
+      "town_kana": "ヤツカチョウハニュウ",
+      "street": "１２６０−２",
+      "office_name": "由志園デザインシステム　株式会社",
+      "office_name_kana": "ユウシエンデザインシステム カブシキガイシヤ"
+    },
+    {
+      "postcode": "6901492",
+      "prefecture": "島根県",
+      "prefecture_kana": "シマネケン",
+      "prefecture_code": 32,
+      "city": "松江市",
+      "city_kana": "マツエシ",
+      "town": "八束町波入",
+      "town_kana": "ヤツカチョウハニュウ",
+      "street": "１２６０−２",
+      "office_name": "由志園ホールディングス　株式会社",
+      "office_name_kana": "ユウシエンホ-ルデイングス カブシキガイシヤ"
+    }
+  ],
   "1501": {
     "postcode": "6901501",
     "prefecture": "島根県",

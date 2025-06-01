@@ -1975,19 +1975,6 @@
     "office_name": "中村区役所",
     "office_name_kana": "ナカムラクヤクシヨ"
   },
-  "8505": {
-    "postcode": "4538505",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中村区",
-    "city_kana": "ナゴヤシナカムラク",
-    "town": "太閤",
-    "town_kana": "タイコウ",
-    "street": "１丁目２０−１０",
-    "office_name": "中村県税事務所",
-    "office_name_kana": "ナカムラケンゼイジムシヨ"
-  },
   "8510": {
     "postcode": "4538510",
     "prefecture": "愛知県",
@@ -2315,19 +2302,6 @@
     "office_name": "株式会社　ヤマナカ",
     "office_name_kana": "カブシキガイシヤ ヤマナカ"
   },
-  "8611": {
-    "postcode": "4538611",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中村区",
-    "city_kana": "ナゴヤシナカムラク",
-    "town": "並木",
-    "town_kana": "ナミキ",
-    "street": "１丁目２６７番地",
-    "office_name": "河田フェザー　株式会社",
-    "office_name_kana": "カワダフエザ- カブシキカイシヤ"
-  },
   "8626": {
     "postcode": "4538626",
     "prefecture": "愛知県",
@@ -2405,19 +2379,6 @@
     "street": "４丁目６０番地６",
     "office_name": "愛知大学生活協同組合　名古屋書籍購買店",
     "office_name_kana": "アイチダイガクセイカツキヨウドウクミアイ ナゴヤシヨセキコウバイテン"
-  },
-  "8765": {
-    "postcode": "4538765",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中村区",
-    "city_kana": "ナゴヤシナカムラク",
-    "town": "太閤",
-    "town_kana": "タイコウ",
-    "street": "１丁目２１−１５",
-    "office_name": "株式会社　ミスターゴルフ",
-    "office_name_kana": "カブシキガイシヤ ミスタ-ゴルフ"
   },
   "8777": {
     "postcode": "4538777",

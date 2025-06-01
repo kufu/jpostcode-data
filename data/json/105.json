@@ -6967,6 +6967,19 @@
     "office_name": "独立行政法人　農業者年金基金",
     "office_name_kana": "ドクリツギヨウセイホウジン ノウギヨウシヤネンキンキキン"
   },
+  "8039": {
+    "postcode": "1058039",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "西新橋",
+    "town_kana": "ニシシンバシ",
+    "street": "２−１５−１２日立愛宕別館６階",
+    "office_name": "株式会社　国際電気",
+    "office_name_kana": "カブシキガイシヤ コクサイデンキ"
+  },
   "8055": {
     "postcode": "1058055",
     "prefecture": "東京都",
@@ -7185,8 +7198,8 @@
     "town": "東新橋",
     "town_kana": "ヒガシシンバシ",
     "street": "１丁目７−３",
-    "office_name": "トッパン・フォームズ・オペレーション　株式会社",
-    "office_name_kana": "トツパン・フオ-ムズ・オペレ-シヨン カブシキガイシヤ"
+    "office_name": "ＴＯＰＰＡＮエッジＩＴソリューション　株式会社",
+    "office_name_kana": "トツパンエツジアイテイ-ソリユ-シヨン カブシキガイシヤ"
   },
   "8313": {
     "postcode": "1058313",
@@ -7382,6 +7395,110 @@
     "street": "１丁目１４番２２号",
     "office_name": "ＮＸ商事　株式会社",
     "office_name_kana": "エヌエツクスシヨウジ カブシキガイシヤ"
+  },
+  "8340": {
+    "postcode": "1058340",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "１−１−１ＢＬＵＥＦＲＯＮＴＳＨＩＢＡＵＲＡＴＯＷＥＲＳ",
+    "office_name": "野村不動産ホールディングス　株式会社",
+    "office_name_kana": "ノムラフドウサンホ-ルデイングス カブシキガイシヤ"
+  },
+  "8341": {
+    "postcode": "1058341",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "１−１−１ＢＬＵＥＦＲＯＮＴＳＨＩＢＡＵＲＡＴＯＷＥＲＳ",
+    "office_name": "野村不動産　株式会社",
+    "office_name_kana": "ノムラフドウサン カブシキガイシヤ"
+  },
+  "8342": {
+    "postcode": "1058342",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "１−１−１ＢＬＵＥＦＲＯＮＴＳＨＩＢＡＵＲＡＴＯＷＥＲＳ",
+    "office_name": "野村不動産投資顧問　株式会社",
+    "office_name_kana": "ノムラフドウサントウシコモン カブシキガイシヤ"
+  },
+  "8343": {
+    "postcode": "1058343",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "１−１−１ＢＬＵＥＦＲＯＮＴＳＨＩＢＡＵＲＡＴＯＷＥＲＳ",
+    "office_name": "野村不動産ソリューションズ　株式会社",
+    "office_name_kana": "ノムラフドウサンソリユ-シヨンズ カブシキガイシヤ"
+  },
+  "8344": {
+    "postcode": "1058344",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "１−１−１ＢＬＵＥＦＲＯＮＴＳＨＩＢＡＵＲＡＴＯＷＥＲＳ",
+    "office_name": "野村不動産パートナーズ　株式会社",
+    "office_name_kana": "ノムラフドウサンパ-トナ-ズ カブシキガイシヤ"
+  },
+  "8345": {
+    "postcode": "1058345",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "１−１−１ＢＬＵＥＦＲＯＮＴＳＨＩＢＡＵＲＡＴＯＷＥＲＳ",
+    "office_name": "野村不動産コマース　株式会社",
+    "office_name_kana": "ノムラフドウサンコマ-ス カブシキガイシヤ"
+  },
+  "8346": {
+    "postcode": "1058346",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "１−１−１ＢＬＵＥＦＲＯＮＴＳＨＩＢＡＵＲＡＴＯＷＥＲＳ",
+    "office_name": "野村不動産ウェルネス　株式会社",
+    "office_name_kana": "ノムラフドウサンウエルネス カブシキガイシヤ"
+  },
+  "8347": {
+    "postcode": "1058347",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "芝浦",
+    "town_kana": "シバウラ",
+    "street": "１−１−１ＢＬＵＥＦＲＯＮＴＳＨＩＢＡＵＲＡＴＯＷＥＲＳ",
+    "office_name": "野村不動産ホテルズ　株式会社",
+    "office_name_kana": "ノムラフドウサンホテルズ カブシキガイシヤ"
   },
   "8401": {
     "postcode": "1058401",
@@ -8187,9 +8304,9 @@
     "city_kana": "ミナトク",
     "town": "虎ノ門",
     "town_kana": "トラノモン",
-    "street": "１−１３−８",
-    "office_name": "株式会社　ノリタケカンパニーリミテド",
-    "office_name_kana": "カブシキガイシヤ ノリタケカンパニ-リミテド"
+    "street": "一丁目１３番８号",
+    "office_name": "ノリタケ　株式会社",
+    "office_name_kana": "ノリタケ カブシキガイシヤ"
   },
   "8503": {
     "postcode": "1058503",
