@@ -1325,6 +1325,19 @@
     "office_name": "日本電設工業　株式会社",
     "office_name_kana": "ニホンデンセツコウギヨウ カブシキガイシヤ"
   },
+  "8707": {
+    "postcode": "1108707",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "台東区",
+    "city_kana": "タイトウク",
+    "town": "池之端",
+    "town_kana": "イケノハタ",
+    "street": "１丁目４番１号",
+    "office_name": "株式会社　東天紅",
+    "office_name_kana": "カブシキガイシヤ トウテンコウ"
+  },
   "8708": {
     "postcode": "1108708",
     "prefecture": "東京都",

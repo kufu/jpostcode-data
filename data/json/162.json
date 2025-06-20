@@ -2055,6 +2055,19 @@
     "office_name": "防衛省　技術研究本部",
     "office_name_kana": "ボウエイシヨウ ギジユツケンキユウホンブ"
   },
+  "8840": {
+    "postcode": "1628840",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "市谷本村町",
+    "town_kana": "イチガヤホンムラチョウ",
+    "street": "５−１",
+    "office_name": "統合作戦司令部",
+    "office_name_kana": "トウゴウサクセンシレイブ"
+  },
   "8850": {
     "postcode": "1628850",
     "prefecture": "東京都",
@@ -2080,6 +2093,19 @@
     "street": "５−１",
     "office_name": "防衛省　共済組合",
     "office_name_kana": "ボウエイシヨウ キヨウサイクミアイ"
+  },
+  "8855": {
+    "postcode": "1628855",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "市谷本村町",
+    "town_kana": "イチガヤホンムラチョウ",
+    "street": "５−１",
+    "office_name": "自衛隊サイバー防衛隊",
+    "office_name_kana": "ジエイタイサイバ-ボウエイタイ"
   },
   "8860": {
     "postcode": "1628860",

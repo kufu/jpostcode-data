@@ -931,9 +931,9 @@
     "city_kana": "カマガヤシ",
     "town": "くぬぎ山",
     "town_kana": "クヌギヤマ",
-    "street": "４丁目１−１２",
-    "office_name": "新京成電鉄　株式会社",
-    "office_name_kana": "シンケイセイデンテツ カブシキガイシヤ"
+    "street": "四丁目一番十二号京成くぬぎ山ビル二階",
+    "office_name": "京成電鉄　株式会社　開発本部",
+    "office_name_kana": "ケイセイデンテツ カブシキガイシヤ カイハツホンブ"
   },
   "0193": {
     "postcode": "2730193",
@@ -960,6 +960,19 @@
     "street": "２−６−１",
     "office_name": "鎌ケ谷市役所",
     "office_name_kana": "カマガヤシヤクシヨ"
+  },
+  "0196": {
+    "postcode": "2730196",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "鎌ケ谷市",
+    "city_kana": "カマガヤシ",
+    "town": "くぬぎ山",
+    "town_kana": "クヌギヤマ",
+    "street": "４丁目１番１２号京成くぬぎ山ビル１階",
+    "office_name": "京成不動産　株式会社",
+    "office_name_kana": "ケイセイフドウサン カブシキガイシヤ"
   },
   "0197": {
     "postcode": "2730197",

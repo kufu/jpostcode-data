@@ -1962,6 +1962,19 @@
     "office_name": "株式会社　正直屋",
     "office_name_kana": "カブシキガイシヤ シヨウジキヤ"
   },
+  "8758": {
+    "postcode": "4558758",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市港区",
+    "city_kana": "ナゴヤシミナトク",
+    "town": "品川町",
+    "town_kana": "シナガワチョウ",
+    "street": "２丁目１−６",
+    "office_name": "アマゾン名古屋みなとＦＣ",
+    "office_name_kana": "アマゾンナゴヤミナトエフシ-"
+  },
   "8777": {
     "postcode": "4558777",
     "prefecture": "愛知県",
