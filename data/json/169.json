@@ -584,6 +584,19 @@
     "office_name": "（財）　早稲田奉仕園",
     "office_name_kana": "ザイダンホウジン ワセダホウシエン"
   },
+  "8629": {
+    "postcode": "1698629",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "高田馬場",
+    "town_kana": "タカダノババ",
+    "street": "１−２９−７スカイパレスビル４０２",
+    "office_name": "株式会社　ワークス",
+    "office_name_kana": "カブシキガイシヤ ワ-クス"
+  },
   "8639": {
     "postcode": "1698639",
     "prefecture": "東京都",

@@ -610,19 +610,34 @@
     "office_name": "イン・ステップ　有限会社",
     "office_name_kana": "イン・ステツプ ユウゲンガイシヤ"
   },
-  "8560": {
-    "postcode": "1108560",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "台東区",
-    "city_kana": "タイトウク",
-    "town": "台東",
-    "town_kana": "タイトウ",
-    "street": "１丁目５−１",
-    "office_name": "ＴＯＰＰＡＮホールディングス　株式会社",
-    "office_name_kana": "トツパンホ-ルデイングス カブシキガイシヤ"
-  },
+  "8560": [
+    {
+      "postcode": "1108560",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "台東区",
+      "city_kana": "タイトウク",
+      "town": "台東",
+      "town_kana": "タイトウ",
+      "street": "１丁目５番１号",
+      "office_name": "ＴＯＰＰＡＮ　株式会社",
+      "office_name_kana": "トツパン カブシキガイシヤ"
+    },
+    {
+      "postcode": "1108560",
+      "prefecture": "東京都",
+      "prefecture_kana": "トウキョウト",
+      "prefecture_code": 13,
+      "city": "台東区",
+      "city_kana": "タイトウク",
+      "town": "台東",
+      "town_kana": "タイトウ",
+      "street": "１丁目５−１",
+      "office_name": "ＴＯＰＰＡＮホールディングス　株式会社",
+      "office_name_kana": "トツパンホ-ルデイングス カブシキガイシヤ"
+    }
+  ],
   "8561": {
     "postcode": "1108561",
     "prefecture": "東京都",

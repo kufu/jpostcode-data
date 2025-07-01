@@ -1226,13 +1226,13 @@
     "prefecture": "福岡県",
     "prefecture_kana": "フクオカケン",
     "prefecture_code": 40,
-    "city": "福岡市中央区",
-    "city_kana": "フクオカシチュウオウク",
-    "town": "天神",
-    "town_kana": "テンジン",
-    "street": "１丁目１６−１",
-    "office_name": "毎日新聞社　福岡総局",
-    "office_name_kana": "マイニチシンブンシヤ フクオカソウキヨク"
+    "city": "福岡市博多区",
+    "city_kana": "フクオカシハカタク",
+    "town": "中洲中島町",
+    "town_kana": "ナカスナカシママチ",
+    "street": "１−３福岡Ｋスクエア１１階",
+    "office_name": "毎日新聞　福岡本部",
+    "office_name_kana": "マイニチシンブン フクオカホンブ"
   },
   "8553": {
     "postcode": "8108553",

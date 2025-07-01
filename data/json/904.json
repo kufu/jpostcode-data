@@ -753,6 +753,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0317": {
+    "postcode": "9040317",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "prefecture_code": 47,
+    "city": "中頭郡読谷村",
+    "city_kana": "ナカガミグンヨミタンソン",
+    "town": "ときわ",
+    "town_kana": "トキワ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0321": {
     "postcode": "9040321",
     "prefecture": "沖縄県",

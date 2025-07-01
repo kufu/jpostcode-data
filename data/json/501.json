@@ -599,19 +599,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0292": {
-    "postcode": "5010292",
-    "prefecture": "岐阜県",
-    "prefecture_kana": "ギフケン",
-    "prefecture_code": 21,
-    "city": "瑞穂市",
-    "city_kana": "ミズホシ",
-    "town": "馬場上光町",
-    "town_kana": "ババジョウコウマチ",
-    "street": "１丁目１１７（穂積郵便局私書箱第１号）",
-    "office_name": "西濃信用金庫　本部",
-    "office_name_kana": "セイノウシンヨウキンコ ホンブ"
-  },
   "0293": {
     "postcode": "5010293",
     "prefecture": "岐阜県",
@@ -637,19 +624,6 @@
     "street": "４７４−１",
     "office_name": "三甲　株式会社",
     "office_name_kana": "サンコウ カブシキガイシヤ"
-  },
-  "0295": {
-    "postcode": "5010295",
-    "prefecture": "岐阜県",
-    "prefecture_kana": "ギフケン",
-    "prefecture_code": 21,
-    "city": "瑞穂市",
-    "city_kana": "ミズホシ",
-    "town": "稲里",
-    "town_kana": "イナサト",
-    "street": "５８０番地",
-    "office_name": "ヤナゲン　ＦＡＬ店",
-    "office_name_kana": "ヤナゲン フアルテン"
   },
   "0296": {
     "postcode": "5010296",

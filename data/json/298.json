@@ -623,6 +623,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0192": {
+    "postcode": "2980192",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "いすみ市",
+    "city_kana": "イスミシ",
+    "town": "国府台",
+    "town_kana": "コウノダイ",
+    "street": "１５２４番地１",
+    "office_name": "いすみ市役所　夷隅庁舎",
+    "office_name_kana": "イスミシヤクシヨ イスミチヨウシヤ"
+  },
   "0200": {
     "postcode": "2980200",
     "prefecture": "千葉県",

@@ -740,19 +740,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0392": {
-    "postcode": "0340392",
-    "prefecture": "青森県",
-    "prefecture_kana": "アオモリケン",
-    "prefecture_code": 2,
-    "city": "十和田市",
-    "city_kana": "トワダシ",
-    "town": "奥瀬",
-    "town_kana": "オクセ",
-    "street": "字中平７０−３",
-    "office_name": "十和田市役所　十和田湖支所",
-    "office_name_kana": "トワダシヤクシヨ トワダコシシヨ"
-  },
   "0393": {
     "postcode": "0340393",
     "prefecture": "青森県",
@@ -840,7 +827,7 @@
     "city_kana": "トワダシ",
     "town": "西十二番町",
     "town_kana": "ニシ12バンチョウ",
-    "street": "６−１（十和田郵便局私書箱第１５号）",
+    "street": "６−１",
     "office_name": "十和田市役所",
     "office_name_kana": "トワダシヤクシヨ"
   },
