@@ -763,8 +763,8 @@
     "town": "朝日町中央",
     "town_kana": "アサヒチョウチュウオウ",
     "street": "４０４０番地",
-    "office_name": "士別市　朝日総合支所",
-    "office_name_kana": "シベツシ アサヒソウゴウシシヨ"
+    "office_name": "士別市役所　朝日支所",
+    "office_name_kana": "シベツシヤクシヨ アサヒシシヨ"
   },
   "8609": {
     "postcode": "0958609",
@@ -788,7 +788,7 @@
     "city_kana": "シベツシ",
     "town": "東六条",
     "town_kana": "ヒガシ6ジョウ",
-    "street": "４丁目（士別郵便局私書箱第１４号）",
+    "street": "４丁目１番地",
     "office_name": "士別市役所",
     "office_name_kana": "シベツシヤクシヨ"
   }

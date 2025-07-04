@@ -2781,6 +2781,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "4217": {
+    "postcode": "7014217",
+    "prefecture": "岡山県",
+    "prefecture_kana": "オカヤマケン",
+    "prefecture_code": 33,
+    "city": "瀬戸内市",
+    "city_kana": "セトウチシ",
+    "town": "邑久町立坂",
+    "town_kana": "オクチョウタテサカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "4221": {
     "postcode": "7014221",
     "prefecture": "岡山県",

@@ -3158,6 +3158,19 @@
     "office_name": "明和産業　株式会社　名古屋支店",
     "office_name_kana": "メイワサンギヨウ カブシキガイシヤ ナゴヤシテン"
   },
+  "8550": {
+    "postcode": "4508550",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市中村区",
+    "city_kana": "ナゴヤシナカムラク",
+    "town": "名駅",
+    "town_kana": "メイエキ",
+    "street": "４−２４−５",
+    "office_name": "株式会社　東京スポーツ新聞社　中部支社　中京スポーツ新聞",
+    "office_name_kana": "カブシキガイシヤ トウキヨウスポ-ツシンブンシヤ チユウブシシヤ チユウキヨウスポ-ツシンブン"
+  },
   "8561": {
     "postcode": "4508561",
     "prefecture": "愛知県",

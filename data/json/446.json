@@ -1052,6 +1052,19 @@
     "office_name": "安城簡易裁判所",
     "office_name_kana": "アンジヨウカンイサイバンシヨ"
   },
+  "8530": {
+    "postcode": "4468530",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "安城市",
+    "city_kana": "アンジョウシ",
+    "town": "大東町",
+    "town_kana": "ダイトウチョウ",
+    "street": "９−３０",
+    "office_name": "三井ショッピングパークららぽーと安城",
+    "office_name_kana": "ミツイシヨツピングパ-クララポ-トアンジヨウ"
+  },
   "8533": {
     "postcode": "4468533",
     "prefecture": "愛知県",

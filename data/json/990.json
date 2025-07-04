@@ -779,6 +779,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0078": {
+    "postcode": "9900078",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "prefecture_code": 6,
+    "city": "山形市",
+    "city_kana": "ヤマガタシ",
+    "town": "大野目町",
+    "town_kana": "ダイノメマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0300": {
     "postcode": "9900300",
     "prefecture": "山形県",
@@ -2027,6 +2040,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0840": {
+    "postcode": "9900840",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "prefecture_code": 6,
+    "city": "山形市",
+    "city_kana": "ヤマガタシ",
+    "town": "柳田",
+    "town_kana": "ヤナギダ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0841": {
     "postcode": "9900841",
     "prefecture": "山形県",
@@ -2517,6 +2543,19 @@
     "city_kana": "ヤマガタシ",
     "town": "南志戸田",
     "town_kana": "ミナミシトダ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0880": {
+    "postcode": "9900880",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "prefecture_code": 6,
+    "city": "山形市",
+    "city_kana": "ヤマガタシ",
+    "town": "上江",
+    "town_kana": "ウワエ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -4055,6 +4094,34 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2309": [
+    {
+      "postcode": "9902309",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "prefecture_code": 6,
+      "city": "山形市",
+      "city_kana": "ヤマガタシ",
+      "town": "上宝沢",
+      "town_kana": "カミホウザワ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "9902309",
+      "prefecture": "山形県",
+      "prefecture_kana": "ヤマガタケン",
+      "prefecture_code": 6,
+      "city": "山形市",
+      "city_kana": "ヤマガタシ",
+      "town": "上宝沢不動上",
+      "town_kana": "カミホウザワフドウガミ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "2311": {
     "postcode": "9902311",
     "prefecture": "山形県",
@@ -4259,6 +4326,19 @@
     "city_kana": "ヤマガタシ",
     "town": "蔵王南成沢",
     "town_kana": "ザオウミナミナリサワ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "2336": {
+    "postcode": "9902336",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "prefecture_code": 6,
+    "city": "山形市",
+    "city_kana": "ヤマガタシ",
+    "town": "蔵王野際",
+    "town_kana": "ザオウノギワ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -4742,6 +4822,19 @@
     "city_kana": "ヤマガタシ",
     "town": "並柳",
     "town_kana": "ナミヤナギ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "2387": {
+    "postcode": "9902387",
+    "prefecture": "山形県",
+    "prefecture_kana": "ヤマガタケン",
+    "prefecture_code": 6,
+    "city": "山形市",
+    "city_kana": "ヤマガタシ",
+    "town": "後明",
+    "town_kana": "ゴミョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

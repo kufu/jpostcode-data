@@ -883,6 +883,19 @@
     "office_name": "ミツワ産業　株式会社",
     "office_name_kana": "ミツワサンギヨウ カブシキガイシヤ"
   },
+  "8623": {
+    "postcode": "1118623",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "台東区",
+    "city_kana": "タイトウク",
+    "town": "蔵前",
+    "town_kana": "クラマエ",
+    "street": "４丁目１３−７",
+    "office_name": "アゼアス　株式会社",
+    "office_name_kana": "アゼアス カブシキガイシヤ"
+  },
   "8625": {
     "postcode": "1118625",
     "prefecture": "東京都",

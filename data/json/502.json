@@ -2052,18 +2052,5 @@
     "street": "５丁目６−１",
     "office_name": "岐阜薬科大学　三田洞キャンパス",
     "office_name_kana": "ギフヤツカダイガク ミタホラキヤンパス"
-  },
-  "8792": {
-    "postcode": "5028792",
-    "prefecture": "岐阜県",
-    "prefecture_kana": "ギフケン",
-    "prefecture_code": 21,
-    "city": "岐阜市",
-    "city_kana": "ギフシ",
-    "town": "鷺山",
-    "town_kana": "サギヤマ",
-    "street": "１７６９−３",
-    "office_name": "岐阜サービスセンター",
-    "office_name_kana": "ギフサ-ビスセンタ-"
   }
 }

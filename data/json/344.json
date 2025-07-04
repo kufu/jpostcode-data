@@ -1221,6 +1221,19 @@
     "office_name": "関東信越国税局　インボイス登録センター",
     "office_name_kana": "カントウシンエツコクゼイキヨク インボイストウロクセンタ-"
   },
+  "8681": {
+    "postcode": "3448681",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "春日部市",
+    "city_kana": "カスカベシ",
+    "town": "大沼",
+    "town_kana": "オオヌマ",
+    "street": "２丁目１２番地１",
+    "office_name": "関東信越国税局　業務センター　春日部事務室",
+    "office_name_kana": "カントウシンエツコクゼイキヨク ギヨウムセンタ- カスカベジムシツ"
+  },
   "8686": {
     "postcode": "3448686",
     "prefecture": "埼玉県",

@@ -350,34 +350,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0043": [
-    {
-      "postcode": "8470043",
-      "prefecture": "佐賀県",
-      "prefecture_kana": "サガケン",
-      "prefecture_code": 41,
-      "city": "唐津市",
-      "city_kana": "カラツシ",
-      "town": "新興町",
-      "town_kana": "シンコウマチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8470043",
-      "prefecture": "佐賀県",
-      "prefecture_kana": "サガケン",
-      "prefecture_code": 41,
-      "city": "唐津市",
-      "city_kana": "カラツシ",
-      "town": "新興町東新興町",
-      "town_kana": "シンコウマチヒガシシンコウマチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
   "0044": {
     "postcode": "8470044",
     "prefecture": "佐賀県",
@@ -1483,34 +1455,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0816": [
-    {
-      "postcode": "8470816",
-      "prefecture": "佐賀県",
-      "prefecture_kana": "サガケン",
-      "prefecture_code": 41,
-      "city": "唐津市",
-      "city_kana": "カラツシ",
-      "town": "新興町",
-      "town_kana": "シンコウマチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "8470816",
-      "prefecture": "佐賀県",
-      "prefecture_kana": "サガケン",
-      "prefecture_code": 41,
-      "city": "唐津市",
-      "city_kana": "カラツシ",
-      "town": "新興町西新興町",
-      "town_kana": "シンコウマチニシシンコウマチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
   "0817": {
     "postcode": "8470817",
     "prefecture": "佐賀県",
@@ -1520,6 +1464,19 @@
     "city_kana": "カラツシ",
     "town": "熊原町",
     "town_kana": "クマノハラマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0818": {
+    "postcode": "8470818",
+    "prefecture": "佐賀県",
+    "prefecture_kana": "サガケン",
+    "prefecture_code": 41,
+    "city": "唐津市",
+    "city_kana": "カラツシ",
+    "town": "新興町",
+    "town_kana": "シンコウマチ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

@@ -2926,6 +2926,19 @@
     "office_name": "ハウステンボス　株式会社　ホテル本部",
     "office_name_kana": "ハウステンボス カブシキガイシヤ ホテルホンブ"
   },
+  "3296": {
+    "postcode": "8593296",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "prefecture_code": 42,
+    "city": "佐世保市",
+    "city_kana": "サセボシ",
+    "town": "ハウステンボス町",
+    "town_kana": "ハウステンボスマチ",
+    "street": "１０番",
+    "office_name": "ＪＲ九州ホテルズアンドリゾーツ　株式会社　ホテルオークラＪＲハウステンボス",
+    "office_name_kana": "ジエイア-ルキユウシユウホテルズアンドリゾ-ツ カブシキカイシヤ ホテルオ-クラジエイア-ルハウステンボス"
+  },
   "3298": {
     "postcode": "8593298",
     "prefecture": "長崎県",
