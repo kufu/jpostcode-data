@@ -1,0 +1,22 @@
+name: Send Webhook to jpostcode-rb
+
+on:
+  branches:
+    - master
+
+job:
+  send-webhook-to-jpostcode-rb:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: check update
+      id: data-changes
+      run: echo '::set-output name=count::${git diff --name-only @^ data | wc -l}'
+    - name: Send Webhook
+      if: steps.data-changes.count > 0
+      run: |
+        curl \
+          -X POST \
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/kufu/jpostcode-rb/dispatches \
+          -d '{"event_type":"update-jpostcode-data"}'
