@@ -1845,6 +1845,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0506": {
+    "postcode": "3060506",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "坂東市",
+    "city_kana": "バンドウシ",
+    "town": "さしま台",
+    "town_kana": "サシマダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0511": {
     "postcode": "3060511",
     "prefecture": "茨城県",

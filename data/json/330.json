@@ -2563,18 +2563,5 @@
       "office_name": "日本郵便　株式会社　関東支社",
       "office_name_kana": "ニホンユウビン カブシキガイシヤ カントウシシヤ"
     }
-  ],
-  "9850": {
-    "postcode": "3309850",
-    "prefecture": "埼玉県",
-    "prefecture_kana": "サイタマケン",
-    "prefecture_code": 11,
-    "city": "さいたま市浦和区",
-    "city_kana": "サイタマシウラワク",
-    "town": "針ヶ谷",
-    "town_kana": "ハリガヤ",
-    "street": "４丁目２−１８（さいたま新都心郵便局私書箱第５０号）",
-    "office_name": "太陽生命保険　相互会社",
-    "office_name_kana": "タイヨウセイメイホケン ソウゴガイシヤ"
-  }
+  ]
 }

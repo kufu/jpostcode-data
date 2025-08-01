@@ -5485,7 +5485,7 @@
     "prefecture_code": 15,
     "city": "長岡市",
     "city_kana": "ナガオカシ",
-    "town": "与板町槇原",
+    "town": "与板町槙原",
     "town_kana": "ヨイタマチマキハラ",
     "street": null,
     "office_name": null,
@@ -6137,9 +6137,9 @@
     "city_kana": "ナガオカシ",
     "town": "東蔵王",
     "town_kana": "ヒガシザオウ",
-    "street": "２丁目２−８３",
-    "office_name": "石油資源開発　株式会社　長岡鉱業所",
-    "office_name_kana": "セキユシゲンカイハツ カブシキカイシヤ ナガオカコウギヨウシヨ"
+    "street": "２−２−８３",
+    "office_name": "石油資源開発　株式会社　国内事業本部",
+    "office_name_kana": "セキユシゲンカイハツ カブシキガイシヤ コクナイジギヨウホンブ"
   },
   "8558": {
     "postcode": "9408558",

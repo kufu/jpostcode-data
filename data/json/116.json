@@ -142,19 +142,6 @@
     "office_name": "株式会社　白興",
     "office_name_kana": "カブシキガイシヤ ハツコウ"
   },
-  "8505": {
-    "postcode": "1168505",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "荒川区",
-    "city_kana": "アラカワク",
-    "town": "荒川",
-    "town_kana": "アラカワ",
-    "street": "７丁目１９−１",
-    "office_name": "三菱電機ビルテクノサービス　株式会社",
-    "office_name_kana": "ミツビシデンキビルテクノサ-ビス カブシキガイシヤ"
-  },
   "8507": {
     "postcode": "1168507",
     "prefecture": "東京都",
@@ -233,19 +220,6 @@
     "office_name": "城信ビジネスサービス　株式会社",
     "office_name_kana": "ジヨウシンビジネスサ-ビス カブシキガイシヤ"
   },
-  "8532": {
-    "postcode": "1168532",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "荒川区",
-    "city_kana": "アラカワク",
-    "town": "東日暮里",
-    "town_kana": "ヒガシニッポリ",
-    "street": "４丁目３１−２",
-    "office_name": "株式会社　タカイシ",
-    "office_name_kana": "カブシキガイシヤ タカイシ"
-  },
   "8533": {
     "postcode": "1168533",
     "prefecture": "東京都",
@@ -282,8 +256,8 @@
     "town": "西日暮里",
     "town_kana": "ニシニッポリ",
     "street": "５丁目３−１４",
-    "office_name": "アイセック　株式会社",
-    "office_name_kana": "アイセツク カブシキガイシヤ"
+    "office_name": "株式会社　ＩＳＥＫＩトータルライフサービス",
+    "office_name_kana": "カブシキガイシヤ イセキト-タルライフサ-ビス"
   },
   "8541": {
     "postcode": "1168541",
@@ -337,19 +311,6 @@
     "office_name": "株式会社　千代田",
     "office_name_kana": "カブシキガイシヤ チヨダ"
   },
-  "8548": {
-    "postcode": "1168548",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "荒川区",
-    "city_kana": "アラカワク",
-    "town": "西日暮里",
-    "town_kana": "ニシニッポリ",
-    "street": "６丁目５２−２",
-    "office_name": "東京海上日動火災保険　株式会社",
-    "office_name_kana": "トウキヨウカイジヨウニチドウカサイホケン カブシキガイシヤ"
-  },
   "8549": {
     "postcode": "1168549",
     "prefecture": "東京都",
@@ -373,8 +334,8 @@
     "town": "東尾久",
     "town_kana": "ヒガシオグ",
     "street": "５丁目３１−１１",
-    "office_name": "東京電力ホールディングス　株式会社",
-    "office_name_kana": "トウキヨウデンリヨクホ-ルデイングス カブシキガイシヤ"
+    "office_name": "東京電力健康保険組合",
+    "office_name_kana": "トウキヨウデンリヨクケンコウホケンクミアイ"
   },
   "8551": {
     "postcode": "1168551",
@@ -386,21 +347,8 @@
     "town": "東尾久",
     "town_kana": "ヒガシオグ",
     "street": "７丁目２−１０",
-    "office_name": "東京都立医療技術短期大学",
-    "office_name_kana": "トウキヨウトリツイリヨウギジユツタンキダイガク"
-  },
-  "8552": {
-    "postcode": "1168552",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "荒川区",
-    "city_kana": "アラカワク",
-    "town": "荒川",
-    "town_kana": "アラカワ",
-    "street": "２丁目１−５セントラル荒川ビル８Ｆ",
-    "office_name": "長島特殊塗料　株式会社",
-    "office_name_kana": "ナガシマトクシユトリヨウ カブシキガイシヤ"
+    "office_name": "東京都公立大学法人　東京都立大学荒川キャンパス",
+    "office_name_kana": "トウキヨウトコウリツダイガクホウジン トウキヨウトリツダイガクアラカワキヤンパス"
   },
   "8553": {
     "postcode": "1168553",
@@ -428,19 +376,6 @@
     "office_name": "株式会社　ＡＤＥＫＡ",
     "office_name_kana": "カブシキガイシヤ アデカ"
   },
-  "8556": {
-    "postcode": "1168556",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "荒川区",
-    "city_kana": "アラカワク",
-    "town": "西日暮里",
-    "town_kana": "ニシニッポリ",
-    "street": "２丁目２０−１ステーションポートタワービル６０２",
-    "office_name": "高六商事　株式会社",
-    "office_name_kana": "タカロクシヨウジ カブシキガイシヤ"
-  },
   "8561": {
     "postcode": "1168561",
     "prefecture": "東京都",
@@ -466,19 +401,6 @@
     "street": "７丁目３８−１",
     "office_name": "稲垣機材　株式会社",
     "office_name_kana": "イナガキキザイ カブシキガイシヤ"
-  },
-  "8567": {
-    "postcode": "1168567",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "荒川区",
-    "city_kana": "アラカワク",
-    "town": "西尾久",
-    "town_kana": "ニシオグ",
-    "street": "２丁目１−１０",
-    "office_name": "東京女子医科大学附属第二病院",
-    "office_name_kana": "トウキヨウジヨシイカダイガクフゾクダイニビヨウイン"
   },
   "8571": {
     "postcode": "1168571",
@@ -518,19 +440,6 @@
     "street": "２丁目４０−１０",
     "office_name": "株式会社　サーベイリサーチセンター",
     "office_name_kana": "カブシキガイシヤ サ-ベイリサ-チセンタ-"
-  },
-  "8584": {
-    "postcode": "1168584",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "荒川区",
-    "city_kana": "アラカワク",
-    "town": "西日暮里",
-    "town_kana": "ニシニッポリ",
-    "street": "５丁目５−２",
-    "office_name": "イセキ販売金融　株式会社",
-    "office_name_kana": "イセキハンバイキンユウ カブシキガイシヤ"
   },
   "8585": {
     "postcode": "1168585",

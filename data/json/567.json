@@ -2064,7 +2064,7 @@
     "town_kana": "ヒガシノノミヤチョウ",
     "street": "１番４０号",
     "office_name": "ＧＬＰ　ＡＬＦＡＬＩＮＫ　茨木１",
-    "office_name_kana": "ジ-エルピ- アルフアリンク イバラギイチ"
+    "office_name_kana": "ジ-エルピ- アルフアリンク イバラキイチ"
   },
   "8518": {
     "postcode": "5678518",
@@ -2077,7 +2077,20 @@
     "town_kana": "ミナミメガキ",
     "street": "三丁目３番３号",
     "office_name": "ＧＬＰ　ＡＬＦＡＬＩＮＫ　茨木２",
-    "office_name_kana": "ジ-エルピ- アルフアリンク イバラギニ"
+    "office_name_kana": "ジ-エルピ- アルフアリンク イバラキニ"
+  },
+  "8519": {
+    "postcode": "5678519",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "茨木市",
+    "city_kana": "イバラキシ",
+    "town": "南目垣",
+    "town_kana": "ミナミメガキ",
+    "street": "三丁目２番１号",
+    "office_name": "ＧＬＰ　ＡＬＦＡＬＩＮＫ　茨木３",
+    "office_name_kana": "ジ-エルピ- アルフアリンク イバラキサン"
   },
   "8520": {
     "postcode": "5678520",

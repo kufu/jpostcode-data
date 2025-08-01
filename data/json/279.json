@@ -545,6 +545,19 @@
     "office_name": "明海大学",
     "office_name_kana": "メイカイダイガク"
   },
+  "8551": {
+    "postcode": "2798551",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "浦安市",
+    "city_kana": "ウラヤスシ",
+    "town": "千鳥",
+    "town_kana": "チドリ",
+    "street": "１２−２浦安千鳥物流センター５Ｆ",
+    "office_name": "株式会社　メルカリ",
+    "office_name_kana": "カブシキガイシヤ メルカリ"
+  },
   "8553": {
     "postcode": "2798553",
     "prefecture": "千葉県",

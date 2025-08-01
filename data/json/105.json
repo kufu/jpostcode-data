@@ -7578,6 +7578,19 @@
     "office_name": "ＮＧＢ　株式会社",
     "office_name_kana": "エヌジ-ビ- カブシキカイシヤ"
   },
+  "8409": {
+    "postcode": "1058409",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "西新橋",
+    "town_kana": "ニシシンバシ",
+    "street": "一丁目１５番５号内幸町ケイズビル８階",
+    "office_name": "株式会社　クロスチェック",
+    "office_name_kana": "カブシキガイシヤ クロスチエツク"
+  },
   "8410": {
     "postcode": "1058410",
     "prefecture": "東京都",
@@ -8042,9 +8055,9 @@
     "prefecture_code": 13,
     "city": "港区",
     "city_kana": "ミナトク",
-    "town": "西新橋",
-    "town_kana": "ニシシンバシ",
-    "street": "３丁目２１−８",
+    "town": "浜松町",
+    "town_kana": "ハママツチョウ",
+    "street": "２丁目３−１",
     "office_name": "岩谷産業　株式会社",
     "office_name_kana": "イワタニサンギヨウ カブシキガイシヤ"
   },
