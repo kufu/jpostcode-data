@@ -1832,19 +1832,6 @@
     "office_name": "協同組合　広県繊",
     "office_name_kana": "キヨウドウクミアイ ヒロケンセン"
   },
-  "8609": {
-    "postcode": "7308609",
-    "prefecture": "広島県",
-    "prefecture_kana": "ヒロシマケン",
-    "prefecture_code": 34,
-    "city": "広島市中区",
-    "city_kana": "ヒロシマシナカク",
-    "town": "大手町",
-    "town_kana": "オオテマチ",
-    "street": "２丁目７−１０広島三井ビルディング５Ｆ",
-    "office_name": "アクサ生命保険　株式会社　中国営業所",
-    "office_name_kana": "アクサセイメイホケン カブシキガイシヤ チユウゴクエイギヨウシヨ"
-  },
   "8610": {
     "postcode": "7308610",
     "prefecture": "広島県",
@@ -2008,11 +1995,11 @@
     "prefecture_code": 34,
     "city": "広島市中区",
     "city_kana": "ヒロシマシナカク",
-    "town": "舟入南",
-    "town_kana": "フナイリミナミ",
-    "street": "２丁目７−５",
-    "office_name": "協同組合　リビンズ",
-    "office_name_kana": "キヨウドウクミアイ リビンズ"
+    "town": "住吉町",
+    "town_kana": "スミヨシチョウ",
+    "street": "１６−２０住吉町Ｋ２ビル２０１",
+    "office_name": "リビンズ　株式会社",
+    "office_name_kana": "リビンズ カブシキガイシヤ"
   },
   "8650": {
     "postcode": "7308650",

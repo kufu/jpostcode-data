@@ -1128,11 +1128,11 @@
     "prefecture_code": 23,
     "city": "名古屋市中区",
     "city_kana": "ナゴヤシナカク",
-    "town": "新栄町",
-    "town_kana": "シンサカエマチ",
-    "street": "１丁目５番地栄中央ビル",
-    "office_name": "テンプスタッフ・ピープル　株式会社",
-    "office_name_kana": "テンプスタツフ・ピ-プル カブシキガイシヤ"
+    "town": "栄",
+    "town_kana": "サカエ",
+    "street": "４−１−１中日ビル１３階",
+    "office_name": "パーソルテンプスタッフ　株式会社",
+    "office_name_kana": "パ-ソルテンプスタツフ カブシキガイシヤ"
   },
   "8483": {
     "postcode": "4608483",

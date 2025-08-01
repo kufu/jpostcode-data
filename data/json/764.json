@@ -448,9 +448,9 @@
     "prefecture_code": 37,
     "city": "仲多度郡多度津町",
     "city_kana": "ナカタドグンタドツチョウ",
-    "town": "",
-    "town_kana": "",
-    "street": "南鴨２００−１",
+    "town": "南鴨",
+    "town_kana": "ミナミガモ",
+    "street": "２００−１",
     "office_name": "四国計測工業　株式会社",
     "office_name_kana": "シコクケイソクコウギヨウ カブシキガイシヤ"
   },
@@ -464,8 +464,8 @@
     "town": "東港町",
     "town_kana": "ヒガシミナトマチ",
     "street": "１−１",
-    "office_name": "波止浜造船　（株）",
-    "office_name_kana": "ハシハマゾウセン カブシキガイシヤ"
+    "office_name": "多度津造船　株式会社",
+    "office_name_kana": "タドツゾウセン カブシキガイシヤ"
   },
   "8505": {
     "postcode": "7648505",

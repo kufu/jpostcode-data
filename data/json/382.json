@@ -1624,6 +1624,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8501": {
+    "postcode": "3828501",
+    "prefecture": "長野県",
+    "prefecture_kana": "ナガノケン",
+    "prefecture_code": 20,
+    "city": "須坂市",
+    "city_kana": "スザカシ",
+    "town": "大字福島",
+    "town_kana": null,
+    "street": "３８６番地１",
+    "office_name": "イオンモール須坂",
+    "office_name_kana": "イオンモ-ルスザカ"
+  },
   "8502": {
     "postcode": "3828502",
     "prefecture": "長野県",

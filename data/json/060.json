@@ -2460,6 +2460,19 @@
     "office_name": "ホクレン　農業協同組合連合会",
     "office_name_kana": "ホクレン ノウギヨウキヨウドウクミアイレンゴウカイ"
   },
+  "8652": {
+    "postcode": "0608652",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "札幌市中央区",
+    "city_kana": "サッポロシチュウオウク",
+    "town": "北一条西",
+    "town_kana": "キタ1ジョウニシ",
+    "street": "３丁目３番地敷島北一条ビル５Ｆ",
+    "office_name": "札幌健康アプリ事務局",
+    "office_name_kana": "サツポロケンコウアプリジムキヨク"
+  },
   "8654": {
     "postcode": "0608654",
     "prefecture": "北海道",

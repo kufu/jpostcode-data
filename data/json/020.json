@@ -415,6 +415,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0056": {
+    "postcode": "0200056",
+    "prefecture": "岩手県",
+    "prefecture_kana": "イワテケン",
+    "prefecture_code": 3,
+    "city": "盛岡市",
+    "city_kana": "モリオカシ",
+    "town": "太田",
+    "town_kana": "オオタ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0061": {
     "postcode": "0200061",
     "prefecture": "岩手県",

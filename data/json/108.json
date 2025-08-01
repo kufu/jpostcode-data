@@ -3912,6 +3912,19 @@
     "office_name": "品川税務署",
     "office_name_kana": "シナガワゼイムシヨ"
   },
+  "8623": {
+    "postcode": "1088623",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "高輪",
+    "town_kana": "タカナワ",
+    "street": "２−２１−１ＴＨＥＬＩＮＫＰＩＬＬＡＲ１ＮＯＲＴＨ１８階",
+    "office_name": "ＫＤＤＩ健康保険組合",
+    "office_name_kana": "ケイデイ-デイ-アイケンコウホケンクミアイ"
+  },
   "8628": {
     "postcode": "1088628",
     "prefecture": "東京都",
