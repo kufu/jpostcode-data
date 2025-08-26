@@ -14,7 +14,7 @@ GEM
       method_source (~> 1.0)
     racc (1.8.1)
     rake (13.3.0)
-    rubyzip (2.4.1)
+    rubyzip (3.0.2)
     sqlite3 (2.7.3)
       mini_portile2 (~> 2.8.0)
 
