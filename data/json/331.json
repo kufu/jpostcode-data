@@ -999,5 +999,18 @@
     "street": "４−１９−９",
     "office_name": "大宮年金事務所",
     "office_name_kana": "オオミヤネンキンジムシヨ"
+  },
+  "9624": {
+    "postcode": "3319624",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市北区",
+    "city_kana": "サイタマシキタク",
+    "town": "植竹町",
+    "town_kana": "ウエタケチョウ",
+    "street": "１丁目３２４番地",
+    "office_name": "富士フイルム　株式会社　大宮事業所",
+    "office_name_kana": "フジフイルム カブシキガイシヤ オオミヤジギヨウシヨ"
   }
 }

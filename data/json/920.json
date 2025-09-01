@@ -3011,34 +3011,19 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0381": [
-    {
-      "postcode": "9200381",
-      "prefecture": "石川県",
-      "prefecture_kana": "イシカワケン",
-      "prefecture_code": 17,
-      "city": "金沢市",
-      "city_kana": "カナザワシ",
-      "town": "中屋",
-      "town_kana": "ナカヤ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "9200381",
-      "prefecture": "石川県",
-      "prefecture_kana": "イシカワケン",
-      "prefecture_code": 17,
-      "city": "金沢市",
-      "city_kana": "カナザワシ",
-      "town": "古府",
-      "town_kana": "コブ",
-      "street": "３丁目１２",
-      "office_name": "北菱電興　株式会社",
-      "office_name_kana": "ホクリヨウデンコウ カブシキガイシヤ"
-    }
-  ],
+  "0381": {
+    "postcode": "9200381",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "金沢市",
+    "city_kana": "カナザワシ",
+    "town": "中屋",
+    "town_kana": "ナカヤ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0382": {
     "postcode": "9200382",
     "prefecture": "石川県",

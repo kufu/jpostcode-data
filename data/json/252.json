@@ -3550,6 +3550,19 @@
     "office_name": "イオンモール座間",
     "office_name_kana": "イオンモ-ルザマ"
   },
+  "8583": {
+    "postcode": "2528583",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "座間市",
+    "city_kana": "ザマシ",
+    "town": "東原",
+    "town_kana": "ヒガシハラ",
+    "street": "５丁目１−８３",
+    "office_name": "森永乳業　株式会社　研究・情報センター",
+    "office_name_kana": "モリナガニユウギヨウ カブシキカイシヤ ケンキユウ・ジヨウホウセンタ-"
+  },
   "8585": {
     "postcode": "2528585",
     "prefecture": "神奈川県",
