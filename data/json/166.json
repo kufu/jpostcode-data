@@ -401,18 +401,5 @@
     "street": "１丁目３２−１０",
     "office_name": "（株）　大丸ピーコック",
     "office_name_kana": "カブシキガイシヤ ダイマルピ-コツク"
-  },
-  "8588": {
-    "postcode": "1668588",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "杉並区",
-    "city_kana": "スギナミク",
-    "town": "阿佐谷北",
-    "town_kana": "アサガヤキタ",
-    "street": "１丁目７−３",
-    "office_name": "医療法人財団　河北総合病院",
-    "office_name_kana": "イリヨウホウジンザイダン カワキタソウゴウビヨウイン"
   }
 }

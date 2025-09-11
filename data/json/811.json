@@ -5760,6 +5760,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "4308": {
+    "postcode": "8114308",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "遠賀郡遠賀町",
+    "city_kana": "オンガグンオンガチョウ",
+    "town": "駅みなみ",
+    "town_kana": "エキミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "4311": {
     "postcode": "8114311",
     "prefecture": "福岡県",

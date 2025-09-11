@@ -3899,6 +3899,19 @@
     "office_name": "株式会社　くもん出版",
     "office_name_kana": "カブシキガイシヤ クモンシユツパン"
   },
+  "8618": {
+    "postcode": "1088618",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "高輪",
+    "town_kana": "タカナワ",
+    "street": "２−２１−１ＴＨＥＬＩＮＫＰＩＬＬＡＲ１ＮＯＲＴＨ",
+    "office_name": "ＫＤＤＩ　株式会社",
+    "office_name_kana": "ケイデイ-デイ-アイ カブシキガイシヤ"
+  },
   "8622": {
     "postcode": "1088622",
     "prefecture": "東京都",
@@ -3924,6 +3937,19 @@
     "street": "２−２１−１ＴＨＥＬＩＮＫＰＩＬＬＡＲ１ＮＯＲＴＨ１８階",
     "office_name": "ＫＤＤＩ健康保険組合",
     "office_name_kana": "ケイデイ-デイ-アイケンコウホケンクミアイ"
+  },
+  "8625": {
+    "postcode": "1088625",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "高輪",
+    "town_kana": "タカナワ",
+    "street": "２−２１−１ＴＨＥＬＩＮＫＰＩＬＬＡＲ１ＮＯＲＴＨ１０階",
+    "office_name": "ＫＤＤＩ　Ｓｏｎｉｃ−Ｆａｌｃｏｎ　株式会社",
+    "office_name_kana": "ケイデイ-デイ-アイ ソニツクフアルコン カブシキガイシヤ"
   },
   "8628": {
     "postcode": "1088628",

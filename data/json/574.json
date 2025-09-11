@@ -792,6 +792,19 @@
     "office_name": "三洋電機　株式会社",
     "office_name_kana": "サンヨウデンキ カブシキガイシヤ"
   },
+  "8535": {
+    "postcode": "5748535",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大東市",
+    "city_kana": "ダイトウシ",
+    "town": "緑が丘",
+    "town_kana": "ミドリガオカ",
+    "street": "２−１−１",
+    "office_name": "アマゾン大東ＦＣ　大型商品　返品係",
+    "office_name_kana": "アマゾンダイトウエフシ- オオガタシヨウヒン ヘンピンガカリ"
+  },
   "8555": {
     "postcode": "5748555",
     "prefecture": "大阪府",

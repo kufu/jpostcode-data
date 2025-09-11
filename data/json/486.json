@@ -1598,6 +1598,19 @@
     "office_name": "（株）　中日総合サービス　春日井営業所",
     "office_name_kana": "(カブ) チユウニチソウゴウサ-ビス カスガイエイギヨウシヨ"
   },
+  "8577": {
+    "postcode": "4868577",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "春日井市",
+    "city_kana": "カスガイシ",
+    "town": "瑞穂通",
+    "town_kana": "ミズホドオリ",
+    "street": "５−３３",
+    "office_name": "株式会社　清水屋　春日井店",
+    "office_name_kana": "カブシキガイシヤ シミズヤ カスガイテン"
+  },
   "8585": {
     "postcode": "4868585",
     "prefecture": "愛知県",

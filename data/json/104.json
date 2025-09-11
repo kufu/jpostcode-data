@@ -3687,7 +3687,7 @@
     "city_kana": "チュウオウク",
     "town": "築地",
     "town_kana": "ツキジ",
-    "street": "５−３−２朝日新聞社新館９階",
+    "street": "５−３−２朝日新聞社新館１３階",
     "office_name": "株式会社　朝日学生新聞社",
     "office_name_kana": "カブシキガイシヤ アサヒガクセイシンブンシヤ"
   },
@@ -3742,19 +3742,6 @@
     "street": "３丁目１１−６",
     "office_name": "株式会社　サンギ",
     "office_name_kana": "カブシキガイシヤ サンギ"
-  },
-  "8442": {
-    "postcode": "1048442",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "築地",
-    "town_kana": "ツキジ",
-    "street": "３丁目１６番９号築地室町ビル",
-    "office_name": "株式会社　三井住友銀行　債権ビジネス事務センター",
-    "office_name_kana": "カブシキガイシヤ ミツイスミトモギンコウ サイケンビジネスジムセンタ-"
   },
   "8443": {
     "postcode": "1048443",
