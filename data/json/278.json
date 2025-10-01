@@ -194,6 +194,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0020": {
+    "postcode": "2780020",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "野田市",
+    "city_kana": "ノダシ",
+    "town": "梅郷",
+    "town_kana": "ウメサト",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "2780021",
     "prefecture": "千葉県",

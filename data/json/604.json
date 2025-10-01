@@ -10748,11 +10748,11 @@
     "prefecture_code": 26,
     "city": "京都市中京区",
     "city_kana": "キョウトシナカギョウク",
-    "town": "烏丸通夷川上る",
+    "town": "東洞院通夷川上る",
     "town_kana": null,
-    "street": "少将井町２３９京都新聞社ビル内",
-    "office_name": "京都新聞企画事業　株式会社　（週刊Ｔ＆Ｔ）",
-    "office_name_kana": "キヨウトシンブンキカクジギヨウ カブシキガイシヤ (シユウカンテイ-アンドテイ-)"
+    "street": "三本木五丁目４９３番地京都新聞第２トラストビル３階",
+    "office_name": "京都新聞企画事業　株式会社　（イル・ミル）",
+    "office_name_kana": "キヨウトシンブンキカクジギヨウ カブシキガイシヤ イル・ミル"
   },
   "8556": {
     "postcode": "6048556",
@@ -10761,9 +10761,9 @@
     "prefecture_code": 26,
     "city": "京都市中京区",
     "city_kana": "キョウトシナカギョウク",
-    "town": "烏丸通夷川北入少将井町",
+    "town": "烏丸通二条上る",
     "town_kana": null,
-    "street": "２３９番地",
+    "street": "蒔絵屋町２６０",
     "office_name": "株式会社　京都新聞印刷",
     "office_name_kana": "カブシキガイシヤ キヨウトシンブンインサツ"
   },
@@ -10800,9 +10800,9 @@
     "prefecture_code": 26,
     "city": "京都市中京区",
     "city_kana": "キョウトシナカギョウク",
-    "town": "烏丸通夷川北入少将井町",
+    "town": "烏丸通六角下る",
     "town_kana": null,
-    "street": "２３９番地",
+    "street": "七観音町６３４ＯＮＥＳＴ京都烏丸スクエア１階",
     "office_name": "株式会社　京都新聞ＣＯＭ",
     "office_name_kana": "カブシキガイシヤ キヨウトシンブンコム"
   },
@@ -10826,9 +10826,9 @@
     "prefecture_code": 26,
     "city": "京都市中京区",
     "city_kana": "キョウトシナカギョウク",
-    "town": "烏丸通夷川上る",
+    "town": "烏丸通六角下る",
     "town_kana": null,
-    "street": "少将井町２３９番地",
+    "street": "七観音町６３４ＯＮＥＳＴ京都烏丸スクエア",
     "office_name": "京都新聞社",
     "office_name_kana": "キヨウトシンブンシヤ"
   },
@@ -10839,9 +10839,9 @@
     "prefecture_code": 26,
     "city": "京都市中京区",
     "city_kana": "キョウトシナカギョウク",
-    "town": "烏丸通夷川上る",
+    "town": "東洞院通夷川上る",
     "town_kana": null,
-    "street": "少将井町２３９番地",
+    "street": "三本木五丁目４９３番地京都新聞第２トラストビル３階",
     "office_name": "京都新聞企画事業　株式会社",
     "office_name_kana": "キヨウトシンブンキカクジギヨウ カブシキガイシヤ"
   },
