@@ -1738,7 +1738,7 @@
     "city": "糸島市",
     "city_kana": "イトシマシ",
     "town": "志摩井田原",
-    "town_kana": "シマイダハラ",
+    "town_kana": "シマイダワラ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -1808,6 +1808,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1307": {
+    "postcode": "8191307",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糸島市",
+    "city_kana": "イトシマシ",
+    "town": "志摩井田原南",
+    "town_kana": "シマイダワラミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1311": {
     "postcode": "8191311",
     "prefecture": "福岡県",
@@ -1869,6 +1882,32 @@
     "city_kana": "イトシマシ",
     "town": "志摩稲葉",
     "town_kana": "シマイナバ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "1316": {
+    "postcode": "8191316",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糸島市",
+    "city_kana": "イトシマシ",
+    "town": "志摩ひかりが丘",
+    "town_kana": "シマヒカリガオカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "1317": {
+    "postcode": "8191317",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糸島市",
+    "city_kana": "イトシマシ",
+    "town": "志摩稲留東",
+    "town_kana": "シマイナドメヒガシ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

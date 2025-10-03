@@ -1689,6 +1689,19 @@
     "office_name": "仙北市立　角館総合病院",
     "office_name_kana": "センボクシリツ カクノダテソウゴウビヨウイン"
   },
+  "0398": {
+    "postcode": "0140398",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "prefecture_code": 5,
+    "city": "仙北市",
+    "city_kana": "センボクシ",
+    "town": "角館町",
+    "town_kana": null,
+    "street": "上野１８番地",
+    "office_name": "仙北市役所　角館上野庁舎",
+    "office_name_kana": "センボクシヤクシヨ カクノダテウワノチヨウシヤ"
+  },
   "0511": {
     "postcode": "0140511",
     "prefecture": "秋田県",

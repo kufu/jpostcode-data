@@ -259,6 +259,19 @@
     "office_name": "日本ロール製造　株式会社",
     "office_name_kana": "ニツポンロ-ルセイゾウ カブシキガイシヤ"
   },
+  "8540": {
+    "postcode": "1348540",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江戸川区",
+    "city_kana": "エドガワク",
+    "town": "東葛西",
+    "town_kana": "ヒガシカサイ",
+    "street": "９−２３−３７アライプロバンス葛西３０８",
+    "office_name": "禹諾国際　株式会社",
+    "office_name_kana": "ウダクコクサイ カブシキカイシヤ"
+  },
   "8555": {
     "postcode": "1348555",
     "prefecture": "東京都",

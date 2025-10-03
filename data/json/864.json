@@ -389,6 +389,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0058": {
+    "postcode": "8640058",
+    "prefecture": "熊本県",
+    "prefecture_kana": "クマモトケン",
+    "prefecture_code": 43,
+    "city": "荒尾市",
+    "city_kana": "アラオシ",
+    "town": "海陽町",
+    "town_kana": "カイヨウチョウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0131": {
     "postcode": "8640131",
     "prefecture": "熊本県",
