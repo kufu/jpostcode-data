@@ -1392,6 +1392,19 @@
     "office_name": "新洋信販　株式会社",
     "office_name_kana": "シンヨウシンパン カブシキガイシヤ"
   },
+  "8567": {
+    "postcode": "3308567",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市大宮区",
+    "city_kana": "サイタマシオオミヤク",
+    "town": "堀の内町",
+    "town_kana": "ホリノウチチョウ",
+    "street": "１−６１５",
+    "office_name": "学校法人　開成学園　大宮開成中学・高等学校",
+    "office_name_kana": "ガツコウホウジン カイセイガクエン オオミヤカイセイチユウガクコウトウガツコウ"
+  },
   "8571": {
     "postcode": "3308571",
     "prefecture": "埼玉県",

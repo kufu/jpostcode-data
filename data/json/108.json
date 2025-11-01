@@ -2105,6 +2105,19 @@
     "office_name": "椿本興業　（株）　東京本社",
     "office_name_kana": "ツバキモトコウギヨウ カブシキガイシヤ トウキヨウホンシヤ"
   },
+  "8223": {
+    "postcode": "1088223",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "港南",
+    "town_kana": "コウナン",
+    "street": "２丁目１６番２号太陽生命品川ビル２３階",
+    "office_name": "株式会社　情報システム工学",
+    "office_name_kana": "カブシキガイシヤ ジヨウホウシステムコウガク"
+  },
   "8224": {
     "postcode": "1088224",
     "prefecture": "東京都",
