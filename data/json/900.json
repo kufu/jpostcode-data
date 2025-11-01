@@ -428,6 +428,19 @@
     "office_name": "株式会社　國場組",
     "office_name_kana": "カブシキガイシヤ コクバグミ"
   },
+  "8508": {
+    "postcode": "9008508",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "prefecture_code": 47,
+    "city": "那覇市",
+    "city_kana": "ナハシ",
+    "town": "樋川",
+    "town_kana": "ヒガワ",
+    "street": "１丁目１５番地１５号那覇第一地方合同庁舎",
+    "office_name": "沖縄国税事務所業務センター",
+    "office_name_kana": "オキナワコクゼイジムシヨギヨウムセンタ-"
+  },
   "8510": {
     "postcode": "9008510",
     "prefecture": "沖縄県",

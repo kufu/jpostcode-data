@@ -1975,19 +1975,6 @@
     "office_name": "中部国際空港　株式会社",
     "office_name_kana": "チユウブコクサイクウコウ カブシキガイシヤ"
   },
-  "8702": {
-    "postcode": "4798702",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "常滑市",
-    "city_kana": "トコナメシ",
-    "town": "セントレア",
-    "town_kana": "セントレア",
-    "street": "一丁目１番地第１セントレアビル２階",
-    "office_name": "中部国際空港情報通信　株式会社",
-    "office_name_kana": "チユウブコクサイクウコウジヨウホウツウシン カブシキガイシヤ"
-  },
   "8703": {
     "postcode": "4798703",
     "prefecture": "愛知県",
@@ -1998,8 +1985,8 @@
     "town": "セントレア",
     "town_kana": "セントレア",
     "street": "一丁目１番地第１セントレアビル４階",
-    "office_name": "中部国際空港施設サービス　株式会社",
-    "office_name_kana": "チユウブコクサイクウコウシセツサ-ビス カブシキガイシヤ"
+    "office_name": "中部国際空港テクニカルコネクト　株式会社",
+    "office_name_kana": "チユウブコクサイクウコウテクニカルコネクト カブシキガイシヤ"
   },
   "8704": {
     "postcode": "4798704",
@@ -2026,19 +2013,6 @@
     "street": "１丁目１エネルギーセンター",
     "office_name": "中部国際空港エネルギー供給　株式会社",
     "office_name_kana": "チユウブコクサイクウコウエネルギ-キヨウキユウ カブシキガイシヤ"
-  },
-  "8706": {
-    "postcode": "4798706",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "常滑市",
-    "city_kana": "トコナメシ",
-    "town": "セントレア",
-    "town_kana": "セントレア",
-    "street": "５丁目４中部国際空港航空機給油施設内",
-    "office_name": "中部国際空港給油施設　株式会社",
-    "office_name_kana": "チユウブコクサイクウコウキユウユシセツ カブシキガイシヤ"
   },
   "8707": {
     "postcode": "4798707",

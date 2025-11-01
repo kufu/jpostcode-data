@@ -701,6 +701,19 @@
     "office_name": "株式会社　日本デジタル研究所",
     "office_name_kana": "カブシキガイシヤ ニホンデジタルケンキユウジヨ"
   },
+  "8641": {
+    "postcode": "1368641",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "江東区",
+    "city_kana": "コウトウク",
+    "town": "新砂",
+    "town_kana": "シンスナ",
+    "street": "２丁目１番１号",
+    "office_name": "ＳＧリアルティ新砂",
+    "office_name_kana": "エスジ-リアルテイシンスナ"
+  },
   "8648": {
     "postcode": "1368648",
     "prefecture": "東京都",
