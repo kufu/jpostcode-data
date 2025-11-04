@@ -1468,6 +1468,19 @@
     "office_name": "リコーテクノロジーセンター",
     "office_name_kana": "リコ-テクノロジ-センタ-"
   },
+  "0461": {
+    "postcode": "2430461",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "海老名市",
+    "city_kana": "エビナシ",
+    "town": "中新田",
+    "town_kana": "ナカシンデン",
+    "street": "３２９０−３８ＭＦＬＰ海老名Ｉ４Ｆ",
+    "office_name": "株式会社　丸和運輸機関　海老名物流センター　ＲＪＥ１",
+    "office_name_kana": "カブシキカイシヤ マルワウンユキカン エビナブツリユウセンタ- ア-ルジエイワン"
+  },
   "0480": {
     "postcode": "2430480",
     "prefecture": "神奈川県",
