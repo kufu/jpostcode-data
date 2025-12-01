@@ -3872,5 +3872,18 @@
     "street": "２丁目１４−２３",
     "office_name": "東京逓信病院",
     "office_name_kana": "トウキヨウテイシンビヨウイン"
+  },
+  "8811": {
+    "postcode": "1028811",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "千代田区",
+    "city_kana": "チヨダク",
+    "town": "麹町",
+    "town_kana": "コウジマチ",
+    "street": "５丁目１番地",
+    "office_name": "ニチバン　株式会社",
+    "office_name_kana": "ニチバン カブシキガイシヤ"
   }
 }

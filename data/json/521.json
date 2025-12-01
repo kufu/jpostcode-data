@@ -2099,11 +2099,11 @@
     "prefecture_code": 25,
     "city": "米原市",
     "city_kana": "マイバラシ",
-    "town": "下多良",
-    "town_kana": "シモタラ",
-    "street": "３−３",
-    "office_name": "米原市役所　米原庁舎",
-    "office_name_kana": "マイバラシヤクシヨ マイバラチヨウシヤ"
+    "town": "米原",
+    "town_kana": "マイハラ",
+    "street": "１０１６番地",
+    "office_name": "米原市役所　本庁舎",
+    "office_name_kana": "マイバラシヤクシヨ ホンチヨウシヤ"
   },
   "8511": {
     "postcode": "5218511",

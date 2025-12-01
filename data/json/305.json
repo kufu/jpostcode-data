@@ -1769,6 +1769,19 @@
     "office_name": "関東信越国税局　業務センターつくば分室",
     "office_name_kana": "カントウシンエツコクゼイキヨク ギヨウムセンタ-ツクバブンシツ"
   },
+  "8535": {
+    "postcode": "3058535",
+    "prefecture": "茨城県",
+    "prefecture_kana": "イバラキケン",
+    "prefecture_code": 8,
+    "city": "つくば市",
+    "city_kana": "ツクバシ",
+    "town": "観音台",
+    "town_kana": "カンノンダイ",
+    "street": "２−１−２２",
+    "office_name": "農林水産省動物医薬品検査所",
+    "office_name_kana": "ノウリンスイサンシヨウドウブツイヤクヒンケンサシヨ"
+  },
   "8550": {
     "postcode": "3058550",
     "prefecture": "茨城県",

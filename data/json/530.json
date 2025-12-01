@@ -2588,6 +2588,19 @@
     "office_name": "伊藤忠商事　株式会社",
     "office_name_kana": "イトウチユウシヨウジ カブシキガイシヤ"
   },
+  "8459": {
+    "postcode": "5308459",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市北区",
+    "city_kana": "オオサカシキタク",
+    "town": "大深町",
+    "town_kana": "オオフカチョウ",
+    "street": "グラングリーン大阪パークタワー１４階",
+    "office_name": "コクヨ　株式会社",
+    "office_name_kana": "コクヨ カブシキガイシヤ"
+  },
   "8475": {
     "postcode": "5308475",
     "prefecture": "大阪府",

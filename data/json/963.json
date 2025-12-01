@@ -404,6 +404,19 @@
     "office_name": "福島日野自動車　株式会社",
     "office_name_kana": "フクシマヒノジドウシヤ カブシキガイシヤ"
   },
+  "0196": {
+    "postcode": "9630196",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "郡山市",
+    "city_kana": "コオリヤマシ",
+    "town": "安積町笹川",
+    "town_kana": "アサカマチササガワ",
+    "street": "字平ノ上１−１",
+    "office_name": "日本全薬工業　株式会社",
+    "office_name_kana": "ニホンゼンヤクコウギヨウ カブシキガイシヤ"
+  },
   "0197": {
     "postcode": "9630197",
     "prefecture": "福島県",

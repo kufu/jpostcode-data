@@ -2001,6 +2001,19 @@
     "office_name": "東名厚木病院",
     "office_name_kana": "トウメイアツギビヨウイン"
   },
+  "8575": {
+    "postcode": "2438575",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "厚木市",
+    "city_kana": "アツギシ",
+    "town": "中町",
+    "town_kana": "ナカチョウ",
+    "street": "３丁目１１番２１号明治安田生命厚木ビル",
+    "office_name": "株式会社　日本政策金融公庫厚木支店",
+    "office_name_kana": "カブシキカイシヤ ニツポンセイサクキンユウコウコアツギシテン"
+  },
   "8577": {
     "postcode": "2438577",
     "prefecture": "神奈川県",
