@@ -753,6 +753,19 @@
     "office_name": "ＮＥＣビジネスインテリジェンス　株式会社",
     "office_name_kana": "エヌイ-シ-ビジネスインテリジエンス カブシキカイシヤ"
   },
+  "8602": {
+    "postcode": "2118602",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "川崎市中原区",
+    "city_kana": "カワサキシナカハラク",
+    "town": "小杉町",
+    "town_kana": "コスギマチ",
+    "street": "１−３８３",
+    "office_name": "日本医科大学　武蔵小杉校舎",
+    "office_name_kana": "ニホンイカダイガク ムサシコスギコウシヤ"
+  },
   "8611": {
     "postcode": "2118611",
     "prefecture": "神奈川県",

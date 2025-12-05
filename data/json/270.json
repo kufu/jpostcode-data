@@ -5251,6 +5251,19 @@
     "office_name": "マブチモーター　株式会社",
     "office_name_kana": "マブチモ-タ- カブシキガイシヤ"
   },
+  "2286": {
+    "postcode": "2702286",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "松戸市",
+    "city_kana": "マツドシ",
+    "town": "稔台",
+    "town_kana": "ミノリダイ",
+    "street": "５−１２−１Ａ１０２",
+    "office_name": "松戸第三倉庫",
+    "office_name_kana": "マツドダイサンソウコ"
+  },
   "2288": {
     "postcode": "2702288",
     "prefecture": "千葉県",

@@ -597,19 +597,34 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "0822": {
-    "postcode": "8740822",
-    "prefecture": "大分県",
-    "prefecture_kana": "オオイタケン",
-    "prefecture_code": 44,
-    "city": "別府市",
-    "city_kana": "ベップシ",
-    "town": "観海寺",
-    "town_kana": "カンカイジ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
+  "0822": [
+    {
+      "postcode": "8740822",
+      "prefecture": "大分県",
+      "prefecture_kana": "オオイタケン",
+      "prefecture_code": 44,
+      "city": "別府市",
+      "city_kana": "ベップシ",
+      "town": "観海寺",
+      "town_kana": "カンカイジ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    },
+    {
+      "postcode": "8740822",
+      "prefecture": "大分県",
+      "prefecture_kana": "オオイタケン",
+      "prefecture_code": 44,
+      "city": "別府市",
+      "city_kana": "ベップシ",
+      "town": "観海寺町",
+      "town_kana": "カンカイジチョウ",
+      "street": null,
+      "office_name": null,
+      "office_name_kana": null
+    }
+  ],
   "0823": {
     "postcode": "8740823",
     "prefecture": "大分県",
@@ -669,8 +684,8 @@
     "prefecture_code": 44,
     "city": "別府市",
     "city_kana": "ベップシ",
-    "town": "南立石二区",
-    "town_kana": "ミナミタテイシニク",
+    "town": "南立石公園町",
+    "town_kana": "ミナミタテイシコウエンチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -701,6 +716,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0830": {
+    "postcode": "8740830",
+    "prefecture": "大分県",
+    "prefecture_kana": "オオイタケン",
+    "prefecture_code": 44,
+    "city": "別府市",
+    "city_kana": "ベップシ",
+    "town": "山の手新町",
+    "town_kana": "ヤマノテシンマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0831": {
     "postcode": "8740831",
     "prefecture": "大分県",
@@ -708,8 +736,8 @@
     "prefecture_code": 44,
     "city": "別府市",
     "city_kana": "ベップシ",
-    "town": "堀田",
-    "town_kana": "ホリタ",
+    "town": "堀田町",
+    "town_kana": "ホリタチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -747,8 +775,8 @@
     "prefecture_code": 44,
     "city": "別府市",
     "city_kana": "ベップシ",
-    "town": "新別府",
-    "town_kana": "シンベップ",
+    "town": "新別府町",
+    "town_kana": "シンベップチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -760,8 +788,8 @@
     "prefecture_code": 44,
     "city": "別府市",
     "city_kana": "ベップシ",
-    "town": "実相寺",
-    "town_kana": "ジッソウジ",
+    "town": "実相寺町",
+    "town_kana": "ジッソウジチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -799,8 +827,8 @@
     "prefecture_code": 44,
     "city": "別府市",
     "city_kana": "ベップシ",
-    "town": "荘園",
-    "town_kana": "ソウエン",
+    "town": "荘園町",
+    "town_kana": "ソウエンチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -812,8 +840,8 @@
     "prefecture_code": 44,
     "city": "別府市",
     "city_kana": "ベップシ",
-    "town": "南立石一区",
-    "town_kana": "ミナミタテイシイック",
+    "town": "南立石中津留町",
+    "town_kana": "ミナミタテイシナカツルチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -853,8 +881,8 @@
     "prefecture_code": 44,
     "city": "別府市",
     "city_kana": "ベップシ",
-    "town": "竹の内",
-    "town_kana": "タケノウチ",
+    "town": "竹の内町",
+    "town_kana": "タケノウチチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -944,8 +972,8 @@
     "prefecture_code": 44,
     "city": "別府市",
     "city_kana": "ベップシ",
-    "town": "大畑",
-    "town_kana": "オバタケ",
+    "town": "大畑町",
+    "town_kana": "オバタケチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -1621,7 +1649,7 @@
     "city": "別府市",
     "city_kana": "ベップシ",
     "town": "堀田",
-    "town_kana": "ホリタ",
+    "town_kana": null,
     "street": "７組−１",
     "office_name": "ＣＴＢメディア　株式会社",
     "office_name_kana": "シ-テイ-ビ-メデイア カブシキガイシヤ"

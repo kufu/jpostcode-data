@@ -6111,6 +6111,19 @@
     "office_name": "狭山市役所",
     "office_name_kana": "サヤマシヤクシヨ"
   },
+  "1381": {
+    "postcode": "3501381",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "狭山市",
+    "city_kana": "サヤマシ",
+    "town": "入間川",
+    "town_kana": "イルマガワ",
+    "street": "１−２３−５",
+    "office_name": "狭山市役所　環境経済部　商業観光課",
+    "office_name_kana": "サヤマシヤクシヨ カンキヨウケイザイブ シヨウギヨウカンコウカ"
+  },
   "1383": {
     "postcode": "3501383",
     "prefecture": "埼玉県",

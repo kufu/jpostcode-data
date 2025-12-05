@@ -1247,6 +1247,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0310": {
+    "postcode": "0130310",
+    "prefecture": "秋田県",
+    "prefecture_kana": "アキタケン",
+    "prefecture_code": 5,
+    "city": "横手市",
+    "city_kana": "ヨコテシ",
+    "town": "大雄佐加里西",
+    "town_kana": "タイユウサガリニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0311": {
     "postcode": "0130311",
     "prefecture": "秋田県",
