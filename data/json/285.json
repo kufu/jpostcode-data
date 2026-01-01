@@ -1832,6 +1832,19 @@
     "office_name": "古河ユニック　株式会社　サービス部",
     "office_name_kana": "フルカワユニツク カブシキガイシヤ サ-ビスブ"
   },
+  "8530": {
+    "postcode": "2858530",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "佐倉市",
+    "city_kana": "サクラシ",
+    "town": "大作",
+    "town_kana": "オオサク",
+    "street": "１−４−３",
+    "office_name": "京セラ　株式会社　千葉佐倉事業所",
+    "office_name_kana": "キヨウセラ カブシキガイシヤ チバサクラジギヨウシヨ"
+  },
   "8533": {
     "postcode": "2858533",
     "prefecture": "千葉県",

@@ -105,6 +105,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0007": {
+    "postcode": "6170007",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "向日市",
+    "city_kana": "ムコウシ",
+    "town": "ニデックパーク",
+    "town_kana": "ニデックパーク",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0811": {
     "postcode": "6170811",
     "prefecture": "京都府",

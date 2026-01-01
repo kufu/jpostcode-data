@@ -1782,6 +1782,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1397": {
+    "postcode": "6511397",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "神戸市北区",
+    "city_kana": "コウベシキタク",
+    "town": "有野町有野",
+    "town_kana": "アリノチョウアリノ",
+    "street": "字岡場１８９７番地７ＣＰＤ西宮北５Ｆ／６Ｆ",
+    "office_name": "アマゾン西宮北ＴＣ　ＸＪＷ１",
+    "office_name_kana": "アマゾンニシノミヤキタテイ-シ- エツクスジエ-ダブリユ-ワン"
+  },
   "1401": {
     "postcode": "6511401",
     "prefecture": "兵庫県",
