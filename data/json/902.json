@@ -220,6 +220,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8501": {
+    "postcode": "9028501",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "prefecture_code": 47,
+    "city": "那覇市",
+    "city_kana": "ナハシ",
+    "town": "寄宮",
+    "town_kana": "ヨリミヤ",
+    "street": "１−２−１６",
+    "office_name": "沖縄県教育庁",
+    "office_name_kana": "オキナワケンキヨウイクチヨウ"
+  },
   "8510": {
     "postcode": "9028510",
     "prefecture": "沖縄県",

@@ -1208,6 +1208,19 @@
     "office_name": "尼崎市役所",
     "office_name_kana": "アマガサキシヤクシヨ"
   },
+  "8502": {
+    "postcode": "6608502",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "尼崎市",
+    "city_kana": "アマガサキシ",
+    "town": "道意町",
+    "town_kana": "ドイチョウ",
+    "street": "７−１−１０",
+    "office_name": "ＧＬＰ　ＡＬＦＡＬＩＮＫ　尼崎",
+    "office_name_kana": "ジ-エルピ- アルフアリンク アマガサキ"
+  },
   "8511": {
     "postcode": "6608511",
     "prefecture": "兵庫県",

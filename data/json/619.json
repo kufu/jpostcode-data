@@ -497,6 +497,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0248": {
+    "postcode": "6190248",
+    "prefecture": "京都府",
+    "prefecture_kana": "キョウトフ",
+    "prefecture_code": 26,
+    "city": "相楽郡精華町",
+    "city_kana": "ソウラクグンセイカチョウ",
+    "town": "新精台",
+    "town_kana": "シンセイダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0280": {
     "postcode": "6190280",
     "prefecture": "京都府",

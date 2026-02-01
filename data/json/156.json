@@ -259,6 +259,19 @@
     "office_name": "日本アイ・ビー・エム・ビズインテック　株式会社",
     "office_name_kana": "ニホンアイ・ビ-・エム・ビズインテツク カブシキガイシヤ"
   },
+  "8550": {
+    "postcode": "1568550",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "世田谷区",
+    "city_kana": "セタガヤク",
+    "town": "桜上水",
+    "town_kana": "サクラジョウスイ",
+    "street": "３丁目２５−４０",
+    "office_name": "日本大学　文理学部",
+    "office_name_kana": "ニホンダイガク ブンリガクブ"
+  },
   "8555": {
     "postcode": "1568555",
     "prefecture": "東京都",

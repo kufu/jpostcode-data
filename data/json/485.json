@@ -1640,5 +1640,18 @@
     "street": "佃１０１０−１",
     "office_name": "中部電力パワーグリッド　株式会社　小牧営業所",
     "office_name_kana": "チユウブデンリヨクパワ-グリツド カブシキガイシヤ コマキエイギヨウシヨ"
+  },
+  "8755": {
+    "postcode": "4858755",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "小牧市",
+    "city_kana": "コマキシ",
+    "town": "中央",
+    "town_kana": "チュウオウ",
+    "street": "一丁目４２４番地",
+    "office_name": "名古屋国税局　小牧業務センター",
+    "office_name_kana": "ナゴヤコクゼイキヨク コマキギヨウムセンタ-"
   }
 }

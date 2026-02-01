@@ -2316,34 +2316,19 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "1336": [
-    {
-      "postcode": "0691336",
-      "prefecture": "北海道",
-      "prefecture_kana": "ホッカイドウ",
-      "prefecture_code": 1,
-      "city": "夕張郡長沼町",
-      "city_kana": "ユウバリグンナガヌマチョウ",
-      "town": "川沿",
-      "town_kana": "カワゾイ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    },
-    {
-      "postcode": "0691336",
-      "prefecture": "北海道",
-      "prefecture_kana": "ホッカイドウ",
-      "prefecture_code": 1,
-      "city": "夕張郡長沼町",
-      "city_kana": "ユウバリグンナガヌマチョウ",
-      "town": "栄町",
-      "town_kana": "サカエマチ",
-      "street": null,
-      "office_name": null,
-      "office_name_kana": null
-    }
-  ],
+  "1336": {
+    "postcode": "0691336",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "夕張郡長沼町",
+    "city_kana": "ユウバリグンナガヌマチョウ",
+    "town": "栄町",
+    "town_kana": "サカエマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1341": {
     "postcode": "0691341",
     "prefecture": "北海道",

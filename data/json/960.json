@@ -3745,7 +3745,7 @@
     "city_kana": "ダテシ",
     "town": "霊山町掛田",
     "town_kana": "リョウゼンマチカケダ",
-    "street": "字段居４５（掛田郵便局私書箱第１号）",
+    "street": "字西裏１７番地４",
     "office_name": "伊達市役所　霊山総合支所",
     "office_name_kana": "ダテシヤクシヨ リヨウゼンソウゴウシシヨ"
   },
@@ -7480,11 +7480,11 @@
     "prefecture_code": 7,
     "city": "福島市",
     "city_kana": "フクシマシ",
-    "town": "山下町",
-    "town_kana": "ヤマシタチョウ",
-    "street": "５−１０",
-    "office_name": "東日本電信電話　株式会社　福島支店",
-    "office_name_kana": "ヒガシニホンデンシンデンワ カブシキガイシヤ フクシマシテン"
+    "town": "大町",
+    "town_kana": "オオマチ",
+    "street": "９−２０",
+    "office_name": "ＮＴＴ東日本　株式会社　福島支店",
+    "office_name_kana": "エヌテイテイヒガシニホン カブシキガイシヤ フクシマシテン"
   },
   "8505": {
     "postcode": "9608505",

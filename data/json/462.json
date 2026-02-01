@@ -1572,6 +1572,19 @@
     "office_name": "アサダ　株式会社",
     "office_name_kana": "アサダ カブシキガイシヤ"
   },
+  "8555": {
+    "postcode": "4628555",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "名古屋市北区",
+    "city_kana": "ナゴヤシキタク",
+    "town": "清水",
+    "town_kana": "シミズ",
+    "street": "５−６−１６",
+    "office_name": "名古屋国税局　名古屋業務センター　名古屋北コール担当",
+    "office_name_kana": "ナゴヤコクゼイキヨク ナゴヤギヨウムセンタ- ナゴヤキタコ-ルタントウ"
+  },
   "8558": {
     "postcode": "4628558",
     "prefecture": "愛知県",
