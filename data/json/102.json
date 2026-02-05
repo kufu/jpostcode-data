@@ -2040,19 +2040,6 @@
     "office_name": "フェデラルエクスプレスジャパン　株式会社",
     "office_name_kana": "フエデラルエクスプレスジヤパン カブシキガイシヤ"
   },
-  "8404": {
-    "postcode": "1028404",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "千代田区",
-    "city_kana": "チヨダク",
-    "town": "九段北",
-    "town_kana": "クダンキタ",
-    "street": "１丁目１３番５号",
-    "office_name": "三菱電機エンジニアリング　株式会社",
-    "office_name_kana": "ミツビシデンキエンジニアリング カブシキガイシヤ"
-  },
   "8405": {
     "postcode": "1028405",
     "prefecture": "東京都",
@@ -3542,9 +3529,9 @@
     "prefecture_code": 13,
     "city": "千代田区",
     "city_kana": "チヨダク",
-    "town": "麹町",
-    "town_kana": "コウジマチ",
-    "street": "一丁目１０番麹町広洋ビル２階",
+    "town": "平河町",
+    "town_kana": "ヒラカワチョウ",
+    "street": "２−３−６平河町共済ビル２．０",
     "office_name": "株式会社　たいよう共済",
     "office_name_kana": "カブシキガイシヤ タイヨウキヨウサイ"
   },

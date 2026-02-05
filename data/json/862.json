@@ -1358,6 +1358,19 @@
     "office_name": "防衛庁陸上自衛隊　西部方面総監部",
     "office_name_kana": "ボウエイチヨウリクジヨウジエイタイ セイブホウメンソウカンブ"
   },
+  "8711": {
+    "postcode": "8628711",
+    "prefecture": "熊本県",
+    "prefecture_kana": "クマモトケン",
+    "prefecture_code": 43,
+    "city": "熊本市中央区",
+    "city_kana": "クマモトシチュウオウク",
+    "town": "九品寺",
+    "town_kana": "クホンジ",
+    "street": "６丁目２番３５号",
+    "office_name": "富田薬品　株式会社",
+    "office_name_kana": "トミタヤクヒン カブシキガイシヤ"
+  },
   "8716": {
     "postcode": "8628716",
     "prefecture": "熊本県",

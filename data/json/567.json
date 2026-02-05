@@ -844,6 +844,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0081": {
+    "postcode": "5670081",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "茨木市",
+    "city_kana": "イバラキシ",
+    "town": "彩都あけぼの",
+    "town_kana": "サイトアケボノ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0082": {
     "postcode": "5670082",
     "prefecture": "大阪府",
