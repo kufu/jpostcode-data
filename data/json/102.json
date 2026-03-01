@@ -1943,11 +1943,11 @@
     "prefecture_code": 13,
     "city": "千代田区",
     "city_kana": "チヨダク",
-    "town": "一番町",
-    "town_kana": "イチバンチョウ",
-    "street": "１２",
-    "office_name": "冨士機材　（株）",
-    "office_name_kana": "フジキザイ (カブ)"
+    "town": "麹町",
+    "town_kana": "コウジマチ",
+    "street": "三丁目２番地８",
+    "office_name": "冨士機材　株式会社",
+    "office_name_kana": "フジキザイ カブシキガイシヤ"
   },
   "8377": {
     "postcode": "1028377",

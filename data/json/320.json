@@ -1455,6 +1455,19 @@
     "office_name": "とちぎ健康の森",
     "office_name_kana": "トチギケンコウノモリ"
   },
+  "8504": {
+    "postcode": "3208504",
+    "prefecture": "栃木県",
+    "prefecture_kana": "トチギケン",
+    "prefecture_code": 9,
+    "city": "宇都宮市",
+    "city_kana": "ウツノミヤシ",
+    "town": "昭和",
+    "town_kana": "ショウワ",
+    "street": "２丁目１番７号",
+    "office_name": "関東信越国税局　栃木業務センター宇都宮事務室",
+    "office_name_kana": "カントウシンエツコクゼイキヨク トチギギヨウムセンタ-ウツノミヤジムシツ"
+  },
   "8505": {
     "postcode": "3208505",
     "prefecture": "栃木県",

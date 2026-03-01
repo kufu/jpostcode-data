@@ -2289,6 +2289,19 @@
     "office_name": "（株）　エフエム浦和",
     "office_name_kana": "(カブ) エフエムウラワ"
   },
+  "9619": {
+    "postcode": "3309619",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市浦和区",
+    "city_kana": "サイタマシウラワク",
+    "town": "北浦和",
+    "town_kana": "キタウラワ",
+    "street": "５丁目１２番７号",
+    "office_name": "関東信越国税局　北浦和業務センター",
+    "office_name_kana": "カントウシンエツコクゼイキヨク キタウラワギヨウムセンタ-"
+  },
   "9621": {
     "postcode": "3309621",
     "prefecture": "埼玉県",

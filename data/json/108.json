@@ -1806,19 +1806,6 @@
     "office_name": "日本電気　株式会社",
     "office_name_kana": "ニツポンデンキ カブシキガイシヤ"
   },
-  "8005": {
-    "postcode": "1088005",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "港南",
-    "town_kana": "コウナン",
-    "street": "１−８−１５Ｗビル",
-    "office_name": "ＥＮＥＯＳ　株式会社",
-    "office_name_kana": "エネオス カブシキガイシヤ"
-  },
   "8011": {
     "postcode": "1088011",
     "prefecture": "東京都",
@@ -4119,6 +4106,19 @@
     "street": "１丁目１７−３ＮＢＦプラチナタワー１２Ｆ",
     "office_name": "さくら情報システム　株式会社",
     "office_name_kana": "サクラジヨウホウシステム カブシキガイシヤ"
+  },
+  "8654": {
+    "postcode": "1088654",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "三田",
+    "town_kana": "ミタ",
+    "street": "３−９−６",
+    "office_name": "株式会社　第一興商",
+    "office_name_kana": "カブシキガイシヤ ダイイチコウシヨウ"
   },
   "8707": {
     "postcode": "1088707",

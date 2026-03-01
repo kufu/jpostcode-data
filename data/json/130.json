@@ -1221,6 +1221,19 @@
     "office_name": "本所税務署",
     "office_name_kana": "ホンジヨゼイムシヨ"
   },
+  "8688": {
+    "postcode": "1308688",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "墨田区",
+    "city_kana": "スミダク",
+    "town": "緑",
+    "town_kana": "ミドリ",
+    "street": "１−１１−２両国Ｍ−１Ｇａｒｄｅｎ４階",
+    "office_name": "一般社団法人　東京都総合組合保健施設振興協会",
+    "office_name_kana": "イツパンシヤダンホウジン トウキヨウトソウゴウクミアイホケンシセツシンコウキヨウカイ"
+  },
   "8701": {
     "postcode": "1308701",
     "prefecture": "東京都",

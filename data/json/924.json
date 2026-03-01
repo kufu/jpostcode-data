@@ -480,6 +480,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0040": {
+    "postcode": "9240040",
+    "prefecture": "石川県",
+    "prefecture_kana": "イシカワケン",
+    "prefecture_code": 17,
+    "city": "白山市",
+    "city_kana": "ハクサンシ",
+    "town": "北安田南",
+    "town_kana": "キタヤスタミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0041": {
     "postcode": "9240041",
     "prefecture": "石川県",
