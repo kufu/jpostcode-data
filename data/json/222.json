@@ -376,6 +376,19 @@
     "office_name": "ＮＥＣモバイリング　株式会社",
     "office_name_kana": "エヌイ-シ-モバイリング カブシキガイシヤ"
   },
+  "8522": {
+    "postcode": "2228522",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市港北区",
+    "city_kana": "ヨコハマシコウホクク",
+    "town": "新横浜",
+    "town_kana": "シンヨコハマ",
+    "street": "３丁目２−３ＥＰＩＣＴＯＷＥＲＳＨＩＮＹＯＫＯＨＡＭＡ",
+    "office_name": "サクサ　株式会社　新横浜オフィス",
+    "office_name_kana": "サクサ カブシキカイシヤ シンヨコハマオフイス"
+  },
   "8523": {
     "postcode": "2228523",
     "prefecture": "神奈川県",

@@ -3645,6 +3645,19 @@
     "office_name": "株式会社　ユニコン",
     "office_name_kana": "カブシキガイシヤ ユニコン"
   },
+  "8559": {
+    "postcode": "6908559",
+    "prefecture": "島根県",
+    "prefecture_kana": "シマネケン",
+    "prefecture_code": 32,
+    "city": "松江市",
+    "city_kana": "マツエシ",
+    "town": "朝日町",
+    "town_kana": "アサヒマチ",
+    "street": "４６９−２松江駅南ビル７Ｆ",
+    "office_name": "一般社団法人　日本アマチュア無線連盟　ＪＡＲＬ　ＱＳＬビューロー",
+    "office_name_kana": "イツパンシヤダンホウジン ニホンアマチユアムセンレンメイ ジヤ-ル キユ-エスエルビユ-ロ-"
+  },
   "8560": {
     "postcode": "6908560",
     "prefecture": "島根県",

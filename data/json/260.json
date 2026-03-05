@@ -1626,6 +1626,19 @@
     "office_name": "株式会社　帝国データバンク　千葉支店",
     "office_name_kana": "カブシキガイシヤ テイコクデ-タバンク チバシテン"
   },
+  "8614": {
+    "postcode": "2608614",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "千葉市中央区",
+    "city_kana": "チバシチュウオウク",
+    "town": "中央",
+    "town_kana": "チュウオウ",
+    "street": "４丁目１３−２３",
+    "office_name": "千葉県企業局",
+    "office_name_kana": "チバケンキギヨウキヨク"
+  },
   "8618": {
     "postcode": "2608618",
     "prefecture": "千葉県",

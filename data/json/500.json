@@ -6648,6 +6648,19 @@
     "office_name": "学校法人　富田学園",
     "office_name_kana": "ガツコウホウジン トミタガクエン"
   },
+  "8766": {
+    "postcode": "5008766",
+    "prefecture": "岐阜県",
+    "prefecture_kana": "ギフケン",
+    "prefecture_code": 21,
+    "city": "岐阜市",
+    "city_kana": "ギフシ",
+    "town": "領下",
+    "town_kana": "リョウゲ",
+    "street": "６丁目６４番地",
+    "office_name": "生活協同組合　コープぎふ",
+    "office_name_kana": "セイカツキヨウドウクミアイ コ-プギフ"
+  },
   "8801": {
     "postcode": "5008801",
     "prefecture": "岐阜県",

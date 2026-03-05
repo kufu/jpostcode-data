@@ -6168,11 +6168,11 @@
     "prefecture_code": 30,
     "city": "和歌山市",
     "city_kana": "ワカヤマシ",
-    "town": "西汀丁",
-    "town_kana": "ニシミギワチョウ",
-    "street": "３６番地商工会議所１階",
-    "office_name": "和歌山市　選挙管理委員会事務局",
-    "office_name_kana": "ワカヤマシ センキヨカンリイインカイジムキヨク"
+    "town": "七番丁",
+    "town_kana": "シチバンチョウ",
+    "street": "１７番地和歌山朝日ビルディング５階",
+    "office_name": "和歌山市選挙管理委員会事務局",
+    "office_name_kana": "ワカヤマシセンキヨカンリイインカイジムキヨク"
   },
   "8538": {
     "postcode": "6408538",
@@ -6402,9 +6402,9 @@
     "prefecture_code": 30,
     "city": "和歌山市",
     "city_kana": "ワカヤマシ",
-    "town": "西汀丁",
-    "town_kana": "ニシミギワチョウ",
-    "street": "３６",
+    "town": "七番丁",
+    "town_kana": "シチバンチョウ",
+    "street": "モンティグレダイワロイネットホテル和歌山２階",
     "office_name": "和歌山商工会議所",
     "office_name_kana": "ワカヤマシヨウコウカイギシヨ"
   },

@@ -1143,6 +1143,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0180": {
+    "postcode": "2700180",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "流山市",
+    "city_kana": "ナガレヤマシ",
+    "town": "森のロジスティクスパーク",
+    "town_kana": "モリノロジスティクスパーク",
+    "street": "２丁目２２１番１ＧＬＰＡＬＦＡＬＩＮＫ流山７",
+    "office_name": "アマゾン流山おおたかの森ＦＣ",
+    "office_name_kana": "アマゾンナガレヤマオオタカノモリエフシ-"
+  },
   "0189": {
     "postcode": "2700189",
     "prefecture": "千葉県",
@@ -1168,6 +1181,19 @@
     "street": "１丁目１−１",
     "office_name": "流山市役所",
     "office_name_kana": "ナガレヤマシヤクシヨ"
+  },
+  "0193": {
+    "postcode": "2700193",
+    "prefecture": "千葉県",
+    "prefecture_kana": "チバケン",
+    "prefecture_code": 12,
+    "city": "流山市",
+    "city_kana": "ナガレヤマシ",
+    "town": "森のロジスティクスパーク",
+    "town_kana": "モリノロジスティクスパーク",
+    "street": "１−３８３−１１",
+    "office_name": "アマゾン流山ＴＣ　ＸＨＤ４（ヒガシ２１流山ロジスティクスセンター）",
+    "office_name_kana": "アマゾンナガレヤマテイ-シ- エツクスエイチデイ-フオ-(ヒガシトウエンテイワンナガレヤマロジステイクスセンタ-)"
   },
   "0194": {
     "postcode": "2700194",

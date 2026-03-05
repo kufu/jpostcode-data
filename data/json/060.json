@@ -2408,6 +2408,19 @@
     "office_name": "北海道旅客鉄道　株式会社",
     "office_name_kana": "ホツカイドウリヨキヤクテツドウ カブシキガイシヤ"
   },
+  "8646": {
+    "postcode": "0608646",
+    "prefecture": "北海道",
+    "prefecture_kana": "ホッカイドウ",
+    "prefecture_code": 1,
+    "city": "札幌市中央区",
+    "city_kana": "サッポロシチュウオウク",
+    "town": "北二条西",
+    "town_kana": "キタ2ジョウニシ",
+    "street": "１９丁目８番",
+    "office_name": "農林水産省　北海道農政事務所",
+    "office_name_kana": "ノウリンスイサンシヨウ ホツカイドウノウセイジムシヨ"
+  },
   "8647": {
     "postcode": "0608647",
     "prefecture": "北海道",

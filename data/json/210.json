@@ -1416,6 +1416,19 @@
     "office_name": "野村證券　株式会社　川崎支店",
     "office_name_kana": "ノムラシヨウケン カブシキガイシヤ カワサキシテン"
   },
+  "8660": {
+    "postcode": "2108660",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "川崎市川崎区",
+    "city_kana": "カワサキシカワサキク",
+    "town": "夜光",
+    "town_kana": "ヤコウ",
+    "street": "２丁目３番２号",
+    "office_name": "株式会社　ＥＮＥＯＳマテリアル研究開発本部川崎拠点",
+    "office_name_kana": "カブシキガイシヤ エネオスマテリアルケンキユウカイハツホンブカワサキキヨテン"
+  },
   "8666": {
     "postcode": "2108666",
     "prefecture": "神奈川県",

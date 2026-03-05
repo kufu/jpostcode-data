@@ -6492,6 +6492,19 @@
     "office_name": "長岡税務署",
     "office_name_kana": "ナガオカゼイムシヨ"
   },
+  "8655": {
+    "postcode": "9408655",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "長岡市",
+    "city_kana": "ナガオカシ",
+    "town": "千歳",
+    "town_kana": "センザイ",
+    "street": "１丁目３番８８号長岡地方合同庁舎",
+    "office_name": "関東信越国税局　新潟業務センター長岡事務室",
+    "office_name_kana": "カントウシンエツコクゼイキヨク ニイガタギヨウムセンタ-ナガオカジムシツ"
+  },
   "8660": {
     "postcode": "9408660",
     "prefecture": "新潟県",

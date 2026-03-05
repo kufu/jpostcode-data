@@ -7772,6 +7772,19 @@
     "office_name": "株式会社　高崎高島屋",
     "office_name_kana": "カブシキガイシヤ タカサキタカシマヤ"
   },
+  "8575": {
+    "postcode": "3708575",
+    "prefecture": "群馬県",
+    "prefecture_kana": "グンマケン",
+    "prefecture_code": 10,
+    "city": "高崎市",
+    "city_kana": "タカサキシ",
+    "town": "東町",
+    "town_kana": "アズマチョウ",
+    "street": "１３４番地の１２高崎地方合同庁舎",
+    "office_name": "関東信越国税局　前橋業務センター高崎事務室",
+    "office_name_kana": "カントウシンエツコクゼイキヨク マエバシギヨウムセンタ-タカサキジムシツ"
+  },
   "8585": {
     "postcode": "3708585",
     "prefecture": "群馬県",
