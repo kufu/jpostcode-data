@@ -3212,6 +3212,19 @@
     "office_name": "イトーヨーカ堂　相模原ＩＤＣ",
     "office_name_kana": "イト-ヨ-カドウ サガミハラアイデイ-シ-"
   },
+  "5266": {
+    "postcode": "2525266",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "相模原市中央区",
+    "city_kana": "サガミハラシチュウオウク",
+    "town": "淵野辺",
+    "town_kana": "フチノベ",
+    "street": "五丁目１１番１０号",
+    "office_name": "順通貿易　株式会社",
+    "office_name_kana": "ジユンツウボウエキ カブシキカイシヤ"
+  },
   "5269": {
     "postcode": "2525269",
     "prefecture": "神奈川県",

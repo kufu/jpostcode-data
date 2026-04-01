@@ -584,6 +584,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8505": {
+    "postcode": "2478505",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "鎌倉市",
+    "city_kana": "カマクラシ",
+    "town": "上町屋",
+    "town_kana": "カミマチヤ",
+    "street": "３４５",
+    "office_name": "三菱プレシジョン　株式会社",
+    "office_name_kana": "ミツビシプレシジヨン カブシキカイシヤ"
+  },
   "8510": {
     "postcode": "2478510",
     "prefecture": "神奈川県",

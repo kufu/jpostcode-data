@@ -1326,5 +1326,18 @@
     "street": "１２−４０（熱海郵便局私書箱第４２号）",
     "office_name": "ホテル池田",
     "office_name_kana": "ホテルイケダ"
+  },
+  "8686": {
+    "postcode": "4138686",
+    "prefecture": "静岡県",
+    "prefecture_kana": "シズオカケン",
+    "prefecture_code": 22,
+    "city": "熱海市",
+    "city_kana": "アタミシ",
+    "town": "水口町",
+    "town_kana": "ミナグチチョウ",
+    "street": "１３番１５号",
+    "office_name": "静岡県熱海財務事務所",
+    "office_name_kana": "シズオカケンアタミザイムジムシヨ"
   }
 }
