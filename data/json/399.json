@@ -4189,19 +4189,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "8251": {
-    "postcode": "3998251",
-    "prefecture": "長野県",
-    "prefecture_kana": "ナガノケン",
-    "prefecture_code": 20,
-    "city": "松本市",
-    "city_kana": "マツモトシ",
-    "town": "島内",
-    "town_kana": "シマウチ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "8281": {
     "postcode": "3998281",
     "prefecture": "長野県",

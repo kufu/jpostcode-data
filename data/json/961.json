@@ -2939,6 +2939,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0997": {
+    "postcode": "9610997",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "白河市",
+    "city_kana": "シラカワシ",
+    "town": "的石前",
+    "town_kana": "マトイシマエ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "8001": {
     "postcode": "9618001",
     "prefecture": "福島県",

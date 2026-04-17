@@ -493,6 +493,19 @@
     "office_name": "（株）　ポッカコーポレーション　中央研究所",
     "office_name_kana": "カブシキガイシヤ ポツカコ-ポレ-シヨン チユウオウケンキユウシヨ"
   },
+  "8525": {
+    "postcode": "4818525",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "北名古屋市",
+    "city_kana": "キタナゴヤシ",
+    "town": "沖村",
+    "town_kana": "オキムラ",
+    "street": "白弓１−１",
+    "office_name": "トラスコ中山　株式会社　プラネット愛知",
+    "office_name_kana": "トラスコナカヤマ カブシキカイシヤ プラネツトアイチ"
+  },
   "8526": {
     "postcode": "4818526",
     "prefecture": "愛知県",

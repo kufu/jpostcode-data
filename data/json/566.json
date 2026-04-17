@@ -493,6 +493,19 @@
     "office_name": "学校法人　薫英学園",
     "office_name_kana": "ガツコウホウジン クンエイガクエン"
   },
+  "8510": {
+    "postcode": "5668510",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "摂津市",
+    "city_kana": "セッツシ",
+    "town": "千里丘新町",
+    "town_kana": "センリオカシンマチ",
+    "street": "３番２６号",
+    "office_name": "ニプロ　（株）",
+    "office_name_kana": "ニプロ カブ"
+  },
   "8513": {
     "postcode": "5668513",
     "prefecture": "大阪府",

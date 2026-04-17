@@ -1756,6 +1756,19 @@
     "office_name": "三田市役所",
     "office_name_kana": "サンダシヤクシヨ"
   },
+  "1597": {
+    "postcode": "6691597",
+    "prefecture": "兵庫県",
+    "prefecture_kana": "ヒョウゴケン",
+    "prefecture_code": 28,
+    "city": "三田市",
+    "city_kana": "サンダシ",
+    "town": "弥生が丘",
+    "town_kana": "ヤヨイガオカ",
+    "street": "１−２−３",
+    "office_name": "インペリアル・エンタープライズ　株式会社　Ｉ・Ｅ・Ｉ　受注センター",
+    "office_name_kana": "インペリアル・エンタ-プライズ カブシキガシヤ アイイ-アイ ジユチユウセンタ-"
+  },
   "2101": {
     "postcode": "6692101",
     "prefecture": "兵庫県",
