@@ -1808,19 +1808,6 @@
     "office_name": null,
     "office_name_kana": null
   },
-  "1241": {
-    "postcode": "9811241",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "名取市",
-    "city_kana": "ナトリシ",
-    "town": "高舘熊野堂",
-    "town_kana": "タカダテクマノドウ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
   "1242": {
     "postcode": "9811242",
     "prefecture": "宮城県",
@@ -1843,71 +1830,6 @@
     "city_kana": "ナトリシ",
     "town": "高舘川上",
     "town_kana": "タカダテカワカミ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "1244": {
-    "postcode": "9811244",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "名取市",
-    "city_kana": "ナトリシ",
-    "town": "那智が丘",
-    "town_kana": "ナチガオカ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "1245": {
-    "postcode": "9811245",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "名取市",
-    "city_kana": "ナトリシ",
-    "town": "ゆりが丘",
-    "town_kana": "ユリガオカ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "1246": {
-    "postcode": "9811246",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "名取市",
-    "city_kana": "ナトリシ",
-    "town": "相互台",
-    "town_kana": "ソウゴダイ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "1247": {
-    "postcode": "9811247",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "名取市",
-    "city_kana": "ナトリシ",
-    "town": "みどり台",
-    "town_kana": "ミドリダイ",
-    "street": null,
-    "office_name": null,
-    "office_name_kana": null
-  },
-  "1248": {
-    "postcode": "9811248",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "名取市",
-    "city_kana": "ナトリシ",
-    "town": "相互台東",
-    "town_kana": "ソウゴダイヒガシ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -1963,19 +1885,6 @@
     "street": "杜せきのした５丁目３番地の１",
     "office_name": "イオンモール名取エアリ",
     "office_name_kana": "イオンモ-ルナトリエアリ"
-  },
-  "1295": {
-    "postcode": "9811295",
-    "prefecture": "宮城県",
-    "prefecture_kana": "ミヤギケン",
-    "prefecture_code": 4,
-    "city": "名取市",
-    "city_kana": "ナトリシ",
-    "town": "ゆりが丘",
-    "town_kana": "ユリガオカ",
-    "street": "４丁目１０−１",
-    "office_name": "尚絅学院大学",
-    "office_name_kana": "シヨウケイガクインダイガク"
   },
   "1298": {
     "postcode": "9811298",

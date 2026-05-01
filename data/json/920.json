@@ -9935,6 +9935,19 @@
       "town": "広岡",
       "town_kana": "ヒロオカ",
       "street": "２丁目１２番６号（金沢中央郵便局私書箱第２９号）",
+      "office_name": "株式会社　ＣＣＩグループ",
+      "office_name_kana": "カブシキガイシヤ シ-シ-アイグル-プ"
+    },
+    {
+      "postcode": "9208670",
+      "prefecture": "石川県",
+      "prefecture_kana": "イシカワケン",
+      "prefecture_code": 17,
+      "city": "金沢市",
+      "city_kana": "カナザワシ",
+      "town": "広岡",
+      "town_kana": "ヒロオカ",
+      "street": "２丁目１２番６号（金沢中央郵便局私書箱第２９号）",
       "office_name": "株式会社　ＣＣイノベーション",
       "office_name_kana": "カブシキガイシヤ シ-シ-イノベ-シヨン"
     },
@@ -9961,8 +9974,8 @@
       "town": "広岡",
       "town_kana": "ヒロオカ",
       "street": "２丁目１２番６号（金沢中央郵便局私書箱第２９号）",
-      "office_name": "株式会社　北國フィナンシャルホールディングス",
-      "office_name_kana": "カブシキガイシヤ ホツコクフイナンシヤルホ-ルデイングス"
+      "office_name": "株式会社　北國クレジットサービス",
+      "office_name_kana": "カブシキガイシヤ ホツコククレジツトサ-ビス"
     }
   ],
   "8671": {
@@ -10302,8 +10315,8 @@
     "town": "上堤町",
     "town_kana": "カミツツミチョウ",
     "street": "１−１５",
-    "office_name": "石川監査室",
-    "office_name_kana": "イシカワカンサシツ"
+    "office_name": "石川検査・コンプライアンス統括支援室",
+    "office_name_kana": "イシカワケンサ・コンプライアンストウカツシエンシツ"
   },
   "8797": [
     {

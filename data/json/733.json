@@ -1124,11 +1124,11 @@
     "prefecture_code": 34,
     "city": "広島市西区",
     "city_kana": "ヒロシマシニシク",
-    "town": "南観音町",
-    "town_kana": "ミナミカンオンマチ",
-    "street": "２０−１８",
-    "office_name": "トヨタオート広島　株式会社",
-    "office_name_kana": "トヨタオ-トヒロシマ カブシキガイシヤ"
+    "town": "南観音",
+    "town_kana": "ミナミカンオン",
+    "street": "５丁目１６−７",
+    "office_name": "ネッツトヨタ広島　株式会社",
+    "office_name_kana": "ネツツトヨタヒロシマ カブシキガイシヤ"
   },
   "8601": {
     "postcode": "7338601",

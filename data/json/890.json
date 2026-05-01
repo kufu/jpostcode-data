@@ -1587,6 +1587,19 @@
     "office_name": "株式会社　三越　鹿児島店",
     "office_name_kana": "カブシキガイシヤ ミツコシ カゴシマテン"
   },
+  "8640": {
+    "postcode": "8908640",
+    "prefecture": "鹿児島県",
+    "prefecture_kana": "カゴシマケン",
+    "prefecture_code": 46,
+    "city": "鹿児島市",
+    "city_kana": "カゴシマシ",
+    "town": "武",
+    "town_kana": "タケ",
+    "street": "１丁目２番１０号ＪＲ鹿児島中央ビル９階",
+    "office_name": "全国健康保険協会　鹿児島支部",
+    "office_name_kana": "ゼンコクケンコウホケンキヨウカイ カゴシマシブ"
+  },
   "8666": {
     "postcode": "8908666",
     "prefecture": "鹿児島県",
