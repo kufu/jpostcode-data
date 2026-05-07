@@ -727,19 +727,6 @@
     "office_name": "陸上自衛隊　北部方面総監部",
     "office_name_kana": "リクジヨウジエイタイ ホクブホウメンソウカンブ"
   },
-  "8512": {
-    "postcode": "0648512",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "札幌市中央区",
-    "city_kana": "サッポロシチュウオウク",
-    "town": "南一条西",
-    "town_kana": "ミナミ1ジョウニシ",
-    "street": "２５丁目１番１号",
-    "office_name": "三井道路　（株）　北海道支社",
-    "office_name_kana": "ミツイドウロ カブシキガイシヤ ホツカイドウシシヤ"
-  },
   "8514": {
     "postcode": "0648514",
     "prefecture": "北海道",
@@ -778,19 +765,6 @@
     "street": "１３丁目１番１号",
     "office_name": "札幌市　中央図書館",
     "office_name_kana": "サツポロシ チユウオウトシヨカン"
-  },
-  "8518": {
-    "postcode": "0648518",
-    "prefecture": "北海道",
-    "prefecture_kana": "ホッカイドウ",
-    "prefecture_code": 1,
-    "city": "札幌市中央区",
-    "city_kana": "サッポロシチュウオウク",
-    "town": "南二十二条西",
-    "town_kana": "ミナミ22ジョウニシ",
-    "street": "６丁目２−２２エムズ南２２条ビル",
-    "office_name": "農林水産省　北海道農政事務所",
-    "office_name_kana": "ノウリンスイサンシヨウ ホツカイドウノウセイジムシヨ"
   },
   "8519": {
     "postcode": "0648519",

@@ -350,6 +350,84 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0041": {
+    "postcode": "9820041",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "名取市",
+    "city_kana": "ナトリシ",
+    "town": "高舘熊野堂",
+    "town_kana": "タカダテクマノドウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0044": {
+    "postcode": "9820044",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "名取市",
+    "city_kana": "ナトリシ",
+    "town": "那智が丘",
+    "town_kana": "ナチガオカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0045": {
+    "postcode": "9820045",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "名取市",
+    "city_kana": "ナトリシ",
+    "town": "ゆりが丘",
+    "town_kana": "ユリガオカ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0046": {
+    "postcode": "9820046",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "名取市",
+    "city_kana": "ナトリシ",
+    "town": "相互台",
+    "town_kana": "ソウゴダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0047": {
+    "postcode": "9820047",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "名取市",
+    "city_kana": "ナトリシ",
+    "town": "みどり台",
+    "town_kana": "ミドリダイ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0048": {
+    "postcode": "9820048",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "名取市",
+    "city_kana": "ナトリシ",
+    "town": "相互台東",
+    "town_kana": "ソウゴダイヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0211": {
     "postcode": "9820211",
     "prefecture": "宮城県",
@@ -1132,6 +1210,19 @@
     "office_name": "仙台南年金事務所",
     "office_name_kana": "センダイミナミネンキンジムシヨ"
   },
+  "8542": {
+    "postcode": "9828542",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "名取市",
+    "city_kana": "ナトリシ",
+    "town": "高舘吉田",
+    "town_kana": "タカダテヨシダ",
+    "street": "字舘山８",
+    "office_name": "熊野那智神社",
+    "office_name_kana": "クマノナチジンジヤ"
+  },
   "8544": {
     "postcode": "9828544",
     "prefecture": "宮城県",
@@ -1222,6 +1313,19 @@
     "street": "６",
     "office_name": "東北工業大学　二ツ沢校舎",
     "office_name_kana": "トウホクコウギヨウダイガク フタツサワコウシヤ"
+  },
+  "8595": {
+    "postcode": "9828595",
+    "prefecture": "宮城県",
+    "prefecture_kana": "ミヤギケン",
+    "prefecture_code": 4,
+    "city": "名取市",
+    "city_kana": "ナトリシ",
+    "town": "ゆりが丘",
+    "town_kana": "ユリガオカ",
+    "street": "４丁目１０−１",
+    "office_name": "尚絅学院大学",
+    "office_name_kana": "シヨウケイガクインダイガク"
   },
   "8601": {
     "postcode": "9828601",

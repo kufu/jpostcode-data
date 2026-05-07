@@ -2445,6 +2445,19 @@
     "office_name": "株式会社　阪急交通社　トラピックス",
     "office_name_kana": "カブシキガイシヤ ハンキユウコウツウシヤ トラピツクス"
   },
+  "8366": {
+    "postcode": "5308366",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "大阪市北区",
+    "city_kana": "オオサカシキタク",
+    "town": "大深町",
+    "town_kana": "オオフカチョウ",
+    "street": "５番５４号グラングリーン大阪南館パークタワー１５〜１９階",
+    "office_name": "株式会社　クボタ　本社",
+    "office_name_kana": "カブシキガイシヤ クボタ ホンシヤ"
+  },
   "8373": {
     "postcode": "5308373",
     "prefecture": "大阪府",
@@ -3300,8 +3313,8 @@
     "town": "北浜東",
     "town_kana": "キタハマヒガシ",
     "street": "３−９",
-    "office_name": "大阪監査室",
-    "office_name_kana": "オオサカカンサシツ"
+    "office_name": "大阪検査・コンプライアンス統括支援室",
+    "office_name_kana": "オオサカケンサ・コンプライアンストウカツシエンシツ"
   },
   "8797": [
     {
