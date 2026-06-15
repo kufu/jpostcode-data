@@ -6,7 +6,7 @@ GEM
     io-console (0.8.2)
     method_source (1.1.0)
     mini_portile2 (2.8.9)
-    nkf (0.2.0)
+    nkf (0.3.0)
     nokogiri (1.19.2)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
