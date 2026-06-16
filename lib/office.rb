@@ -11,7 +11,7 @@ module Jpostcode
 
       private
 
-      ZIP_URL = 'https://www.post.japanpost.jp/zipcode/dl/jigyosyo/zip/jigyosyo.zip'.freeze
+      ZIP_URL = 'https://www.post.japanpost.jp/service/search/zipcode/download/office/zip/jigyosyo.zip'.freeze
 
       SELECT_SQL = <<-SQL
         SELECT
