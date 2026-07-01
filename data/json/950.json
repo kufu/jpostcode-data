@@ -1770,6 +1770,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0191": {
+    "postcode": "9500191",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "新潟市江南区",
+    "city_kana": "ニイガタシコウナンク",
+    "town": "茗荷谷",
+    "town_kana": "ミョウガダニ",
+    "street": "７１１",
+    "office_name": "新潟中央青果　株式会社",
+    "office_name_kana": "ニイガタチユウオウセイカ カブシキガイシヤ"
+  },
   "0192": {
     "postcode": "9500192",
     "prefecture": "新潟県",
@@ -9875,19 +9888,6 @@
     "street": "１丁目４−３４",
     "office_name": "第一建設工業　株式会社",
     "office_name_kana": "ダイイチケンセツコウギヨウ カブシキガイシヤ"
-  },
-  "8583": {
-    "postcode": "9508583",
-    "prefecture": "新潟県",
-    "prefecture_kana": "ニイガタケン",
-    "prefecture_code": 15,
-    "city": "新潟市中央区",
-    "city_kana": "ニイガタシチュウオウク",
-    "town": "上所",
-    "town_kana": "カミトコロ",
-    "street": "３丁目１０−１",
-    "office_name": "新潟中央青果　株式会社",
-    "office_name_kana": "ニイガタチユウオウセイカ カブシキガイシヤ"
   },
   "8584": {
     "postcode": "9508584",

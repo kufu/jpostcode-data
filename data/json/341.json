@@ -233,6 +233,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0019": {
+    "postcode": "3410019",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "三郷市",
+    "city_kana": "ミサトシ",
+    "town": "彦郷",
+    "town_kana": "ヒコサト",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0021": {
     "postcode": "3410021",
     "prefecture": "埼玉県",

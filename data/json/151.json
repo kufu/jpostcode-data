@@ -1013,6 +1013,19 @@
     "office_name": "ＪＲ東日本　（株）　本社",
     "office_name_kana": "ジエイア-ルヒガシニホン カブシキガイシヤ ホンシヤ"
   },
+  "8579": {
+    "postcode": "1518579",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "渋谷区",
+    "city_kana": "シブヤク",
+    "town": "代々木",
+    "town_kana": "ヨヨギ",
+    "street": "１−２１−１０インターパーク代々木２Ｆ",
+    "office_name": "一般社団法人　全国石油協会",
+    "office_name_kana": "イツパンシヤダンホウジン ゼンコクセキユキヨウカイ"
+  },
   "8580": {
     "postcode": "1518580",
     "prefecture": "東京都",

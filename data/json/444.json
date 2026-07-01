@@ -2963,6 +2963,32 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0818": {
+    "postcode": "4440818",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "岡崎市",
+    "city_kana": "オカザキシ",
+    "town": "羽根",
+    "town_kana": "ハネ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0819": {
+    "postcode": "4440819",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "岡崎市",
+    "city_kana": "オカザキシ",
+    "town": "岡崎駅前",
+    "town_kana": "オカザキエキマエ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0820": {
     "postcode": "4440820",
     "prefecture": "愛知県",
@@ -3349,6 +3375,19 @@
     "city_kana": "オカザキシ",
     "town": "戸崎新町",
     "town_kana": "トサキシンマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0850": {
+    "postcode": "4440850",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "岡崎市",
+    "city_kana": "オカザキシ",
+    "town": "柱東",
+    "town_kana": "ハシラヒガシ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
