@@ -4211,5 +4211,18 @@
     "street": "２丁目２−１５（呉郵便局私書箱第２０号）",
     "office_name": "呉信用金庫",
     "office_name_kana": "クレシンヨウキンコ"
+  },
+  "8693": {
+    "postcode": "7378693",
+    "prefecture": "広島県",
+    "prefecture_kana": "ヒロシマケン",
+    "prefecture_code": 34,
+    "city": "呉市",
+    "city_kana": "クレシ",
+    "town": "中央",
+    "town_kana": "チュウオウ",
+    "street": "３丁目９番１５号呉地方合同庁舎",
+    "office_name": "広島国税局　広島業務センター　呉事務室",
+    "office_name_kana": "ヒロシマコクゼイキヨク ヒロシマギヨウムセンタ- クレジムシツ"
   }
 }

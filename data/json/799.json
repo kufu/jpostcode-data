@@ -974,6 +974,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "1109": {
+    "postcode": "7991109",
+    "prefecture": "愛媛県",
+    "prefecture_kana": "エヒメケン",
+    "prefecture_code": 38,
+    "city": "西条市",
+    "city_kana": "サイジョウシ",
+    "town": "小松町新宮",
+    "town_kana": "コマツチョウシングウ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "1111": [
     {
       "postcode": "7991111",

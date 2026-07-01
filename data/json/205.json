@@ -305,10 +305,10 @@
     "prefecture_code": 13,
     "city": "羽村市",
     "city_kana": "ハムラシ",
-    "town": "緑ケ丘",
-    "town_kana": "ミドリガオカ",
-    "street": "３丁目１−１",
-    "office_name": "日野自動車工業　株式会社　羽村工場",
-    "office_name_kana": "ヒノジドウシヤコウギヨウ カブシキガイシヤ ハムラコウジヨウ"
+    "town": "緑ヶ丘",
+    "town_kana": null,
+    "street": "３−１−１",
+    "office_name": "トヨタ自動車羽村　株式会社",
+    "office_name_kana": "トヨタジドウシヤハムラ カブシキカイシヤ"
   }
 }

@@ -3015,19 +3015,6 @@
     "office_name": "コスモ石油ルブリカンツ　株式会社",
     "office_name_kana": "コスモセキユルブリカンツ カブシキガイシヤ"
   },
-  "8353": {
-    "postcode": "1048353",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中央区",
-    "city_kana": "チュウオウク",
-    "town": "京橋",
-    "town_kana": "キョウバシ",
-    "street": "１−７−１",
-    "office_name": "コスモビジネスアソシエイツ　株式会社",
-    "office_name_kana": "コスモビジネスアソシエイツ カブシキガイシヤ"
-  },
   "8355": {
     "postcode": "1048355",
     "prefecture": "東京都",
@@ -3271,9 +3258,9 @@
     "city_kana": "チュウオウク",
     "town": "築地",
     "town_kana": "ツキジ",
-    "street": "３丁目４−２",
-    "office_name": "損害保険ジャパン日本興亜　株式会社",
-    "office_name_kana": "ソンガイホケンジヤパンニツポンコウア カブシキガイシヤ"
+    "street": "３−４−２損保ジャパン築地ビル",
+    "office_name": "損害保険ジャパン　株式会社",
+    "office_name_kana": "ソンガイホケンジヤパン カブシキガイシヤ"
   },
   "8408": {
     "postcode": "1048408",

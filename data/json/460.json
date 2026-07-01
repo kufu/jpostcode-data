@@ -1316,19 +1316,6 @@
     "office_name": "名古屋地方裁判所　執行部　民事第２部",
     "office_name_kana": "ナゴヤチホウサイバンシヨ シツコウブ ミンジダイ2ブ"
   },
-  "8510": {
-    "postcode": "4608510",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市中区",
-    "city_kana": "ナゴヤシナカク",
-    "town": "三の丸",
-    "town_kana": "サンノマル",
-    "street": "２丁目５−２",
-    "office_name": "中部経済産業局",
-    "office_name_kana": "チユウブケイザイサンギヨウキヨク"
-  },
   "8511": {
     "postcode": "4608511",
     "prefecture": "愛知県",
@@ -1403,7 +1390,7 @@
     "city_kana": "ナゴヤシナカク",
     "town": "三の丸",
     "town_kana": "サンノマル",
-    "street": "一丁目２番２号",
+    "street": "二丁目６番２号",
     "office_name": "東海農政局",
     "office_name_kana": "トウカイノウセイキヨク"
   },

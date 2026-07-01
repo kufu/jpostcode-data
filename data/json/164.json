@@ -246,19 +246,6 @@
     "office_name": "ＨＯＹＡ　株式会社",
     "office_name_kana": "ホ-ヤ カブシキガイシヤ"
   },
-  "8555": {
-    "postcode": "1648555",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "中野区",
-    "city_kana": "ナカノク",
-    "town": "東中野",
-    "town_kana": "ヒガシナカノ",
-    "street": "２丁目７番１４号",
-    "office_name": "三井情報　株式会社",
-    "office_name_kana": "ミツイジヨウホウ カブシキガイシヤ"
-  },
   "8566": {
     "postcode": "1648566",
     "prefecture": "東京都",
@@ -346,9 +333,9 @@
     "city_kana": "ナカノク",
     "town": "中野",
     "town_kana": "ナカノ",
-    "street": "４−１０−２中野セントラルパークサウス５階",
-    "office_name": "損害保険ジャパン日本興亜　株式会社",
-    "office_name_kana": "ソンガイホケンジヤパンニツポンコウア カブシキガイシヤ"
+    "street": "４−１０−２中野セントラルパークサウス４Ｆ",
+    "office_name": "損害保険ジャパン　株式会社",
+    "office_name_kana": "ソンガイホケンジヤパン カブシキガイシヤ"
   },
   "8611": {
     "postcode": "1648611",

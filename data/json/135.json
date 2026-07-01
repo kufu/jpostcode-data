@@ -1091,19 +1091,6 @@
     "office_name": "ＳＣＳＫ　株式会社",
     "office_name_kana": "エスシ-エスケイ カブシキガイシヤ"
   },
-  "8111": {
-    "postcode": "1358111",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "江東区",
-    "city_kana": "コウトウク",
-    "town": "豊洲",
-    "town_kana": "トヨス",
-    "street": "５丁目６番３６号−１２階",
-    "office_name": "株式会社　ミライト・ワン",
-    "office_name_kana": "カブシキガイシヤ ミライト・ワン"
-  },
   "8114": {
     "postcode": "1358114",
     "prefecture": "東京都",
@@ -2507,19 +2494,6 @@
     "street": "２丁目３−１０",
     "office_name": "株式会社　アイアイジェイフィナンシャルシステムズ",
     "office_name_kana": "カブシキガイシヤ アイアイジエイフイナンシヤルシステムズ"
-  },
-  "8608": {
-    "postcode": "1358608",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "江東区",
-    "city_kana": "コウトウク",
-    "town": "豊洲",
-    "town_kana": "トヨス",
-    "street": "３−２−２０",
-    "office_name": "マルハニチロ　株式会社",
-    "office_name_kana": "マルハニチロ カブシキガイシヤ"
   },
   "8610": {
     "postcode": "1358610",
