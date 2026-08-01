@@ -285,6 +285,19 @@
     "office_name": "東海市役所",
     "office_name_kana": "トウカイシヤクシヨ"
   },
+  "8615": {
+    "postcode": "4768615",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "東海市",
+    "city_kana": "トウカイシ",
+    "town": "名和町",
+    "town_kana": "ナワマチ",
+    "street": "一枚畑１−１ランドポート東海大府ⅠＥＡＳＴ１Ｆ",
+    "office_name": "ヤマト運輸　株式会社　大府ロジセンター　Ａｍａｚｏｎ　ＥＦ　ＴＰＢ８",
+    "office_name_kana": "ヤマトウンユ カブシキガイシヤ オオブロジセンタ-"
+  },
   "8666": {
     "postcode": "4768666",
     "prefecture": "愛知県",

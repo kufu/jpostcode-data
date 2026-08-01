@@ -1169,6 +1169,19 @@
     "office_name": "株式会社　フジタ　東京支店",
     "office_name_kana": "カブシキガイシヤ フジタ トウキヨウシテン"
   },
+  "8384": {
+    "postcode": "1608384",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "新宿区",
+    "city_kana": "シンジュクク",
+    "town": "西新宿",
+    "town_kana": "ニシシンジュク",
+    "street": "８−１７−１住友不動産新宿グランドタワー",
+    "office_name": "ＴＩＳＩ　株式会社",
+    "office_name_kana": "テイアイエスアイ カブシキガイシヤ"
+  },
   "8389": {
     "postcode": "1608389",
     "prefecture": "東京都",
@@ -1321,7 +1334,7 @@
     "city_kana": "シンジュクク",
     "town": "新宿",
     "town_kana": "シンジュク",
-    "street": "３丁目１番１３号",
+    "street": "六丁目２７番３０号新宿イーストサイドスクエア１９階",
     "office_name": "キーウェアソリューションズ　株式会社",
     "office_name_kana": "キ-ウエアソリユ-シヨンズ カブシキガイシヤ"
   },
@@ -1376,19 +1389,6 @@
     "street": "５丁目６−１１",
     "office_name": "株式会社　佐藤秀",
     "office_name_kana": "カブシキガイシヤ サトウヒデ"
-  },
-  "8441": {
-    "postcode": "1608441",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "新宿区",
-    "city_kana": "シンジュクク",
-    "town": "新宿",
-    "town_kana": "シンジュク",
-    "street": "３丁目１番２４号京王新宿三丁目ビル",
-    "office_name": "廣告社　株式会社",
-    "office_name_kana": "コウコクシヤ カブシキガイシヤ"
   },
   "8444": {
     "postcode": "1608444",

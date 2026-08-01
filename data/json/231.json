@@ -1819,6 +1819,19 @@
     "office_name": "株式会社　ホテルニューグランド",
     "office_name_kana": "カブシキガイシヤ ホテルニユ-グランド"
   },
+  "8521": {
+    "postcode": "2318521",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "横浜市中区",
+    "city_kana": "ヨコハマシナカク",
+    "town": "山下町",
+    "town_kana": "ヤマシタチョウ",
+    "street": "１番地",
+    "office_name": "公益社団法人　神奈川県観光協会",
+    "office_name_kana": "コウエキシヤダンホウジン カナガワケンカンコウキヨウカイ"
+  },
   "8528": {
     "postcode": "2318528",
     "prefecture": "神奈川県",

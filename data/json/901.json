@@ -1104,6 +1104,19 @@
     "office_name": "株式会社　ざまみダンボール",
     "office_name_kana": "カブシキカイシヤ ザマミダンボ-ル"
   },
+  "0394": {
+    "postcode": "9010394",
+    "prefecture": "沖縄県",
+    "prefecture_kana": "オキナワケン",
+    "prefecture_code": 47,
+    "city": "糸満市",
+    "city_kana": "イトマンシ",
+    "town": "西崎町",
+    "town_kana": "ニシザキチョウ",
+    "street": "４丁目２１番地３",
+    "office_name": "沖縄ヤマト運輸　株式会社",
+    "office_name_kana": "オキナワヤマトウンユ カブシキガイシヤ"
+  },
   "0400": {
     "postcode": "9010400",
     "prefecture": "沖縄県",

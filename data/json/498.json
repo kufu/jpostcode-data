@@ -1474,5 +1474,18 @@
     "street": "南前新田２１５",
     "office_name": "株式会社　川スミ",
     "office_name_kana": "カブシキガイシヤ カワスミ"
+  },
+  "8555": {
+    "postcode": "4988555",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "弥富市",
+    "city_kana": "ヤトミシ",
+    "town": "鍋田町",
+    "town_kana": "ナベタチョウ",
+    "street": "八穂１５２−１",
+    "office_name": "伊勢湾陸運　株式会社",
+    "office_name_kana": "イセワンリクウン カブシキガイシヤ"
   }
 }

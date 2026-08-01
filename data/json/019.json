@@ -216,8 +216,8 @@
     "prefecture_code": 5,
     "city": "横手市",
     "city_kana": "ヨコテシ",
-    "town": "十文字町西原２番町",
-    "town_kana": "ジュウモンジマチニシハラ2バンチョウ",
+    "town": "十文字町西原二番町",
+    "town_kana": "ジュウモンジマチニシハラニバンチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null
@@ -229,8 +229,8 @@
     "prefecture_code": 5,
     "city": "横手市",
     "city_kana": "ヨコテシ",
-    "town": "十文字町西原１番町",
-    "town_kana": "ジュウモンジマチニシハラ1バンチョウ",
+    "town": "十文字町西原一番町",
+    "town_kana": "ジュウモンジマチニシハライチバンチョウ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

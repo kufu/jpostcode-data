@@ -10034,8 +10034,8 @@
     "town": "下奥井",
     "town_kana": "シモオクイ",
     "street": "２丁目４−１",
-    "office_name": "富山化学工業　（株）　富山事業所",
-    "office_name_kana": "トヤマカガクコウギヨウ (カブ) トヤマジギヨウシヨ"
+    "office_name": "富士フイルム富山化学　株式会社　富山第一工場",
+    "office_name_kana": "フジフイルムトヤマカガク カブシキカイシヤ トヤマダイイチコウジヨウ"
   },
   "8509": {
     "postcode": "9308509",
@@ -10436,9 +10436,9 @@
     "city_kana": "トヤマシ",
     "town": "桜橋通り",
     "town_kana": "サクラバシドオリ",
-    "street": "６−１１富山フコク生命第２ビル６階",
-    "office_name": "ユアサ商事　株式会社",
-    "office_name_kana": "ユアサシヨウジ カブシキガイシヤ"
+    "street": "６丁目１１番地富山フコク生命第２ビル６階",
+    "office_name": "株式会社　ＹＵＡＳＡ　富山営業所",
+    "office_name_kana": "カブシキカイシヤ ユアサ トヤマエイギヨウシヨ"
   },
   "8554": {
     "postcode": "9308554",
@@ -10619,8 +10619,8 @@
     "town": "牛島新町",
     "town_kana": "ウシジマシンマチ",
     "street": "２番２号",
-    "office_name": "インテック",
-    "office_name_kana": "インテツク"
+    "office_name": "ＴＩＳＩ　株式会社",
+    "office_name_kana": "テイアイエスアイ カブシキカイシヤ"
   },
   "8575": {
     "postcode": "9308575",
@@ -10646,19 +10646,6 @@
       "town": "牛島新町",
       "town_kana": "ウシジマシンマチ",
       "street": "５番５号",
-      "office_name": "ＩＴホールディングスグループ健康保険組合",
-      "office_name_kana": "アイテイホ-ルデイングスグル-プケンコウホケンクミアイ"
-    },
-    {
-      "postcode": "9308577",
-      "prefecture": "富山県",
-      "prefecture_kana": "トヤマケン",
-      "prefecture_code": 16,
-      "city": "富山市",
-      "city_kana": "トヤマシ",
-      "town": "牛島新町",
-      "town_kana": "ウシジマシンマチ",
-      "street": "５番５号",
       "office_name": "インテック企業年金基金",
       "office_name_kana": "インテツクキギヨウネンキンキキン"
     },
@@ -10671,9 +10658,22 @@
       "city_kana": "トヤマシ",
       "town": "牛島新町",
       "town_kana": "ウシジマシンマチ",
-      "street": "５−５（タワー１１１）",
-      "office_name": "株式会社　インテック",
-      "office_name_kana": "カブシキガイシヤ インテツク"
+      "street": "５番５号（タワー１１１）",
+      "office_name": "ＴＩＳＩ　株式会社",
+      "office_name_kana": "テイアイエスアイ カブシキカイシヤ"
+    },
+    {
+      "postcode": "9308577",
+      "prefecture": "富山県",
+      "prefecture_kana": "トヤマケン",
+      "prefecture_code": 16,
+      "city": "富山市",
+      "city_kana": "トヤマシ",
+      "town": "牛島新町",
+      "town_kana": "ウシジマシンマチ",
+      "street": "５番５号",
+      "office_name": "ＴＩＳインテックグループ健康保険組合",
+      "office_name_kana": "テイアイエスインテツクグル-プケンコウホケンクミアイ"
     }
   ],
   "8578": {
