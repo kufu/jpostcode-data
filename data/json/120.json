@@ -726,5 +726,18 @@
     "street": "１丁目１−１（足立郵便局私書箱第３号）",
     "office_name": "株式会社　ニッピコラーゲン化粧品",
     "office_name_kana": "カブシキガイシヤ ニツピコラ-ゲンケシヨウヒン"
+  },
+  "8686": {
+    "postcode": "1208686",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "足立区",
+    "city_kana": "アダチク",
+    "town": "千住曙町",
+    "town_kana": "センジュアケボノチョウ",
+    "street": "４２−４−５１０",
+    "office_name": "足立　Ｂｕｙｅｅ",
+    "office_name_kana": "アダチ バイイ-"
   }
 }

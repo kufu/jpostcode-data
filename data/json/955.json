@@ -1979,6 +1979,19 @@
     "office_name": "新潟県　済生会　三条病院",
     "office_name_kana": "ニイガタケン サイセイカイ サンジヨウビヨウイン"
   },
+  "8530": {
+    "postcode": "9558530",
+    "prefecture": "新潟県",
+    "prefecture_kana": "ニイガタケン",
+    "prefecture_code": 15,
+    "city": "三条市",
+    "city_kana": "サンジョウシ",
+    "town": "福島新田",
+    "town_kana": "フクジマシンデン",
+    "street": "丁４３１番地２",
+    "office_name": "トラスコ中山　株式会社　ＨＣ東日本物流センター",
+    "office_name_kana": "トラスコナカヤマ カブシキガイシヤ HCヒガシニホンブツリユウセンタ-"
+  },
   "8543": {
     "postcode": "9558543",
     "prefecture": "新潟県",

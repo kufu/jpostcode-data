@@ -4120,6 +4120,19 @@
     "office_name": "株式会社　第一興商",
     "office_name_kana": "カブシキガイシヤ ダイイチコウシヨウ"
   },
+  "8688": {
+    "postcode": "1088688",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "高輪",
+    "town_kana": "タカナワ",
+    "street": "２−２２−１ＴＨＥＬＩＮＫＰＩＬＬＡＲ２",
+    "office_name": "株式会社　神戸製鋼所　東京本社",
+    "office_name_kana": "カブシキガイシヤ コウベセイコウシヨ トウキヨウホンシヤ"
+  },
   "8707": {
     "postcode": "1088707",
     "prefecture": "東京都",
