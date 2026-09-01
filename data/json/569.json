@@ -2716,6 +2716,19 @@
     "office_name": "高槻中学校・高等学校",
     "office_name_kana": "タカツキチユウガツコウ・コウトウガツコウ"
   },
+  "8509": {
+    "postcode": "5698509",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "高槻市",
+    "city_kana": "タカツキシ",
+    "town": "梶原",
+    "town_kana": "カジハラ",
+    "street": "四丁目１番５号",
+    "office_name": "アマゾン高槻ＤＣ　ＸＪＫ１",
+    "office_name_kana": "アマゾンタカツキデイシ- エツクスジエイケイワン"
+  },
   "8510": {
     "postcode": "5698510",
     "prefecture": "大阪府",
