@@ -1631,9 +1631,9 @@
     "prefecture_code": 27,
     "city": "大阪市北区",
     "city_kana": "オオサカシキタク",
-    "town": "中之島",
-    "town_kana": "ナカノシマ",
-    "street": "３丁目３−２３中之島ダイビル",
+    "town": "梅田",
+    "town_kana": "ウメダ",
+    "street": "３丁目２番２号ＪＰタワー大阪",
     "office_name": "旭化成　株式会社",
     "office_name_kana": "アサヒカセイ カブシキガイシヤ"
   },
@@ -2112,11 +2112,11 @@
     "prefecture_code": 27,
     "city": "大阪市北区",
     "city_kana": "オオサカシキタク",
-    "town": "堂島",
-    "town_kana": "ドウジマ",
-    "street": "１丁目６−２０堂島アバンザ",
-    "office_name": "協和発酵キリン　株式会社",
-    "office_name_kana": "キヨウワハツコウキリン カブシキガイシヤ"
+    "town": "大深町",
+    "town_kana": "オオフカチョウ",
+    "street": "５番５４号グラングリーン大阪南館ゲートタワー９階",
+    "office_name": "協和キリン　株式会社",
+    "office_name_kana": "キヨウワキリン カブシキガイシヤ"
   },
   "8281": {
     "postcode": "5308281",

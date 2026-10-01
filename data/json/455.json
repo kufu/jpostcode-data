@@ -1741,19 +1741,6 @@
     "office_name": "名古屋税関",
     "office_name_kana": "ナゴヤゼイカン"
   },
-  "8545": {
-    "postcode": "4558545",
-    "prefecture": "愛知県",
-    "prefecture_kana": "アイチケン",
-    "prefecture_code": 23,
-    "city": "名古屋市港区",
-    "city_kana": "ナゴヤシミナトク",
-    "town": "築地町",
-    "town_kana": "ツキジチョウ",
-    "street": "２番地",
-    "office_name": "国土交通省　中部地方整備局",
-    "office_name_kana": "コクドコウツウシヨウ チユウブチホウセイビキヨク"
-  },
   "8555": {
     "postcode": "4558555",
     "prefecture": "愛知県",

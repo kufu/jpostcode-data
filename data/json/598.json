@@ -705,6 +705,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0077": {
+    "postcode": "5980077",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": 27,
+    "city": "泉佐野市",
+    "city_kana": "イズミサノシ",
+    "town": "新家",
+    "town_kana": "シンケ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0091": {
     "postcode": "5980091",
     "prefecture": "大阪府",
