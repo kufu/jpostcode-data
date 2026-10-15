@@ -415,6 +415,19 @@
     "office_name": "聖マリアンナ看護専門学校",
     "office_name_kana": "セイマリアンナカンゴセンモンガツコウ"
   },
+  "8515": {
+    "postcode": "2168515",
+    "prefecture": "神奈川県",
+    "prefecture_kana": "カナガワケン",
+    "prefecture_code": 14,
+    "city": "川崎市宮前区",
+    "city_kana": "カワサキシミヤマエク",
+    "town": "鷺沼",
+    "town_kana": "サギヌマ",
+    "street": "４丁目４−１",
+    "office_name": "昭和医科大学　鷺沼キャンパス",
+    "office_name_kana": "シヨウワイカダイガク サギヌマキヤンパス"
+  },
   "8519": {
     "postcode": "2168519",
     "prefecture": "神奈川県",

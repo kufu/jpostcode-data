@@ -2445,6 +2445,19 @@
     "office_name": "総務省　関東管区行政評価局",
     "office_name_kana": "ソウムシヨウ カントウカンクギヨウセイヒヨウカキヨク"
   },
+  "9719": {
+    "postcode": "3309719",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "さいたま市中央区",
+    "city_kana": "サイタマシチュウオウク",
+    "town": "新都心",
+    "town_kana": "シントシン",
+    "street": "１番地１さいたま新都心合同庁舎１号館",
+    "office_name": "関東信越国税局",
+    "office_name_kana": "カントウシンエツコクゼイキヨク"
+  },
   "9720": {
     "postcode": "3309720",
     "prefecture": "埼玉県",

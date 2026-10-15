@@ -2881,9 +2881,9 @@
     "city_kana": "ミナトク",
     "town": "赤坂",
     "town_kana": "アカサカ",
-    "street": "１丁目２−２",
-    "office_name": "日本財団",
-    "office_name_kana": "ニホンザイダン"
+    "street": "１−２−２",
+    "office_name": "公益財団法人　日本財団",
+    "office_name_kana": "コウエキザイダンホウジン ニホンザイダン"
   },
   "8411": {
     "postcode": "1078411",
@@ -2950,19 +2950,6 @@
     "office_name": "事業構想大学院大学",
     "office_name_kana": "ジギヨウコウソウダイガクインダイガク"
   },
-  "8419": {
-    "postcode": "1078419",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "赤坂",
-    "town_kana": "アカサカ",
-    "street": "５丁目１−３１第６セイコービル４階",
-    "office_name": "全国卸商業団地厚生年金基金",
-    "office_name_kana": "ゼンコクオロシシヨウギヨウダンチコウセイネンキンキキン"
-  },
   "8420": {
     "postcode": "1078420",
     "prefecture": "東京都",
@@ -2988,19 +2975,6 @@
     "street": "１−１−１４",
     "office_name": "日本管材センター　株式会社",
     "office_name_kana": "ニホンカンザイセンタ- カブシキガイシヤ"
-  },
-  "8434": {
-    "postcode": "1078434",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "赤坂",
-    "town_kana": "アカサカ",
-    "street": "１丁目１２−３３",
-    "office_name": "ＡＮＡインターコンチネンタルホテル東京",
-    "office_name_kana": "エ-エヌエ-インタ-コンチネンタルホテルトウキヨウ"
   },
   "8440": {
     "postcode": "1078440",
@@ -3089,7 +3063,7 @@
     "city_kana": "ミナトク",
     "town": "元赤坂",
     "town_kana": "モトアカサカ",
-    "street": "１丁目３番１３号赤坂センタービルディング",
+    "street": "１丁目３番１３号関電不動産赤坂ビル",
     "office_name": "住友電気工業　株式会社",
     "office_name_kana": "スミトモデンキコウギヨウ カブシキガイシヤ"
   },
@@ -3193,9 +3167,9 @@
     "city_kana": "ミナトク",
     "town": "赤坂",
     "town_kana": "アカサカ",
-    "street": "７丁目２−２１",
-    "office_name": "財団法人　草月会",
-    "office_name_kana": "ザイダンホウジン ソウゲツカイ"
+    "street": "７丁目２番２１号",
+    "office_name": "一般財団法人　草月会",
+    "office_name_kana": "イツパンザイダンホウジン ソウゲツカイ"
   },
   "8507": {
     "postcode": "1078507",
@@ -3223,19 +3197,6 @@
     "office_name": "タカタ　株式会社",
     "office_name_kana": "タカタ カブシキガイシヤ"
   },
-  "8511": {
-    "postcode": "1078511",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "元赤坂",
-    "town_kana": "モトアカサカ",
-    "street": "１丁目６−６",
-    "office_name": "綜合警備保障　株式会社",
-    "office_name_kana": "ソウゴウケイビホシヨウ カブシキガイシヤ"
-  },
   "8514": {
     "postcode": "1078514",
     "prefecture": "東京都",
@@ -3245,9 +3206,9 @@
     "city_kana": "ミナトク",
     "town": "南青山",
     "town_kana": "ミナミアオヤマ",
-    "street": "５丁目９番１５号青山ＯＨＭＯＴＯビル",
-    "office_name": "株式会社　大本組",
-    "office_name_kana": "カブシキガイシヤ オオモトグミ"
+    "street": "５−９−１５青山ＯＨＭＯＴＯビル",
+    "office_name": "株式会社　大本組　東京支店",
+    "office_name_kana": "カブシキガイシヤ オオモトグミ トウキヨウシテン"
   },
   "8516": {
     "postcode": "1078516",
@@ -3557,7 +3518,7 @@
     "city_kana": "ミナトク",
     "town": "北青山",
     "town_kana": "キタアオヤマ",
-    "street": "２丁目７−１１",
+    "street": "２−７−１０",
     "office_name": "株式会社　鎌倉製作所",
     "office_name_kana": "カブシキガイシヤ カマクラセイサクシヨ"
   },
@@ -3586,19 +3547,6 @@
     "street": "４丁目８−１４赤坂坂東ビル",
     "office_name": "株式会社　スーパーネットワーク",
     "office_name_kana": "カブシキガイシヤ ス-パ-ネツトワ-ク"
-  },
-  "8630": {
-    "postcode": "1078630",
-    "prefecture": "東京都",
-    "prefecture_kana": "トウキョウト",
-    "prefecture_code": 13,
-    "city": "港区",
-    "city_kana": "ミナトク",
-    "town": "北青山",
-    "town_kana": "キタアオヤマ",
-    "street": "３丁目８−１５",
-    "office_name": "株式会社　クレヨンハウス",
-    "office_name_kana": "カブシキガイシヤ クレヨンハウス"
   },
   "8631": {
     "postcode": "1078631",
@@ -3687,9 +3635,9 @@
     "city_kana": "ミナトク",
     "town": "北青山",
     "town_kana": "キタアオヤマ",
-    "street": "１丁目５−４（赤坂郵便局私書箱第５５号）",
-    "office_name": "三菱ＵＦＪ信託銀行",
-    "office_name_kana": "ミツビシユウエフジエイシンタクギンコウ"
+    "street": "１−５−４（赤坂郵便局私書箱第５５号）",
+    "office_name": "三菱ＵＦＪ信託銀行　株式会社",
+    "office_name_kana": "ミツビシユ-エフジエ-シンタクギンコウ カブシキガイシヤ"
   },
   "8666": {
     "postcode": "1078666",
