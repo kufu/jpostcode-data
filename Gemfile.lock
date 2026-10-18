@@ -19,7 +19,7 @@ GEM
     reline (0.7.0)
       io-console (~> 0.5)
     rubyzip (3.2.2)
-    sqlite3 (2.9.6)
+    sqlite3 (2.10.0)
       mini_portile2 (~> 2.8.0)
 
 PLATFORMS
