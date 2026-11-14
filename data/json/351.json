@@ -103,6 +103,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0008": {
+    "postcode": "3510008",
+    "prefecture": "埼玉県",
+    "prefecture_kana": "サイタマケン",
+    "prefecture_code": 11,
+    "city": "朝霞市",
+    "city_kana": "アサカシ",
+    "town": "あずま",
+    "town_kana": "アズマ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0011": {
     "postcode": "3510011",
     "prefecture": "埼玉県",

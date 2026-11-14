@@ -2523,6 +2523,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "2312": {
+    "postcode": "8112312",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糟屋郡粕屋町",
+    "city_kana": "カスヤグンカスヤマチ",
+    "town": "江辻西",
+    "town_kana": "エツジニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "2313": {
     "postcode": "8112313",
     "prefecture": "福岡県",
