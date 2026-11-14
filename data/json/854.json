@@ -1780,6 +1780,19 @@
     "office_name": "健康保険　諫早総合病院",
     "office_name_kana": "ケンコウホケン イサハヤソウゴウビヨウイン"
   },
+  "8502": {
+    "postcode": "8548502",
+    "prefecture": "長崎県",
+    "prefecture_kana": "ナガサキケン",
+    "prefecture_code": 42,
+    "city": "諫早市",
+    "city_kana": "イサハヤシ",
+    "town": "栗面町",
+    "town_kana": "クレモマチ",
+    "street": "５４１番５３",
+    "office_name": "京セラ　株式会社　長崎諫早工場",
+    "office_name_kana": "キヨウセラ カブシキガイシヤ ナガサキイサハヤコウジヨウ"
+  },
   "8509": {
     "postcode": "8548509",
     "prefecture": "長崎県",

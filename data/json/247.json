@@ -675,6 +675,19 @@
     "office_name": "芝浦メカトロニクス　株式会社　横浜事業所",
     "office_name_kana": "シバウラメカトロニクス カブシキガイシヤ ヨコハマジギヨウシヨ"
   },
+  "8566": {
+    "postcode": "2478566",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中野区",
+    "city_kana": "ナカノク",
+    "town": "中野",
+    "town_kana": "ナカノ",
+    "street": "四丁目１０番２号セントラルパークサウス（大船郵便局私書箱第５５号）",
+    "office_name": "キリンホールディングス　株式会社",
+    "office_name_kana": "キリンホ-ルデイングス (カブ)"
+  },
   "8570": {
     "postcode": "2478570",
     "prefecture": "神奈川県",

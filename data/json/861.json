@@ -9891,19 +9891,34 @@
     "office_name": "熊本リコー　株式会社",
     "office_name_kana": "クマモトリコ- カブシキガイシヤ"
   },
-  "8514": {
-    "postcode": "8618514",
-    "prefecture": "熊本県",
-    "prefecture_kana": "クマモトケン",
-    "prefecture_code": 43,
-    "city": "熊本市東区",
-    "city_kana": "クマモトシヒガシク",
-    "town": "小山町",
-    "town_kana": "オヤママチ",
-    "street": "１８４６",
-    "office_name": "熊本果実農業協同組合連合会",
-    "office_name_kana": "クマモトカジツノウギヨウキヨウドウクミアイレンゴウカイ"
-  },
+  "8514": [
+    {
+      "postcode": "8618514",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "prefecture_code": 43,
+      "city": "熊本市東区",
+      "city_kana": "クマモトシヒガシク",
+      "town": "小山町",
+      "town_kana": "オヤママチ",
+      "street": "１８４６",
+      "office_name": "熊本果実農業協同組合連合会",
+      "office_name_kana": "クマモトカジツノウギヨウキヨウドウクミアイレンゴウカイ"
+    },
+    {
+      "postcode": "8618514",
+      "prefecture": "熊本県",
+      "prefecture_kana": "クマモトケン",
+      "prefecture_code": 43,
+      "city": "熊本市東区",
+      "city_kana": "クマモトシヒガシク",
+      "town": "小山町",
+      "town_kana": "オヤママチ",
+      "street": "１８４６",
+      "office_name": "ＪＡ熊本果実連ジューシー　株式会社",
+      "office_name_kana": "ジエイエイクマモトカジツレンジユ-シ- カブシキガイシヤ"
+    }
+  ],
   "8520": {
     "postcode": "8618520",
     "prefecture": "熊本県",

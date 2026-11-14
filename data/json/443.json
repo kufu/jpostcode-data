@@ -696,6 +696,19 @@
     "office_name": "カネキ水産　株式会社",
     "office_name_kana": "カネキスイサン カブシキガイシヤ"
   },
+  "8501": {
+    "postcode": "4438501",
+    "prefecture": "愛知県",
+    "prefecture_kana": "アイチケン",
+    "prefecture_code": 23,
+    "city": "蒲郡市",
+    "city_kana": "ガマゴオリシ",
+    "town": "平田町",
+    "town_kana": "ヒラタチョウ",
+    "street": "向田１番地１",
+    "office_name": "蒲郡市民病院",
+    "office_name_kana": "ガマゴオリシミンビヨウイン"
+  },
   "8505": {
     "postcode": "4438505",
     "prefecture": "愛知県",

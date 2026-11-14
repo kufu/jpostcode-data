@@ -272,6 +272,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "0126": {
+    "postcode": "8110126",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糟屋郡新宮町",
+    "city_kana": "カスヤグンシングウマチ",
+    "town": "人丸",
+    "town_kana": "ヒトマル",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
   "0192": {
     "postcode": "8110192",
     "prefecture": "福岡県",
@@ -2519,6 +2532,19 @@
     "city_kana": "カスヤグンカスヤマチ",
     "town": "長者原",
     "town_kana": "チョウジャバル",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "2312": {
+    "postcode": "8112312",
+    "prefecture": "福岡県",
+    "prefecture_kana": "フクオカケン",
+    "prefecture_code": 40,
+    "city": "糟屋郡粕屋町",
+    "city_kana": "カスヤグンカスヤマチ",
+    "town": "江辻西",
+    "town_kana": "エツジニシ",
     "street": null,
     "office_name": null,
     "office_name_kana": null

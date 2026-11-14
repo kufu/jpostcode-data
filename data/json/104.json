@@ -3561,6 +3561,19 @@
     "office_name": "商工組合中央金庫　本店",
     "office_name_kana": "シヨウコウクミアイチユウオウキンコ ホンテン"
   },
+  "8451": {
+    "postcode": "1048451",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "中央区",
+    "city_kana": "チュウオウク",
+    "town": "新川",
+    "town_kana": "シンカワ",
+    "street": "１丁目３番１７号",
+    "office_name": "新生紙パルプ商事　株式会社",
+    "office_name_kana": "シンセイカミパルプシヨウジ カブシキガイシヤ"
+  },
   "8456": {
     "postcode": "1048456",
     "prefecture": "東京都",

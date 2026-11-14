@@ -90,6 +90,19 @@
     "office_name": null,
     "office_name_kana": null
   },
+  "8111": {
+    "postcode": "9728111",
+    "prefecture": "福島県",
+    "prefecture_kana": "フクシマケン",
+    "prefecture_code": 7,
+    "city": "いわき市",
+    "city_kana": "イワキシ",
+    "town": "常磐下湯長谷町",
+    "town_kana": "ジョウバンシモユナガヤマチ",
+    "street": "２丁目１８",
+    "office_name": "でんわんセンター（迷惑電話対策相談センター）",
+    "office_name_kana": "デンワンセンタ-(メイワクデンワタイサクソウダンセンタ-)"
+  },
   "8301": {
     "postcode": "9728301",
     "prefecture": "福島県",

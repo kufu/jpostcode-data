@@ -2612,6 +2612,19 @@
     "office_name": "慶應義塾",
     "office_name_kana": "ケイオウギジユク"
   },
+  "8346": {
+    "postcode": "1088346",
+    "prefecture": "東京都",
+    "prefecture_kana": "トウキョウト",
+    "prefecture_code": 13,
+    "city": "港区",
+    "city_kana": "ミナトク",
+    "town": "三田",
+    "town_kana": "ミタ",
+    "street": "２丁目１９−３０",
+    "office_name": "慶應義塾大学出版会　株式会社",
+    "office_name_kana": "ケイオウギジユクダイガクシユツパンカイ カブシキガイシヤ"
+  },
   "8350": {
     "postcode": "1088350",
     "prefecture": "東京都",
