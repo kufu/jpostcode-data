@@ -8,9 +8,9 @@ jobs:
   update-jpostcode-data:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+    - uses: actions/checkout@v7.0.1
     - name: Set up Ruby
-      uses: ruby/setup-ruby@de492cf36cbab201753d720ce4f4e336cd688c94 # v1.336.0
+      uses: ruby/setup-ruby@v1.336.0
       with:
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: update jpostcode data
@@ -18,7 +18,7 @@ jobs:
       env:
         RUBYOPT: "-w" 
     - name: Create Pull Request
-      uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8.1.1
+      uses: peter-evans/create-pull-request@v8.1.1
       with:
         base: master
         branch: update_jpostcode_data
