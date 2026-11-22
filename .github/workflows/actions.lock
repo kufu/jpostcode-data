@@ -6,7 +6,7 @@ workflows:
     '.github/workflows/auto-update.yml':
         - 'actions/checkout@v7.0.1'
         - 'peter-evans/create-pull-request@v8.1.1'
-        - 'ruby/setup-ruby@v1.336.0'
+        - 'ruby/setup-ruby@v1.342.0'
     '.github/workflows/verify-actions-lock.yml':
         - 'actions/checkout@v7.0.1'
 dependencies:
@@ -20,8 +20,8 @@ dependencies:
         commit: 'sha1-5f6978faf089d4d20b00c7766989d076bb2fc7f1'
         owner_id: 18365890
         repo_id: 197176365
-    'ruby/setup-ruby@v1.336.0':
-        ref: 'v1.336.0'
-        commit: 'sha1-de492cf36cbab201753d720ce4f4e336cd688c94'
+    'ruby/setup-ruby@v1.342.0':
+        ref: 'v1.342.0'
+        commit: 'sha1-f9c4492e86def3e644ab32a0ef185eda5b0c20d0'
         owner_id: 210414
         repo_id: 231208785
