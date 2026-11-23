@@ -547,19 +547,6 @@
     "office_name": "独立行政法人　国立病院機構　肥前精神医療センター",
     "office_name_kana": "ドクリツギヨウセイホウジン コクリツビヨウインキコウ ヒゼンセイシンイリヨウセンタ-"
   },
-  "0193": {
-    "postcode": "8420193",
-    "prefecture": "佐賀県",
-    "prefecture_kana": "サガケン",
-    "prefecture_code": 41,
-    "city": "神埼郡吉野ヶ里町",
-    "city_kana": "カンザキグンヨシノガリチョウ",
-    "town": "三津",
-    "town_kana": "ミツ",
-    "street": "７７７",
-    "office_name": "吉野ヶ里町役場　東脊振庁舎",
-    "office_name_kana": "ヨシノガリチヨウヤクバ ヒガシセフリチヨウシヤ"
-  },
   "0195": {
     "postcode": "8420195",
     "prefecture": "佐賀県",
@@ -699,7 +686,7 @@
     "city_kana": "カンザキグンヨシノガリチョウ",
     "town": "吉田",
     "town_kana": "ヨシダ",
-    "street": "３２１−２",
+    "street": "１２６２−２",
     "office_name": "吉野ヶ里町役場",
     "office_name_kana": "ヨシノガリチヨウヤクバ"
   },
